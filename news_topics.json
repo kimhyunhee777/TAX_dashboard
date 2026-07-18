@@ -1,0 +1,26 @@
+[
+  {
+    "id": "news-tax-law-revision",
+    "label": "세법개정안 뉴스",
+    "query": "세법개정안",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-ctpa-revision",
+    "label": "조세특례제한법 개정 뉴스",
+    "query": "조세특례제한법 개정",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-corp-tax-revision",
+    "label": "법인세법 개정 뉴스",
+    "query": "법인세법 개정",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-invest-credit",
+    "label": "통합투자세액공제 뉴스",
+    "query": "통합투자세액공제",
+    "tags": ["통합투자세액공제"]
+  }
+]

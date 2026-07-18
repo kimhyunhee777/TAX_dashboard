@@ -19,6 +19,8 @@
     --pos-soft:#E8F9F1;
     --neg:#F04452;
     --neg-soft:#FDECEC;
+    --news:#7C5CFC;
+    --news-soft:#F1EDFE;
     --shadow: 0 2px 6px rgba(25,31,40,0.04), 0 8px 20px -10px rgba(25,31,40,0.08);
   }
   @media (prefers-color-scheme: dark){
@@ -26,6 +28,7 @@
       --bg:#0A0C10; --surface:#191F28; --surface-alt:#20272F; --ink:#F2F4F6; --ink-muted:#9AA4B2; --ink-faint:#8B95A1;
       --border:#2A313C; --accent:#4593FC; --accent-soft:#1C2B44;
       --pos:#2ED890; --pos-soft:#122E24; --neg:#FF6B6B; --neg-soft:#2E1A1C;
+      --news:#A78BFA; --news-soft:#241E3D;
       --shadow: 0 2px 6px rgba(0,0,0,0.35), 0 8px 20px -10px rgba(0,0,0,0.5);
     }
   }
@@ -33,12 +36,14 @@
     --bg:#0A0C10; --surface:#191F28; --surface-alt:#20272F; --ink:#F2F4F6; --ink-muted:#9AA4B2; --ink-faint:#8B95A1;
     --border:#2A313C; --accent:#4593FC; --accent-soft:#1C2B44;
     --pos:#2ED890; --pos-soft:#122E24; --neg:#FF6B6B; --neg-soft:#2E1A1C;
+    --news:#A78BFA; --news-soft:#241E3D;
     --shadow: 0 2px 6px rgba(0,0,0,0.35), 0 8px 20px -10px rgba(0,0,0,0.5);
   }
   :root[data-theme="light"]{
     --bg:#F2F4F6; --surface:#FFFFFF; --surface-alt:#F4F6F8; --ink:#191F28; --ink-muted:#6B7684; --ink-faint:#8B95A1;
     --border:#E5E8EB; --accent:#3182F6; --accent-soft:#EBF2FE;
     --pos:#00C471; --pos-soft:#E8F9F1; --neg:#F04452; --neg-soft:#FDECEC;
+    --news:#7C5CFC; --news-soft:#F1EDFE;
     --shadow: 0 2px 6px rgba(25,31,40,0.04), 0 8px 20px -10px rgba(25,31,40,0.08);
   }
 
@@ -97,6 +102,10 @@
   }
   .prec-pill{
     font-size:11.5px; font-weight:700; color:var(--pos); background:var(--pos-soft);
+    padding:3px 9px; border-radius:999px; white-space:nowrap;
+  }
+  .news-pill{
+    font-size:11.5px; font-weight:700; color:var(--news); background:var(--news-soft);
     padding:3px 9px; border-radius:999px; white-space:nowrap;
   }
   .alert-card .date{font-size:12px; color:var(--ink-faint); font-weight:600; white-space:nowrap; margin-top:2px;}
@@ -159,7 +168,7 @@
   </header>
 
   <div class="toolbar">
-    <label for="clientSelect">고객</label>
+    <label for="clientSelect">업종</label>
     <select id="clientSelect">
       <option value="">전체 보기</option>
     </select>
@@ -174,7 +183,7 @@
 (function(){
   var READ_KEY = 'txd_read_alert_ids';
   var params = new URLSearchParams(location.search);
-  var presetClient = params.get('client') || '';
+  var presetClient = params.get('industry') || params.get('client') || '';
 
   var alerts = [];
   var clients = [];
@@ -197,6 +206,9 @@
   function displayDate(a){
     if(a.type === 'precedent'){
       return (a.judgmentDate || '').replace(/\./g, '-').replace(/-$/, '');
+    }
+    if(a.type === 'news'){
+      return fmtDate(a.publishedAt) || fmtDate(a.detectedAt);
     }
     return fmtDate(a.detectedAt);
   }
@@ -271,7 +283,11 @@
     var client = clients.find(function(c){ return c.id === clientId; });
     if(!client) return sorted;
     var tagSet = new Set(client.tags || []);
-    return sorted.filter(function(a){ return (a.tags||[]).some(function(t){ return tagSet.has(t); }); });
+    return sorted.filter(function(a){
+      var tags = a.tags || [];
+      if(tags.indexOf('전체') !== -1) return true; // 모든 업종에 공통으로 관련된 알림(예: 일반 세법개정 뉴스)
+      return tags.some(function(t){ return tagSet.has(t); });
+    });
   }
 
   function renderBadge(){
@@ -313,6 +329,9 @@
       if(a.type === 'precedent'){
         pill.className = 'prec-pill';
         pill.textContent = (a.courtName || a.caseType || '판례');
+      } else if(a.type === 'news'){
+        pill.className = 'news-pill';
+        pill.textContent = a.source || '뉴스';
       } else {
         pill.className = 'law-pill';
         pill.textContent = (a.law || '') + ' 제' + (a.jo || '') + (a.branch ? '의' + a.branch : '') + '조';
@@ -391,6 +410,38 @@
           precLink.textContent = 'law.go.kr에서 판례 보기';
           detail.appendChild(precLink);
         }
+      } else if(a.type === 'news'){
+        var newsMetaLabel = document.createElement('p');
+        newsMetaLabel.className = 'section-label';
+        newsMetaLabel.textContent = '기사 정보';
+        var newsMeta = document.createElement('div');
+        newsMeta.className = 'meta-list';
+        [
+          ['출처', a.source],
+          ['발행일', fmtDate(a.publishedAt)]
+        ].forEach(function(pair){
+          if(!pair[1]) return;
+          var row3 = document.createElement('div');
+          row3.className = 'meta-row';
+          var b2 = document.createElement('b');
+          b2.textContent = pair[1];
+          var span2 = document.createElement('span');
+          span2.textContent = pair[0];
+          row3.appendChild(span2);
+          row3.appendChild(b2);
+          newsMeta.appendChild(row3);
+        });
+        detail.appendChild(newsMetaLabel);
+        detail.appendChild(newsMeta);
+
+        if(a.articleUrl){
+          var newsLink = document.createElement('a');
+          newsLink.target = '_blank';
+          newsLink.rel = 'noopener';
+          newsLink.href = a.articleUrl;
+          newsLink.textContent = '기사 원문 보기';
+          detail.appendChild(newsLink);
+        }
       } else {
         var diffLabel = document.createElement('p');
         diffLabel.className = 'section-label';
@@ -433,7 +484,7 @@
 
       card.addEventListener('click', function(){
         detail.classList.toggle('open');
-        if(a.type !== 'precedent' && detail.classList.contains('open') && !diffRendered){
+        if(a.type !== 'precedent' && a.type !== 'news' && detail.classList.contains('open') && !diffRendered){
           var ops = diffLines(a.previousText || [], a.originalText || []);
           renderDiffPanel(beforeBody, ops, 'removed');
           renderDiffPanel(afterBody, ops, 'added');
@@ -468,10 +519,11 @@
   Promise.all([
     fetch('data/alerts.json').then(function(r){ return r.json(); }).catch(function(){ return []; }),
     fetch('data/precedent_alerts.json').then(function(r){ return r.json(); }).catch(function(){ return []; }),
+    fetch('data/news_alerts.json').then(function(r){ return r.json(); }).catch(function(){ return []; }),
     fetch('clients.json').then(function(r){ return r.json(); }).catch(function(){ return []; })
   ]).then(function(results){
-    alerts = (results[0] || []).concat(results[1] || []);
-    clients = results[2] || [];
+    alerts = (results[0] || []).concat(results[1] || []).concat(results[2] || []);
+    clients = results[3] || [];
     populateClientSelect();
     renderBadge();
     renderList();
