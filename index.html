@@ -452,6 +452,37 @@
           newsLink.textContent = '기사 원문 보기';
           detail.appendChild(newsLink);
         }
+      } else if(a.backfill){
+        var backfillLabel = document.createElement('p');
+        backfillLabel.className = 'section-label';
+        backfillLabel.textContent = '최근 개정된 부분 (원문 이력 없음)';
+        var backfillNote = document.createElement('div');
+        backfillNote.className = 'meta-list';
+        backfillNote.style.color = 'var(--ink-muted)';
+        backfillNote.style.fontSize = '12.5px';
+        backfillNote.textContent = '추적 시작 이전에 개정된 내용이라 변경 전/후 비교는 제공하지 않습니다. 아래는 최근 개정일자가 표시된 현재 조문의 해당 문단입니다.';
+        var affectedBox = document.createElement('div');
+        affectedBox.className = 'diff-panel';
+        var affectedBody = document.createElement('div');
+        affectedBody.className = 'diff-body';
+        (a.affectedLines || []).forEach(function(line){
+          var lineEl = document.createElement('div');
+          lineEl.className = 'diff-line same';
+          lineEl.textContent = line;
+          affectedBody.appendChild(lineEl);
+        });
+        affectedBox.appendChild(affectedBody);
+
+        var backfillLawLink = document.createElement('a');
+        backfillLawLink.target = '_blank';
+        backfillLawLink.rel = 'noopener';
+        backfillLawLink.href = 'https://www.law.go.kr/LSW/lsSc.do?menuId=1&query=' + encodeURIComponent(a.law || '');
+        backfillLawLink.textContent = 'law.go.kr에서 원문 보기';
+
+        detail.appendChild(backfillLabel);
+        detail.appendChild(backfillNote);
+        detail.appendChild(affectedBox);
+        detail.appendChild(backfillLawLink);
       } else {
         var diffLabel = document.createElement('p');
         diffLabel.className = 'section-label';
@@ -494,7 +525,7 @@
 
       card.addEventListener('click', function(){
         detail.classList.toggle('open');
-        if(a.type !== 'precedent' && a.type !== 'news' && detail.classList.contains('open') && !diffRendered){
+        if(a.type !== 'precedent' && a.type !== 'news' && !a.backfill && detail.classList.contains('open') && !diffRendered){
           var ops = diffLines(a.previousText || [], a.originalText || []);
           renderDiffPanel(beforeBody, ops, 'removed');
           renderDiffPanel(afterBody, ops, 'added');

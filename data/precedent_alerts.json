@@ -1,1 +1,276 @@
-[]
+[
+  {
+    "id": "prec-invest-credit-608443",
+    "type": "precedent",
+    "topicId": "prec-invest-credit",
+    "label": "투자세액공제 관련 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "법인세경정거부처분취소[구 조세특례제한법상 생산성향상시설 투자세액공제 대상 투자금인지 문제된 사건]",
+    "caseNumber": "2025두32946",
+    "judgmentDate": "2025.08.14",
+    "courtName": "대법원",
+    "caseType": "세무",
+    "sourceName": "대법원",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=608443&type=HTML",
+    "tags": [
+      "통합투자세액공제",
+      "고용창출투자세액공제"
+    ]
+  },
+  {
+    "id": "prec-employ-credit-616293",
+    "type": "precedent",
+    "topicId": "prec-employ-credit",
+    "label": "고용 관련 세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "면세대상인 고용알선업에 해당하는 경우  매출세액에서 쟁점매입세금계산서 기재 금액 전부를 공제할 수 없다.",
+    "caseNumber": "대전고등법원-2022-누-13754",
+    "judgmentDate": "2026.01.22",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=616293&type=HTML",
+    "tags": [
+      "고용증대세액공제",
+      "통합고용세액공제"
+    ]
+  },
+  {
+    "id": "prec-rnd-credit-616937",
+    "type": "precedent",
+    "topicId": "prec-rnd-credit",
+    "label": "연구·인력개발비 세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "원고가 고객사와 체결한 일반적 구매 계약의 이행을 위해 이 사건 시제품을 제작한 이상 연구인력개발비로 볼 수 없음",
+    "caseNumber": "대구지방법원-2024-구합-22398",
+    "judgmentDate": "2025.11.19",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=616937&type=HTML",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "prec-rnd-credit-616995",
+    "type": "precedent",
+    "topicId": "prec-rnd-credit",
+    "label": "연구·인력개발비 세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "연구인력개발비를 계산할 때 사업양수법인의 경우 사업양도인으로부터 발생한 연구개발비는 사업양수법인에서 발생한 것으로 봄.",
+    "caseNumber": "대구지방법원-2024-구합-20408",
+    "judgmentDate": "2025.11.12",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=616995&type=HTML",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "prec-rnd-credit-613871",
+    "type": "precedent",
+    "topicId": "prec-rnd-credit",
+    "label": "연구·인력개발비 세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "연구인력개발비 세액공제 대상에 해당하는지 여부",
+    "caseNumber": "광주고등법원(전주)-2020-누-1969",
+    "judgmentDate": "2025.10.22",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=613871&type=HTML",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "prec-startup-616745",
+    "type": "precedent",
+    "topicId": "prec-startup",
+    "label": "창업중소기업 세액감면 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "창업중소기업에 대한 세액 감면 요건인 창업기업에 해당하기 위해서는 창업의 적극적 요건 및 소극적 요건을 모두 구비하여야 함",
+    "caseNumber": "부산고등법원(창원)-2025-누-10179",
+    "judgmentDate": "2026.02.13",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=616745&type=HTML",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "prec-startup-617459",
+    "type": "precedent",
+    "topicId": "prec-startup",
+    "label": "창업중소기업 세액감면 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "창업중소기업세액감면해당여부",
+    "caseNumber": "부산지방법원-2025-구합-20433",
+    "judgmentDate": "2026.01.15",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=617459&type=HTML",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "prec-startup-620011",
+    "type": "precedent",
+    "topicId": "prec-startup",
+    "label": "창업중소기업 세액감면 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "법인전환이 창업중소기업세액 공제 적용대상인 창업에 해당되는지 여부",
+    "caseNumber": "서울행정법원-2024-구합-87089",
+    "judgmentDate": "2025.12.19",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=620011&type=HTML",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "prec-sme-credit-616993",
+    "type": "precedent",
+    "topicId": "prec-sme-credit",
+    "label": "중소기업 특별세액감면 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "부정행위로 종합소득세 신고를 탈루하여 중소기업 특별세액감면 적용이 배제되었음",
+    "caseNumber": "서울고등법원-2025-누-6129",
+    "judgmentDate": "2025.10.17",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=616993&type=HTML",
+    "tags": [
+      "중소기업특별세액감면"
+    ]
+  },
+  {
+    "id": "prec-sme-credit-618591",
+    "type": "precedent",
+    "topicId": "prec-sme-credit",
+    "label": "중소기업 특별세액감면 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "현금영수증 가맹점에 가입하지 않은 사업장에 대해 중소기업 특별세액감면을 배제한 과세처분은 적법함",
+    "caseNumber": "인천지방법원-2025-구합-50540",
+    "judgmentDate": "2025.09.05",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=618591&type=HTML",
+    "tags": [
+      "중소기업특별세액감면"
+    ]
+  },
+  {
+    "id": "prec-foreign-credit-621889",
+    "type": "precedent",
+    "topicId": "prec-foreign-credit",
+    "label": "외국납부세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "외국납부세액 공제한도액을 산정함에 있어 (특정)외국국가의 결손금을 다른 국가의 국외원천소득에 배분할 수 있는지",
+    "caseNumber": "대법원-2026-두-30552",
+    "judgmentDate": "2026.06.24",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=621889&type=HTML",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "prec-foreign-credit-622015",
+    "type": "precedent",
+    "topicId": "prec-foreign-credit",
+    "label": "외국납부세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "외국납부세액 공제한도액 증액 여부",
+    "caseNumber": "수원지방법원-2024-구합-68102",
+    "judgmentDate": "2026.05.07",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=622015&type=HTML",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "prec-foreign-credit-619627",
+    "type": "precedent",
+    "topicId": "prec-foreign-credit",
+    "label": "외국납부세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "기본통칙 및 집행기준은 외국납부세액 공제한도에 관한 상위 법령의 내용을 구체화한 것이다",
+    "caseNumber": "서울고등법원2025누5939",
+    "judgmentDate": "2026.01.16",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=619627&type=HTML",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "prec-foreign-credit-617521",
+    "type": "precedent",
+    "topicId": "prec-foreign-credit",
+    "label": "외국납부세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "외국납부세액 공제한도액을 산정함에 있어 (특정)외국국가의 결손금을 다른 국가의 국외원천소득에 배분할 수 있는지",
+    "caseNumber": "서울고등법원-2024-누-69588",
+    "judgmentDate": "2026.01.14",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=617521&type=HTML",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "prec-foreign-credit-616263",
+    "type": "precedent",
+    "topicId": "prec-foreign-credit",
+    "label": "외국납부세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "해외자원개발과 관련한 성공불융자 자금의 상환면제이익(채무면제이익)은 외국납부세액 공제한도 비율 계산 시 국외원천소득에 해당하지 않고, 국가별 외국납부세액 공제한도 계산 시 특정 국가 결손금을 다른 외국 사업장의 국외원천소득에 배분ㆍ차감하는 것은 적법함",
+    "caseNumber": "서울행정법원-2024-구합-50483",
+    "judgmentDate": "2025.10.17",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=616263&type=HTML",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "prec-foreign-credit-618001",
+    "type": "precedent",
+    "topicId": "prec-foreign-credit",
+    "label": "외국납부세액공제 판례",
+    "detectedAt": "2026-07-18T21:51:24+09:00",
+    "plainSummary": "지급보증수수료와 관련하여 중국에 납부한 원천징수세액이 외국납부세액 공제 대상인지 여부 및 손금에 해당하는지 여부",
+    "caseNumber": "서울행정법원-2021-구합-59380",
+    "judgmentDate": "2025.09.25",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=618001&type=HTML",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  }
+]
