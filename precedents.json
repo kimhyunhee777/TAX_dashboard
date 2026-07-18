@@ -1,0 +1,44 @@
+[
+  {
+    "id": "prec-invest-credit",
+    "label": "투자세액공제 관련 판례",
+    "query": "투자세액공제",
+    "tags": ["통합투자세액공제", "고용창출투자세액공제"]
+  },
+  {
+    "id": "prec-employ-credit",
+    "label": "고용 관련 세액공제 판례",
+    "query": "고용세액공제",
+    "tags": ["고용증대세액공제", "통합고용세액공제"]
+  },
+  {
+    "id": "prec-rnd-credit",
+    "label": "연구·인력개발비 세액공제 판례",
+    "query": "연구인력개발비",
+    "tags": ["연구인력개발비세액공제"]
+  },
+  {
+    "id": "prec-startup",
+    "label": "창업중소기업 세액감면 판례",
+    "query": "창업중소기업",
+    "tags": ["창업중소기업세액감면"]
+  },
+  {
+    "id": "prec-sme-credit",
+    "label": "중소기업 특별세액감면 판례",
+    "query": "중소기업특별세액감면",
+    "tags": ["중소기업특별세액감면"]
+  },
+  {
+    "id": "prec-honest-report",
+    "label": "성실신고 관련 판례",
+    "query": "성실신고",
+    "tags": ["성실신고확인비용세액공제"]
+  },
+  {
+    "id": "prec-foreign-credit",
+    "label": "외국납부세액공제 판례",
+    "query": "외국납부세액공제",
+    "tags": ["외국납부세액공제"]
+  }
+]

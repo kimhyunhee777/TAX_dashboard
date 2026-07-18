@@ -116,6 +116,7 @@ def main():
         summary = build_plain_summary(law, jo_display, title, prev.get("lines", []), lines)
         alerts.append({
             "id": f"{pid}-{now[:10]}",
+            "type": "amendment",
             "provisionId": pid,
             "label": prov.get("label", title),
             "law": law,
