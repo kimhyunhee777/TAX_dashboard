@@ -12,33 +12,21 @@ data/*.json만 커밋한다.
 """
 import difflib
 import hashlib
-import json
 import os
 import sys
-from datetime import datetime, timezone, timedelta
+from datetime import datetime
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "api"))
 from lawtext import BASE_URL, resolve_mst, extract_article_text  # noqa: E402
 import requests
 
+from common import KST, load_json, save_json, prune_old
+
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 PROVISIONS_PATH = os.path.join(ROOT, "provisions.json")
 STATE_PATH = os.path.join(ROOT, "data", "state.json")
 ALERTS_PATH = os.path.join(ROOT, "data", "alerts.json")
-KST = timezone(timedelta(hours=9))
-
-
-def load_json(path, default):
-    if not os.path.exists(path):
-        return default
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-
-def save_json(path, data):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+RETENTION_DAYS = 365
 
 
 def text_hash(lines):
@@ -132,6 +120,7 @@ def main():
         state[pid] = {"title": title, "lines": lines, "hash": new_hash, "lastCheckedAt": now}
         print(f"[amendment] {pid}: {summary}")
 
+    alerts = prune_old(alerts, RETENTION_DAYS)
     save_json(STATE_PATH, state)
     save_json(ALERTS_PATH, alerts)
 

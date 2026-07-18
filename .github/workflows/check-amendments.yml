@@ -41,3 +41,13 @@ jobs:
           git add data/state.json data/alerts.json data/precedent_state.json data/precedent_alerts.json data/news_state.json data/news_alerts.json
           git diff --cached --quiet || git commit -m "chore: update amendment/precedent/news data"
           git push
+
+      - name: Send email digest (skips if SMTP secrets are not set)
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
+        run: python scripts/send_digest.py
