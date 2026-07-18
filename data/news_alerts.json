@@ -3762,5 +3762,920 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-startup-5831dfa8ce0945b7",
+    "type": "news",
+    "topicId": "news-startup",
+    "label": "[정한겸의 택스피어]2026년 종합소득세 신고, 체크 포인트",
+    "topic": "창업중소기업 세액감면 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[정한겸의 택스피어]2026년 종합소득세 신고, 체크 포인트",
+    "source": "더트래커",
+    "publishedAt": "2026-04-17T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sQVZVRjhEc0hBVFhYU2t2RnE0RnlMc0VQR004R0VPT0tXTnhURUMwT3lyQ2FzNzFNcW1sRmk5ejlPc2hHcjh0MC1wQmR2WTc1T3k3UHlWckc?oc=5",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "news-asset-loss-4f2be1abb057033b",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "비트마인 이머전 테크놀로지스, 3분기 매출 4653만 달러로 급증… 디지털 자산 평가손실에 순손실 8359만 달러 기록",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "비트마인 이머전 테크놀로지스, 3분기 매출 4653만 달러로 급증… 디지털 자산 평가손실에 순손실 8359만 달러 기록",
+    "source": "데이터투자",
+    "publishedAt": "2026-07-15T05:21:56+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMV2NYXy0xY1o1QmhjVElmdTdObjFqemlhc2tFaWMtcnpjeHZXcEIzNm96ZDdIYktLTGltdkxGMVl2bFRvempTNFpNRXJILXl2T2ZDUGVtdkRrWGJYMDNveXI2d3pDOWNzYnZIcFhMdUNobWs?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-d0ace444d1a36231",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "「2026년 재무제표에 대한 중점심사 회계이슈 사전예고」 발표",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "「2026년 재무제표에 대한 중점심사 회계이슈 사전예고」 발표",
+    "source": "법률신문",
+    "publishedAt": "2026-06-25T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfbVVSbWFCOXVUa0JiekQyWVFwNmx3UWtJa1ViUGRteU1GQWZVM05ld2FKaUg5VkpKZEhMRk5lQ2JHTThUcnhEV0haQVYtMTMxd2tHeWlJYjlNa1Q5dHcyTzIzYzZFVzlIcE40aUtB0gFyQVVfeXFMUHlsUnhFOFZVRUlnSzJaeDVXWWhqaldGNlVTZ2xud25WdEdWVUM0Q3Y1WkZ6MHVZZTVUXzhleE82UU1UbENkam4xQzE4WUZWbmEwU3RrTzRaaHZFbk9mVjRveU1kcFFrb2lXZXBrWnRld1FB?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-074b4f9790b33034",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "재고자산 평가손실로 계상하고 별도 순실현가능가치(NRV) 평가 안 해",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "재고자산 평가손실로 계상하고 별도 순실현가능가치(NRV) 평가 안 해",
+    "source": "intn.co.kr",
+    "publishedAt": "2025-12-19T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93MGRuZXAwSXZsd09BSFZqUHowa3o3d2RwOTV2Sk0tdmNfZnJCdU5kRW9kb3lVbGNJWEh3V1BSRTlUcUkwZU1STjE4YnFaNDdEcDBrZGdIcnduLWFYZnVITE93OC15eUk1ZHc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-4da2f3a18a586012",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "코빗, 매출·영업손익 개선했지만…가상자산 평가손실에 '순손실 전환'",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "코빗, 매출·영업손익 개선했지만…가상자산 평가손실에 '순손실 전환'",
+    "source": "블로터",
+    "publishedAt": "2026-04-14T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jbDA2R19ndEJ1SklMbXFRa19ENHpLMUZ0OXJ2TElueVVMMXBGaGhpSFVVdWxMMmNMZ2tvVVVfRHpDYU1XZlhTRlNNZWc1SUZ2d200UEtPMEtLSm1iMmpaSEVaQWhMNy030gFsQVVfeXFMTUZJU2ZTYUJPeEdBRG1fU0hWTW1pUTVmUFZUTHFTdEhuMjEzNEhNZk5IcHpZTjNNRlhMWWUzd0NJWThyU2pJZHdrOXFQLXdBUEctRmFxZEhja0xCQTkzUGJGa0tpS3A3MGMxSjZD?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-b1473413151501ee",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "투자부동산 잘못 쓰면 회계위반…금감원, 재무제표 중점심사",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "투자부동산 잘못 쓰면 회계위반…금감원, 재무제표 중점심사",
+    "source": "연합뉴스",
+    "publishedAt": "2026-06-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxUFZaMTd6N2VyeUlGdFdhRFBQOEd2a2JVQmhTbm1vVHNfMmFqUkh5YzFOQXpDQlZvZ25TZGp0Y1p2cFdaQ0lJWlF2eDNtc0hFeDR4T1VxRlk3dEXSAWBBVV95cUxOQmtaMTBuRU5faGw1UDdjZFVZUmJRQi1jYVZual84WS14azhVU2NUODlJb1I1dnJCdDBucWdwbU1nMVdxSl90bExvOFRXOS11UDdNaUZ2cHNQcnBCbi1VZ3I?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-65c208e74364e933",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "'금값 원두'의 습격…재고 쌓이고 현금 마른다",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "'금값 원두'의 습격…재고 쌓이고 현금 마른다",
+    "source": "딜사이트",
+    "publishedAt": "2026-03-25T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0TGc3YUdtemdyZlVmblRCZDlyWUVRdHp1RXc4S3Vvd2hTWk12bWFDOEZDVFFOZ0lxcjVIRDBFSzVJRTZJcWZRRGVoMkUxSzg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-1aac397081b17285",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "더 떨어진 유가…GS칼텍스, 재고평가손실 ‘부메랑’ 우려",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "더 떨어진 유가…GS칼텍스, 재고평가손실 ‘부메랑’ 우려",
+    "source": "스트레이트뉴스",
+    "publishedAt": "2025-10-22T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBheWgyZjZ3SGxsbmZ3cDFzTGdlOU90THJ0UVRfekx1c1FLbk1pcXVQOUk5Z3NtRGFaWmFVQzJQM1RmZFd5WVBvWmJtRHRBTl9IVWluemFZTFZSbm1Qdk5iVHlJMjhYUWhYVkJzQWhWdGYxZWPSAXdBVV95cUxQZldrSDJxRGZqZmZ1QUhtX2ZYbFFDZEp2ZVd2V0lhc1RzUzlfSTNsbDdmdlFqeTJqbFlTV1RuZkp2TGVYV2h5STN2MmZzSk9xbGU2WVJCZWQ3TzVSVXJaUWZoZUFUZzBrdHdSa1N1NTdkb05ON2NBTQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-6216159957fc53a1",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "[2025실적] 빗썸 순익 780억 52%↓..\"가상자산 평가손실 반영\"",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[2025실적] 빗썸 순익 780억 52%↓..\"가상자산 평가손실 반영\"",
+    "source": "포쓰저널",
+    "publishedAt": "2026-03-31T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rbmJ6cllsVnhkYVlUNktDSjdSY1hVQWFqTXJ5MjNvM2pXR0k1Z3ZyVHNoTVpsdDVmVTZ3ZG9iR29SRkpiNmQtQmtESHQ3V0VVdnhDbDVQUVpwRkxUdmpxTEdsOGo?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-8a97d9b92167a7e5",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "코빗, 영업손실 8% 감소에도 적자전환...가상자산 평가손실도 큰 부담",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "코빗, 영업손실 8% 감소에도 적자전환...가상자산 평가손실도 큰 부담",
+    "source": "디지털애셋",
+    "publishedAt": "2026-04-14T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kVkQ0WE93MV9TWE9ETmtJT0hmV2phdHJKbG4zbTE1V1VDMC1VNTRMUlVOS2Ryd0trNDJldnF2NHI3bVhJU3lTVnRHTVMzd24yQVVXZkxoaXU3RFZvTThKS0lLMTdOTlFEUDlmaENCbzhxZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-3f4282a57f9440b2",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "보해양조, 평가손실만 150억대…재고 리스크 수면 위로",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "보해양조, 평가손실만 150억대…재고 리스크 수면 위로",
+    "source": "ibtomato.com",
+    "publishedAt": "2025-12-16T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xbEJLMVFGeWliZlZzc0Vob1czTnFPZlJtT2IxNnJnejNmMVhuV1Y4dlV3dC1rUUdPSnhwNmpISHVwUGdPWDZ3c2hPRURPMXA0cmlIc2VWUkp6MmRiQ0J1T2F1alBHV1dtRUE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-5c25abe437eb0164",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "엔비디아 中 수출 재개…삼성전자 HBM 평가손실 환입될까",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "엔비디아 中 수출 재개…삼성전자 HBM 평가손실 환입될까",
+    "source": "연합인포맥스",
+    "publishedAt": "2025-08-29T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jeURZMU4tZjNiNVdBZjFyQXg5QndYSDVUdGJWdkZZU3RURU0tWU5ESllucmtRZk9hQTd3QS12UDU2WWp3MGhaeTZ3RHc0YUZ5Vk9yTUJZc2NhS2dkZVkyOWVHYlZqZmpHbEVndjdWdlg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-e3ea6327cb47d6a0",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "\"유가 내릴수록 커지는 고민\"···정유업계, 재고자산 손실에 '보전 기준'도 안갯속",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "\"유가 내릴수록 커지는 고민\"···정유업계, 재고자산 손실에 '보전 기준'도 안갯속",
+    "source": "이코노믹포스트",
+    "publishedAt": "2026-06-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MeTk2aHVkeVZERG5XdEI4NnY0Um5CSzZGcm1md0hFMW5sZlNTMUxCNEx4WVRINU5iQWkwTHpQWUU1bXJWN3MwS3kyZUs?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-d524fb952647b202",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "나우IB, 관리보수 기반 체질 강화…평가손실에 수익성은 뒷걸음",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "나우IB, 관리보수 기반 체질 강화…평가손실에 수익성은 뒷걸음",
+    "source": "톱데일리",
+    "publishedAt": "2026-06-01T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lZWlTTEV2elVvOTNnTzJHZkJwdUkyblJIM0FPUThBODVvZ1RSMF8xUlUxWnVKcGFGX21sN3RCdi1ESVNVOFB4RF9VVExNT2NSTG13aW1UcnhFT2dPVWJHSXdn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-c3b688a196dcd896",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "스트래티지·비트마인 직격탄…기업 가상자산 보유 평가손실 눈덩이",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "스트래티지·비트마인 직격탄…기업 가상자산 보유 평가손실 눈덩이",
+    "source": "블루밍비트",
+    "publishedAt": "2026-06-06T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wMUVBSG1LRE5zazJuQXBnMnZ6cGl6ZnQzT1plWm9hTFVYZm15UUtCeFVPaWFydjZ1MFFrXzlzaDNkanB6Y2tvcUp0WGphaXo4?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-cae554751f1ba1e9",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "빗썸 작년 순이익 780억원, 52% 감소…\"가상자산 평가손실 반영\"",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "빗썸 작년 순이익 780억원, 52% 감소…\"가상자산 평가손실 반영\"",
+    "source": "연합뉴스",
+    "publishedAt": "2026-03-31T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YOEdOY0VWY19XeUFId01qSjN1OFJTU2VhV1diRzVZNXNhZ0owV1AxWGV2RGU4WFZseFQ4RHJQak43NlR6cURyYXh4SlpQLTdobzNLRzB5a1lWY2_SAWBBVV95cUxQYXdtNGpKdXVMaWRnSlJheWNySi1JZEx6N3pvQVg2OGNoamJKcjZRWTdOZ0ZuY3ZKQjRxWEwyOFpQeHJVVWtPR3czOVpxb0g1LWNXbzR6V2lSZHF3RmpxMXQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-5473b0c2cc7ead97",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "[유림테크 IPO] 정부지원금 178억 덕분에…시설투자 역마진 탈출 : 네이버 블로그",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[유림테크 IPO] 정부지원금 178억 덕분에…시설투자 역마진 탈출 : 네이버 블로그",
+    "source": "Naver Blog",
+    "publishedAt": "2026-07-18T21:40:06+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZOTFVkNXF1Wk1LWlJ3cldDUWFoOHEtNVAzQzF6Wkx0TFdkdVpySEdSZmY3eVFmOXFkVk5tcjNObXRqTFNNSWotVHBLdDZGeVl5SzZDaVNjd2l4LXBFZ25ORjRBQnBnYjRYQWkydVIwaGJoQWNRaWlWV1BxR2tHU3plWFptc3JlNTVRczFJMA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-ddb4951adbdf37e5",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "[아주 쉬운 재무제표] \"감가상각비 때문에 영업이익이 줄었다\"…돈은 안 나가는데 왜 비용일까",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[아주 쉬운 재무제표] \"감가상각비 때문에 영업이익이 줄었다\"…돈은 안 나가는데 왜 비용일까",
+    "source": "v.daum.net",
+    "publishedAt": "2026-07-15T15:50:36+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RMkpwNE5YMnhMaGxOUHI0YkFjTlk4bmVWenRUUlV3UVRycndOcUNtSkt0WEdNdlNLZzhadVp0U1g0TW1qQ2xkdzBueGR5MDBrbl9tcQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-2e88873d59504b8a",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "매출 25조 vs 감가상각 21조… AI '수확기'는 아직 오지 않았다",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "매출 25조 vs 감가상각 21조… AI '수확기'는 아직 오지 않았다",
+    "source": "테크42",
+    "publishedAt": "2026-07-13T07:40:42+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPb2RFZFM0d1ppVXNjRlFJM010SXBXemx5dmVLRFRRanJ4d1NiWi1DdTA4ZGJYbnl3cUs5cXdoRFZscXJFdmhYTFVfdUZqYUhGNHJPS0s0bWZuWVp5bThPUkV0b1RuR0xnckRQSjZDWmpaeVFrNWtOcmdSNVNxeHJaQXdqX05hWUhESERoWWFOcHBla0J2YXlQbTdUbVNZZmlLa21rUEYwbXNxOGcwYjQ4UGtWcGpweHYyYnpTM2dXLVlRakRBdW1QeTIzM1dNRG00b2t4cExVY1pta0RtWUZQYUFFQWxkanFPaXZUSmd5M3lpNmNtWTNTdUNJTnY1STlxVGIzRmtZZGNWeEZZaFdoeUxXZ0UwTk1NdmFjUjB5bWNzeEJVNlNCMDBkZGJWQQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-4c512c233e139b6b",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "李, 전대 이후 ‘권력의 감가상각’ 우려… 최대 공포는 공소취소 불발",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "李, 전대 이후 ‘권력의 감가상각’ 우려… 최대 공포는 공소취소 불발",
+    "source": "문화일보",
+    "publishedAt": "2026-07-09T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCc2NmWlhNWHlGcXRpNzY4NFcxWVg3MHBsN2RtVW5BMkNHRlg2a0MwemxYTzlQSllzTWFrcHI2M0JVTS0tRkZPLWc5Smd4Y1FI?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-97d8e7fc0dc5edc6",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "李대통령 \"초감가상각제도 문제 빠르게 해소돼 기뻐\"",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "李대통령 \"초감가상각제도 문제 빠르게 해소돼 기뻐\"",
+    "source": "연합인포맥스",
+    "publishedAt": "2026-06-19T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YYzFmVnNJWGxScHpJMHVSQ2Z2Wl9xYW1XbTNNdmRYRGE0TWd2alFXVHZmSHhvSzQwNlR6UUcyenozM0E3VmNJZy10d1F4YjRnby1rQ3hEUjZZSzNSSkRicUJpNjZ1Z2gzRWJqMkJ4eXo?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-9e8c149b759feb90",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "\"9,550만 원에서 ‘3천만 원대’로 떨어졌다니\"... 파격 감가 소식에 아빠들 지갑 들고 찾아간 세단",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "\"9,550만 원에서 ‘3천만 원대’로 떨어졌다니\"... 파격 감가 소식에 아빠들 지갑 들고 찾아간 세단",
+    "source": "토픽트리",
+    "publishedAt": "2026-07-16T10:24:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zVUtjRXV3bUNMMmlFLVR5VjhJY2tLZGg1QjBQeWNGMC0yT0JoR0pQTms1Ynl5TXkwbTV6OXk5Q1MwVU9sbnRHMTVvOEplaDBOLXJHcGxuTHdwck1rbFFZT3ZnV2pEV1JCMFdUeVExUmNIYS1RQzd2bU92a0RTQdIBhgFBVV95cUxPcXBuLWk1UlpjSGlPT016TW53NUppZzM0TlZ3LWRoQzZsZnJNeE4tMi1yTnh0SVBST1pSeW9HV1o5cXRZM0lSZHZJWkwyU3BobmtaLXQ3YTk4TVg5dzg1YUZKWmU5OXNzd0hBLWZTeWdQUVA5OFlNdm1NQlE2ZkdfQUdRQkcxZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-f3c7ee25d29cceb3",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "伊 초감가상각제도 수출 환경 개선… ‘EU산’ 요건 폐지, 민관 원팀 통상 외교의 쾌거 - 조선비즈",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "伊 초감가상각제도 수출 환경 개선… ‘EU산’ 요건 폐지, 민관 원팀 통상 외교의 쾌거 - 조선비즈",
+    "source": "Chosunbiz",
+    "publishedAt": "2026-05-13T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdGxTU2FtaFNZZDBFc1RsOTBqbXJoLXNoTndoemdEWkhjX3owUWpmNjVyUU5YYkVZeWlOb0t3QUpGVzFHZEx0U1k5WXh3VWZ0VVh5bVViLXIzcXhrRVRmWThWTFBWb1BkSTQ1bVJOZ0JHZGN0MG9CWGRaZkZpendlaEdKdnBDQdIBmgFBVV95cUxQNTJyaDJHMDFIR1BzMVhKOTRmenpCbllWUlpSTkpGWWhJUGVXZlU3bEpJbXFZMk95N3R4TkFUNGRibm5BV3RpVC1Tb1FQcGJaOUxXUUxLaDNCalhLSk92VF9Oc2hMYWdEVzdsWEc3MGZVMUsxU092YldUYWVzMWh6NlJMWmtqRllNZ0J1MU9BLWtBQm8yOUJmYnV3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-db152f25508a525e",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "[칼럼] 한·South Korea·Italy, 초감가상각제도 ‘지역 제한’ 폐지와 M.AX 시너지",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[칼럼] 한·South Korea·Italy, 초감가상각제도 ‘지역 제한’ 폐지와 M.AX 시너지",
+    "source": "케이에스피뉴스",
+    "publishedAt": "2026-06-14T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82dXpDVUFCTkxlM3FFN08tSmpfd2M4VTNvWTBXR0FKZzdBcm1uN0RlamNJVW5RZkR3bU90WUpYRjBxcjItSnc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-f7066e78b736f9e1",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "[박동흠의 생활 속 회계이야기]GPU 감가상각과 AI 버블 논란…한 번 더 생각해보면 기회일 수도",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[박동흠의 생활 속 회계이야기]GPU 감가상각과 AI 버블 논란…한 번 더 생각해보면 기회일 수도",
+    "source": "경향신문",
+    "publishedAt": "2025-11-25T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbWRuSGpTbm5ERWViSG9LYzZ2LXNtbU1mTDZCMEpzOEgySG5FR0pGdXZzdnpDcTNES0ZpX1BCRW9aM1FZc2dsUTg1d0Y5QVFvWUxNdTNZUFBkUdIBX0FVX3lxTFBMWUtOMDUyMlRVNnhTRDBnd29vTnY2a25lSlZmaE01WFlLLS1ud3BpWDlGZmpoZTlaem9sQ1ZxQXBJNjNkOVNBOWVjVXRIN3dWWkFSRmFFZ0J0bXdnMllF?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-e8defaa6bc0efcb4",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "마이클 버리, 기술 대기업들의 1760억 달러 감가상각 축소 경고",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "마이클 버리, 기술 대기업들의 1760억 달러 감가상각 축소 경고",
+    "source": "Investing.com 한국어",
+    "publishedAt": "2025-11-11T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNGVMek1WczJ0SkVrRGQxeW9PdjIxU0tRc1U3OTZtSVg4ZDRQNlZQTG1VOGhMSU9qcldYMnkwNHg1NEo4VmhidWE2TmZxOVlQWW0xZG1zQTJSWm5Dc0lBVFhHelNsa200VVlITXd5SHY?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-237435ad8ea1664b",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "LG디스플레이, 올해 2000억 흑자 기대…감가상각 종료 영향",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "LG디스플레이, 올해 2000억 흑자 기대…감가상각 종료 영향",
+    "source": "딜사이트",
+    "publishedAt": "2025-11-21T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWcWJqVHBYR3hDRlZxamdDNkxpaXZJejFCc0c2RGMxQTVDN3ZWUXJHMjJ2UjFxeDE4UC02RURxSGZXQ2NKb0tzUVE2TGtVZ28?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-2471fdb875389adf",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "[인사이트] ①AI 데이터센터 감가상각 논란: 마이클 버리 주장 검증 및 기업별 영향",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[인사이트] ①AI 데이터센터 감가상각 논란: 마이클 버리 주장 검증 및 기업별 영향",
+    "source": "파이낸스스코프",
+    "publishedAt": "2025-11-19T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85dXg4M0pjSEpvYlZqRnB6T0FDS0U4ZHp6RmxaTVlhaXRrYjNhRG9QMnJjT1ZlS29OOGtHNWpXdjBGdTVXNHVCdldYc1hTUjdXdTZFV0llTC1IWGVIZVZoOXpPcVlld3otdUE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-ec12c77da71b150c",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "[오재근의 감각지능] DX와 디지털리트로핏(상), 감가상각이 끝난 설비에서 시작되는 경제학",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[오재근의 감각지능] DX와 디지털리트로핏(상), 감가상각이 끝난 설비에서 시작되는 경제학",
+    "source": "전자신문",
+    "publishedAt": "2026-05-28T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90OXVGd18zT0J0Z2oyUGhocUtKMDdNNVJ3a2NaVDZ0X3o2cTRRMjFHY1dvQ3RhSmdZODVLRnRPUmhZUzdkVDh3M0ZjWGtKUQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-f538c3eb4246d902",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "'이탈리아 초감가상각제도 확대'로 韓공작기계 수출환경 개선",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "'이탈리아 초감가상각제도 확대'로 韓공작기계 수출환경 개선",
+    "source": "mfgkr.com",
+    "publishedAt": "2026-04-01T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41U2F2RHdwa1BIeS1XZWs3cTBGcllCWXIyVUFxQ2daY1ZGNS0weG54Y3V1VHBPUkc5RTNxQ2ZpRVZ3YWtISTJUeTUtUFRWdXQ1VV85dTZKMC1VSDlRNlRTc21FNVJQQQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-fef4a2bce7f8500f",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "美 증시 뒤흔드는 AI 칩 감가상각 논란",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "美 증시 뒤흔드는 AI 칩 감가상각 논란",
+    "source": "연합인포맥스",
+    "publishedAt": "2025-11-15T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93Und5QnRTaGl0LUJPS1dRMldRQURyX295SkJNcnpmTUctbWNCOVlHazZtczVzRGVVNEpvRWNoRmw4RUpqMzB2S081NWtSTDNHQzhlWHFVQnplRzIxTmFWb1B3SUFad3lweWR2S2pOYk4?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-c1a9956514b43dbb",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "부가세 공제 받지 못하는 경우 2편",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "부가세 공제 받지 못하는 경우 2편",
+    "source": "KB Think",
+    "publishedAt": "2025-12-17T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxN0JZR1h0X25KakZ5ckE0T1JxNkJMeHVIdllzU0JPYmI0Nmh4dW9ERjFIVE1RLWVQbUIzTkxWWC1fVXN5aWFvdVNFT01kZkpLTC1Ocm1n?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-2c3f2cb57c5d7730",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "[법원] 폭탄업체 세금계산서 발급…사실 몰랐어도 ‘매입세액 불공제’ 타당",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[법원] 폭탄업체 세금계산서 발급…사실 몰랐어도 ‘매입세액 불공제’ 타당",
+    "source": "세정일보",
+    "publishedAt": "2026-04-24T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EWjZrVFJyU3dMalpKVmJGZHhiNjZZZHhFOFYzZkk5cVR4V01odW9yQ3Bock45eVo4TzJ1MlFORnNYakhMSGpRRS1KR1ZVOWI0QTUxZk1MM0FYTFpTRV83ZXF4YWxJMTNaRHR6cw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-f676a657bff8260f",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "회장님의 '페이퍼컴퍼니'와 세금폭탄의 엔딩",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "회장님의 '페이퍼컴퍼니'와 세금폭탄의 엔딩",
+    "source": "브런치",
+    "publishedAt": "2025-12-21T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nakx6Ym1OS3NMcnl5NnRpenJIQ2tKbVYxaWdRYjNfSkM2dG52dkNRUFZDc0ZNTjZzWlZlNUI5Vk90VklfQjhxbTVHNWVyUGZmZ1E?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-6e1c68aa9a0a4972",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "〈144〉네이버 쿠팡등 인터넷 쇼핑몰 구매내역 부가가치세 매입세액 공제 가능여부",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "〈144〉네이버 쿠팡등 인터넷 쇼핑몰 구매내역 부가가치세 매입세액 공제 가능여부",
+    "source": "기계설비신문",
+    "publishedAt": "2024-04-22T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mNnd6b19nbXRGUm16TFJBU2pqWTcwM180WV81YldoYUx2SDF3ekRDZDJvNGx4bTk4azF2eVlXSHdXNHBXRU5qYkhRNGxQZmFyejhaaGR0MkdMOG9pTzJpczRXWlpVc3Q4VFE3QQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-f0bca3fbefb7dc95",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "[마이더스] 매입세액공제 범위 확대",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[마이더스] 매입세액공제 범위 확대",
+    "source": "연합뉴스",
+    "publishedAt": "2022-07-30T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQlJhVWRQMTc0Wkt0MlE1X3hPQXExSlhRMFlwMG9WMXBCbFlmdjhoTmgwSjZTX0xiblM1RmRuelVRQ2l1REkxUkpUREE5SWM5MEFxVnViQ3Z0VzTSAWBBVV95cUxQaGdVcThlbHdFZGlPWWwxel94emI5ZTFucXduMGYxaFdUakhONUtBREF4amlzRGFHd2FOVm5rRXljX3VtbUJLZFBOUENuZWNTbFNpTmVTOE92U1l6REU0M3A?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-f32cc98079b7e783",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "신용카드 등 매입세액공제 시 유의사항",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "신용카드 등 매입세액공제 시 유의사항",
+    "source": "세무사신문",
+    "publishedAt": "2022-05-12T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjbnVQYXNRWnZCeFg5ZlRaNTJtblhSSFRNX2YteTR2dEFsb21YNkxuY2Uzck1nM1c5OURobWhxQmRMdDR4VDRpZzM2MHZfS1VqRVYwbll3V1VTQ29EYzhadGVobnE2LXZKNDJZVUNR?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-800f481e1f7b6d4f",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "[국세(國稅)칼럼] 부가세 매입세액불공제에 대한 단상",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[국세(國稅)칼럼] 부가세 매입세액불공제에 대한 단상",
+    "source": "intn.co.kr",
+    "publishedAt": "2018-07-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zb0RmaldfRVRfeFYwSnF3a0pCQXVDcTQyekFVZ3h1eHpMUWRKcEk1bDFXY3FvWXdtcGY3eDd0bmtHRlRfbGpETERJc21nRFBteUpMTzJwYnU4QUlIaTlXWVhveTNic25KNWc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-f6c8c75604593499",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "승용차 매입세액공제, 왜 안될까",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "승용차 매입세액공제, 왜 안될까",
+    "source": "비즈워치",
+    "publishedAt": "2019-01-09T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKdzk0MlhyM0ZYS1NfYk9HNXVUZG40YXBqZWVZSFJDbldOTW5SaFlfZjU1dWYzYnhxZVd2UEk2ajR4Z2c4dVdnTThqTW5PV0FTSGtoN3lfd19GX2VEeHZTQnB3Z3UyZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-df65ab6ebab149b3",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "공단이 공급하는 용역 관련 매입세액...\"비과세사업과 관련된 것, 불공제대상\"",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "공단이 공급하는 용역 관련 매입세액...\"비과세사업과 관련된 것, 불공제대상\"",
+    "source": "조세일보",
+    "publishedAt": "2024-04-24T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPMElEM0JaNjhieWg3UzBpTi1QbFQwX1RYQUlRLXA2d1U5b3NLMGRvVGhuNjdfeTFESmRkajRJdHRvT0x5SUIwUDN1RndCUmNOOXZTT0UwZHRWRW14eFNn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-37652aa615991684",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "사업과 무관한 슈퍼카 렌트하고 법인대표 소송비용까지 지출",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "사업과 무관한 슈퍼카 렌트하고 법인대표 소송비용까지 지출",
+    "source": "한국세정신문",
+    "publishedAt": "2025-04-03T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWjlqLXMwRTNGN1F5b0FidVF6LWNPU25lSFpELXdJOFpPYWlySHp3Q3RpTEZlMmRSOGItemlFNVROajFWdFRvLW5jcTlrd29KaTFualJaNVRsQWcxSlBMckcwQnc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-d9cc2d2ed3b4e93b",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "불공제 매입세액, 부가세대급금 아닌 해당 비용 인식",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "불공제 매입세액, 부가세대급금 아닌 해당 비용 인식",
+    "source": "아파트관리신문",
+    "publishedAt": "2022-01-06T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0NjJhNkhhcWdTWFlfOFRpZEQxb3VwOWYyeG85eWw1QU9OSWViaUdUSHJjQTJYekQ5STZfTmFYTkg5emRzU1NMWDllYnVJOThGRDkxLU9nRmxhS0wwMDdyVGQ5c3JHQdIBakFVX3lxTFBpbG1nb3laakpjdnd0bThMREItM1JIMW82Y3ZMeUQ4VW03WC1yZy1ZWWFpZFZtOXRxdFVHZEZOZFhBTTNyZXVqNnFLRURhV01xVVlWdGR2MDhVcWNnZ2dSQ2Q5MXRGd2ZFNFE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-edcbb58328db2df3",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "[조세불복 이야기] 가상화폐 채굴 컴퓨터, 매입세액공제 안된다?",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[조세불복 이야기] 가상화폐 채굴 컴퓨터, 매입세액공제 안된다?",
+    "source": "시사저널e",
+    "publishedAt": "2018-12-23T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JUW9Jd2lLb09PeU1oN3ppdnhpRDNzYkwzeWVDd0hGT1pOWFYxQTkxbUxKYnlfU1phNFpsUTYtVnV6RkdOY3gtQVpCUWJoYm1mbmZfcll3RmYzUVF5SXBKcDZTZWduSkZub2pzS2RQT1E1d9IBdkFVX3lxTE5KcXBZZk96WVdYSk5RSGVzNUJnZ1doaGtwc25GSG5ESUJlRXJKSlk3Z2R5SEVaejZnZUx1WV94RS1CUk9kYmd0Y04yUkM2NGJEQTNVNF9oWHlVR0J2NUkxaFNkcmJYTmlvU3hGWGx5MlVhN2R3SGc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-2ace6e8bafb92cad",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "광주시체육회, 부가가치세 공제 ‘누락’…8억여 원 미환급",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "광주시체육회, 부가가치세 공제 ‘누락’…8억여 원 미환급",
+    "source": "남도일보",
+    "publishedAt": "2025-08-03T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54c281MzZRTHoyMDZSRzNvRDdTQnIxRFNxYnBYRlgtbV9FVHRfNzVRaG5YRTJWaG12UU5VVUVxX2NzemIwSWtiWU5DTmtQVkV2ek5BNXBaSTcyUElfVnVJZGszN3RXMTFOWjBITdIBcEFVX3lxTE5odE1TZ2lFM3FiampwNUpTNEh6dk4zUTg3Z1UtNWdfZUtPS0J5UWptWkREclVDcGdCYmpsN19fc3h5ZUZHaG9RQmppSTF3MUx4ak0zZWFYTXJCaGNlQnJfbEw0Q0pxTy11QTl0YS1FTHk?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-77494aac7e94d64c",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "토지임차인이 지출한 토지관련 매입세액의 공제가능성",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "토지임차인이 지출한 토지관련 매입세액의 공제가능성",
+    "source": "법률신문",
+    "publishedAt": "2010-03-01T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tZV9WZVVHSnVEVUN2dWJxeVV0ZFhtSk4tZ0NmbERzZjM1dW1TaEZTT2pOOThPSV8zNkw3dGVRN2NscGstU0s4dmZfei12ckFtaUdUeEtYOFRFaHFySl9YTVRkbFJheWRlNFhCSC1R0gFyQVVfeXFMTzJUYkQwLTFUQmN3em1YZTBMV21ZYkd1cDJDalBsVVFrNFd2cHNBdi14VGVuRG5MSHAtS2pIZVpNbUNTT0YzWW9DUV8wMFpGQTFZTUx5V0VEWC1JakRsN1gyekRHTjJHX1BIeVNFWUpvV3N3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-ead75f759d68defd",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "7월의 세무뉴스",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "7월의 세무뉴스",
+    "source": "세무사신문",
+    "publishedAt": "2025-07-01T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LWkZLR2ZpS3hrZk1mWmxVY19WcDQ0MEs2akthTjEtcW9CdUhyVGo0ZEdYTjM4bHdvVzNWOUgxM0Q1bTZVNFFxWkpmbjZJeGYxRW1kVEpMWVY0MjhtRTh4Tk14VUgwa0RUSlktQjl3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-616cb3f83c5c15ce",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "전환사채 콜옵션 행사자를 경영진으로 무상 지정한 행위에 대한 부당행위계산 부인 적용 여부(조세심판원 2026. 2. 5. 자 2025중2826 결정)",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "전환사채 콜옵션 행사자를 경영진으로 무상 지정한 행위에 대한 부당행위계산 부인 적용 여부(조세심판원 2026. 2. 5. 자 2025중2826 결정)",
+    "source": "Lexology",
+    "publishedAt": "2026-04-29T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmhTaW54bUJYalpwcDFkb2VOSTFVdE1HbHdkamFrOVFibGFSbUF2aHZoT2IwVjBDOVd3Z1pza2dZUmc0ODlycThfX2xXX2g2eUFWN2NNY19hUHZmb1R2QmtseUN6bDBua0pQV0J3M19XY09INWN0Y2lhQ0VucmI1d3gyUUdkR095STFN?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-f9aac87b41bd7e72",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "특수관계 거래의 함정…'시가'가 세무리스크 가른다",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "특수관계 거래의 함정…'시가'가 세무리스크 가른다",
+    "source": "택스워치",
+    "publishedAt": "2026-06-30T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wY0dxVGx1czJUalRLSWhfS3h0ZVQzYjR4cW9JOFRtVEp0bzVJUnhMWU9zbVZodlVFanN2VmpQQlMwV2Z6aVV0RTMzbWR3VThnUkdqem41VnNiMnV5TjNMSlUtMA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-8a03aed85da1f838",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "\"연예인 1인 기획사, 탈세 통로? 국세청이 '조세회피 목적' 입증해야\"",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "\"연예인 1인 기획사, 탈세 통로? 국세청이 '조세회피 목적' 입증해야\"",
+    "source": "한국세정신문",
+    "publishedAt": "2026-04-13T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nSWFKWU9ZeXRnVE5mSzJ0cDVrNGpzSmFyUVpja0FVVXBneXp6bHBqM1ZMR1pFSE1QbkVPYm1XZjNUbnFwSjVOODNkUkJsZ2Eyb2kwdXpDeHVveVp0Ymt3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-4c1fc257d21041b6",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "탈세 낙인찍는 연예인 1인 기획사…법인실체 부인 못하면 부당과세",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "탈세 낙인찍는 연예인 1인 기획사…법인실체 부인 못하면 부당과세",
+    "source": "조세금융신문",
+    "publishedAt": "2026-04-10T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xLTdPRUJkTlFEOE1QVnM2ZTY1N19NMkJXanJuOUFta2pVZTBxQVNwM0pDU3N0UlZhWkoxQzMzN1ZScmt1TFlOcWhHNWlaLUljX3BtQ2kzT1dtS1pIMFliX3l4UQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-c1c6ffd6463a8263",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[‘절세 노하우’ 세무상담] ’26년부터 저가로 양도하면 취득세 중과세될 수 있어",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[‘절세 노하우’ 세무상담] ’26년부터 저가로 양도하면 취득세 중과세될 수 있어",
+    "source": "intn.co.kr",
+    "publishedAt": "2026-01-16T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydEhpdkxtcEltQ1lFZnNGUDBQZ08tSVFOeGhpU1hzdGhXNV9TV0M3bHNLeTVqRnhnaFRwU19Gd1Y1MGtvWXhlVGI2dE1FRDFCOWhVT0hGOG80VEYwbklfdjNuQXJoemFTY3c?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-e62a2cfb9986df9c",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "김석환 \"1인 기획사 과세, 결국 '실체 부인' 문제.. 명확한 기준 없어\" [연예인 과세 세미나]",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "김석환 \"1인 기획사 과세, 결국 '실체 부인' 문제.. 명확한 기준 없어\" [연예인 과세 세미나]",
+    "source": "조세일보",
+    "publishedAt": "2026-04-11T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ySXJPYVhNQS1vV29QSXo4RGxFbjlrQ2hxNDJCQXdrUUVvQ2FUMnFpMThjN2ItelpwakNoRzBZeDF4MkNUT2dvc0pSNW9RR2FOVm9FVmpZUGZSMjZtM3k0?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-e8251a36e8a9142a",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[이슈 진단] ‘베이커리 카페’ 가업승계 잘못하면 ‘부당행위계산부인·가산세 부담’까지",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[이슈 진단] ‘베이커리 카페’ 가업승계 잘못하면 ‘부당행위계산부인·가산세 부담’까지",
+    "source": "세정일보",
+    "publishedAt": "2026-02-10T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NcDNRaUI5NGhhb1RNRi1GOG5leXRGa3JaSW0tZWdxaEx4THZSalFQbUdPMXhoWm1RZldpZWplUHZPYkJSbS1SZUhPNnAwbndYNXFXRnNid1V1TUNydGFMcGVKb09hOXRhUTZiYw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-8f1859665fc14dbd",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "현물출자 고평가만으로 과세 불가…“사외유출 입증돼야”",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "현물출자 고평가만으로 과세 불가…“사외유출 입증돼야”",
+    "source": "법치뉴스",
+    "publishedAt": "2026-03-27T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OdTJpc1hTcW13aXhLdndnQlpvcHRCcUt0X0NUdldhUXF4b2Z2VEVYanBHUkFEWkQ4SkJUMWZVb29UT3lpT0hXQlk5ZW5vTjRISmR3S3owZVhlUGIyQ3Z4eEtEZlTSAWhBVV95cUxOS2JKd2wxQ2huV2czN1RCZTByVF91UGNpdk1MaElVa0FZTVZzNDNoTU13SnVsaGphWHhMTk9rMGJHWDNiV3BlbTVZejdwbjNBTmR4MHdpZmIwRGw0cDdxc2Z1dzRKRk9LOQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-0a8e8e08aba7ec5e",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[권태우의 세무Talk]자녀에게 시세보다 싸게 집 팔 때 주의해야 할 ‘부당행위계산부인’",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[권태우의 세무Talk]자녀에게 시세보다 싸게 집 팔 때 주의해야 할 ‘부당행위계산부인’",
+    "source": "경향신문",
+    "publishedAt": "2021-09-05T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14S0s3VzZKQ0YzVjNfd0ZIWEViaXFydFFPcFZGdDF2N0lfbTQ5QVJfX0dKZG1GZXd0c2xQZUxrS1VwTUI0enByZDBpY0R0SW5GUVdzdmxZQXc0UdIBX0FVX3lxTFAzb05JbUFOZGtJcHlKY3Fqa2lHTWl1blhvOUczbFkzYnBmVGVyWWJlTlhEVzRhNjlVV1VhWTNscHNySTVINXBOdHpvZUE4ZnVzbW5lWGJJMm91U0JYVzJ3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-7515e602dbba9265",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[부당행위계산 부인] 조세부담 감소 발생해도 경제적 합리성 있을 땐 적용 안 해",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[부당행위계산 부인] 조세부담 감소 발생해도 경제적 합리성 있을 땐 적용 안 해",
+    "source": "intn.co.kr",
+    "publishedAt": "2023-07-22T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmSi0yeU8ySHNTVlp0SnV0dUtwaXMzRExYQW5zRHdiUklLeVZnT0lsc1hhbmJ2Vzd6ZDVXd2Ric1Z6bDdJcGRlVHhnTWxVcXNiNnNkMk5WazE3QU9TbW9CeEtCWGp0ZEhwWlE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-031f4b7b46da9ada",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[세미나] 금융조세포럼, '전환사채 콜옵션' 과세 '입법적 보완시급'",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[세미나] 금융조세포럼, '전환사채 콜옵션' 과세 '입법적 보완시급'",
+    "source": "조세금융신문",
+    "publishedAt": "2025-09-05T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12RUh2TzkzdzZ4UmhpQkp5NHVjMVVvNWM1azBPcnhZX3JVN2NFSmh5RkpJRGJTZlJKSC1rTWV1cXkxUTRfY3NrWHgxOUtCZDc2X2IyMnV4emI2VUcyMmFlWnU0TQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-d5d39f7c35d7b5e3",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "이주환 \"1인 기획사, 계약·업무·증빙으로 '법인 실체' 입증해야\" [연예인 과세 세미나]",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "이주환 \"1인 기획사, 계약·업무·증빙으로 '법인 실체' 입증해야\" [연예인 과세 세미나]",
+    "source": "조세일보",
+    "publishedAt": "2026-04-11T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrZVVhUzZ0MVdHS2xKQ3BTMWRWenRsSkJ2TFMxcllMZGhTd2JEVWo3OGdiSURKVDRnYmxiRjhBZnVuTmdESW9JREJlMXNtQzN0cmhBaXFkVzJsbEI1M3dr?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-1e155eba92c06f6d",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[부당행위계산 부인] 특수관계자, 일반적 원칙 따른 엄격한 해석…유추·확대해석 해선 안 돼",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[부당행위계산 부인] 특수관계자, 일반적 원칙 따른 엄격한 해석…유추·확대해석 해선 안 돼",
+    "source": "intn.co.kr",
+    "publishedAt": "2023-04-21T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13NzJ4eGZQZll0YUFJVW1tVWZRa2w2ODdzaFl6Tk53dXp1eTdOQ0VTcV9Rbko1bDJPQWVjQnlwcTRMdG4xQWVwMEJ2Um0wOWtnSzBZRURDOXJVLXFCOTIwVW1KMjY?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-026afa12677aaa04",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[국세 예규] 우회적·거래 통한 조세부담 경감...부당행위계산부인 별도 판단",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[국세 예규] 우회적·거래 통한 조세부담 경감...부당행위계산부인 별도 판단",
+    "source": "intn.co.kr",
+    "publishedAt": "2023-10-24T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BSkt3V3lHZ0lrRUtiT3ZvM3R5VGxwOHA3RzQzdkZwX1RDclVlVTlTSVFlbFl4OEZzS0t5eEFfUHAyWjl1b3JwUFRleGhIVmM4Wm1GQ0lyRmxSX240b2pTdzMwVFJoUVAtVUE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-8cf872229c703861",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[국세 예규] 법인세법 상 ‘연결법인 간 세액변동 없을 것’은 “총부담세액 변동 없을 것”의미",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-18T23:41:13+09:00",
+    "plainSummary": "[국세 예규] 법인세법 상 ‘연결법인 간 세액변동 없을 것’은 “총부담세액 변동 없을 것”의미",
+    "source": "intn.co.kr",
+    "publishedAt": "2025-06-18T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nY09QUjBWbzExRnlabWRvXzQ1c3M5TkFNaWF2bGpuUFBjdFRDMlF2Z242YmJPZWZOLVQxMHNCTmZlb2NPVDU1SmppS05wNURjbHZvcTQ2QTVZSFgzNVB4NjdOTmk?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]

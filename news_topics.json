@@ -100,5 +100,29 @@
     "label": "지급이자 손금불산입 뉴스",
     "query": "지급이자 손금불산입",
     "tags": ["전체"]
+  },
+  {
+    "id": "news-asset-loss",
+    "label": "자산평가손실 뉴스",
+    "query": "자산평가손실",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-depreciation",
+    "label": "감가상각비 뉴스",
+    "query": "감가상각",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-input-vat-denial",
+    "label": "매입세액불공제 뉴스",
+    "query": "매입세액불공제",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-wrongful-calc",
+    "label": "부당행위계산부인 뉴스",
+    "query": "부당행위계산부인",
+    "tags": ["전체"]
   }
 ]

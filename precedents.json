@@ -94,5 +94,29 @@
     "label": "과다경비 손금불산입 판례",
     "query": "과다경비",
     "tags": ["전체"]
+  },
+  {
+    "id": "prec-asset-loss",
+    "label": "자산평가손실 손금불산입 판례",
+    "query": "자산 평가손실",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-depreciation",
+    "label": "감가상각비 손금불산입 판례",
+    "query": "감가상각",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-input-vat-denial",
+    "label": "매입세액불공제 판례",
+    "query": "매입세액불공제",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "query": "부당행위계산부인",
+    "tags": ["전체"]
   }
 ]
