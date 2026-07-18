@@ -4,13 +4,13 @@
 
 provisions.json에 등록된 (법령명, 조문번호)마다 law.go.kr에서 현재 조문 원문을 가져와
 data/state.json에 저장된 이전 원문과 비교한다. 텍스트가 달라졌으면 data/alerts.json에
-새 알림 레코드를 추가한다. LLM을 쓰지 않고 difflib로 변경분을 비교해 쉬운 설명 문구를
-직접 조립하므로 API 키나 과금이 필요 없다.
+새 알림 레코드를 추가한다. 실제 변경 내용은 originalText/previousText로 저장해 프론트엔드
+diff 패널에서 보여주고, plainSummary는 카드 미리보기용 짧은 한 줄 요약만 담는다.
+LLM을 쓰지 않기 때문에 API 키나 과금이 필요 없다.
 
 GitHub Actions에서 매일 실행되며(.github/workflows/check-amendments.yml), 변경이 생긴
 data/*.json만 커밋한다.
 """
-import difflib
 import hashlib
 import os
 import sys
@@ -34,20 +34,11 @@ def text_hash(lines):
 
 
 def build_plain_summary(law, jo_display, title, old_lines, new_lines):
-    """difflib로 이전/이후 조문을 줄 단위 비교해 추가/삭제 문장을 뽑고 고정 문구로 조립한다.
-    향후 설명 품질을 높이고 싶으면 이 함수만 LLM 호출로 교체하면 된다."""
-    diff = list(difflib.ndiff(old_lines, new_lines))
-    added = [line[2:].strip() for line in diff if line.startswith("+ ") and line[2:].strip()]
-    removed = [line[2:].strip() for line in diff if line.startswith("- ") and line[2:].strip()]
-
-    parts = [f"{law} 제{jo_display}조({title})가 개정되었습니다."]
-    if removed:
-        parts.append("삭제/변경 전: " + " / ".join(removed[:3]))
-    if added:
-        parts.append("추가/변경 후: " + " / ".join(added[:3]))
-    if not added and not removed:
-        parts.append("조문 문구가 변경되었습니다 (세부 내용은 원문을 확인하세요).")
-    return " ".join(parts)
+    """카드 미리보기/이메일 다이제스트에 쓰는 짧은 한 줄 요약. 실제 변경 내용은 여기 담지
+    않는다 — 조문 문단은 표나 긴 목록을 통째로 포함할 수 있어서 요약에 인용하면 카드가
+    한없이 길어진다. 실제 변경 내용은 alert의 originalText/previousText로 diff 패널에서
+    보여준다. 향후 설명 품질을 높이고 싶으면 이 함수만 LLM 호출로 교체하면 된다."""
+    return f"{law} 제{jo_display}조({title})가 개정되었습니다."
 
 
 def fetch_article(law_name, jo, branch, oc):
