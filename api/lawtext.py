@@ -43,20 +43,33 @@ def resolve_mst(law_name, oc):
     return None
 
 
-def extract_article_text(xml_bytes, jo_number):
-    """지정한 조문번호에 해당하는 <조문단위> 블록에서 제목과 본문 텍스트를 뽑아낸다."""
+def extract_article_text(xml_bytes, jo_number, branch_number=None):
+    """지정한 조문번호(+선택적으로 가지번호)에 해당하는 <조문단위> 블록에서 제목과 본문 텍스트를 뽑아낸다.
+    branch_number가 없으면 가지번호 없는 본조만(예: 제24조), 있으면 그 가지조문만(예: 제29조의8) 매칭한다."""
     root = ET.fromstring(xml_bytes)
     target = str(jo_number)
+    target_branch = str(branch_number).strip() if branch_number not in (None, "") else None
 
     for unit in root.iter("조문단위"):
         jo_el = unit.find("조문번호")
         branch_el = unit.find("조문가지번호")
         if jo_el is None or (jo_el.text or "").strip() != target:
             continue
-        if branch_el is not None and (branch_el.text or "").strip():
-            continue  # 제25조의2처럼 가지번호가 있는 조문은 제외하고 본조만 사용
+        branch_text = (branch_el.text or "").strip() if branch_el is not None else ""
+        if target_branch is None:
+            if branch_text:
+                continue  # 가지번호 미지정 시 본조만 사용 (예: 제25조의2는 제외)
+        elif branch_text != target_branch:
+            continue
+
+        status_el = unit.find("조문여부")
+        if status_el is not None and (status_el.text or "").strip() not in ("", "조문"):
+            continue  # "전문" 등 실제 조문이 아닌 자리표시자 블록은 건너뜀
 
         title = (unit.findtext("조문제목") or "").strip()
+        if not title:
+            continue  # 제목 없는 빈 블록은 건너뛰고 실제 조문을 계속 탐색
+
         lines = []
         for el in unit.iter():
             if el.tag in ("조문내용", "항내용", "호내용", "목내용") and el.text:
@@ -74,6 +87,7 @@ def handle_request(query, oc):
     """쿼리 파라미터(dict[str, list[str]])를 받아 (status, payload)를 반환. 로컬 dev 서버와 공유."""
     law_name = (query.get("law") or [""])[0].strip()
     jo = (query.get("jo") or [""])[0].strip()
+    branch = (query.get("branch") or [""])[0].strip()
 
     if not law_name or not jo:
         return 400, {"error": "law, jo 파라미터가 필요합니다."}
@@ -91,16 +105,17 @@ def handle_request(query, oc):
             timeout=20,
         )
         resp.raise_for_status()
-        title, lines = extract_article_text(resp.content, jo)
+        title, lines = extract_article_text(resp.content, jo, branch or None)
     except requests.RequestException as e:
         return 502, {"error": f"법령정보센터 조회 중 오류가 발생했습니다: {e}"}
     except ET.ParseError as e:
         return 502, {"error": f"법령정보센터 응답을 해석하지 못했습니다: {e}"}
 
+    jo_display = f"{jo}의{branch}" if branch else jo
     if title is None:
-        return 404, {"error": f"{law_name} 제{jo}조를 찾지 못했습니다."}
+        return 404, {"error": f"{law_name} 제{jo_display}조를 찾지 못했습니다."}
 
-    return 200, {"law": law_name, "jo": jo, "title": title, "lines": lines}
+    return 200, {"law": law_name, "jo": jo, "branch": branch, "title": title, "lines": lines}
 
 
 class handler(BaseHTTPRequestHandler):

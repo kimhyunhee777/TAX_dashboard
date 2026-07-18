@@ -293,7 +293,7 @@
       label.textContent = a.label || a.title || '(제목 없음)';
       var pill = document.createElement('span');
       pill.className = 'law-pill';
-      pill.textContent = (a.law || '') + ' 제' + (a.jo || '') + '조';
+      pill.textContent = (a.law || '') + ' 제' + (a.jo || '') + (a.branch ? '의' + a.branch : '') + '조';
       labelRow.appendChild(label);
       labelRow.appendChild(pill);
       left.appendChild(labelRow);

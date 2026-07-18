@@ -45,14 +45,14 @@ def text_hash(lines):
     return hashlib.sha256("\n".join(lines).encode("utf-8")).hexdigest()
 
 
-def build_plain_summary(law, jo, title, old_lines, new_lines):
+def build_plain_summary(law, jo_display, title, old_lines, new_lines):
     """difflib로 이전/이후 조문을 줄 단위 비교해 추가/삭제 문장을 뽑고 고정 문구로 조립한다.
     향후 설명 품질을 높이고 싶으면 이 함수만 LLM 호출로 교체하면 된다."""
     diff = list(difflib.ndiff(old_lines, new_lines))
     added = [line[2:].strip() for line in diff if line.startswith("+ ") and line[2:].strip()]
     removed = [line[2:].strip() for line in diff if line.startswith("- ") and line[2:].strip()]
 
-    parts = [f"{law} 제{jo}조({title})가 개정되었습니다."]
+    parts = [f"{law} 제{jo_display}조({title})가 개정되었습니다."]
     if removed:
         parts.append("삭제/변경 전: " + " / ".join(removed[:3]))
     if added:
@@ -62,7 +62,7 @@ def build_plain_summary(law, jo, title, old_lines, new_lines):
     return " ".join(parts)
 
 
-def fetch_article(law_name, jo, oc):
+def fetch_article(law_name, jo, branch, oc):
     mst = resolve_mst(law_name, oc)
     if not mst:
         raise RuntimeError(f"'{law_name}' 법령을 찾지 못했습니다.")
@@ -72,9 +72,10 @@ def fetch_article(law_name, jo, oc):
         timeout=20,
     )
     resp.raise_for_status()
-    title, lines = extract_article_text(resp.content, jo)
+    title, lines = extract_article_text(resp.content, jo, branch)
     if title is None:
-        raise RuntimeError(f"{law_name} 제{jo}조를 찾지 못했습니다.")
+        jo_display = f"{jo}의{branch}" if branch else jo
+        raise RuntimeError(f"{law_name} 제{jo_display}조를 찾지 못했습니다.")
     return title, lines
 
 
@@ -90,9 +91,10 @@ def main():
     now = datetime.now(KST).isoformat(timespec="seconds")
 
     for prov in provisions:
-        pid, law, jo = prov["id"], prov["law"], prov["jo"]
+        pid, law, jo, branch = prov["id"], prov["law"], prov["jo"], prov.get("branch") or None
+        jo_display = f"{jo}의{branch}" if branch else jo
         try:
-            title, lines = fetch_article(law, jo, oc)
+            title, lines = fetch_article(law, jo, branch, oc)
         except (RuntimeError, requests.RequestException) as e:
             print(f"[skip] {pid}: {e}", file=sys.stderr)
             continue
@@ -111,13 +113,14 @@ def main():
             continue
 
         # 개정 감지
-        summary = build_plain_summary(law, jo, title, prev.get("lines", []), lines)
+        summary = build_plain_summary(law, jo_display, title, prev.get("lines", []), lines)
         alerts.append({
             "id": f"{pid}-{now[:10]}",
             "provisionId": pid,
             "label": prov.get("label", title),
             "law": law,
             "jo": jo,
+            "branch": branch or "",
             "detectedAt": now,
             "title": title,
             "originalText": lines,
