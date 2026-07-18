@@ -1,0 +1,12 @@
+[
+  {
+    "id": "client-sample-a",
+    "name": "샘플 클라이언트 A (예시)",
+    "tags": ["기부금"]
+  },
+  {
+    "id": "client-sample-b",
+    "name": "샘플 클라이언트 B (예시)",
+    "tags": ["기업업무추진비"]
+  }
+]

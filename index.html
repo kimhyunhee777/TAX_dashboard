@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>세법 개정 알림 — TAX_dashboard</title>
+<style>
+  :root{
+    --bg:#F2F4F6;
+    --surface:#FFFFFF;
+    --surface-alt:#F4F6F8;
+    --ink:#191F28;
+    --ink-muted:#6B7684;
+    --ink-faint:#8B95A1;
+    --border:#E5E8EB;
+    --accent:#3182F6;
+    --accent-soft:#EBF2FE;
+    --pos:#00C471;
+    --pos-soft:#E8F9F1;
+    --neg:#F04452;
+    --neg-soft:#FDECEC;
+    --shadow: 0 2px 6px rgba(25,31,40,0.04), 0 8px 20px -10px rgba(25,31,40,0.08);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0A0C10; --surface:#191F28; --surface-alt:#20272F; --ink:#F2F4F6; --ink-muted:#9AA4B2; --ink-faint:#8B95A1;
+      --border:#2A313C; --accent:#4593FC; --accent-soft:#1C2B44;
+      --pos:#2ED890; --pos-soft:#122E24; --neg:#FF6B6B; --neg-soft:#2E1A1C;
+      --shadow: 0 2px 6px rgba(0,0,0,0.35), 0 8px 20px -10px rgba(0,0,0,0.5);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0A0C10; --surface:#191F28; --surface-alt:#20272F; --ink:#F2F4F6; --ink-muted:#9AA4B2; --ink-faint:#8B95A1;
+    --border:#2A313C; --accent:#4593FC; --accent-soft:#1C2B44;
+    --pos:#2ED890; --pos-soft:#122E24; --neg:#FF6B6B; --neg-soft:#2E1A1C;
+    --shadow: 0 2px 6px rgba(0,0,0,0.35), 0 8px 20px -10px rgba(0,0,0,0.5);
+  }
+  :root[data-theme="light"]{
+    --bg:#F2F4F6; --surface:#FFFFFF; --surface-alt:#F4F6F8; --ink:#191F28; --ink-muted:#6B7684; --ink-faint:#8B95A1;
+    --border:#E5E8EB; --accent:#3182F6; --accent-soft:#EBF2FE;
+    --pos:#00C471; --pos-soft:#E8F9F1; --neg:#F04452; --neg-soft:#FDECEC;
+    --shadow: 0 2px 6px rgba(25,31,40,0.04), 0 8px 20px -10px rgba(25,31,40,0.08);
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",-apple-system,"Segoe UI",sans-serif;
+    line-height:1.5; -webkit-font-smoothing:antialiased;
+  }
+  button{font-family:inherit;}
+  .wrap{max-width:720px; margin:0 auto; padding:56px 24px 72px;}
+
+  header.masthead{display:flex; align-items:flex-start; justify-content:space-between; gap:16px; margin-bottom:36px;}
+  .eyebrow{
+    display:inline-flex; width:fit-content; font-size:12.5px; letter-spacing:-.01em;
+    color:var(--accent); font-weight:700; background:var(--accent-soft); padding:5px 12px; border-radius:999px;
+  }
+  h1{margin:12px 0 0; font-size:clamp(24px,3.4vw,31px); font-weight:800; letter-spacing:-.02em;}
+  .subtitle{color:var(--ink-muted); font-size:14.5px; margin-top:6px; font-weight:500;}
+
+  .bell-wrap{position:relative; flex-shrink:0;}
+  .bell-btn{
+    width:50px; height:50px; border-radius:16px; border:1px solid var(--border);
+    background:var(--surface); box-shadow:var(--shadow); cursor:pointer; font-size:21px;
+    display:flex; align-items:center; justify-content:center; position:relative;
+    transition:transform .12s ease;
+  }
+  .bell-btn:active{transform:scale(.96);}
+  .bell-badge{
+    position:absolute; top:-6px; right:-6px; min-width:20px; height:20px; padding:0 5px;
+    border-radius:999px; background:var(--neg); color:#fff; font-size:11.5px; font-weight:800;
+    display:flex; align-items:center; justify-content:center; box-shadow:0 0 0 2px var(--bg);
+  }
+  .bell-badge.hidden{display:none;}
+
+  .toolbar{display:flex; gap:10px; align-items:center; margin-bottom:20px; flex-wrap:wrap;}
+  .toolbar label{font-size:12.5px; font-weight:700; color:var(--ink-muted);}
+  select{
+    padding:10px 14px; font-size:14px; font-weight:600; border-radius:12px;
+    border:1px solid var(--border); background:var(--surface); color:var(--ink); cursor:pointer;
+  }
+
+  .panel{display:flex; flex-direction:column; gap:12px;}
+
+  .alert-card{
+    background:var(--surface); border:1px solid var(--border); border-radius:20px;
+    box-shadow:var(--shadow); padding:20px 22px; cursor:pointer; transition:border-color .12s ease;
+  }
+  .alert-card:hover{border-color:var(--accent);}
+  .alert-card .row{display:flex; justify-content:space-between; align-items:flex-start; gap:12px;}
+  .alert-card .label-row{display:flex; align-items:center; gap:8px; flex-wrap:wrap;}
+  .alert-card .label{font-size:16px; font-weight:800; letter-spacing:-.01em;}
+  .law-pill{
+    font-size:11.5px; font-weight:700; color:var(--accent); background:var(--accent-soft);
+    padding:3px 9px; border-radius:999px; white-space:nowrap;
+  }
+  .alert-card .date{font-size:12px; color:var(--ink-faint); font-weight:600; white-space:nowrap; margin-top:2px;}
+  .unread-dot{width:8px; height:8px; border-radius:999px; background:var(--accent); flex-shrink:0; margin-top:6px;}
+  .alert-card .preview{font-size:13.5px; color:var(--ink-muted); margin-top:10px; line-height:1.55;}
+
+  .detail{display:none; margin-top:16px; padding-top:16px; border-top:1px solid var(--border);}
+  .detail.open{display:block;}
+  .section-label{margin:0 0 10px; font-size:12.5px; font-weight:800; color:var(--ink-muted); letter-spacing:-.01em;}
+
+  .summary-callout{
+    background:var(--accent-soft); border-radius:14px; padding:14px 16px;
+    font-size:14px; font-weight:600; line-height:1.6; margin-bottom:18px; color:var(--ink);
+  }
+
+  .diff-wrap{display:flex; flex-direction:column; gap:12px; margin-bottom:16px;}
+  .diff-panel{background:var(--surface-alt); border-radius:14px; padding:14px 16px;}
+  .diff-panel-head{display:flex; align-items:center; gap:8px; margin-bottom:8px;}
+  .diff-dot{width:8px; height:8px; border-radius:999px; flex-shrink:0;}
+  .diff-dot.before{background:var(--neg);}
+  .diff-dot.after{background:var(--pos);}
+  .diff-panel-title{font-size:12.5px; font-weight:800; color:var(--ink-muted);}
+  .diff-body{max-height:240px; overflow-y:auto; font-size:13px; line-height:1.65;}
+  .diff-line{padding:2px 8px; border-radius:6px; white-space:pre-wrap; word-break:break-word;}
+  .diff-line.same{color:var(--ink-muted);}
+  .diff-line.removed{background:var(--neg-soft); color:var(--ink); border-left:3px solid var(--neg); padding-left:9px;}
+  .diff-line.added{background:var(--pos-soft); color:var(--ink); border-left:3px solid var(--pos); padding-left:9px;}
+  .diff-collapsed{font-size:11.5px; color:var(--ink-faint); font-weight:700; text-align:center; padding:6px 0;}
+
+  .detail a{font-size:13px; font-weight:700; color:var(--accent); text-decoration:none;}
+  .detail a:hover{text-decoration:underline;}
+
+  .empty{
+    background:var(--surface); border:1px dashed var(--border); border-radius:20px;
+    padding:36px; text-align:center; color:var(--ink-muted); font-size:14px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <div>
+      <span class="eyebrow">TAX_dashboard</span>
+      <h1>세법 개정 알림</h1>
+      <p class="subtitle">등록된 조문에 개정이 감지되면 여기에 표시됩니다.</p>
+    </div>
+    <div class="bell-wrap">
+      <button class="bell-btn" id="bellBtn" aria-label="개정 알림 열기">
+        🔔
+        <span class="bell-badge hidden" id="bellBadge">0</span>
+      </button>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <label for="clientSelect">고객</label>
+    <select id="clientSelect">
+      <option value="">전체 보기</option>
+    </select>
+  </div>
+
+  <div class="panel" id="panel">
+    <div class="empty" id="emptyState">불러오는 중...</div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var READ_KEY = 'txd_read_alert_ids';
+  var params = new URLSearchParams(location.search);
+  var presetClient = params.get('client') || '';
+
+  var alerts = [];
+  var clients = [];
+
+  function getReadIds(){
+    try { return new Set(JSON.parse(localStorage.getItem(READ_KEY) || '[]')); }
+    catch(e){ return new Set(); }
+  }
+  function markRead(id){
+    var read = getReadIds();
+    read.add(id);
+    localStorage.setItem(READ_KEY, JSON.stringify(Array.from(read)));
+  }
+
+  function fmtDate(iso){
+    if(!iso) return '';
+    return iso.slice(0,10);
+  }
+
+  // ---- line-level diff (LCS 기반) + 동일한 줄이 길게 이어지면 가운데를 접어서 보여줌 ----
+  function diffLines(oldLines, newLines){
+    var n = oldLines.length, m = newLines.length;
+    var dp = [];
+    for(var i=0;i<=n;i++){ dp.push(new Array(m+1).fill(0)); }
+    for(i=n-1;i>=0;i--){
+      for(var j=m-1;j>=0;j--){
+        dp[i][j] = (oldLines[i] === newLines[j]) ? dp[i+1][j+1] + 1 : Math.max(dp[i+1][j], dp[i][j+1]);
+      }
+    }
+    var ops = [];
+    i = 0; var k = 0;
+    while(i < n && k < m){
+      if(oldLines[i] === newLines[k]){ ops.push({type:'same', text:oldLines[i]}); i++; k++; }
+      else if(dp[i+1][k] >= dp[i][k+1]){ ops.push({type:'removed', text:oldLines[i]}); i++; }
+      else { ops.push({type:'added', text:newLines[k]}); k++; }
+    }
+    while(i < n){ ops.push({type:'removed', text:oldLines[i]}); i++; }
+    while(k < m){ ops.push({type:'added', text:newLines[k]}); k++; }
+    return ops;
+  }
+
+  function collapseContext(ops, context){
+    var result = [];
+    var i = 0;
+    while(i < ops.length){
+      if(ops[i].type === 'same'){
+        var j = i;
+        while(j < ops.length && ops[j].type === 'same') j++;
+        var runLen = j - i;
+        if(runLen <= context * 2 + 1){
+          for(var a=i; a<j; a++) result.push(ops[a]);
+        } else {
+          for(var b=i; b<i+context; b++) result.push(ops[b]);
+          result.push({type:'collapsed', count: runLen - context*2});
+          for(var c=j-context; c<j; c++) result.push(ops[c]);
+        }
+        i = j;
+      } else {
+        result.push(ops[i]);
+        i++;
+      }
+    }
+    return result;
+  }
+
+  function renderDiffPanel(container, ops, keepType){
+    container.innerHTML = '';
+    var filtered = ops.filter(function(op){ return op.type === 'same' || op.type === keepType; });
+    var collapsed = collapseContext(filtered, 1);
+    collapsed.forEach(function(op){
+      var line = document.createElement('div');
+      if(op.type === 'collapsed'){
+        line.className = 'diff-collapsed';
+        line.textContent = '⋯ 동일한 내용 ' + op.count + '줄 ⋯';
+      } else {
+        line.className = 'diff-line ' + op.type;
+        line.textContent = op.text;
+      }
+      container.appendChild(line);
+    });
+  }
+
+  function filteredAlerts(){
+    var clientId = document.getElementById('clientSelect').value;
+    var sorted = alerts.slice().sort(function(a,b){ return (b.detectedAt||'').localeCompare(a.detectedAt||''); });
+    if(!clientId) return sorted;
+    var client = clients.find(function(c){ return c.id === clientId; });
+    if(!client) return sorted;
+    var tagSet = new Set(client.tags || []);
+    return sorted.filter(function(a){ return (a.tags||[]).some(function(t){ return tagSet.has(t); }); });
+  }
+
+  function renderBadge(){
+    var read = getReadIds();
+    var unread = alerts.filter(function(a){ return !read.has(a.id); }).length;
+    var badge = document.getElementById('bellBadge');
+    badge.textContent = unread;
+    badge.classList.toggle('hidden', unread === 0);
+  }
+
+  function renderList(){
+    var panel = document.getElementById('panel');
+    var list = filteredAlerts();
+    var read = getReadIds();
+    panel.innerHTML = '';
+
+    if(list.length === 0){
+      var empty = document.createElement('div');
+      empty.className = 'empty';
+      empty.textContent = '표시할 개정 알림이 없습니다.';
+      panel.appendChild(empty);
+      return;
+    }
+
+    list.forEach(function(a){
+      var card = document.createElement('div');
+      card.className = 'alert-card';
+
+      var row = document.createElement('div');
+      row.className = 'row';
+
+      var left = document.createElement('div');
+      var labelRow = document.createElement('div');
+      labelRow.className = 'label-row';
+      var label = document.createElement('span');
+      label.className = 'label';
+      label.textContent = a.label || a.title || '(제목 없음)';
+      var pill = document.createElement('span');
+      pill.className = 'law-pill';
+      pill.textContent = (a.law || '') + ' 제' + (a.jo || '') + '조';
+      labelRow.appendChild(label);
+      labelRow.appendChild(pill);
+      left.appendChild(labelRow);
+
+      var right = document.createElement('div');
+      right.style.display = 'flex';
+      right.style.alignItems = 'flex-start';
+      right.style.gap = '8px';
+      var date = document.createElement('div');
+      date.className = 'date';
+      date.textContent = fmtDate(a.detectedAt);
+      right.appendChild(date);
+      if(!read.has(a.id)){
+        var dot = document.createElement('div');
+        dot.className = 'unread-dot';
+        right.appendChild(dot);
+      }
+
+      row.appendChild(left);
+      row.appendChild(right);
+
+      var preview = document.createElement('div');
+      preview.className = 'preview';
+      preview.textContent = a.plainSummary || '';
+
+      var detail = document.createElement('div');
+      detail.className = 'detail';
+
+      var summaryLabel = document.createElement('p');
+      summaryLabel.className = 'section-label';
+      summaryLabel.textContent = '쉬운 설명';
+      var summaryBox = document.createElement('div');
+      summaryBox.className = 'summary-callout';
+      summaryBox.textContent = a.plainSummary || '';
+
+      var diffLabel = document.createElement('p');
+      diffLabel.className = 'section-label';
+      diffLabel.textContent = '무엇이 달라졌나요?';
+
+      var diffWrap = document.createElement('div');
+      diffWrap.className = 'diff-wrap';
+
+      var beforePanel = document.createElement('div');
+      beforePanel.className = 'diff-panel';
+      beforePanel.innerHTML =
+        '<div class="diff-panel-head"><span class="diff-dot before"></span><span class="diff-panel-title">변경 전</span></div>' +
+        '<div class="diff-body before-body"></div>';
+
+      var afterPanel = document.createElement('div');
+      afterPanel.className = 'diff-panel';
+      afterPanel.innerHTML =
+        '<div class="diff-panel-head"><span class="diff-dot after"></span><span class="diff-panel-title">변경 후</span></div>' +
+        '<div class="diff-body after-body"></div>';
+
+      diffWrap.appendChild(beforePanel);
+      diffWrap.appendChild(afterPanel);
+
+      var link = document.createElement('a');
+      link.target = '_blank';
+      link.rel = 'noopener';
+      link.href = 'https://www.law.go.kr/LSW/lsSc.do?menuId=1&query=' + encodeURIComponent(a.law || '');
+      link.textContent = 'law.go.kr에서 원문 보기';
+
+      detail.appendChild(summaryLabel);
+      detail.appendChild(summaryBox);
+      detail.appendChild(diffLabel);
+      detail.appendChild(diffWrap);
+      detail.appendChild(link);
+
+      card.appendChild(row);
+      card.appendChild(preview);
+      card.appendChild(detail);
+
+      var diffRendered = false;
+      card.addEventListener('click', function(){
+        detail.classList.toggle('open');
+        if(detail.classList.contains('open') && !diffRendered){
+          var ops = diffLines(a.previousText || [], a.originalText || []);
+          renderDiffPanel(beforePanel.querySelector('.before-body'), ops, 'removed');
+          renderDiffPanel(afterPanel.querySelector('.after-body'), ops, 'added');
+          diffRendered = true;
+        }
+        if(!read.has(a.id)){
+          markRead(a.id);
+          renderBadge();
+          var dotEl = row.querySelector('.unread-dot');
+          if(dotEl) dotEl.remove();
+        }
+      });
+
+      panel.appendChild(card);
+    });
+  }
+
+  function populateClientSelect(){
+    var select = document.getElementById('clientSelect');
+    clients.forEach(function(c){
+      var opt = document.createElement('option');
+      opt.value = c.id;
+      opt.textContent = c.name;
+      select.appendChild(opt);
+    });
+    if(presetClient){
+      select.value = presetClient;
+    }
+    select.addEventListener('change', renderList);
+  }
+
+  Promise.all([
+    fetch('data/alerts.json').then(function(r){ return r.json(); }).catch(function(){ return []; }),
+    fetch('clients.json').then(function(r){ return r.json(); }).catch(function(){ return []; })
+  ]).then(function(results){
+    alerts = results[0] || [];
+    clients = results[1] || [];
+    populateClientSelect();
+    renderBadge();
+    renderList();
+  });
+
+  document.getElementById('bellBtn').addEventListener('click', function(){
+    document.getElementById('panel').scrollIntoView({behavior:'smooth', block:'start'});
+  });
+})();
+</script>
+</body>
+</html>

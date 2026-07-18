@@ -1,0 +1,16 @@
+[
+  {
+    "id": "corp-tax-donation",
+    "label": "기부금 손금산입 (예시)",
+    "law": "법인세법",
+    "jo": "24",
+    "tags": ["기부금"]
+  },
+  {
+    "id": "corp-tax-entertainment",
+    "label": "기업업무추진비 (예시)",
+    "law": "법인세법",
+    "jo": "25",
+    "tags": ["기업업무추진비"]
+  }
+]
