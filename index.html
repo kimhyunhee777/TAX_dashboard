@@ -168,12 +168,6 @@
     padding:36px; text-align:center; color:var(--ink-muted); font-size:14px;
   }
 
-  @media print{
-    .bell-wrap, .toolbar{display:none;}
-    body{background:#fff;}
-    .alert-card{box-shadow:none; border:1px solid #ccc; break-inside:avoid;}
-    .detail{display:block !important;}
-  }
 </style>
 </head>
 <body>
@@ -198,7 +192,6 @@
       <option value="">전체 보기</option>
     </select>
     <button class="btn-ghost" id="shareBtn" type="button">🔗 공유 링크 복사</button>
-    <button class="btn-ghost" id="printBtn" type="button">🖨️ 인쇄·PDF로 저장</button>
   </div>
 
   <div class="panel" id="panel">
@@ -615,10 +608,6 @@
     }).catch(function(){
       window.prompt('아래 링크를 복사하세요', url);
     });
-  });
-
-  document.getElementById('printBtn').addEventListener('click', function(){
-    window.print();
   });
 })();
 </script>
