@@ -293,7 +293,7 @@
 
   function renderBadge(){
     var read = getReadIds();
-    var unread = alerts.filter(function(a){ return !read.has(a.id); }).length;
+    var unread = filteredAlerts().filter(function(a){ return !read.has(a.id); }).length;
     var badge = document.getElementById('bellBadge');
     badge.textContent = unread;
     badge.classList.toggle('hidden', unread === 0);
@@ -517,7 +517,10 @@
     if(presetClient){
       select.value = presetClient;
     }
-    select.addEventListener('change', renderList);
+    select.addEventListener('change', function(){
+      renderBadge();
+      renderList();
+    });
   }
 
   Promise.all([
