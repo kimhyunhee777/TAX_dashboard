@@ -40,5 +40,59 @@
     "label": "외국납부세액공제 판례",
     "query": "외국납부세액공제",
     "tags": ["외국납부세액공제"]
+  },
+  {
+    "id": "prec-bad-debt",
+    "label": "대손금 손금불산입 판례",
+    "query": "대손금 손금불산입",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-disabled-levy",
+    "label": "장애인고용부담금 판례",
+    "query": "장애인고용부담금",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-interest-nondeductible",
+    "label": "지급이자 손금불산입 판례",
+    "query": "지급이자 손금불산입",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-provisional-payment",
+    "label": "가지급금 인정이자 판례",
+    "query": "가지급금 인정이자",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-bad-debt-reserve",
+    "label": "대손충당금 판례",
+    "query": "대손충당금",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-donation-nondeductible",
+    "label": "기부금 손금불산입 판례",
+    "query": "기부금 손금불산입",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-entertainment",
+    "label": "접대비(기업업무추진비) 손금불산입 판례",
+    "query": "접대비",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-company-car",
+    "label": "업무용승용차 손금불산입 판례",
+    "query": "차량 손금",
+    "tags": ["전체"]
+  },
+  {
+    "id": "prec-excessive-expense",
+    "label": "과다경비 손금불산입 판례",
+    "query": "과다경비",
+    "tags": ["전체"]
   }
 ]

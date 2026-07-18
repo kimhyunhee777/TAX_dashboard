@@ -70,5 +70,35 @@
     "label": "수출기업 세제지원 뉴스",
     "query": "수출기업 세제지원",
     "tags": ["exporter"]
+  },
+  {
+    "id": "news-disabled-levy",
+    "label": "장애인고용부담금 뉴스",
+    "query": "장애인고용부담금",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-company-car",
+    "label": "업무용승용차 손금불산입 뉴스",
+    "query": "업무용승용차 손금불산입",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-provisional-payment",
+    "label": "가지급금 인정이자 뉴스",
+    "query": "가지급금 인정이자",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-entertainment",
+    "label": "접대비 손금불산입 뉴스",
+    "query": "접대비 손금불산입",
+    "tags": ["전체"]
+  },
+  {
+    "id": "news-interest-nondeductible",
+    "label": "지급이자 손금불산입 뉴스",
+    "query": "지급이자 손금불산입",
+    "tags": ["전체"]
   }
 ]

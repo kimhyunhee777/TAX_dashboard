@@ -2622,5 +2622,1145 @@
     "tags": [
       "중소기업특별세액감면"
     ]
+  },
+  {
+    "id": "news-corp-tax-revision-69769503c90dba2e",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "법인세 1%p 인상·배당소득 분리과세…법인세법 개정안 등 국무회의 통과",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "법인세 1%p 인상·배당소득 분리과세…법인세법 개정안 등 국무회의 통과",
+    "source": "기계설비신문",
+    "publishedAt": "2025-12-16T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RaUZnb2FwZFd4LUxQLUxCTzRqOFN4MVBpWmRuQTVYME1SNzNKTkdMUXdQOW5vcGFldTF3SkNpLVRNSGVSUmhOelhsV0NWYTlkMkQ3VTVPMFg5TFprTjRwNzRfOFk1WEV5NFhGdA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-startup-b231ded5f6fb2385",
+    "type": "news",
+    "topicId": "news-startup",
+    "label": "②\"서울에서 평택으로 본사 이전해도 감면 안 돼요\" [법인세 신고 유의사항]",
+    "topic": "창업중소기업 세액감면 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "②\"서울에서 평택으로 본사 이전해도 감면 안 돼요\" [법인세 신고 유의사항]",
+    "source": "조세일보",
+    "publishedAt": "2026-03-19T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96aVdQWHJsM1VpQ3J5cldGZ1BZWmM4TlR5dkJrVG5IV3RGY210RnlBeW1mTy1LazR5VUVrTTJ0RTB2bi1COVNnQ0wyaVB6c19PVlVsdTVvUWgyRi1FbExN?oc=5",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "news-startup-bb4b77fbf155518e",
+    "type": "news",
+    "topicId": "news-startup",
+    "label": "청년창업 1년 생존율↓…세금감면, 세무조사 유예로 지원",
+    "topic": "창업중소기업 세액감면 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "청년창업 1년 생존율↓…세금감면, 세무조사 유예로 지원",
+    "source": "마켓인",
+    "publishedAt": "2025-12-18T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwQUVxQ2syZDAwNkJTbmo2d0ItZ1JwMk95T3BqZGJhR1NqdEZpZ0REZ212OUFRNDBCSUtzbHl2VTZCWE5mMUtManlMbFdyTGxLVFlLVE5wdXRLMUxWMlgxX1V6TVI4Q3hUaTA5Wk1SeG5NVDg?oc=5",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "news-exporter-2e3710c5cec945b9",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "원주시, 중동리스크 대응…물가·소상공인·수출·세제 동시지원",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "원주시, 중동리스크 대응…물가·소상공인·수출·세제 동시지원",
+    "source": "v.daum.net",
+    "publishedAt": "2026-04-30T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Yby1SSW4wQmpwNEVYWHcxTl9FTk52T3VHc0xBczhNeXJVMmFKbklNNllndVpINmxaSjNTRldCdHZoWmZmR1hXT0ZIc25hMUk?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-d402a634cbf502c7",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[단독] ‘포용’ 외친 ㈜한진, 장애인 고용률은 법정 기준 ‘3분의 1’뿐",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[단독] ‘포용’ 외친 ㈜한진, 장애인 고용률은 법정 기준 ‘3분의 1’뿐",
+    "source": "CEO스코어데일리",
+    "publishedAt": "2026-07-15T07:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qdUhoNmdESHdxektPVmowUzdHR1VNZnVJVFlUYUdkaWVNZWE4dy0tS3RvWXkzNTZ4SGdPMDZaa1AtbmsxVEd0RnBub3g5VkxfY2pFa0V6OHRQNnQyVWJSUVYxOGpwMWM?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-7571e8716da949f9",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "경북교육청, 장애인 연계고용 도입 계획… 대구교육청 사례 확산 전망",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "경북교육청, 장애인 연계고용 도입 계획… 대구교육청 사례 확산 전망",
+    "source": "영남경제",
+    "publishedAt": "2026-07-15T08:45:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrQ3YwNTlHR01wY0N6djl6LTVrWUp5LWpYOVFraGZ4OEplSTNyOFAyOW1jazFUem1ybVVkbDh1STJvZVQ0UGxzSnRnTERSWHFMT291LTBpaVl3WWROUDlNSGxGb2JXT0k?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-7a0ddf44e2e92b12",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[기획] 장애인 고용, 숫자를 넘어 '좋은 일자리'로… 달라지는 현장과 남은 과제",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[기획] 장애인 고용, 숫자를 넘어 '좋은 일자리'로… 달라지는 현장과 남은 과제",
+    "source": "웰페어뉴스",
+    "publishedAt": "2026-07-14T16:36:36+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95aWk2blBMRnhXRWRYV0pFajNfQ1lBV0ZWZERVemVjcThvZHJtaExMTEU4cEZsajRzR0FteVltTkF3eWh3eUNrM3o1dFBfRENDQ3NacUdjQnhCOEZBVnJFOWdnX2x1ZGp1OVl2YXdiOA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-2e771e5fdf4e5c73",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인 고용 대신 부담금 내며 버티는 기관들...공공부문은 경기교육청이 1위",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "장애인 고용 대신 부담금 내며 버티는 기관들...공공부문은 경기교육청이 1위",
+    "source": "조선일보",
+    "publishedAt": "2026-07-06T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVmlnZUVMODl6ZTFNblBmclJIX3k1eEJEQVN6RGs0UjZqWFdFRnduaTlEUlZlT2NkTUI1RjA1d25SZFM2aVl5Q3dTbUgyc1NqQV9UQXJob3E4OUNlSnRia0xlUE9VWmtsMW1MVGNpNWRNLV9JSS1MZExCLTlxY2hnUHVB?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-7a1b440f8ea31ef7",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인의무고용, 여전히 돈으로 면죄부…작년 부담금 9천억 신고",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "장애인의무고용, 여전히 돈으로 면죄부…작년 부담금 9천억 신고",
+    "source": "연합뉴스",
+    "publishedAt": "2026-07-03T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1la2Z5a0RrTXZkaFhnQXlCNS1UY3VnZ05PNFZPNzU4SE5OWFVodk10QnlBcGlscUROWHl6eVlpTFVaNDhZbU9MZjhzUnFxaGFaR094U2FqYmJtR0HSAWBBVV95cUxNMTJETFkyM2xCMGctSHZ5R3JJTWYwVVl5ZzJkTjc3N1dVRGRIeWo4WWlkUVJ4Q3Y1ZktYWGVrbE1RTU8xTEJtTGVVTHN4UGpHU1JBREtqdnB2b3M2MTVqaXk?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-32de3d303ea5d51d",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "정부·공공기관도 장애인 고용 대신 수백억 부담금",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "정부·공공기관도 장애인 고용 대신 수백억 부담금",
+    "source": "v.daum.net",
+    "publishedAt": "2026-07-06T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZNDNVNEppTmxkaGJxTzVOQnVHMUZjXzViUVo4UGlwdTNIUDlmeUZpR01vOUYxakM1bURJRGYxWWt0NThUSWc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-1d0cb3819a978e07",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인의무고용, 여전히 돈으로 면죄부…지난해 부담금 9천억 신고",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "장애인의무고용, 여전히 돈으로 면죄부…지난해 부담금 9천억 신고",
+    "source": "미디어생활",
+    "publishedAt": "2026-07-07T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxX2pRWVVmZmk1eEhlaTgzSWh5TGRIV2RIaVI4ZklJVmpLV0NYUF9YRXRwa3FldTBCRzVQSWpDYlEwbjdfZ0l0MmpKWEY4UElwTUUyeng2cU1IZWVYYWh2WkZmUjA5dHFIdTd4ck1PUQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-3d751175729b20df",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인 의무고용 외면한 공공기관·대기업…부담금 9000억 임박",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "장애인 의무고용 외면한 공공기관·대기업…부담금 9000억 임박",
+    "source": "투데이신문",
+    "publishedAt": "2026-07-06T17:47:10+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CSnlBM0RMd2lHOWd4eWVlb3VJT19SVTJ3emhWWW9JUDZSUFlzb3BQMHQ0Z1pYa2thN3ZBMGVmM09ncHJvWnVXeEczazczcWstdlRpUnh5b3YyeDdpb2w3YXNpMUdwZmtTNXlJ0gFvQVVfeXFMUGs1NjlDeGhrMkNNZG5aZ08tSmx5VnBiRFVIcUtlMDRnbDM1TmR5N0k0WkNfZ0JCNWVPWXJoTFk4LVR1Z3J0NGQ3aWdMRTFxaXd5WFBvTHE3QnJVNW5PNGIxcDZDT1JMMFhud29HaFM0?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-ef3b7540b2aa626d",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인고용부담금 손금 산입··· 국세청, 법인세 환급'",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "장애인고용부담금 손금 산입··· 국세청, 법인세 환급'",
+    "source": "대한전문건설신문",
+    "publishedAt": "2026-07-10T07:30:46+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByVV80anVqdGJ6UUlJT2V1b0FrWVJWTXhHY0dxejBxOTZQckR6M2FsUElpMUZ5Rm5HTjRfMWFnbkNqd3pFRzJObnlIUFI1VVJqankzN1VjV3JlOG5OTW01SzB6cEtpYmhw0gFsQVVfeXFMT1Zab0xMa3R3SlVQWlFvV1dhTG1fZGhISUMxZDJlQlk4YldnbEtWMjBoTFFOb2U2RF9QSWI1ZzZFelpoWHJ6NlFxdzFUV3d5ZzhsRVpjdl84REIxT2F6Ty1aM053QTlMOGFGVnBK?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-fdbad11b1b6c55ab",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "\"장애인 고용 대신 돈으로\"…작년 부담금 9000억원 육박",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "\"장애인 고용 대신 돈으로\"…작년 부담금 9000억원 육박",
+    "source": "뉴시스",
+    "publishedAt": "2026-07-06T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vdVh3OEpZa2xmUWM3Y1J3TENFakQ1cUVVVUczOHViVy1jeDJKMnNGdHB4RzZHN3NEZ2pHUHRpT05qRFZyUExWODk5RHVJWTRXOUZCVk9ubXdtNTFvRUxXaNIBeEFVX3lxTE94RFBtRDAteUtJdXFOcWZIS3JMbklrRnNUbl9sVFpvUHJKaVVfbjZpemFXUjNnS01mWVdsZHE3Y2hyZDk1SGV6ZnV6OFpSTG14aldTcGtOaUxmc2daZTZvUnpRR1AxalByd0ZMelgxTWNTT1ZTTTdzTA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-3e9091cc49d36bbe",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인 의무고용제도, 공공부문 부담금 8,898억원 공공기관 장애인 고용 확대·제도 실효성 높여야",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "장애인 의무고용제도, 공공부문 부담금 8,898억원 공공기관 장애인 고용 확대·제도 실효성 높여야",
+    "source": "웰페어뉴스",
+    "publishedAt": "2026-07-10T15:00:37+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XRlBQNTJTcFloTjJNM1A4WjIxeXB3Q1hSYUZTdDYycUFlRThyY3UtLWFSVlI4cThsSUhRejdqVk1rdWgxWS05cEdiV21FUzNIVGVYNktlblJxUFhrNjlHNjBybnpkNktmMEg4cEJqQQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-c049571cf8e477ea",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인 의무고용, 부담금으로 대신…공공부문도 반복",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "장애인 의무고용, 부담금으로 대신…공공부문도 반복",
+    "source": "애드뉴스인천",
+    "publishedAt": "2026-07-06T11:28:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HY1pobzdsUkpPS2FJX0hPZnRrY0piZVU1UEJFRXQxZDNab1VLM09MdzZOd2JUT0N5RkJBTGo4MlptMWFzVHNxVHBnczFtZDhqcmk2UVYwVGE1R2JhQnl1TzBQeWkyQW84QnNF?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-778ce83c02788aec",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인고용부담금 손금산입에 관한 대법원 판결 선고",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "장애인고용부담금 손금산입에 관한 대법원 판결 선고",
+    "source": "법률신문",
+    "publishedAt": "2026-06-25T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tc3ZhUEJTam50WDR1ZmY4RTF6UkJCeXdNeEFPZ2ktTC1FLVNIMzRXUDVBZGg2RDV5WWp3Y1RjWFRMQkNBUmh4RkZfX3d3UkVkLUFmN1BGbkV6VFk0ODQzc0pvazVqZlhRMEVuWHhR0gFyQVVfeXFMT0tRRkNxVXJWcC1iSG1nZE9xdGJ0TUpQZHdOY3Vmd3FZTDM4d1F5ZlF6LXkyVGdnYnlnM1B2eHBTQmI3YW44WGkzbUtkNVdXb29VbE5KWFEwMmIyTUNEWDlhSldIbkpiQzJsYkRqSmRIdE1B?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-392ae2ddf0dae505",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "9000억 돈으로 때운 장애인 고용… 교육청도 수백억씩 토해내",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "9000억 돈으로 때운 장애인 고용… 교육청도 수백억씩 토해내",
+    "source": "한국일보",
+    "publishedAt": "2026-07-06T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52NTRJSGloUGNFa3ppQXFBbjRKTExYSFdCTzN4b0pMYy1HeGh4cDROSmlva0E3NFVQQUV1NGRSblRvQ2tSdHZILWt6MFJYQS1icC1tNGdnMkQxaGJRSW01ckFKZmxMSm9LLW5XYVZB0gFzQVVfeXFMT3JQQXl0c2FRcy1URk8tSjJEaUVMQzMzOFpsSE5sRHVUN3ZxcmtNbVozVDNOamVJaGRyZC13ZU1PdW9ianlCN3hKOXA3V0lIbTJwR040dTNOUDk3NEVSU3JwNUJsV3pDaDZKMlN1a3lCenh0QQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-d877e26da02601f7",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[데이터 팝콘] 장애인 기업·고용, 숫자는 웃지만... 체감은?",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[데이터 팝콘] 장애인 기업·고용, 숫자는 웃지만... 체감은?",
+    "source": "투데이신문",
+    "publishedAt": "2026-07-11T09:50:03+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2cHJma0phTVlGVGpZT2lDS1dMVDctMkVTcHNGMWpkQ1FvM0VGYXNHak5CRFQ4UzNhb3hNbXlWbXJidzQ5ODBWODN2UkpZMnJmWDkyYm1mMGZ3S2ZZTDJJYU5IVHJHOWRVbHRZ0gFvQVVfeXFMUGNPc0lzeHFmLWtlQjVOMkVLbG1ISkRkNGx4dTExSGRlUnd5NkliTTQ3djU0V1RKekstV2RSc0xQZ3ZqdEt3dk5oTFVqWmZ3RVZ6aTI4WC1vaFJGM1BTZ3JrNUxzWk1GY1NpY05rbVhn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-f330f2d0c6a48252",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "법인카드 사적 사용하고 부당 손금산입 '꼼수' 적발",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "법인카드 사적 사용하고 부당 손금산입 '꼼수' 적발",
+    "source": "한국세정신문",
+    "publishedAt": "2026-02-23T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUmJSSkNKU3VZdk5pUmd2VkFZcXNHTUhEZm02ckZJb2ctQ1Fyc3RWSHZza0RweDZuUzhQMXItY3NmcnVlVDVSaWYtUGlEc1hKenVoNC1oVEV6NUJ4LW15eGQ0YUk?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-81df49752634ed0d",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "[사례] 법인카드·고가차량은 우습다?… 황당 세금 탈루 유형",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[사례] 법인카드·고가차량은 우습다?… 황당 세금 탈루 유형",
+    "source": "조세일보",
+    "publishedAt": "2026-02-23T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkX0JRVGhEbmxuUFVDcEVpRFRpYWdwNDBleE95LTNKMFJxRkFSWFlBbkRCSGFIdFBTc096XzlpQldPSkNQSnpzcGs2UVhiREZPQVhUT041bGM5MUd4WEFF?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-840f056ae506712d",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "[사례] 법인세 신고내용 확인 주요 추징 사례",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[사례] 법인세 신고내용 확인 주요 추징 사례",
+    "source": "세정일보",
+    "publishedAt": "2026-02-23T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQS09oS195cnRwTmxuOG1YX2ZrczdBNnh4OUZzRzdLeGFjTElYd2xMUXF6N04yUE9QTjJ3cUFob19obXBLYkpvQWFBN0hPRnFNUzlfVjhfY2hMdWIxeVlUdnpOWl9xaktqR1V3YQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-ce504fe22a65c171",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "기업연구소 연구개발차량 비용 손금불산입 특례대상 해당",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "기업연구소 연구개발차량 비용 손금불산입 특례대상 해당",
+    "source": "intn.co.kr",
+    "publishedAt": "2020-03-06T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jb1JvYVZkXzhUWlgxeF9TYnRQbDJWLXNKY1RRTW5reFhSeVg5QVNWX0Z0RlBvLVNReG9iUENJY1NQOGl4MjQ3RVJrR0hOak96eWpueTZvUldmRGhRek1ubndPVFUxMk90WGc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-55bf42b6b5d47379",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "업무용승용차 비용처리 기준 “이것만은 꼭 준수하세요!”",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "업무용승용차 비용처리 기준 “이것만은 꼭 준수하세요!”",
+    "source": "세무사신문",
+    "publishedAt": "2020-03-05T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSdWhOeHRQN0ZfNW9BMlpFV0JuSWQ0U3B5c1RvTU9IN0w0ZV9Jd2FibW1ZLW1obWF3Sk1BcWZTcG5aVUNubVJEOVdieml3d1dBR2pQMzZCaXNRQVlyaGEwdnJrUHJOeHBpdmFSdw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-bf6c3dc3948f6454",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "[마이더스] 승용차는 절세 수단인가?",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[마이더스] 승용차는 절세 수단인가?",
+    "source": "연합뉴스",
+    "publishedAt": "2023-07-28T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtVXBSVFhqU2Z1T0UxQXhVdUdQVEZ2TXJwbWt1c1pWLTEtdVkyT1o0LW52Sm95aWpiT0U5NGE5UVl5UzJtYkQxU2gzSV9mdjZrQTRyS1VxYURYWjjSAWBBVV95cUxNTG5kVkw3TENpWGh4aVhLS3FLSjBDQ0FQSUR1b2xYbjhMUUE0dUlJSjF3N3FOd0o4Ulc0ZmhGX1FsZl9MWWQ4YjdfODN6R1ZIRVMyT2xwamdhM3lwSEQxNG0?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-8e34c03ceabc3343",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "세무사회, 소기업 업무용승용차 손금불산입 특례 예외 적용되나 '기대'",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "세무사회, 소기업 업무용승용차 손금불산입 특례 예외 적용되나 '기대'",
+    "source": "조세금융신문",
+    "publishedAt": "2018-12-04T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yOWNTVk9qVjlMemhpTmVhZmtuNnM4d2xfU1JpS1NlbTJUVk9fU3Rva1l0V0gtODRIR0RONW1TVS1WTEJWMmxKQVA2LXNlQkp4MU00VWc3d0F6TmJBR3BCTTh3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-64e09297234a2791",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "[양경섭 세무사의 절세 비법 3] 업무용 승용차 관련 비용 명세서 미제출 가산세 신설",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[양경섭 세무사의 절세 비법 3] 업무용 승용차 관련 비용 명세서 미제출 가산세 신설",
+    "source": "금융경제신문",
+    "publishedAt": "2022-02-11T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSGpDVkJQbzE1NkZBdmp4QmFEVEpKTmJfdTBKSUVoWDZ0dHdnd192MFlBWmN5dHZlM3haYkNpZXNOSHV5a01TR1hoYVFFY0Z4cFhzd1pvZjFmNWZxX1JhdXpMeW9udHQtNzFLTtIBb0FVX3lxTFBqM0ZRQXNma0d2c2xSRXlpamV3Ulk3QnVtdlJodTlRb3JRVjZSRDVmbUllYXpfb1NOV1c4anRMclVDZ2JuTE9lUmVqVHcyVW1veDlQS3NJQjNXQXhNT0ZBd3hzQmkzQVVpUWowc09zaw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-5d16aab494cac846",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "[2016 세법시행령] 업무용차량 감가상각 한도 연 800만원",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[2016 세법시행령] 업무용차량 감가상각 한도 연 800만원",
+    "source": "뉴스핌",
+    "publishedAt": "2015-12-23T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wR0liOTBoOU55RXdjOG0xczdqWjNESWdRVmRVM0MtNUUtQk56T0VXVzB2X01lWTc5MjhxczVfVXEyRTJVYV81RjFtNUFpTXpTX3NJT2lhcjhwY2RM?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-9fa6e45d76c9ead4",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "[김완일의 절세가인] 비상장주식 평가할 때 골칫거리 업무용승용차 손금불산입액",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[김완일의 절세가인] 비상장주식 평가할 때 골칫거리 업무용승용차 손금불산입액",
+    "source": "세정일보",
+    "publishedAt": "2024-11-25T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FNjNnUF9VMDIyQ214bzBkTWhCOGRic05CV3ZCc2JXZzY5clZEWW5DaUlMV3l4bEFuQWVDMFRxaTh4NzMydXJmekYyX2ljaVZnMWRfZ1hhQzJ2ZW9iUVlQanktOTVnQ2ZmSm5LTg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-179ccdb18b0472e7",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "[쟁점 예규] 업무용승용차 감가상각 한도초과 이월액 800만원 한도 손금 산입",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[쟁점 예규] 업무용승용차 감가상각 한도초과 이월액 800만원 한도 손금 산입",
+    "source": "intn.co.kr",
+    "publishedAt": "2020-11-06T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53cW9fbE9FeDVwaVZKNGFSLUMxc2VZcFBlNzMzZXlzOEYyWWJYTS10QmtlSUprdkc4WkNhU1RpNlFvWU9MdDdNRWt3RnlGX3k0eFk2cVRKOFNfdDhSQlRjZHVfRzRrdzhUYVE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-648f600ed0044021",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "법인차, '전용번호판' 안 달면 세금 혜택 사라진다 [23년 세법개정 후속 시행령]",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "법인차, '전용번호판' 안 달면 세금 혜택 사라진다 [23년 세법개정 후속 시행령]",
+    "source": "조세일보",
+    "publishedAt": "2024-01-23T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41QmRMVmNmVjBuS3RUaGkwQ0g3SWRrZE5kZFI0ZmZxeTE3dVB6S2JnOTVpNWh4cXZMQUNxNEhUcDFMYVJnS3VNbW1UcWFUSXhscE1YNWxkb1NIOTlSbmtn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-e2b3e707afaa540a",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "[국세 예규] 파견 받은 직원에 업무용승용차 제공한 법인 손금인정 받을까?",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[국세 예규] 파견 받은 직원에 업무용승용차 제공한 법인 손금인정 받을까?",
+    "source": "intn.co.kr",
+    "publishedAt": "2021-11-08T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mS05obFAtQjllSFlSQnB1Mkx5ZWhLODBySXdHX19rVllhUGJhSzJIUDhmdnJIMnN0Q3R4cHNqTXZYUEJoOE9KUFZkdVlwN1ZTdnV0MGROSXAzNG5MYk9heFl2VVNIQjdsNFE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-42f93c6914740a4e",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "[참고] '업무용승용차' 세금, 2020년 이후 새롭게 바뀌는 사항",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[참고] '업무용승용차' 세금, 2020년 이후 새롭게 바뀌는 사항",
+    "source": "세정일보",
+    "publishedAt": "2020-11-26T06:24:30+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaURmYmNqN1RfWHZQdi1MWnhlYWMxVHJnLUluNTJQQ0hRYTUzbWZtcV9XaGZxVWE3a2hFaDBpREhwclBvcmQ2dlRnU0hDT2ZxNllWV01rVlhHYjhBOTN5SnBnVl9UWVcxZzdLQg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-628de3b1b187a777",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "중소·중견기업 해외법인 주재원 인건비 '필요경비' 인정 [세법시행령]",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "중소·중견기업 해외법인 주재원 인건비 '필요경비' 인정 [세법시행령]",
+    "source": "조세일보",
+    "publishedAt": "2020-01-05T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMT282Y1BZc3BoRnVYQmpUWVQxZVVZcFp1bFk2N05YbXhPY1JzLVB0RTBSLVF6bjVRUEZnT0swNDRLWGFEc2dacVhQTHY4SXNKSzZRSVllYUNsdXBBY1Nv?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-dc6f758658c51a9b",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[칼럼] 경영자가 반드시 알아야 할 '가지급금 인정이자'...관리 실패 시 불러올 세무 리스크",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[칼럼] 경영자가 반드시 알아야 할 '가지급금 인정이자'...관리 실패 시 불러올 세무 리스크",
+    "source": "보험저널",
+    "publishedAt": "2025-09-10T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kUFYyYXVtQkt2OEQwR2JkQjV3NHdIeE1iV2hQeGl6bEZCSUdTT3FhbjBzbEhRaW11c2M3RHlmdHQ1VTZBbmNCUUFYT25NUlB2SlRqUlZBOWZMWUg5SXBmeXpvYzFtX2loa0tRM3kzOA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-705b92bd51e1e45e",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "시중금리 하락세 무시…가지급금 인정이자율, 낮출 때 됐다",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "시중금리 하락세 무시…가지급금 인정이자율, 낮출 때 됐다",
+    "source": "intn.co.kr",
+    "publishedAt": "2021-03-25T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRkZCaGR5bTQ4VGh2SHZheFU3emkxRDhzRG1VY2k4cVZJWjhnU3U4WmlvNXVhWXJvZk45VGZ4VXJ3elBGQnFjc2VEakhXRWI2NUtucG03cVJrQkZHbEVDT3ZucnNpdFhEaUE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-accd42c8896bbd6e",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[비즈파트너즈의 실전 법인영업]가지급금 인정이자 원본에 가산하면 대표자 상여로 처분",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[비즈파트너즈의 실전 법인영업]가지급금 인정이자 원본에 가산하면 대표자 상여로 처분",
+    "source": "한국보험신문",
+    "publishedAt": "2021-04-12T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TZmE2TUEzbk1mTEZWajM2V1NZa2w3Wk5kRUU5QVFoeG5vdmJqVzBnLWk4QVNuYmhWdFh4Ykt2QjAwc2xIUzdPQWN2TjByNnBFX3lYbXpLQWZzWktFeG5feGZlSmdiSjlnbVNZ0gFvQVVfeXFMTllLcWJQR0x4MnN3bHJkOUJ0VFRKWmN0Y2ZJakdBRlZVd2hLSlBZejdQXy1HamRZNGo3WWNIUmNDdlNZcG5FLUw1LXFJYXIxMWVzRmczaEZFSk9JaVZHNGpmaVhjZkdmZkJvZTA2c3lj?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-62841c482ac316e5",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[기업성장 컨설팅] 비상장 주식가치 높이는 가지급금",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[기업성장 컨설팅] 비상장 주식가치 높이는 가지급금",
+    "source": "전자신문",
+    "publishedAt": "2023-08-10T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uUVBqQ3JNTUxLTWwyS3dpbzVaRzQ3b0JJSzJhc2c2N21iWWljSS1GU3VwRkhkVWNRSGp0YXNRa3FTN0w2TzgyZHpRaVRsUQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-1f0db92124c8024f",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[예규·판례]쟁점인정이자 익금산입 대표자 상여처분 잘못 아냐…기각결정",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[예규·판례]쟁점인정이자 익금산입 대표자 상여처분 잘못 아냐…기각결정",
+    "source": "조세금융신문",
+    "publishedAt": "2021-08-22T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSmRZX19tMjVUVm9wcFBnVDRnVFNVM0lRUzFObUFhc3FRNVJ6eGhyc1hBemtIdHd5QXZfWENwT1NUZUZEVWJKZmozVkZWTzNMb2RYbnA4MGlZeEFPMHJta3pTbw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-54d91457ca6ec9af",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "법인세 신고없이 폐업한 법인 가지급금 인정이자 소득 산입 대표이사 상여 처분",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "법인세 신고없이 폐업한 법인 가지급금 인정이자 소득 산입 대표이사 상여 처분",
+    "source": "경기신문",
+    "publishedAt": "2018-11-08T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4NXdDX2hMUmVIVmVJMmg0blJXOW9hemwzeGhFUG0xNDNmR0t5QmJkUW1yTGxGNmMxbmh1SEZ5RTZGb2p5VHVoN2otOWk5YXJKam1Xb0tKTlZRZHNmbGg3RVlB?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-cd9b2d3533f71fbc",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "대법, \"법인세법상 가지급금 ‘당좌대출이자율’ 선택, 3년 의무적용해야\"",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "대법, \"법인세법상 가지급금 ‘당좌대출이자율’ 선택, 3년 의무적용해야\"",
+    "source": "세정일보",
+    "publishedAt": "2023-11-06T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1heE0yVU9fUnF3eS1xS1VTWDcxVmlON21ENjFnWTN5SG9FRXFabUZrck1yRTJXZzV2TFlEX0ZvZUNGQkxyS0xKRHJxWUJEVnU4ekZ0clNSSUJMSVpmbHFBOHRpbkpGWE0wQ1duMw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-0f55c7a715694e69",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "가지급금과 대여금",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "가지급금과 대여금",
+    "source": "대한전문건설신문",
+    "publishedAt": "2019-04-15T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ucTdhWjM2b2V3aW9FeFJEZ3NueXp3eWluR01feUZKZ1NIV1dfcnJDYnpjdVdYTXo3TDkwNTc1emdtUWdaQ2Eyakdpa29aeFNEZzFXTWEzeG5yUjRSR09TYldQOG9ZMzBo0gFsQVVfeXFMTy1WbS1UQ0UtT3ZGX1k4dmJRWERnUXlNMnlqWm5UaXBlSjI0anM4MGR0VWYweFJKLWc1Skh2UlZWY1hNUXFGam5udHRFa3JHTnhGS1poOERmSlZPZmdtSDV0UGF3OWF0cEg4Szdv?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-196a31e22bd9825a",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[세무정보 안내] 2024년 귀속 법인세 신고 시 유의사항",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[세무정보 안내] 2024년 귀속 법인세 신고 시 유의사항",
+    "source": "세무사신문",
+    "publishedAt": "2025-03-21T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wRk5Gbnk0SUFscjVDR0pYN3J4M3FTTmZWTTk5bHJjand2VUFpaS03cEdCVGp6aG9FRTB0SXRyN1dQdVZTblRMUk4zb3dnWjdJLUkwdjhQeFg2NTBtQml6VFRkaTRKdEVJZ21fN3NR?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-7a8a3c9a60369a82",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "업무무관 가지급금 인정이자, 업무승용차 사적사용 등",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "업무무관 가지급금 인정이자, 업무승용차 사적사용 등",
+    "source": "intn.co.kr",
+    "publishedAt": "2021-03-05T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpZG1XNERfQjFEQ241LV9lQUtvMm5mVGhnRlIxMDZRVlJXa28wWnVUd3FfdjA0TEFxbld3VnhmZGpjeVRHa2Qya1dRVkZza2dkbklPbHN4MDdXSG9fa2NhUl9RLUUydy1SRFE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-7534d7b1fa99308d",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "가지급금이 발생하면 세무조사를 받을 수 있다",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "가지급금이 발생하면 세무조사를 받을 수 있다",
+    "source": "모바일한경",
+    "publishedAt": "2022-06-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXNnZ3NpbEJXZ1JiWklTOUZmbGFnRnVCaHFuTWV5THhEcjNYanhVZUNROFc1SUhhMUVGVlduWThkWmFmbkNLdzM3Q0VVb29LRFV4Ym44MXBFLWN6YTIxNFZycDZEQkVVTGR0bTNPQzV6c3BCUDE0d1l4UzNlVDZiWFZqMzhGd0U?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-dc79d0a73d07d706",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[기업성장 컨설팅] 미처분이익잉여금과 가지급금 동시에 해결하는 배당정책",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[기업성장 컨설팅] 미처분이익잉여금과 가지급금 동시에 해결하는 배당정책",
+    "source": "전자신문",
+    "publishedAt": "2024-11-28T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtV05OeW5zVWFSX25ZUExqU3MtN3J1YjBHUWNCUlY2SGtqVkpaUG13SVVxOWhPZUhiTHg4dDhWczNwajFHbEg1MVpVb2pjZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-864620834ee6877e",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "2021년 귀속 법인세 신고시 주의사항",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "2021년 귀속 법인세 신고시 주의사항",
+    "source": "세무사신문",
+    "publishedAt": "2022-03-02T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12SFdmWTg0ZzkxWDM4N2JadXZsbDhjS3FTTTVjRWNLZ0ZXQmgwcDV3N3NNMjRhUldpSlM2a29Ta0w2NGh4eGpuWmk0c0hwdWstV0s2dW5jQ3VkclpfYVBrbFR2cHNiMUUzWnpHbUZ3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-0bd73165f4ee4721",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "가지급금 처리, 결산기말 뒤로 미루지 말자",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "가지급금 처리, 결산기말 뒤로 미루지 말자",
+    "source": "모바일한경",
+    "publishedAt": "2024-01-02T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWi1nOXp1UUJtYWhQQk1xNVB5QWNuZWU2cjlBVW9GUVZ3X253RzI4NGliUDFTOG5GbC14bVUyV0dWZG9VZFZOU2NfVWttaHotU1R6U1V1WGJMY2VfVXlMeDdydHJxQVEyNExITWN0WjFsREZTOFRjTFpIMjVLWmtEUnBXVHh3OVE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-3bb0d1e1567b9413",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "“법인세 신고 이렇게 대충하면 ‘딱’ 걸린다.”",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "“법인세 신고 이렇게 대충하면 ‘딱’ 걸린다.”",
+    "source": "intn.co.kr",
+    "publishedAt": "2023-02-27T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rVzJCUUE0ZFA5WmVZNzl5d0gzWmt4dDhBWUU2d2ctN3RlbFZCQ3BhTEJfSkRPMW9MUXpnZmNNTzJZU01xVElfR1djUS1rVGFxVHh3SmVwUzlVdnRTMHJPZlk3N2puRmR5RkE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-9677c2e03e9e719f",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "협력업체, 파견업체, 계열사 등의 직원들에게 제공한 할인 혜택이 접대비에 해당되는지 여부",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "협력업체, 파견업체, 계열사 등의 직원들에게 제공한 할인 혜택이 접대비에 해당되는지 여부",
+    "source": "법률신문",
+    "publishedAt": "2026-07-02T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXNFVNU2RaZ3hodml5cUxPSmZlWFBhcjNyWHVtbldka0hadmJfQW5TYnlZZjctSEpPcG02eWVDcHB5am9LNTBjWGFhS2RoanFiYksyamxjdGtMcDJ1b3dPZFRYUUVmcE9VYXlqMVh30gFyQVVfeXFMTzZRLXBTbUQxd1dvc2hoNzAtRk1JcnBSOU9XbVpkcVdyWjhSbHZ4UHJTRFFWMlVQeHJhVWpobktMd0E1OWswYzBDcVpTdy1fVDBhZ3M4RlFTVHdHcm52bUlFdUtwbm1DS1BOSUZkTmVhZk5n?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-30691c5a98684d8c",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "중소기업 접대비 손금불산입 특례 지속 적용 > 법인세",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "중소기업 접대비 손금불산입 특례 지속 적용 > 법인세",
+    "source": "조세일보",
+    "publishedAt": "2026-07-09T17:28:49+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjVRRUctdElkbVMtUXd0NnJCX19oeTdqQzJEODlkNWlFNXdSOTVLN3pVQjVSYjlLbTh3aFJ5ZmpSMFlDR0FORjQtMlR2YWQxUUlyUXhNTzFQakVlMk1XSmNFZENFQm1hOElrTm5oVU05U3lDRVdmdGo3RHJKZ3NBVVNncDFPZExqaEVyOEtQcXlzaDJkVUpyMk9fbFF5NUU?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-19ffcf4bd459b306",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "협력업체 직원에 할인판매하면 접대비?",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "협력업체 직원에 할인판매하면 접대비?",
+    "source": "법치뉴스",
+    "publishedAt": "2026-02-24T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tbDV4ekdndGt3c0dIVU1fcUxCZDcteFJ5WkJaZmYtNm10X3R0WHlmSzFEVkZJTTctR0hCQ2p6Tm15bDB2UzVUenJvYTJxWFBzdDh1VG0wZHNsN2pmN3NWVXRackLSAWhBVV95cUxOQjUtUmx2eDZPam5QdHhwM1Jkd2NHWmV0OEpXYm9MUXlTeFF2Y1BwLW90Y2VsU1YyUzlNV3RjYzNmYjJtaFBNWklOX2o3RmQ1ZEcwMnd1V1JiZy01S2ExSWpLbUZQeFJHZA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-2f97f71cc14a67d6",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "[판세] 협력사 직원 등에게 제공한 할인혜택 접대비로 볼 수 있나?",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[판세] 협력사 직원 등에게 제공한 할인혜택 접대비로 볼 수 있나?",
+    "source": "세정일보",
+    "publishedAt": "2026-04-29T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FamotVUs3REFaX1c5T2IxZ3VjREhYOGdOUWkyTEdvTko4bjdKOFNlUW9HT0xhME84OEljWTBLYUVfdW5TWU9jNmQwZ24yVVlmc2IwNURwbzAydFJOc3ZMSXNRd2VpeGlob2lwcg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-29890f9b94ca6b6b",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "[단독] 나이키 108억 법인세 취소…대법 “협력사 할인, 접대비 아냐”",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[단독] 나이키 108억 법인세 취소…대법 “협력사 할인, 접대비 아냐”",
+    "source": "이투데이",
+    "publishedAt": "2026-03-11T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xNnpOSHhCTUtvenZWV1NPRTQ5RmlteXdZM3NBS244eU9CZmNaWHZsTVYxNUo1N0h4bjZiQWJtc3oyZ0k1Ml9sekJqWnlrTURISGtsbg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-97a781a2d926f2cf",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "[법인세 집행기준] 임원 해당 여부, 직책 관계없이 직무 실질내용 따라 판단",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[법인세 집행기준] 임원 해당 여부, 직책 관계없이 직무 실질내용 따라 판단",
+    "source": "intn.co.kr",
+    "publishedAt": "2023-08-25T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmbERDUngtbDBqUWwtcldfaWtoZUktdW9JMjYwenpyYXNnN0wtQmtQYmxnMVo4ZW0tSUNtQkowRTJXbklCTDlDMGctVWNpWEdDZEZ4SnEtZlpGSlVFNWN6anJpMFIxbDBTYlE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-506bebebe369f587",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "70년 묵은 접대비 제도, 이제는 바꿔보자",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "70년 묵은 접대비 제도, 이제는 바꿔보자",
+    "source": "택스워치",
+    "publishedAt": "2019-03-07T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00cF91UF85czlfRTN3LXplRlViUGRDZ2o3eUQzQ0JuMjQtT3FycS1pZGZnRkVtYVJGQlU1dnFvZnh5endHbUlreEtHbWlQaDBuZEpMcmtUN3p4T1ZWUG9qcXRLRQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-51372db10c0a892c",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "리베이트는 접대비 불인정…덩치 커진 세무조사 과징금",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "리베이트는 접대비 불인정…덩치 커진 세무조사 과징금",
+    "source": "메디파나뉴스",
+    "publishedAt": "2018-09-21T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zSkE5MG1JUGZhQlA4ZVJUbDB2T096V1BFVzRRSnJ0Um84MUlpZXZRM0JPUUxrYTBPdVVuZWVNanJMcmhzLTNwYjlYOGtvYXBIUGlROFJHNTFxTGdoalRWV2xlMlc3YjFlMHlj?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-b1c01097f51263c1",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "2019년 개정세법 주요내용 : 법인세편",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "2019년 개정세법 주요내용 : 법인세편",
+    "source": "법률신문",
+    "publishedAt": "2019-03-15T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1ZWRKZDRwNWpoc0ZBekppeFo5eEYwNEZWSENiVHdUbm1Nekw3WmFjUUR6RERnX2lKOUhFUmx6cWlrZ0ZVeUwwOFIxUThvbThxUTlNUEdvZ0dhZTZheEdiQkQxYXF1cVNXclpPdlhn0gFyQVVfeXFMTTdlelFCamVhMXdnRjBDeXl1ZDRpQmZOUEpjLTNsQXcxM21HdF9xR0lTc1FacmFpdC1lXzMtS0Q1SkNkWjRjV3oxQ1NLQjIxa3hFRV9lOEx0TTRhZXg2eFc2ODBoNFhUajl0NkNlWjc3UGlR?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-74a38e2ed0a977af",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "[인사이드 스토리]포스코대우의 커미션 활용법",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[인사이드 스토리]포스코대우의 커미션 활용법",
+    "source": "비즈워치",
+    "publishedAt": "2017-10-17T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9neXVVZ0tyVjVhN2YxWkN4Wks2c2hhSWRQNHJrLUc3Wlpqc0dQbFRwcGFhSl9FdEpuc2FzQXdnbFBLaVl4ZUdUSUk1N284bk0zQmdkejNRc09lQ19wcEdfWUNxWjZTZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-6f123a3dbbead774",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "직원 할인, 접대비 아닌 매출에누리입니다",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "직원 할인, 접대비 아닌 매출에누리입니다",
+    "source": "브런치",
+    "publishedAt": "2026-04-20T19:07:27+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9peVNZVnFCM0VQRDh3YVpIdEdfb3RocWJTNTN2TXU0WUpWSWFwRXV6UjhJTUhJd1AycFhwbDhnR0NoWVNrYzVaMGJ6LTM?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-056437568d83425e",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "납품업체가 판촉직원 파견하고 마트에 지급한 점내광고비는 판매장려금",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "납품업체가 판촉직원 파견하고 마트에 지급한 점내광고비는 판매장려금",
+    "source": "intn.co.kr",
+    "publishedAt": "2021-06-23T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUGFYZXZaNWwzNnZYbl9EVUpWbDl2VXQzSTJ6YXNNa3ZaeG9RQVNKNUlCZXFxQTJPLTZYdTRCSFpDOGRGU2Ezczl2YkxkMDYtdHQzZW1yaUtTOFZfZHY3OEdRVUR5bWdTVFE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-31a315b719d50180",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "'백근창 세무사'의 ‘25년 귀속 법인세 신고 핵심 체크포인트",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "'백근창 세무사'의 ‘25년 귀속 법인세 신고 핵심 체크포인트",
+    "source": "세정일보",
+    "publishedAt": "2026-02-26T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWYkQ1Tk4yWXlleUZLemxmd0ZCSlpZSWt2aW13SmU2b19nNGdtNXZvUmJ6dTlrXzhyUG5CVS1OTjJlQ2UwZko5aWVBSFRJbm9HNDNINExxcmh4UkhtY3pZaWNSM1c1OXNHdnk2bw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-020436bc830d14a7",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "[심청이] 선주(船主)님이 챙긴 커미션은 ‘접대비? 판매부대비?’",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[심청이] 선주(船主)님이 챙긴 커미션은 ‘접대비? 판매부대비?’",
+    "source": "세정일보",
+    "publishedAt": "2015-02-06T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RSU5ZdjdDa2wwN3F0VU1ZMVg0R2ZIekJkLTRjajZzUXZ5U3lrZzRfQ29ZM3MtVzJKNjNnTjRVRHNjSnR2a0hHcVdBWDU2MXBqOGpkQUJlNEtuVUpvem03V1dNOTBwdmxlckhv?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-37dce364cc6db809",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "2025년 귀속 법인세 신고시 유의사항",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "2025년 귀속 법인세 신고시 유의사항",
+    "source": "세무사신문",
+    "publishedAt": "2026-02-26T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRcm5RTjg3dWE5NVFYZzdpcF9XQVo4RktUYUQyNjk2SFc0bEZFRElEYUxObkR4NEw1OFotTlJwa2pWQnB3ZDRsbmVSV0NKeER4a01uY1JZX3FkMV96SHVaWVhTaUlnMFAwUDZZdnpB?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-9d7842a89b3fb920",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "[국세 예규] 소득대비 과다지급이자 손금불산입....일반 지주회사 적용 안 돼",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[국세 예규] 소득대비 과다지급이자 손금불산입....일반 지주회사 적용 안 돼",
+    "source": "intn.co.kr",
+    "publishedAt": "2025-01-08T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EczgzMm45TDluMTR1UGM1VGVPXzlWNmNTZmhPb3BUa1U3cGJNRDVvcUZUVVVtVnpmeVI5ZklJZEFnVjlWX0NYbnJkWE9GalN6TVZySHRFQ01CSjRxTFpyODN5Vmo?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-fbfc94c4bcdf9d41",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "외국법인의 국내 사업장에 대해서도 과소자본세제가 적용되고, 이때 손금불산입되는 지급이자는 국내원천소득에 해당한다는 판결",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "외국법인의 국내 사업장에 대해서도 과소자본세제가 적용되고, 이때 손금불산입되는 지급이자는 국내원천소득에 해당한다는 판결",
+    "source": "법률신문",
+    "publishedAt": "2022-06-16T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NNE15ZWpPZEx3Sk91U2ktQURBM19OWG80U01QYWRoNWtYMkZZT2doNjl6a2ZhenJFMExILTdLeFh1MkJyRU1oRDJMdW5lazNYS3BZN2YtSDRHekRuWGlOcDRxV2J6T1RIRVZsX21R0gFyQVVfeXFMUHJTMGp4bTZfWmJ4dnh0bi1mcnZDUTBoSXdCWDVZanNQRGFvSDlRamVFVUtBRTZOR1RtbGxzRmVUTkctRURyVkM2SGxpVmhSaHZINEVVTUJqX0tZYlE4M1dMUWdEdjd2V3dDVEdqREtFQkNR?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-43b4b61fec0ced1e",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "[회계법인 마일스톤의 스타트업 CFO Case Study] 해외자회사에게 빌려준 대여금이 우리회사 법인세에 미치는 영향",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[회계법인 마일스톤의 스타트업 CFO Case Study] 해외자회사에게 빌려준 대여금이 우리회사 법인세에 미치는 영향",
+    "source": "플래텀(Platum)",
+    "publishedAt": "2024-10-02T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkcExQdzBJclZUTENfX1pvRllGUWJmVVdLQ29JNXlOYnhERVpWWUZWSDk1VjR2d2RTQU5PcGN6ZzN3UnFUUkdNeQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-32de8dc32562656c",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "해외 모회사에게 과다하게 받은 차입금에 대한 이자비용 처리",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "해외 모회사에게 과다하게 받은 차입금에 대한 이자비용 처리",
+    "source": "벤처스퀘어",
+    "publishedAt": "2024-11-18T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iOEg5ci1NajhMWWU5WGlfcG5WVGR5UUpxZFEzR09ya25yMTFNYWVtZkNGamExZ052NUxIM3JmemNybnNyaEJrcllaUTByUQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-7e15b6ab1408de96",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "상법 위반한 자기주식…자본으로 꾸미고, 이자 누락했다가 수억원 과세",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "상법 위반한 자기주식…자본으로 꾸미고, 이자 누락했다가 수억원 과세",
+    "source": "조세금융신문",
+    "publishedAt": "2023-02-27T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jUEdXbWJNU3c4em44MFM3NjFpdWpOX1RVeEozUWRNcGRZWGFGZ3VrU1ZtNjlwZDlhSzVycGVFRVhfRGl3TGt6VHBhZF9ZZV8waEFqQjVqSXk3djNmdHpBQWRvNA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-1c3740d1637b9ae6",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "[사례] 법인세 주요 신고내용확인 추징 사례",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[사례] 법인세 주요 신고내용확인 추징 사례",
+    "source": "세정일보",
+    "publishedAt": "2023-02-27T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqb1JOMUFacWNXdGxwREtqY19Ta0psVk8ycmVsdWo4M3ZiQU13Y2toTlRXTllVdFNESFBubWZjV196Qm1SYm5UcFNmSnlqWk41UGJVRnh6eUN3aWRXZDZrN1ItRHBzQUYxUzZzQw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-d17af248ea6b8faa",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "제3자에 대한 매입행위로 특수관계자에게…",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "제3자에 대한 매입행위로 특수관계자에게…",
+    "source": "한국세정신문",
+    "publishedAt": "2015-12-08T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90NTdaX3Z4RGZCOEQyOFpYVURxOEU0TTctQlhQNkl3am91dWRmV0JqdzBtUmtxMXZQLXhXZy1WY01NMlVNRUc5b1BodENJdG9mSW9tcHAxUDBwZFRaRUQ3SElB?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-fb3e7d87bd4660ae",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "차입금 과다법인 지급이자 손금에 산입할 수 없다",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "차입금 과다법인 지급이자 손금에 산입할 수 없다",
+    "source": "법률신문",
+    "publishedAt": "2007-08-14T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rZFViYjRJaDZfT2NtUmF5UTd1Q0pzd0NTLVJPLVA3dWZxYmxmVkhHWUN1bERON2l3dVo5T29mXy1PV0MzNV9ZWlA4ZFJCZmUtaUFIb1BiNHlma3RTcFNHaks5eFQwWkpQb0ZDSdIBcEFVX3lxTE5mdzlSQVBCSXlHXzh1RWx5Qm5ZcUlpTEV3bldGNEIzZjVRbnZ0SjZDOVNTSjhzLW5xblI0ZUY2T1hkenAtay1FVkNjbHlzRFlXd3JoNHZhRWtxLXhkVnYwRVlpWW1JVUZNUTViY1RPSnU?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-05f59ec209cd002a",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "[세법해석 사례] 이자지급일 1년 초과해도 매년 이자 지급하면…기간경과 이자는 손금산입",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[세법해석 사례] 이자지급일 1년 초과해도 매년 이자 지급하면…기간경과 이자는 손금산입",
+    "source": "intn.co.kr",
+    "publishedAt": "2024-03-22T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KTWpUcFE5NlZqTkJYajhxUlF0SkR6YjVQbHBXMW1nTk5JMlRjSVM2cnJaMFVnaV9jem05LXpfeE1EWk1NcnlOTHlNM2VMV1dWejdXdmxJcWNJdV9ZRFpqN3VzbmI?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-5f79c68b50f6619f",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "[ TAX ANALYSIS 2017.9 ] [ Focus on 특집기사 ] ‘소득대비 과다이자비용의 손금불산입’ 규정의 도입 및 영향",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[ TAX ANALYSIS 2017.9 ] [ Focus on 특집기사 ] ‘소득대비 과다이자비용의 손금불산입’ 규정의 도입 및 영향",
+    "source": "법률신문",
+    "publishedAt": "2017-11-09T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VZUVoOUF0T3hKaU9kVlZVM1FYV094ZzhNRXRReGJvNmNhT0NlaG1oSmRVa3hTZjhtVVdfdmFCemY5UnFhN1VlQy1uSy1ZMGk4VE9iOTcyRzE3TmtxZERZRmw0Rmd0RV9DbER2eU9n0gFyQVVfeXFMTUZvVlRsVG9TMExUYkQyVjRMZzNxMlBWSDJoM0xsazdzR2N2OUlWVkVqNUFaeEJldDN2TDdHUGp1cHJnZUNCV2Nlb2VZSU5OY3h2X19NelRHQWpaVjNpWVk2TEluTDFMQXU2SF9teW1lU1hR?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-2f7e24bd425f59aa",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "중소기업 직원에 빌려준 주택자금 이자, 올해부터 업무 관련 비용으로 봐",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "중소기업 직원에 빌려준 주택자금 이자, 올해부터 업무 관련 비용으로 봐",
+    "source": "intn.co.kr",
+    "publishedAt": "2020-02-19T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LbE5VMGxxUFplUF9DcTNjeVIwZGNlR3EzUUQxNXdiamNjbjN5S1MwcVBmdl9LcHEtN0tzYTktRXlJbkpBZGN2M3FZend0VDZoVDgtMGpyOU85eUxyY0ZDd29yOFo?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-7d5dae07b03b0f8b",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "[법인세 신고] 국세청이 제공한 법인세 신고도움자료 무시하면…세무조사 ‘직행’",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-07-18T23:23:22+09:00",
+    "plainSummary": "[법인세 신고] 국세청이 제공한 법인세 신고도움자료 무시하면…세무조사 ‘직행’",
+    "source": "intn.co.kr",
+    "publishedAt": "2022-03-02T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56cF82cnZuTEJkU0d5MDZkQXpCcFNIakhra1kyZlQ2Ny00cWNwMy1UeVlnZ0JrR2FlOHE1T0NUZlRrdEtHRFlDOGc4WEs5bzctOENfT0hfckxYVWlwUHVpaXBNZlMwRjdGSGc?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]

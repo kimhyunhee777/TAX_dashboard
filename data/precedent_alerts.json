@@ -272,5 +272,158 @@
     "tags": [
       "외국납부세액공제"
     ]
+  },
+  {
+    "id": "prec-disabled-levy-617669",
+    "type": "precedent",
+    "topicId": "prec-disabled-levy",
+    "label": "장애인고용부담금 판례",
+    "detectedAt": "2026-07-18T23:22:47+09:00",
+    "plainSummary": "장애인고용부담금의 손금산입 여부",
+    "caseNumber": "대법원-2024-두-30809",
+    "judgmentDate": "2026.03.12",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=617669&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-disabled-levy-612375",
+    "type": "precedent",
+    "topicId": "prec-disabled-levy",
+    "label": "장애인고용부담금 판례",
+    "detectedAt": "2026-07-18T23:22:47+09:00",
+    "plainSummary": "장애인고용부담금을 손금불산입으로 보고 경정청구를 거부한 처분은 위법한 처분에 해당함",
+    "caseNumber": "수원고등법원-2024-누-15585",
+    "judgmentDate": "2025.09.03",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=612375&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-interest-nondeductible-620147",
+    "type": "precedent",
+    "topicId": "prec-interest-nondeductible",
+    "label": "지급이자 손금불산입 판례",
+    "detectedAt": "2026-07-18T23:22:47+09:00",
+    "plainSummary": "특수관계법인에 대한 업무무관 가지급금으로 본 대여금 관련 지급이자 손금불산입 적정여부 등",
+    "caseNumber": "서울고등법원-2024-누-64255",
+    "judgmentDate": "2026.02.13",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=620147&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-interest-nondeductible-612611",
+    "type": "precedent",
+    "topicId": "prec-interest-nondeductible",
+    "label": "지급이자 손금불산입 판례",
+    "detectedAt": "2026-07-18T23:22:47+09:00",
+    "plainSummary": "가지급금인정이자 제도와 지급이자손금불산입 제도는 별개에 불과하여 이중과세로 볼 수 없음",
+    "caseNumber": "대법원-2025-두-34068",
+    "judgmentDate": "2025.09.25",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=612611&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-provisional-payment-621313",
+    "type": "precedent",
+    "topicId": "prec-provisional-payment",
+    "label": "가지급금 인정이자 판례",
+    "detectedAt": "2026-07-18T23:22:47+09:00",
+    "plainSummary": "회생절차개시결정 이후 회생채권에 해당하는 미회수 가지급금 및 인정이자를 법인에 익금산입하여 소득처분할 수 없음",
+    "caseNumber": "수원고등법원-2024-누-13954",
+    "judgmentDate": "2026.01.30",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=621313&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-provisional-payment-612611",
+    "type": "precedent",
+    "topicId": "prec-provisional-payment",
+    "label": "가지급금 인정이자 판례",
+    "detectedAt": "2026-07-18T23:22:47+09:00",
+    "plainSummary": "가지급금인정이자 제도와 지급이자손금불산입 제도는 별개에 불과하여 이중과세로 볼 수 없음",
+    "caseNumber": "대법원-2025-두-34068",
+    "judgmentDate": "2025.09.25",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=612611&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-bad-debt-reserve-615169",
+    "type": "precedent",
+    "topicId": "prec-bad-debt-reserve",
+    "label": "대손충당금 판례",
+    "detectedAt": "2026-07-18T23:22:47+09:00",
+    "plainSummary": "이 사건 제1,2주식에 대하여 대손충당금을 부채에서 차감하는 등의 평가가 위법하다고 볼 수 없음",
+    "caseNumber": "서울고등법원-2024-누-73280",
+    "judgmentDate": "2025.09.18",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=615169&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-entertainment-615491",
+    "type": "precedent",
+    "topicId": "prec-entertainment",
+    "label": "접대비(기업업무추진비) 손금불산입 판례",
+    "detectedAt": "2026-07-18T23:22:47+09:00",
+    "plainSummary": "판매촉진비의 접대비 해당 여부 및 소취하 간주 해당 여부",
+    "caseNumber": "대전고등법원2025누397",
+    "judgmentDate": "2025.11.11",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=615491&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-entertainment-617429",
+    "type": "precedent",
+    "topicId": "prec-entertainment",
+    "label": "접대비(기업업무추진비) 손금불산입 판례",
+    "detectedAt": "2026-07-18T23:22:47+09:00",
+    "plainSummary": "이 사건 할인혜택은 접대비에 해당하지 않음",
+    "caseNumber": "서울고등법원-2025-누-6434",
+    "judgmentDate": "2025.07.23",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=617429&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]
