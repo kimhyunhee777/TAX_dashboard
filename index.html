@@ -286,6 +286,7 @@
     return sorted.filter(function(a){
       var tags = a.tags || [];
       if(tags.indexOf('전체') !== -1) return true; // 모든 업종에 공통으로 관련된 알림(예: 일반 세법개정 뉴스)
+      if(tags.indexOf(clientId) !== -1) return true; // 특정 업종 id로 직접 태깅된 알림(예: 건설업 전용 뉴스)
       return tags.some(function(t){ return tagSet.has(t); });
     });
   }
@@ -359,19 +360,21 @@
 
       var preview = document.createElement('div');
       preview.className = 'preview';
-      preview.textContent = a.plainSummary || '';
+      preview.textContent = a.type === 'news' ? (a.topic || '') : (a.plainSummary || '');
 
       var detail = document.createElement('div');
       detail.className = 'detail';
 
-      var summaryLabel = document.createElement('p');
-      summaryLabel.className = 'section-label';
-      summaryLabel.textContent = '쉬운 설명';
-      var summaryBox = document.createElement('div');
-      summaryBox.className = 'summary-callout';
-      summaryBox.textContent = a.plainSummary || '';
-      detail.appendChild(summaryLabel);
-      detail.appendChild(summaryBox);
+      if(a.type !== 'news'){
+        var summaryLabel = document.createElement('p');
+        summaryLabel.className = 'section-label';
+        summaryLabel.textContent = '쉬운 설명';
+        var summaryBox = document.createElement('div');
+        summaryBox.className = 'summary-callout';
+        summaryBox.textContent = a.plainSummary || '';
+        detail.appendChild(summaryLabel);
+        detail.appendChild(summaryBox);
+      }
 
       var diffRendered = false;
       var beforeBody, afterBody;
@@ -418,7 +421,8 @@
         newsMeta.className = 'meta-list';
         [
           ['출처', a.source],
-          ['발행일', fmtDate(a.publishedAt)]
+          ['발행일', fmtDate(a.publishedAt)],
+          ['검색 주제', a.topic]
         ].forEach(function(pair){
           if(!pair[1]) return;
           var row3 = document.createElement('div');

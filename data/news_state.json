@@ -1,82 +1,242 @@
 {
   "news-tax-law-revision": {
     "seenIds": [
-      "ea0340141fe4d95a",
-      "c851119f80f3b679",
-      "1082be0135a5dbcd",
-      "764e34a438ec9023",
-      "ff31c72af4308825",
-      "8a255fd6e12463f3",
-      "aa2e61ee80428819",
-      "e21c78ce7e3ad781",
-      "b12fcc1aefb1e9f7",
-      "e6c417f385809c95",
-      "4efc6135aa5a8492",
       "bdeb26a558e6de67",
+      "764e34a438ec9023",
+      "e21c78ce7e3ad781",
+      "aa2e61ee80428819",
       "60048c7875fd5e0a",
-      "7ee941cb2d96c0de",
-      "7a03f051ea522c1d"
+      "7a03f051ea522c1d",
+      "4efc6135aa5a8492",
+      "1082be0135a5dbcd",
+      "ff31c72af4308825",
+      "b12fcc1aefb1e9f7",
+      "8a255fd6e12463f3",
+      "e6c417f385809c95",
+      "c851119f80f3b679",
+      "ea0340141fe4d95a",
+      "7ee941cb2d96c0de"
     ],
-    "lastCheckedAt": "2026-07-18T18:39:06+09:00"
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
   },
   "news-ctpa-revision": {
     "seenIds": [
-      "80ef8dda57bd0da3",
-      "2742250282b8eda2",
-      "ce9b86802fa31b46",
-      "e234381459cba531",
-      "856910044f26ca2d",
-      "94dc14df5be04641",
-      "a8f9b5b9cf7912d9",
-      "2466a69ed6901c4e",
       "fe744ba2efe1e0bd",
-      "b34055aab989f255",
+      "2742250282b8eda2",
+      "aa840cd3933d9bad",
+      "2466a69ed6901c4e",
+      "80ef8dda57bd0da3",
+      "94dc14df5be04641",
       "b12fcc1aefb1e9f7",
       "15aa75346d8ed550",
-      "4665ad33c4bd777c",
+      "856910044f26ca2d",
+      "b34055aab989f255",
       "29315d8016d79766",
-      "aa840cd3933d9bad"
+      "4665ad33c4bd777c",
+      "ce9b86802fa31b46",
+      "a8f9b5b9cf7912d9",
+      "e234381459cba531"
     ],
-    "lastCheckedAt": "2026-07-18T18:39:06+09:00"
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
   },
   "news-corp-tax-revision": {
     "seenIds": [
-      "88d164f359170b57",
-      "000f0b178644a3e7",
-      "06c22e7d8e81bd5e",
-      "9945a4aaa1feaa0b",
-      "6c0a759eb59e9767",
-      "74cf98430c1f32f8",
-      "8aba6681c4039e5f",
-      "96fa2261a7f52a6e",
-      "cfef83577a091417",
-      "468b3edc7d376b33",
-      "008c501d8b9cf083",
-      "db4c8adab96f59c8",
-      "83d7da27f0f16ca9",
+      "3c5f42983d51a3bf",
+      "c3b850448aa5c830",
+      "a01608cee64aacca",
       "37dce364cc6db809",
-      "c3b850448aa5c830"
+      "4728a6297eab934d",
+      "8aba6681c4039e5f",
+      "929e77f1a6a9e9b0",
+      "6bb28719fb7def1c",
+      "cfef83577a091417",
+      "53df94e374c8d276",
+      "96fa2261a7f52a6e",
+      "83d7da27f0f16ca9",
+      "db4c8adab96f59c8",
+      "669cd2f14110e97e",
+      "468b3edc7d376b33"
     ],
-    "lastCheckedAt": "2026-07-18T18:39:06+09:00"
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
   },
   "news-invest-credit": {
     "seenIds": [
-      "fc69da907ba6e194",
       "191e31d78d91956e",
-      "a61f4f63c660695a",
-      "55e7c0aa43167f5b",
-      "318a80496f3a2728",
-      "3f40d18f795bfbcd",
       "9be32deec294c74a",
-      "2b19219aceaf0d2e",
-      "2e5de84ca721e121",
       "37dce364cc6db809",
-      "31d89962e2d6e377",
       "e4e6a43e2e1a162a",
-      "d8ffb87d93c9553c",
+      "31d89962e2d6e377",
       "793e0270f1f3f662",
-      "a524e19a7fc9a856"
+      "2e5de84ca721e121",
+      "a61f4f63c660695a",
+      "318a80496f3a2728",
+      "55e7c0aa43167f5b",
+      "fc69da907ba6e194",
+      "a524e19a7fc9a856",
+      "d8ffb87d93c9553c",
+      "3f40d18f795bfbcd",
+      "2b19219aceaf0d2e"
     ],
-    "lastCheckedAt": "2026-07-18T18:39:06+09:00"
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
+  },
+  "news-rnd-credit": {
+    "seenIds": [
+      "1d4a635f68f33d61",
+      "12d900febc0ad017",
+      "cd0a9dfd7817418d",
+      "dae33ce9b143b4ee",
+      "f168cbbfadf3b936",
+      "b18ccba0f299eee0",
+      "bbc1481f2d0f8282",
+      "fafab8468a8fdbb2",
+      "ce2a1bbfa8aaad69",
+      "9bb7e946c2ba56ec",
+      "3e3fc7cf98842c9d",
+      "0a899e93a25e4efa",
+      "3321ec1603817e95",
+      "36d0aae568fbac55",
+      "adddc35194a25a9e"
+    ],
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
+  },
+  "news-sme-credit": {
+    "seenIds": [
+      "cc3cd5ae88a67489",
+      "2ce4eff11e761b7e",
+      "5aff69ee798de1ee",
+      "37dce364cc6db809",
+      "a3267b6b6929ae13",
+      "cbe4b280da2351c2",
+      "b231ded5f6fb2385",
+      "5536b06dd0172860",
+      "399eb7a184cb0708",
+      "8fe44c48d6968ccd",
+      "c5bcbc469f2dc734",
+      "1e4d7cda93a3b0b7",
+      "96f26994b97a82b4",
+      "2ad7918772128b2d",
+      "4c33251d3565fa8c"
+    ],
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
+  },
+  "news-startup": {
+    "seenIds": [
+      "99a2e1a97b5d649d",
+      "8beba915fe384215",
+      "01c35d58ff9cfc53",
+      "ec40cb3ab98089db",
+      "7bde61c5f67d2127",
+      "f9da9f9381150324",
+      "dbda3d325eab4866",
+      "5a315fcd26c7ae6d",
+      "853dcb05f7c0fa59",
+      "73a279779ec0a8b2",
+      "399eb7a184cb0708",
+      "a53f1e8a1c4d07cd",
+      "8a8a40519662eaaa",
+      "364a33330ab7afce",
+      "440f353c40065066"
+    ],
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
+  },
+  "news-employ-credit": {
+    "seenIds": [
+      "7c3c26dc2835b9af",
+      "f8120c6a53a5cc99",
+      "37dce364cc6db809",
+      "dec265212057dca9",
+      "b3d94e105615cf67",
+      "74420f624fc81daf",
+      "9ef2ed7d5168a343",
+      "ffdf139326c489eb",
+      "91b40a4d248b8fd4",
+      "46cb1304de7322db",
+      "445fc3efd99b34a0",
+      "d85b9dc4231903a5",
+      "89663f28f0c43df0",
+      "c192ffd668221bfd",
+      "2b8a258b4fcfd421"
+    ],
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
+  },
+  "news-foreign-credit": {
+    "seenIds": [
+      "ea6564b669baa565",
+      "3adbc6bc61731b9c",
+      "51a90288d6d1c394",
+      "1d68576ff8928c47",
+      "9eb7e0b89283e972",
+      "608a9da0dd390b7b",
+      "03eb30e335e01f43",
+      "03fea00ef82deeff",
+      "86f5f5aec8b40585",
+      "c20901a9c2026c44",
+      "d752cdf7811fb627",
+      "7863f6b634a36508",
+      "95fd4078cc3516bb",
+      "7a1ef943e0747f56",
+      "fd69e5aeff2e549a"
+    ],
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
+  },
+  "news-honest-report": {
+    "seenIds": [
+      "b5d06961a69e5c16",
+      "572c21cc206115b3",
+      "acaf19c47c946b1f",
+      "f23927164aa88496",
+      "2936b7db5acc452a",
+      "898735b6fff628a9",
+      "cd3c18dae413926b",
+      "eda6055c9bc88e38",
+      "b6b51f7cbe03f105",
+      "81c2ec38252498b4",
+      "c84ffa52df9458c1",
+      "2c194bff7369d047",
+      "a191cba26aea6252",
+      "5e233185e4b75da1",
+      "5900071f3a626122"
+    ],
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
+  },
+  "news-construction": {
+    "seenIds": [
+      "166d9738af0874ac",
+      "ba6c06db6db040b7",
+      "4a924c4a33633df0",
+      "0ea7dec7d0230868",
+      "47719ab0affdddf5",
+      "089f3bc4b96a3440",
+      "7ed3eb6347b8926d",
+      "d49116b9c23a5437",
+      "f22e125ffdbfb17e",
+      "945351b56e2dd338",
+      "a769becaa0ddd09d",
+      "cec5a1ead0472fcc",
+      "44ce950788a861d3",
+      "123e3461a7eab134",
+      "03fa0ae61c623260"
+    ],
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
+  },
+  "news-exporter": {
+    "seenIds": [
+      "e13cdd1f247b2371",
+      "955c7d4e33cbed4a",
+      "c72e7549a898b111",
+      "7f93ce3ff36c266a",
+      "c278345dc2d6542a",
+      "ee1b5b0d8fac457b",
+      "9eb2cd9b2be7de0b",
+      "6992261371d66c81",
+      "4afbd5d1deeb5680",
+      "d3b37b2d02e1a5ca",
+      "f8ce3b76394f9c4b",
+      "7508a9c534b255a2",
+      "72e08eb0ec308ac1",
+      "7ff6004280fc8cdc",
+      "976ef869df45d768"
+    ],
+    "lastCheckedAt": "2026-07-18T18:50:29+09:00"
   }
 }

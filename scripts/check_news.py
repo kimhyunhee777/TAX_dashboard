@@ -53,16 +53,22 @@ def search_news(query, display=15):
     root = ET.fromstring(resp.content)
     results = []
     for item in root.findall(".//item")[:display]:
-        title = (item.findtext("title") or "").strip()
+        raw_title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
         pub_date = (item.findtext("pubDate") or "").strip()
         source = (item.findtext("source") or "").strip()
+        # Google 뉴스 RSS는 "기사 제목 - 출처명" 형태로 제목을 주는데, 출처는 따로 필드로도
+        # 오므로 카드에서 중복 표시되지 않도록 제목에서 그 접미사를 떼어낸다.
+        title = raw_title
+        suffix = f" - {source}"
+        if source and title.endswith(suffix):
+            title = title[: -len(suffix)]
         try:
             published_at = parsedate_to_datetime(pub_date).astimezone(KST).isoformat(timespec="seconds")
         except (TypeError, ValueError):
             published_at = ""
         results.append({
-            "itemId": item_id(link, title),
+            "itemId": item_id(link, raw_title),
             "title": title,
             "link": link,
             "source": source,
@@ -76,7 +82,8 @@ def make_alert(topic, tid, r, now):
         "id": f"{tid}-{r['itemId']}",
         "type": "news",
         "topicId": tid,
-        "label": topic.get("label", topic["query"]),
+        "label": r["title"],  # 기사 제목을 카드 제목으로 사용 (카드마다 다르게 보이도록)
+        "topic": topic.get("label", topic["query"]),  # 어떤 검색 주제로 걸렸는지는 상세에서만 보여줌
         "detectedAt": now,
         "plainSummary": r["title"],
         "source": r["source"],

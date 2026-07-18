@@ -22,5 +22,53 @@
     "label": "통합투자세액공제 뉴스",
     "query": "통합투자세액공제",
     "tags": ["통합투자세액공제"]
+  },
+  {
+    "id": "news-rnd-credit",
+    "label": "연구개발 세액공제 뉴스",
+    "query": "연구개발 세액공제",
+    "tags": ["연구인력개발비세액공제"]
+  },
+  {
+    "id": "news-sme-credit",
+    "label": "중소기업 특별세액감면 뉴스",
+    "query": "중소기업 특별세액감면",
+    "tags": ["중소기업특별세액감면"]
+  },
+  {
+    "id": "news-startup",
+    "label": "창업중소기업 세액감면 뉴스",
+    "query": "창업중소기업 세액감면",
+    "tags": ["창업중소기업세액감면"]
+  },
+  {
+    "id": "news-employ-credit",
+    "label": "고용 관련 세액공제 뉴스",
+    "query": "고용증대세액공제",
+    "tags": ["고용증대세액공제", "통합고용세액공제"]
+  },
+  {
+    "id": "news-foreign-credit",
+    "label": "외국납부세액공제 뉴스",
+    "query": "외국납부세액공제",
+    "tags": ["외국납부세액공제"]
+  },
+  {
+    "id": "news-honest-report",
+    "label": "성실신고 확인비용 뉴스",
+    "query": "성실신고 확인비용",
+    "tags": ["성실신고확인비용세액공제"]
+  },
+  {
+    "id": "news-construction",
+    "label": "건설업 세제 뉴스",
+    "query": "건설업 세제",
+    "tags": ["construction"]
+  },
+  {
+    "id": "news-exporter",
+    "label": "수출기업 세제지원 뉴스",
+    "query": "수출기업 세제지원",
+    "tags": ["exporter"]
   }
 ]
