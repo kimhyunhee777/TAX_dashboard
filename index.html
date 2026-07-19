@@ -285,24 +285,39 @@
     return stripAmendmentTags(a) === stripAmendmentTags(b);
   }
 
-  // 인접한 removed+added 줄 쌍은 "그 줄이 통째로 바뀐" 게 아니라 "일부 단어만 바뀐"
-  // 경우가 대부분이라, 한 쌍으로 묶어서 단어 단위로 다시 diff한다.
+  // removed/added 줄이 이어지는 구간(hunk) 전체를 모아서, 삭제된 줄 수와 추가된 줄 수가
+  // 정확히 같을 때만 순서대로 짝지어 "일부 단어만 바뀐 것"으로 보고 단어 단위 diff를 돌린다.
+  // 인접한 것만 무작정 1:1로 짝지으면, 서로 다른 두 문단이 각각 바뀌었을 때 삭제 줄들이
+  // 먼저 몰리고 추가 줄들이 나중에 몰리는 경우(전형적인 줄 단위 diff 순서) 엉뚱한 문단끼리
+  // 짝지어져 버린다. 줄 수가 안 맞으면 안전하게 통짜 삭제/추가로만 표시한다.
   function pairModifications(ops){
     var result = [];
     var i = 0;
     while(i < ops.length){
-      if(ops[i].type === 'removed' && ops[i+1] && ops[i+1].type === 'added'){
-        result.push({type:'modified', oldText: ops[i].text, newText: ops[i+1].text});
-        i += 2;
-      } else {
+      if(ops[i].type !== 'removed' && ops[i].type !== 'added'){
         result.push(ops[i]);
         i++;
+        continue;
+      }
+      var removedBlock = [], addedBlock = [];
+      while(i < ops.length && (ops[i].type === 'removed' || ops[i].type === 'added')){
+        if(ops[i].type === 'removed') removedBlock.push(ops[i].text);
+        else addedBlock.push(ops[i].text);
+        i++;
+      }
+      if(removedBlock.length === addedBlock.length){
+        for(var k=0; k<removedBlock.length; k++){
+          result.push({type:'modified', oldText: removedBlock[k], newText: addedBlock[k]});
+        }
+      } else {
+        removedBlock.forEach(function(t){ result.push({type:'removed', text:t}); });
+        addedBlock.forEach(function(t){ result.push({type:'added', text:t}); });
       }
     }
     return result;
   }
 
-  function tokenize(str){
+  function tokenizeWords(str){
     return str.split(/(\s+)/).filter(function(s){ return s.length > 0; });
   }
 
@@ -330,22 +345,75 @@
     return result;
   }
 
+  // 같은 종류(same/removed/added)의 연속된 조각을 하나로 이어붙여서 append한다 —
+  // 단어/글자마다 따로 박스가 생기는 대신 바뀐 구간 전체가 하나의 연속된 하이라이트로 보인다.
+  function appendMergedRuns(parent, ops, side){
+    var filtered = ops.filter(function(o){
+      if(side === 'before' && o.type === 'added') return false;
+      if(side === 'after' && o.type === 'removed') return false;
+      return true;
+    });
+    var i = 0;
+    while(i < filtered.length){
+      var type = filtered[i].type;
+      var j = i;
+      var text = '';
+      while(j < filtered.length && filtered[j].type === type){
+        text += filtered[j].text;
+        j++;
+      }
+      if(type === 'same'){
+        parent.appendChild(document.createTextNode(text));
+      } else {
+        var span = document.createElement('span');
+        span.className = type === 'removed' ? 'word-removed' : 'word-added';
+        span.textContent = text;
+        parent.appendChild(span);
+      }
+      i = j;
+    }
+  }
+
+  // 단어 단위로 먼저 정렬을 잡고(반복되는 짧은 문구가 많은 한국어 법조문에서 글자
+  // 단위로 바로 비교하면 LCS가 문서 전체에서 우연히 같은 글자를 짝지어버려 하이라이트가
+  // 지저분해진다), 삭제+추가가 맞붙은 "수정된" 단어 구간만 다시 글자 단위로 세밀하게
+  // 비교한다. 그래야 "제1호부목" -> "제1호무목"처럼 한 글자만 바뀐 경우 그 글자만 잡힌다.
   function renderInlineModified(container, op, side){
     var line = document.createElement('div');
     line.className = 'diff-line modified';
-    var wordOps = diffArrays(tokenize(op.oldText), tokenize(op.newText));
-    wordOps.forEach(function(w){
-      if(side === 'before' && w.type === 'added') return;
-      if(side === 'after' && w.type === 'removed') return;
-      if(w.type === 'same'){
-        line.appendChild(document.createTextNode(w.text));
-      } else {
-        var span = document.createElement('span');
-        span.className = w.type === 'removed' ? 'word-removed' : 'word-added';
-        span.textContent = w.text;
-        line.appendChild(span);
+    var wordOps = diffArrays(tokenizeWords(op.oldText), tokenizeWords(op.newText));
+
+    var i = 0;
+    while(i < wordOps.length){
+      if(wordOps[i].type === 'same'){
+        line.appendChild(document.createTextNode(wordOps[i].text));
+        i++;
+        continue;
       }
-    });
+      var oldText = '', newText = '';
+      var j = i;
+      while(j < wordOps.length && wordOps[j].type !== 'same'){
+        if(wordOps[j].type === 'removed') oldText += wordOps[j].text;
+        else newText += wordOps[j].text;
+        j++;
+      }
+      if(oldText && newText){
+        // 삭제된 구간과 추가된 구간이 모두 있으면 "수정"으로 보고 글자 단위로 다시 비교
+        var charOps = diffArrays(oldText.split(''), newText.split(''));
+        appendMergedRuns(line, charOps, side);
+      } else if(oldText && side === 'before'){
+        var removedSpan = document.createElement('span');
+        removedSpan.className = 'word-removed';
+        removedSpan.textContent = oldText;
+        line.appendChild(removedSpan);
+      } else if(newText && side === 'after'){
+        var addedSpan = document.createElement('span');
+        addedSpan.className = 'word-added';
+        addedSpan.textContent = newText;
+        line.appendChild(addedSpan);
+      }
+      i = j;
+    }
     container.appendChild(line);
   }
 
