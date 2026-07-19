@@ -14,13 +14,14 @@ data/*.json만 커밋한다.
 import hashlib
 import os
 import sys
+import xml.etree.ElementTree as ET
 from datetime import datetime
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "api"))
 from lawtext import BASE_URL, resolve_mst, extract_article_text  # noqa: E402
 import requests
 
-from common import KST, load_json, save_json, prune_old
+from common import KST, load_json, save_json, prune_old, strip_amendment_tags_lines
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 PROVISIONS_PATH = os.path.join(ROOT, "provisions.json")
@@ -30,7 +31,10 @@ RETENTION_DAYS = 365
 
 
 def text_hash(lines):
-    return hashlib.sha256("\n".join(lines).encode("utf-8")).hexdigest()
+    """<개정 ...> 이력 꼬리표는 빼고 해시를 낸다 — 그 태그만 다르고 실제 조문 내용은
+    같은 경우까지 "개정됨"으로 잘못 판단하지 않기 위해서다."""
+    normalized = strip_amendment_tags_lines(lines)
+    return hashlib.sha256("\n".join(normalized).encode("utf-8")).hexdigest()
 
 
 def build_plain_summary(law, jo_display, title, old_lines, new_lines):
@@ -74,7 +78,7 @@ def main():
         jo_display = f"{jo}의{branch}" if branch else jo
         try:
             title, lines = fetch_article(law, jo, branch, oc)
-        except (RuntimeError, requests.RequestException) as e:
+        except (RuntimeError, requests.RequestException, ET.ParseError) as e:
             print(f"[skip] {pid}: {e}", file=sys.stderr)
             continue
 
@@ -89,6 +93,14 @@ def main():
 
         if prev["hash"] == new_hash:
             state[pid]["lastCheckedAt"] = now
+            continue
+
+        prev_lines = prev.get("lines", [])
+        if strip_amendment_tags_lines(prev_lines) == strip_amendment_tags_lines(lines):
+            # 해시는 다른데 실제 내용은 같음 — law.go.kr이 요청마다 미세하게 다른 포맷으로
+            # 응답을 줄 때(공백 등) 생기는 가짜 감지다. 저장된 해시만 최신으로 맞추고 알림은 만들지 않는다.
+            state[pid] = {"title": title, "lines": lines, "hash": new_hash, "lastCheckedAt": now}
+            print(f"[hash-drift] {pid}: 내용은 동일, 해시만 갱신")
             continue
 
         # 개정 감지

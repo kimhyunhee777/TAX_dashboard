@@ -251,21 +251,22 @@
     return fmtDate(a.detectedAt);
   }
 
-  // ---- line-level diff (LCS 기반) + 동일한 줄이 길게 이어지면 가운데를 접어서 보여줌 ----
   // ---- 일반화된 LCS diff: 줄 배열에도, 단어 배열에도 그대로 재사용한다 ----
-  function diffArrays(oldItems, newItems){
+  // compareFn을 넘기면 "같다"는 판정 기준을 바꿀 수 있다 (예: 이력 꼬리표는 무시하고 비교).
+  function diffArrays(oldItems, newItems, compareFn){
+    compareFn = compareFn || function(x, y){ return x === y; };
     var n = oldItems.length, m = newItems.length;
     var dp = [];
     for(var i=0;i<=n;i++){ dp.push(new Array(m+1).fill(0)); }
     for(i=n-1;i>=0;i--){
       for(var j=m-1;j>=0;j--){
-        dp[i][j] = (oldItems[i] === newItems[j]) ? dp[i+1][j+1] + 1 : Math.max(dp[i+1][j], dp[i][j+1]);
+        dp[i][j] = compareFn(oldItems[i], newItems[j]) ? dp[i+1][j+1] + 1 : Math.max(dp[i+1][j], dp[i][j+1]);
       }
     }
     var ops = [];
     i = 0; var k = 0;
     while(i < n && k < m){
-      if(oldItems[i] === newItems[k]){ ops.push({type:'same', text:oldItems[i]}); i++; k++; }
+      if(compareFn(oldItems[i], newItems[k])){ ops.push({type:'same', text:newItems[k]}); i++; k++; }
       else if(dp[i+1][k] >= dp[i][k+1]){ ops.push({type:'removed', text:oldItems[i]}); i++; }
       else { ops.push({type:'added', text:newItems[k]}); k++; }
     }
@@ -274,6 +275,15 @@
     return ops;
   }
   var diffLines = diffArrays;
+
+  // <개정 2020.1.1, ...> 같은 이력 꼬리표는 법 조문 본문이 아니라 참고용 기록이라, 이
+  // 꼬리표만 다르고 실제 문장은 같은 줄은 "달라졌다"고 보지 않는다.
+  function stripAmendmentTags(str){
+    return str.replace(/<(개정|신설|전문개정)[^>]*>/g, '').trim();
+  }
+  function sameIgnoringTags(a, b){
+    return stripAmendmentTags(a) === stripAmendmentTags(b);
+  }
 
   // 인접한 removed+added 줄 쌍은 "그 줄이 통째로 바뀐" 게 아니라 "일부 단어만 바뀐"
   // 경우가 대부분이라, 한 쌍으로 묶어서 단어 단위로 다시 diff한다.
@@ -560,7 +570,7 @@
       card.addEventListener('click', function(){
         detail.classList.toggle('open');
         if(a.type !== 'precedent' && a.type !== 'news' && detail.classList.contains('open') && !diffRendered){
-          var ops = pairModifications(diffLines(a.previousText || [], a.originalText || []));
+          var ops = pairModifications(diffLines(a.previousText || [], a.originalText || [], sameIgnoringTags));
           renderDiffPanel(beforeBody, ops, 'before');
           renderDiffPanel(afterBody, ops, 'after');
           diffRendered = true;

@@ -20,8 +20,8 @@ import requests
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "api"))
 from lawtext import BASE_URL, extract_article_text  # noqa: E402
 
-from common import KST, load_json, save_json
-from check_amendments import build_plain_summary, text_hash
+from common import KST, load_json, save_json, strip_amendment_tags_lines
+from check_amendments import build_plain_summary
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 PROVISIONS_PATH = os.path.join(ROOT, "provisions.json")
@@ -103,8 +103,10 @@ def main():
             continue
 
         current_lines = cached.get("lines", [])
-        if prev_title is None or prev_lines == current_lines:
-            continue  # 이전 공식본에 이 조문이 없었거나(신설 직후), 그 사이엔 안 바뀜
+        if prev_title is None:
+            continue  # 이전 공식본에 이 조문이 없었음(신설 직후 등)
+        if strip_amendment_tags_lines(prev_lines) == strip_amendment_tags_lines(current_lines):
+            continue  # <개정 ...> 이력 꼬리표만 다르고 실제 조문 내용은 그 사이 안 바뀜
 
         alert_id = f"{pid}-recent-{prev_mst}"
         if any(a["id"] == alert_id for a in alerts):
