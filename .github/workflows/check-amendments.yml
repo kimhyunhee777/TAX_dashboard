@@ -26,6 +26,11 @@ jobs:
           LAW_API_OC: ${{ secrets.LAW_API_OC }}
         run: python scripts/check_amendments.py
 
+      - name: Backfill missed amendments for newly-tracked provisions
+        env:
+          LAW_API_OC: ${{ secrets.LAW_API_OC }}
+        run: python scripts/backfill_recent_amendments.py
+
       - name: Run precedent checker
         env:
           LAW_API_OC: ${{ secrets.LAW_API_OC }}
