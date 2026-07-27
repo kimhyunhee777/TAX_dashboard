@@ -6075,5 +6075,126 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-tax-law-revision-a3aaddfee170c01b",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "[의견서] 참여연대, ‘2026년 세법 개정안 의견서’ 재경부에 제출 - 참여연대 - 조세재정개혁센터",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-07-27T20:41:06+09:00",
+    "plainSummary": "[의견서] 참여연대, ‘2026년 세법 개정안 의견서’ 재경부에 제출 - 참여연대 - 조세재정개혁센터",
+    "source": "참여연대",
+    "publishedAt": "2026-03-03T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XRFBQRTU3Y3dWWThTS3NhLUJMaFJnaFFsblNLQ0tMMTBEdDBjM1I3a05BeWRiNVpxOG91Ynd5NXBUVm1Zd3NGNHljUzcwUQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-cfef83577a091417",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "2025년 세법개정 후속 시행령 개정안(법인과세 분야)",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-07-27T20:41:06+09:00",
+    "plainSummary": "2025년 세법개정 후속 시행령 개정안(법인과세 분야)",
+    "source": "Lexology",
+    "publishedAt": "2026-01-20T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXlnbUdIX092NU9PaC1CSTNOUnN5WkVwVDhQVEx1UHl6SEpFa0lKRmRfUTU5elpjTmctdmNxaFM3LWY2SFdqRGdnaE9JNkNoelRJYmtqeGN6aGxCa1NtV1dLM2todkF5WU9CNm8xZGpKUzZQVjhFbEVvNE51d21ZaTM1dHphTHAycXBJ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-be0cca4fb3e6acb1",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "황정아 의원, 조세특례제한법 일부개정법률안 대표 발의",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-07-27T20:41:06+09:00",
+    "plainSummary": "황정아 의원, 조세특례제한법 일부개정법률안 대표 발의",
+    "source": "대전시티저널",
+    "publishedAt": "2026-07-27T16:35:15+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KeTM0QUpQSEJNWkphaTBGRDNrT09zejZvM3JZTDlnei0xNFJpWVUtLWxNUzJHcHdUbFNFcHd3SnBwZG1NWGp4Nkx3VE1TMk1vbTA5WGtTc2hIcm1MUWJHcEZOWEtjUQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-77e72de6a8de505c",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "재경위, 국민성장펀드 조세특례 의결…농특세 비과세까지 확대",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-07-27T20:41:06+09:00",
+    "plainSummary": "재경위, 국민성장펀드 조세특례 의결…농특세 비과세까지 확대",
+    "source": "intn.co.kr",
+    "publishedAt": "2026-04-15T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTGpud2NzQkRLN2M1S2hhSnpFZGxIc2FMYTN2UFN4NVRuZ0UyVU0yWHlUa1RmNHVEMVlQenFqeFBVNDY3dVgyaGJ2anA1aDItZUFZWk1GSEw1dTJxX2R3dUNtNV9Db3pXQ1E?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-ea988ac55c383394",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "아무리 중소기업 아니라고 R&D 세제지원이 2%…KDI \"환급제 검토해야\"",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-07-27T20:41:06+09:00",
+    "plainSummary": "아무리 중소기업 아니라고 R&D 세제지원이 2%…KDI \"환급제 검토해야\"",
+    "source": "뉴시스",
+    "publishedAt": "2026-05-07T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84MWNqZVJkcHZtei1hMC1wR29fSTJvQ0tMQ2ZrWUV6OHgxYkc3LXJoRkNreFNKTE5UcEN0V3FCUjhUNlBzSE1takxwSUxvanFFVDhlQW9jYlRrdFktMnEwQtIBeEFVX3lxTFBYTjdhR1gtZkVQanZGc3NkX2JvSHlNRU5LZ0ZuMS15cFljelZJMFRxSGU2UHhaOUdsekhfeVJNbXJqWk9GSFQ3dUtCeW9vM3pIY212VXhIeVN5QmVKV2UwcV9IczR1V1VyWk5hQzZISjd5RkllMnltUw?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-employ-credit-a742097f00ff8fae",
+    "type": "news",
+    "topicId": "news-employ-credit",
+    "label": "인건비 부담 줄이는 절세 전략, ‘통합고용세액공제’의 활용 > 뉴스",
+    "topic": "고용 관련 세액공제 뉴스",
+    "detectedAt": "2026-07-27T20:41:06+09:00",
+    "plainSummary": "인건비 부담 줄이는 절세 전략, ‘통합고용세액공제’의 활용 > 뉴스",
+    "source": "한의신문",
+    "publishedAt": "2025-11-17T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE14V0Z6dTZvd1RFN0t4VS1iOUNKOWNneksybk9MbUxKWHptcUVLem5wQzdpdmw2LUJCTjlfZ2c1WGdnUUU1Um5ZUU9Ndzg0ekZTRXVuSVd2TDRNVmxTdnV5S3JRQ2tPS2pOdFo0SkxBaDBnZw?oc=5",
+    "tags": [
+      "고용증대세액공제",
+      "통합고용세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-2b4758ec1d420400",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "【건산연 건설동향 브리핑】지난해 건설투자 2.7% 감소, GDP 성장률 0.4% 하락",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-07-27T20:41:06+09:00",
+    "plainSummary": "【건산연 건설동향 브리핑】지난해 건설투자 2.7% 감소, GDP 성장률 0.4% 하락",
+    "source": "대한건축사협회 건축사신문",
+    "publishedAt": "2025-02-12T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zV0dIc0tkZ3lNb3h2ZjZpQ1VSMVZGTzJEdlA1SEN0V1FCeE1jU2RuVU5jNUd6QWxSSDNtb2RPeFJuQk1KVzJ3d2hxVG5ycFJDYzJaS195N3BFa2JLM0JnWHE4WGxtNEk?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-4a8b85b0f889e2e3",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "변화의 기로에 선 수정수입세금계산서 발급 제도...어떻게 개선되나(上) [광장의 조세]",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-07-27T20:41:06+09:00",
+    "plainSummary": "변화의 기로에 선 수정수입세금계산서 발급 제도...어떻게 개선되나(上) [광장의 조세]",
+    "source": "한국경제",
+    "publishedAt": "2025-10-29T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51TjhPNGNoWV9taDJ2dE5JWVh5WTFUUDlwNUJzanlCLUxpTS1jSlFOYVBkQ05TVW1YT2JfNUVNZ1EzeWt3ZEVnQ2N4WGJyOGM3dUwtcXF1MVNqZw?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
