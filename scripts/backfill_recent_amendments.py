@@ -13,6 +13,10 @@ law.go.kr은 법령의 모든 과거 공식본(연혁법령)을 법령일련번�
 이전 버전"에는 이미 제29조의7·8의 변경 내용이 들어있어 diff가 안 잡힘). 그래서 조문별로
 내용이 실제로 달라질 때까지 거슬러 올라간다. <개정/신설/전문개정 ...> 이력 꼬리표만 다르고
 본문은 같은 버전은 "실제 변경"으로 치지 않는다(strip_amendment_tags_lines로 비교).
+
+같은 법령에 등록된 조문이 여러 개(예: 조세특례제한법 11개)라서, 버전 하나당 법령 XML을
+조문마다 따로 내려받으면 같은 파일을 N번 중복 요청하게 된다. 그래서 버전 하나당 XML은
+한 번만 받고, 그 안에서 아직 못 찾은 조문들을 한꺼번에 로컬에서 비교한다.
 """
 import os
 import sys
@@ -31,6 +35,8 @@ ROOT = os.path.join(os.path.dirname(__file__), "..")
 PROVISIONS_PATH = os.path.join(ROOT, "provisions.json")
 STATE_PATH = os.path.join(ROOT, "data", "state.json")
 ALERTS_PATH = os.path.join(ROOT, "data", "alerts.json")
+
+MAX_VERSIONS_BACK = 20  # 이 개수만큼 거슬러 올라가도 실제 차이를 못 찾으면 포기
 
 
 def list_settled_versions(law_name, oc):
@@ -56,35 +62,65 @@ def list_settled_versions(law_name, oc):
     return entries
 
 
-def fetch_article_at_mst(mst, jo, branch, oc):
+def fetch_law_xml(mst, oc):
     resp = requests.get(
         f"{BASE_URL}/lawService.do",
         params={"OC": oc, "target": "law", "MST": mst, "type": "XML"},
         timeout=20,
     )
     resp.raise_for_status()
-    return extract_article_text(resp.content, jo, branch)
+    return resp.content
 
 
-MAX_VERSIONS_BACK = 20  # 이 개수만큼 거슬러 올라가도 실제 차이를 못 찾으면 포기
+def resolve_law_backfill(law, provs, state, oc):
+    """provs: 이 법령에 속한 provisions.json 항목 리스트.
+    반환: {pid: (prev_title, prev_lines)} — 실제로 달라진 과거 버전을 찾은 조문만 포함."""
+    try:
+        versions = list_settled_versions(law, oc)
+    except (requests.RequestException, ET.ParseError) as e:
+        print(f"[skip-law] {law}: {e}", file=sys.stderr)
+        return {}
+    if len(versions) < 2:
+        return {}
 
+    pending = {}
+    for prov in provs:
+        pid = prov["id"]
+        cached = state.get(pid)
+        if not cached:
+            print(f"[skip] {pid}: state.json에 캐시된 원문이 없습니다 (check_amendments.py를 먼저 실행하세요).", file=sys.stderr)
+            continue
+        pending[pid] = {
+            "jo": prov["jo"],
+            "branch": prov.get("branch") or None,
+            "current_norm": strip_amendment_tags_lines(cached.get("lines", [])),
+        }
 
-def find_last_real_change(law, jo, branch, current_lines, versions, oc):
-    """versions[1:]을 오래된 방향이 아니라 최신 순서 그대로 하나씩 조회하면서, 현재 조문과
-    실제 내용(개정 이력 꼬리표 제외)이 달라지는 첫 버전을 찾아 (title, lines)를 반환한다.
-    못 찾으면 (None, None)."""
-    current_norm = strip_amendment_tags_lines(current_lines)
+    found = {}
     for version in versions[1:1 + MAX_VERSIONS_BACK]:
+        if not pending:
+            break
         try:
-            title, lines = fetch_article_at_mst(version["mst"], jo, branch, oc)
-        except (requests.RequestException, ET.ParseError) as e:
+            xml_bytes = fetch_law_xml(version["mst"], oc)
+        except requests.RequestException as e:
             print(f"[skip-version] {law} {version['mst']}: {e}", file=sys.stderr)
             continue
-        if title is None:
-            break  # 이 버전엔 조문이 아직 없었음(신설 이전) — 더 과거로 가도 마찬가지이므로 중단
-        if strip_amendment_tags_lines(lines) != current_norm:
-            return title, lines
-    return None, None
+
+        for pid in list(pending.keys()):
+            info = pending[pid]
+            try:
+                title, lines = extract_article_text(xml_bytes, info["jo"], info["branch"])
+            except ET.ParseError as e:
+                print(f"[skip-version] {law} {version['mst']} {pid}: {e}", file=sys.stderr)
+                continue
+            if title is None:
+                del pending[pid]  # 이 버전엔 조문이 아직 없었음(신설 이전) — 더 과거로 가도 마찬가지
+                continue
+            if strip_amendment_tags_lines(lines) != info["current_norm"]:
+                found[pid] = (title, lines)
+                del pending[pid]
+
+    return found
 
 
 def main():
@@ -98,57 +134,47 @@ def main():
     alerts = load_json(ALERTS_PATH, [])
     now = datetime.now(KST).isoformat(timespec="seconds")
 
-    versions_cache = {}  # law_name -> settled versions list (조문 여러 개가 공유)
-    added = 0
-
+    by_law = {}
     for prov in provisions:
-        pid, law, jo, branch = prov["id"], prov["law"], prov["jo"], prov.get("branch") or None
-        cached = state.get(pid)
-        if not cached:
-            print(f"[skip] {pid}: state.json에 캐시된 원문이 없습니다 (check_amendments.py를 먼저 실행하세요).", file=sys.stderr)
-            continue
+        by_law.setdefault(prov["law"], []).append(prov)
 
-        if law not in versions_cache:
-            try:
-                versions_cache[law] = list_settled_versions(law, oc)
-            except (requests.RequestException, ET.ParseError) as e:
-                print(f"[skip-law] {law}: {e}", file=sys.stderr)
-                versions_cache[law] = []
+    added = 0
+    for law, provs in by_law.items():
+        results = resolve_law_backfill(law, provs, state, oc)
+        for prov in provs:
+            pid = prov["id"]
+            if pid not in results:
+                continue
+            prev_title, prev_lines = results[pid]
+            cached = state[pid]
+            current_lines = cached.get("lines", [])
 
-        versions = versions_cache[law]
-        if len(versions) < 2:
-            continue
+            alert_id = f"{pid}-recent-{cached.get('hash', '')[:12]}"
+            if any(a["id"] == alert_id for a in alerts):
+                continue
 
-        current_lines = cached.get("lines", [])
-        prev_title, prev_lines = find_last_real_change(law, jo, branch, current_lines, versions, oc)
-        if prev_title is None:
-            continue  # 실제로 달라진 과거 버전을 못 찾음 (조회 범위 내에 변경 없음, 또는 신설 직후)
+            jo, branch = prov["jo"], prov.get("branch") or None
+            jo_display = f"{jo}의{branch}" if branch else jo
+            title = cached.get("title", prov.get("label", ""))
+            summary = build_plain_summary(law, jo_display, title, prev_lines, current_lines)
 
-        alert_id = f"{pid}-recent-{state[pid].get('hash', '')[:12]}"
-        if any(a["id"] == alert_id for a in alerts):
-            continue
-
-        jo_display = f"{jo}의{branch}" if branch else jo
-        title = cached.get("title", prov.get("label", ""))
-        summary = build_plain_summary(law, jo_display, title, prev_lines, current_lines)
-
-        alerts.append({
-            "id": alert_id,
-            "type": "amendment",
-            "provisionId": pid,
-            "label": prov.get("label", title),
-            "law": law,
-            "jo": jo,
-            "branch": branch or "",
-            "detectedAt": now,
-            "title": title,
-            "originalText": current_lines,
-            "previousText": prev_lines,
-            "plainSummary": summary,
-            "tags": prov.get("tags", []),
-        })
-        added += 1
-        print(f"[backfill] {pid}: {summary}")
+            alerts.append({
+                "id": alert_id,
+                "type": "amendment",
+                "provisionId": pid,
+                "label": prov.get("label", title),
+                "law": law,
+                "jo": jo,
+                "branch": branch or "",
+                "detectedAt": now,
+                "title": title,
+                "originalText": current_lines,
+                "previousText": prev_lines,
+                "plainSummary": summary,
+                "tags": prov.get("tags", []),
+            })
+            added += 1
+            print(f"[backfill] {pid}: {summary}")
 
     save_json(ALERTS_PATH, alerts)
     print(f"총 {added}건 백필 완료.")
