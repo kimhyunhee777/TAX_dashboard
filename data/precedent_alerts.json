@@ -680,5 +680,22 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-wrongful-calc-616831",
+    "type": "precedent",
+    "topicId": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "detectedAt": "2026-07-27T19:09:54+09:00",
+    "plainSummary": "부당행위계산 부인의 적용기준이 되는 ‘시가’에 대한 주장ㆍ증명책임은 부당행위계산 부인을 주장하는 과세관청에게 있음",
+    "caseNumber": "서울행정법원-2024-구합-62790",
+    "judgmentDate": "2025.09.11",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=616831&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]
