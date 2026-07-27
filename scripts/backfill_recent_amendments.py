@@ -6,9 +6,13 @@ check_amendments.py는 "우리가 베이스라인을 잡은 이후 실제로 바
 방금 막 추적을 시작한 조문은 그 전에 이미 일어난 개정을 diff로 잡아낼 방법이 없다.
 
 law.go.kr은 법령의 모든 과거 공식본(연혁법령)을 법령일련번호(MST)로 조회할 수 있게 해준다.
-이 스크립트는 각 법령의 "현재 시행 중인 버전"과 "그 바로 이전 버전"의 MST를 찾아, 두 버전에서
-같은 조문을 각각 가져와 실제로 비교한다 — 즉 진짜 변경 전/후 원문 diff를 만들 수 있다
-(초기 버전은 이 데이터가 없어서 "원문 이력 없음"이라고만 표시했었는데, 이제는 필요 없다).
+이 스크립트는 조문별로 "현재 버전"부터 과거 버전을 하나씩 거슬러 올라가며, 실제로 내용이
+달라지는 첫 버전을 찾는다. 법 전체를 기준으로 "바로 이전 버전" 하나만 보면, 그 조문과 무관한
+다른 조문이 그 사이에 개정돼서 법 전체가 새 버전이 됐을 때 진짜 변경 전 상태를 놓친다
+(예: 조세특례제한법 제29조의7·8이 바뀐 뒤 다른 조문 개정으로 법이 한 번 더 개정되면, "바로
+이전 버전"에는 이미 제29조의7·8의 변경 내용이 들어있어 diff가 안 잡힘). 그래서 조문별로
+내용이 실제로 달라질 때까지 거슬러 올라간다. <개정/신설/전문개정 ...> 이력 꼬리표만 다르고
+본문은 같은 버전은 "실제 변경"으로 치지 않는다(strip_amendment_tags_lines로 비교).
 """
 import os
 import sys
@@ -62,6 +66,27 @@ def fetch_article_at_mst(mst, jo, branch, oc):
     return extract_article_text(resp.content, jo, branch)
 
 
+MAX_VERSIONS_BACK = 20  # 이 개수만큼 거슬러 올라가도 실제 차이를 못 찾으면 포기
+
+
+def find_last_real_change(law, jo, branch, current_lines, versions, oc):
+    """versions[1:]을 오래된 방향이 아니라 최신 순서 그대로 하나씩 조회하면서, 현재 조문과
+    실제 내용(개정 이력 꼬리표 제외)이 달라지는 첫 버전을 찾아 (title, lines)를 반환한다.
+    못 찾으면 (None, None)."""
+    current_norm = strip_amendment_tags_lines(current_lines)
+    for version in versions[1:1 + MAX_VERSIONS_BACK]:
+        try:
+            title, lines = fetch_article_at_mst(version["mst"], jo, branch, oc)
+        except (requests.RequestException, ET.ParseError) as e:
+            print(f"[skip-version] {law} {version['mst']}: {e}", file=sys.stderr)
+            continue
+        if title is None:
+            break  # 이 버전엔 조문이 아직 없었음(신설 이전) — 더 과거로 가도 마찬가지이므로 중단
+        if strip_amendment_tags_lines(lines) != current_norm:
+            return title, lines
+    return None, None
+
+
 def main():
     oc = os.environ.get("LAW_API_OC")
     if not oc:
@@ -73,7 +98,7 @@ def main():
     alerts = load_json(ALERTS_PATH, [])
     now = datetime.now(KST).isoformat(timespec="seconds")
 
-    prev_mst_cache = {}  # law_name -> 이전 버전 MST (같은 법령 여러 조문에 재사용)
+    versions_cache = {}  # law_name -> settled versions list (조문 여러 개가 공유)
     added = 0
 
     for prov in provisions:
@@ -83,32 +108,23 @@ def main():
             print(f"[skip] {pid}: state.json에 캐시된 원문이 없습니다 (check_amendments.py를 먼저 실행하세요).", file=sys.stderr)
             continue
 
-        if law not in prev_mst_cache:
+        if law not in versions_cache:
             try:
-                versions = list_settled_versions(law, oc)
+                versions_cache[law] = list_settled_versions(law, oc)
             except (requests.RequestException, ET.ParseError) as e:
                 print(f"[skip-law] {law}: {e}", file=sys.stderr)
-                prev_mst_cache[law] = None
-                versions = []
-            prev_mst_cache[law] = versions[1]["mst"] if len(versions) >= 2 else None
+                versions_cache[law] = []
 
-        prev_mst = prev_mst_cache[law]
-        if not prev_mst:
-            continue
-
-        try:
-            prev_title, prev_lines = fetch_article_at_mst(prev_mst, jo, branch, oc)
-        except (requests.RequestException, ET.ParseError) as e:
-            print(f"[skip] {pid}: 이전 버전 조회 실패 ({e})", file=sys.stderr)
+        versions = versions_cache[law]
+        if len(versions) < 2:
             continue
 
         current_lines = cached.get("lines", [])
+        prev_title, prev_lines = find_last_real_change(law, jo, branch, current_lines, versions, oc)
         if prev_title is None:
-            continue  # 이전 공식본에 이 조문이 없었음(신설 직후 등)
-        if strip_amendment_tags_lines(prev_lines) == strip_amendment_tags_lines(current_lines):
-            continue  # <개정 ...> 이력 꼬리표만 다르고 실제 조문 내용은 그 사이 안 바뀜
+            continue  # 실제로 달라진 과거 버전을 못 찾음 (조회 범위 내에 변경 없음, 또는 신설 직후)
 
-        alert_id = f"{pid}-recent-{prev_mst}"
+        alert_id = f"{pid}-recent-{state[pid].get('hash', '')[:12]}"
         if any(a["id"] == alert_id for a in alerts):
             continue
 
