@@ -6196,5 +6196,395 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-tax-law-revision-6bb28719fb7def1c",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "‘2025 핵심 개정 세법’ 총정리 - 국회 본회의 의결(2025. 12. 2.)",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "‘2025 핵심 개정 세법’ 총정리 - 국회 본회의 의결(2025. 12. 2.)",
+    "source": "intn.co.kr",
+    "publishedAt": "2025-12-04T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNkI1anViYWxQZGZhdzBYc29tQ2dQSTFickZnUUZqbWRFdTBvUWEzUTdfblE4LWFkVUpxZjNpUk5ycGFiN3hyV3FBUjRyX2N3dmZocFROdUhJWmY4VHh1UlVvTGY4Z3NEeHc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-2f8af18ee5e71e9c",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "\"주식 손실 땐 거래세 면제\"…안철수, 조세특례제한법 발의",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "\"주식 손실 땐 거래세 면제\"…안철수, 조세특례제한법 발의",
+    "source": "아시아경제",
+    "publishedAt": "2026-07-28T10:51:02+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U28tblRiLUNVakppY0cwMVQ4ZFREcThydDJvaVhQMFQ0dXF1MEpDZjNQYVlUaHVwSk5ZeURjaGlOX3dFNXRtLTh3ZU5xNnBlRGFqRTZPdmM4RjhZXzM4NQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-e45a582d203c1ca7",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "\"주식 거래로 손실 봤을 때 증권거래세 면제\" : 국힘 안철수 '조세특례제한법 개정안' 발의",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "\"주식 거래로 손실 봤을 때 증권거래세 면제\" : 국힘 안철수 '조세특례제한법 개정안' 발의",
+    "source": "허프포스트코리아",
+    "publishedAt": "2026-07-28T10:56:23+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqV1pTYVFDanBoVjFLUTBSOEJUZC1DV2N2Snc5Q3Rfd0VhcUZnelJoUHZjVGl2a0lNVHRSLURjUHRGOGNnaWVJTktnWnFJQVg4Uy1VTFk0Yw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-8dbf9852261bec5d",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "\"주식 손절에 세금까지 부담\" 안철수, 증권거래세 손질 제안",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "\"주식 손절에 세금까지 부담\" 안철수, 증권거래세 손질 제안",
+    "source": "네이트",
+    "publishedAt": "2026-07-28T08:58:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3d0k5OVlRUzBFWE9ySkVndjZFUjNHaDZLbDNEdFVjNjJyYkR0V0JjdUFaU2w0TlRHOS1Xc3hQNTEwajZGd2dzQVpHY2hVVkJJTndoNFRoSEl1VWxvM0JOOUpjOUppTUJHV2JyU0xTek1tU0hCYmVqcw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-778ce83c02788aec",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "장애인고용부담금 손금산입에 관한 대법원 판결 선고",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "장애인고용부담금 손금산입에 관한 대법원 판결 선고",
+    "source": "법률신문",
+    "publishedAt": "2026-06-25T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tc3ZhUEJTam50WDR1ZmY4RTF6UkJCeXdNeEFPZ2ktTC1FLVNIMzRXUDVBZGg2RDV5WWp3Y1RjWFRMQkNBUmh4RkZfX3d3UkVkLUFmN1BGbkV6VFk0ODQzc0pvazVqZlhRMEVuWHhR0gFyQVVfeXFMT0tRRkNxVXJWcC1iSG1nZE9xdGJ0TUpQZHdOY3Vmd3FZTDM4d1F5ZlF6LXkyVGdnYnlnM1B2eHBTQmI3YW44WGkzbUtkNVdXb29VbE5KWFEwMmIyTUNEWDlhSldIbkpiQzJsYkRqSmRIdE1B?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-6c0a759eb59e9767",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "\"국세청, 소각 전 자기주식 취득대가 배당소득 과세는 실질과세원칙 한계 넘어\"",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "\"국세청, 소각 전 자기주식 취득대가 배당소득 과세는 실질과세원칙 한계 넘어\"",
+    "source": "한국세정신문",
+    "publishedAt": "2026-04-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wVWlkQUdqMnBNdm52MlpkZWM2Q0Y3bEtacWxZQVp3cnhrRnB1VTVILTRSVFdGTnlYVkJJOC1QaS1SVTdDZGd5aWxVQnVTLW5Wd01tSExXc1pjMFduWWw5V2ZhQkw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-7bc7e772993a1d5a",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "김천상의, 개정세법 핵심 짚었다…기업 실무 대응력 강화",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "김천상의, 개정세법 핵심 짚었다…기업 실무 대응력 강화",
+    "source": "kyongbuk.co.kr",
+    "publishedAt": "2026-05-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9haUZ2U3IySC1UVzVSbnA3U0tlbzVPMHhSSVNQNGRqM0s2VDRmMUpIT2htTUpKZV9ndVlrNVZHaVY3RGRkWDJERkl6M1dHcDdQVU1ERmcteWdKTHNmdVF0NGNTbXdsSlo2S2E1QVRTaw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-000f0b178644a3e7",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "[판결문 분석]② 같은 날, 두 개의 대법원 판결…장애인고용부담금 손금 법리 '쌍끌이' 확립",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "[판결문 분석]② 같은 날, 두 개의 대법원 판결…장애인고용부담금 손금 법리 '쌍끌이' 확립",
+    "source": "조달경제신문",
+    "publishedAt": "2026-04-07T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3QjItaWFYOU1lalptcmRoMzZGU0dVbjR6eXhXdGZIRDNVZ0gwRUZmQWFnQjJKX25ZcDhYVHE2ZktvSW00RzFrekh2ZVZDc2ZPTGgzOGN0OWNMVWdBcHlRTlRYSTlwX1NZeWRSVERn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-a474d8b913648622",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "이광희, 국립소방병원 안정적 운영 위한 '법인세법' 개정안 대표발의",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "이광희, 국립소방병원 안정적 운영 위한 '법인세법' 개정안 대표발의",
+    "source": "충북일보",
+    "publishedAt": "2026-06-28T15:25:06+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11VTN4a2RlTENqN0MtNmV4NmFMbzc3WVhTUGVkU2lQbUNTaEs2MlV2VnJteGZubkdOMEQ3T2h4bW5NRGd6WlgydEtDSXNBTmtpclBmbHBPTVhCNEFBNjNnZDNn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-74cf98430c1f32f8",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "간결히 정리한 시행규칙 세부내용",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "간결히 정리한 시행규칙 세부내용",
+    "source": "조세일보",
+    "publishedAt": "2026-02-27T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KWE9qLU5nM1RmNGl3M1lZbFV4c0JCNlliRjJiQmRZUnI1SU5lTTgySW5zZTJubWhxR3ZpUzF0VFR2NlQ3R3RSVk1fWUQ1X0ZaX0Iwc1hWTDlTN0U5MFV3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-772ac75c41c63349",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "[단독] 자사주 강제소각 稅폭탄 없앤다…SK 수천억 '숨통'",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "[단독] 자사주 강제소각 稅폭탄 없앤다…SK 수천억 '숨통'",
+    "source": "한국경제",
+    "publishedAt": "2026-06-16T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sTjVfT3RIU1VCTTRiWVJqbm94dXR6WndxZnZsVGV4WEgwU29iM3J6anhMOHVKWnFvSWYxRVE5S2Z3aVp6WXgzVFMzcUNUQTJROHFDMXJXLWh4UQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-9945a4aaa1feaa0b",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "세무법인HKL '세상(稅相) 읽기'⑪ '장애인고용부담금'에 대한 대법원 판결 시사점",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "세무법인HKL '세상(稅相) 읽기'⑪ '장애인고용부담금'에 대한 대법원 판결 시사점",
+    "source": "intn.co.kr",
+    "publishedAt": "2026-03-18T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15Q1gyV1h4MlJJbFV6bTNVUjBwVS1MbVd1UVc0SjI5aUhxNTJLT0pLOWRlTUhNN3NuRFFHSWRCZlk2Z2FGNHgyYUVFOG01MjBJN1RyYXdSS3ZXdWwyV3ZrVDRyd1VLdGJya1E?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-06c22e7d8e81bd5e",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "장애인고용부담금은 법인세법상 손금불산입 대상인 공과금에 해당하지 않음",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "장애인고용부담금은 법인세법상 손금불산입 대상인 공과금에 해당하지 않음",
+    "source": "법률신문",
+    "publishedAt": "2026-03-19T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IdjZEWFlTcnFTelVtT1poSXdScWRveEFCaTdqbUktNHczeWpkbXhGZEdIdmVqcFpPVWpDMmR5R2hqaDBKUzdJcnhHYVFNemhCQ1FWd2xrSV9LNERTU3FnN0hFbEJ5MEU5a24zcEx30gFyQVVfeXFMTmlnd3l3WGRHLVg2SlNnUXEydUNSemo0Q1Zyd2owNnhSUGR2akpQd055c3JnTWlESmFQRlFYbDRwTGhRUmh6bnM5UUlVR1luZ21wNVhGUXJnc3RIZ3d1M1ExUFVuQl9JWjI4UUFRZDRLZ2t3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-60abe888ce610e5f",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "[2026 경제성장전략]안전설비 투자 세제지원 ‘3종 패키지’…안전기술 세액공제 최대 ‘40%’",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "[2026 경제성장전략]안전설비 투자 세제지원 ‘3종 패키지’…안전기술 세액공제 최대 ‘40%’",
+    "source": "경향신문",
+    "publishedAt": "2026-01-09T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUGxST0gyMWRJQzFUaGkzVWxNNGo0WXE3bUZOMld4SEQzeVJ0bU5GZlRFMGVFVzBqaVRxX2Rhd3VqazhNOElEX0FBZzZQVy0wWWVFcTVjOXAtQdIBX0FVX3lxTE90YVoydWw4QU9Ud0NPT3RqY08wOUt5OWpWWGFvRWlrQzNXRUtZeVlNNGpYYlJDZ21ucDJYclpFQXA4ckxMTlpidUlaSmJ4T2Z3djdrNmlOcG0xWXU0cHRJ?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-c5f146065e4ba998",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "[2026년 경제성장전략] 안전설비 투자 세제지원 3종 패키지, ‘맛있는 당근’될까",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "[2026년 경제성장전략] 안전설비 투자 세제지원 3종 패키지, ‘맛있는 당근’될까",
+    "source": "매일노동뉴스",
+    "publishedAt": "2026-01-12T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9maWllQ0NYWXBhMl80Mk5FY0NJa1NxbnZUcWRhVWNzSUw3cjdQb2ZtVW5XV1pVcVJUU0dqaFR3Nkd0LWpoZm51NHBkc3VuRnl6UzFUdGVYdEpaMTIxa2xnNllzZnF6NUU5TGZkMzhtVG0?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-5efb6fd79f152bde",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "“성장할수록 세금 부담 커진다”…지방 중소기업 ‘계단식 조세 지원’ 해소 추진",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "“성장할수록 세금 부담 커진다”…지방 중소기업 ‘계단식 조세 지원’ 해소 추진",
+    "source": "the-news.co.kr",
+    "publishedAt": "2026-07-27T11:07:46+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsN3MtR05BNkUxZjJLbGxGTkF6X1JKX1gzRExmY2tBcS1na2xIMkJqQ3VzdENvUlEya0F1YmZWVWF3TlY2SWZoYWc5WDhhNjVLLXkzdktVZWJHVWtETzFTNTJ5LWpEU21TNzFORTV2ONIBb0FVX3lxTFBsN3MtR05BNkUxZjJLbGxGTkF6X1JKX1gzRExmY2tBcS1na2xIMkJqQ3VzdENvUlEya0F1YmZWVWF3TlY2SWZoYWc5WDhhNjVLLXkzdktVZWJHVWtETzFTNTJ5LWpEU21TNzFORTV2OA?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-344e667fcd51ff7f",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "과기정통부 \"AI 학습용데이터 구매 비용도 연구개발비 세액공제\"",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "과기정통부 \"AI 학습용데이터 구매 비용도 연구개발비 세액공제\"",
+    "source": "디지털투데이",
+    "publishedAt": "2026-02-24T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02THlhb0xHRkF2RmhwcEVETU93Q0RNd2VVT1FjZkNWQ3RQd1pkSEpqWHVqMmZKZUZ4X3RVNExqeWJHWXEwYXk1eFJ6ajE4dXl4ajNQc2F6Ni1BT2FaZTd5aFJjNEJHVzdQX3dzQmljbEJQWjQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-19664ec280ffc074",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "해외펀드 세금 돌려받고 환전은 밤에도…오늘부터 달라지는 금융제도",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "해외펀드 세금 돌려받고 환전은 밤에도…오늘부터 달라지는 금융제도",
+    "source": "v.daum.net",
+    "publishedAt": "2026-07-01T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JdWc2Mi1QYVR3VTJtRUN1N0JkdExjQnZRdUF5bVV1WjJvMjhWUEhnbzRieHBmZm5KUFJTbmloYlNHT2pyUWJUNm1RMA?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-153b5d5a967ebf7f",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "해외수익 낸 펀드투자자, 세액공제 '직접' 신청하세요",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "해외수익 낸 펀드투자자, 세액공제 '직접' 신청하세요",
+    "source": "조세일보",
+    "publishedAt": "2026-04-24T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yLUE0c1FCSXgxNFNuYnN5RzcxeTdXcnRrSGxnMy00UmwyS3VMWHQ1clp1R250RXJDZ1pyTktDa3lvaDBpOHJFTkViVlRFY3ZfVjgxV0NsOGhzaDBZWFlj?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-exporter-2c0ea3a09d494a0a",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "전남광주 수출기업 \"외국인 비자 늘리고 SMR 세제 지원해야\"",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "전남광주 수출기업 \"외국인 비자 늘리고 SMR 세제 지원해야\"",
+    "source": "뉴시스",
+    "publishedAt": "2026-07-02T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KU3lFM1FGQk9MV0RaWHVtQzloOVNPUkRJb0ZBQXcxTGptMC1TX2dOZkZLdTVKSXVnSmVGOWkwcEhYTGtkWTZGR0k3U29HZ1pIM0ZYX1FXWmJkZ0hnVGhIetIBeEFVX3lxTE0tZjBzVDZMRjc3andXbUptd0pYRkk3MEJiQ3p1bG1BT2JiYnlVV1NFUy0xUDdHWUpnUW01bnlvMnQxU25BUUdFOG8ycV9rV2djSFNrY29yT1NtVDltNEZwZG11Tk9sSlhINDFhcmZMSzhTd1NJVlU1Zg?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-exporter-3b1fa2f70ce883ca",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "외환당국, 환율 안정 세부 과제 추진…수출기업 환전 정책 지원 검토",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "외환당국, 환율 안정 세부 과제 추진…수출기업 환전 정책 지원 검토",
+    "source": "전자신문",
+    "publishedAt": "2025-12-01T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4OVVRYWVnODNzelI3MjJQVU8xSGtMcngtcGE2NlNWVy0yTElTTzVoVkpBQ1cweThlNF9MUnNtWXItZXI5N2pBWWNlNzFhUQ?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-08cf7636dc8829fe",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[단독] 기업 장애인고용부담금 4.2조, 비용처리 길 열리나",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "[단독] 기업 장애인고용부담금 4.2조, 비용처리 길 열리나",
+    "source": "한국경제",
+    "publishedAt": "2026-03-08T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85V05rRWJ4dUxSWjBQbnBDTzNzeTg2UWlBQTdMWjg4cU9ibVRrendpbWZHWVRaV0tTdmFjd29rYUZ2X1BYU1l4aGZ1eHllNVM1N2pzbml4X19vZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-0ad2f60a5c7215fe",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[기업성장 컨설팅] 대표이사 가지급금, 반드시 세법상 문제 된다",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "[기업성장 컨설팅] 대표이사 가지급금, 반드시 세법상 문제 된다",
+    "source": "전자신문",
+    "publishedAt": "2024-07-29T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyQldzTkFOWUZRU2ZoeFg2aVhwVGVMSGxqYk1rMi03LWQyVFAyYnVMbnk4LS00aDh0Q1NWcXI5V0lkcGlMdTM4Vkt5b01vZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-1734391d08c368f9",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "선 커뮤니티스, 2분기 순손실 9억 9270만 달러 기록…영국 사업 매각에 따른 평가손실 반영",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "선 커뮤니티스, 2분기 순손실 9억 9270만 달러 기록…영국 사업 매각에 따른 평가손실 반영",
+    "source": "데이터투자",
+    "publishedAt": "2026-07-28T06:03:30+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtMThIUU94QjhiVVRnQnM2ZFBUV0h5MHB4b0ItNVV5TDcwbFBvMzNIdkxOVnd4cmoyR1pIOUZEdVcybEZod0FKOUFfNWJmVUc1MS1LMkY3QzhsVkY1Y1lPZjUtSjVmQTNqT1FiNEZaQkhRX2c?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-25a29dbe0537457f",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "다 지어놓고 버는 구조…백화점 빅3 감가상각비 '희비'",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "다 지어놓고 버는 구조…백화점 빅3 감가상각비 '희비'",
+    "source": "연합인포맥스",
+    "publishedAt": "2026-07-28T08:29:28+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uU2pVRGlpZDExbDJqVk5hRm94S0drMG10OUZDT2ZHQ3REMXY3Y2tVWTk4WkVPYlVqNmZiUkJRR3VFd2xiOGxvazBzMVp6NnhjdmRBMmxhTXRyM1VYMXNpUFVSN1J0dDJGNUh5b0ZXVGw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-d62a1684ef6794cb",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "고가 현물출자로 인한 익금산입액이 출자자에게 귀속되었는지를 판단할 때는 출자자에게 교환차익 이 존재하는지도 함께 살펴보아야 - 대법원 2026. 3. 12. 선고 2024두37008 판결",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-07-28T16:59:42+09:00",
+    "plainSummary": "고가 현물출자로 인한 익금산입액이 출자자에게 귀속되었는지를 판단할 때는 출자자에게 교환차익 이 존재하는지도 함께 살펴보아야 - 대법원 2026. 3. 12. 선고 2024두37008 판결",
+    "source": "Lexology",
+    "publishedAt": "2026-06-03T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcjF4eHlsMldXcElScXR2aWsxWWx1N2l4UG1EaHNHWmVORWlhUUVqblVpYjhUOF9rdURISEZyajVvUlMxeTAtcTBhb0tuY1hNeW9BUnRPLTVMc1FxdHFoYjN5WW5TbGtWWnBUYVhZbEVVVjNBNUlYS2NWcURiTWNIRUZEc3E3YlZwMTFn?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
