@@ -285,11 +285,30 @@
     return stripAmendmentTags(a) === stripAmendmentTags(b);
   }
 
-  // removed/added 줄이 이어지는 구간(hunk) 전체를 모아서, 삭제된 줄 수와 추가된 줄 수가
-  // 정확히 같을 때만 순서대로 짝지어 "일부 단어만 바뀐 것"으로 보고 단어 단위 diff를 돌린다.
-  // 인접한 것만 무작정 1:1로 짝지으면, 서로 다른 두 문단이 각각 바뀌었을 때 삭제 줄들이
-  // 먼저 몰리고 추가 줄들이 나중에 몰리는 경우(전형적인 줄 단위 diff 순서) 엉뚱한 문단끼리
-  // 짝지어져 버린다. 줄 수가 안 맞으면 안전하게 통짜 삭제/추가로만 표시한다.
+  function tokenizeWords(str){
+    return str.split(/(\s+)/).filter(function(s){ return s.length > 0; });
+  }
+
+  // 두 줄이 얼마나 비슷한 문장인지 [0,1]로 어림잡는다 (단어 집합의 겹침 비율, Dice 계수).
+  // 조문이 항 번호가 밀리거나(③→④) 단어 몇 개만 바뀌었을 때 그 줄들을 서로 짝지어주기 위함.
+  function lineSimilarity(a, b){
+    var wa = tokenizeWords(a), wb = tokenizeWords(b);
+    if(wa.length === 0 && wb.length === 0) return 1;
+    var counts = {};
+    wa.forEach(function(w){ counts[w] = (counts[w] || 0) + 1; });
+    var common = 0;
+    wb.forEach(function(w){ if(counts[w] > 0){ common++; counts[w]--; } });
+    return (2 * common) / (wa.length + wb.length);
+  }
+
+  var SIMILARITY_THRESHOLD = 0.6; // 이 이상이어야 "같은 문장이 수정된 것"으로 보고 짝짓는다
+
+  // removed/added 줄이 이어지는 구간(hunk)을 모아서, 문장이 비슷한 줄끼리 짝지어 "일부
+  // 단어만 바뀐 것"으로 보고 단어 단위 diff를 돌린다. 조항이 대폭 재구성돼서 삭제/추가
+  // 줄 수가 다를 때도(예: 8줄 삭제, 18줄 추가) 그중 실제로 대응되는 문장은 찾아서 짝지어주고,
+  // 진짜 새로 생기거나 없어진 줄만 통짜 삭제/추가로 남긴다. 반복되는 상투적 문구(예: 조문
+  // 앞부분에 흔한 "...제외한다" 같은 어구) 때문에 엉뚱한 문장끼리 우연히 짝지어지지 않도록
+  // 임계값(SIMILARITY_THRESHOLD) 이상일 때만, 그리고 가장 유사도가 높은 쌍부터 그리디하게 짝짓는다.
   function pairModifications(ops){
     var result = [];
     var i = 0;
@@ -305,20 +324,34 @@
         else addedBlock.push(ops[i].text);
         i++;
       }
-      if(removedBlock.length === addedBlock.length){
-        for(var k=0; k<removedBlock.length; k++){
-          result.push({type:'modified', oldText: removedBlock[k], newText: addedBlock[k]});
+
+      var candidates = [];
+      for(var r=0; r<removedBlock.length; r++){
+        for(var a=0; a<addedBlock.length; a++){
+          var score = lineSimilarity(removedBlock[r], addedBlock[a]);
+          if(score >= SIMILARITY_THRESHOLD) candidates.push({r:r, a:a, score:score});
         }
-      } else {
-        removedBlock.forEach(function(t){ result.push({type:'removed', text:t}); });
-        addedBlock.forEach(function(t){ result.push({type:'added', text:t}); });
+      }
+      candidates.sort(function(x, y){ return y.score - x.score; });
+      var matchForRemoved = {}, addedUsed = {};
+      candidates.forEach(function(c){
+        if(matchForRemoved.hasOwnProperty(c.r) || addedUsed[c.a]) return;
+        matchForRemoved[c.r] = c.a;
+        addedUsed[c.a] = true;
+      });
+
+      for(var k=0; k<removedBlock.length; k++){
+        if(matchForRemoved.hasOwnProperty(k)){
+          result.push({type:'modified', oldText: removedBlock[k], newText: addedBlock[matchForRemoved[k]]});
+        } else {
+          result.push({type:'removed', text: removedBlock[k]});
+        }
+      }
+      for(var b=0; b<addedBlock.length; b++){
+        if(!addedUsed[b]) result.push({type:'added', text: addedBlock[b]});
       }
     }
     return result;
-  }
-
-  function tokenizeWords(str){
-    return str.split(/(\s+)/).filter(function(s){ return s.length > 0; });
   }
 
   function collapseContext(ops, context){
