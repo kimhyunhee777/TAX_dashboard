@@ -697,5 +697,39 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-startup-622707",
+    "type": "precedent",
+    "topicId": "prec-startup",
+    "label": "창업중소기업 세액감면 판례",
+    "detectedAt": "2026-08-17T07:34:17+09:00",
+    "plainSummary": "부동산 처분이익이 창업중소기업에 대한 세액감면 대상 소득에 해당하는지 여부",
+    "caseNumber": "수원지방법원-2025-구합-62022",
+    "judgmentDate": "2026.07.09",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=622707&type=HTML",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "prec-wrongful-calc-622741",
+    "type": "precedent",
+    "topicId": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "detectedAt": "2026-08-17T07:34:17+09:00",
+    "plainSummary": "특허권 양도계약이 부당행위계산 부인의 대상인지 여부",
+    "caseNumber": "수원지방법원-2024-구합-75889",
+    "judgmentDate": "2026.07.15",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=622741&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]
