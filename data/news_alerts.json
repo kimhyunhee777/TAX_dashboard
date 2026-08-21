@@ -16586,5 +16586,336 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-ctpa-revision-fe9279e7ffa0b12d",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "고소득자, 세금도 많이 내지만 세금 혜택도 더 많이 받는다",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "고소득자, 세금도 많이 내지만 세금 혜택도 더 많이 받는다",
+    "source": "파이낸셜투데이",
+    "publishedAt": "2026-08-21T18:09:28+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tMDlRcG90V3BqQ2UxZFlqR2FxalV5SnJIRGdIRy1DNDM1UUNwVE5rMS1hVkpwNzI2MHZEX1gyNGl0cTVKMjlkc0MtT1o5MWpEMktobUhlZFhRY3p5N2hzbEVnSjNqWVJhS3dXN2R30gFuQVVfeXFMTm0wOVFwb3RXcGpDZTFkWWpHYXFqVXlKckhEZ0hHLUM0MzVRQ3BUTmsxLWFWSnA3MjYwdkRfWDI0aXRxNUoyOWRzQy1PWjkxakQyS2htSGVkWFFjenk3aHNsRWdKM2pZUmFLd1c3ZHc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-c568a953c4f8872f",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "이달희 의원, 외국인환자 미용성형 부가세 환급 특례 되살린다 …「조세특례제한법」 개정안 대표발의!",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "이달희 의원, 외국인환자 미용성형 부가세 환급 특례 되살린다 …「조세특례제한법」 개정안 대표발의!",
+    "source": "dhns.co.kr",
+    "publishedAt": "2026-08-13T15:52:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lakNHSDI4RUg5YU5rYjBWenZkbzBQaDBHX1lwdFphc29LS19LQXpETUVxQk1XQnZRQ3Nna3lXbzhuLUd0Xy1EZHd1ajNCZDhEWUxxT2g0ME1wcmRKZ25yQmtJZGpqNFk?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-3829e887ff544c7b",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "지난해 국세감면액 76조1천억…법정한도 0.4%p 초과",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "지난해 국세감면액 76조1천억…법정한도 0.4%p 초과",
+    "source": "한국세정신문",
+    "publishedAt": "2026-08-21T11:45:09+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NQ05RRkdzSkpfbzRBNTBaMVJBTTJPZHVRVWZVMm12cE9lWHVNTmF3YThDcXVhNTlXZno2X2IxSXUwcFN1Nmk4Szl6YXRLN1NTMUJoaGhNd0xsajEzZmRMdmZ0N0k?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-9c39c2c17c626898",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "소득 상위 10%에 보험료·연금계좌·교육비 공제 절반 이상 집중",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "소득 상위 10%에 보험료·연금계좌·교육비 공제 절반 이상 집중",
+    "source": "금융소비자뉴스",
+    "publishedAt": "2026-08-21T16:01:37+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14MXdENnBVa3dEV1BHRlJoWGpOVUhrZmdqM3MwcXVPeXFvTzdhUmlYeml1U2E1WEZVU0tSRTU4azBiV00xdDhUZ3B3T2RYWnZON2RkZC0zY09xRmZaYlBDQjFTNWpWWUNmd2c?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-d6504c8a9634926d",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "전기차 떼고 반도체 넣은 생산세액공제…취지 못 살린 세제 개편[세액공제 함정①]",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "전기차 떼고 반도체 넣은 생산세액공제…취지 못 살린 세제 개편[세액공제 함정①]",
+    "source": "MTN 머니투데이방송",
+    "publishedAt": "2026-08-20T12:58:27+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIUEdwWWJyVktmNXY0c3F5SDltSXRlUVhtaHFqRHdWanUzMjVfQ0JVb1VQZkNzcW92OHZibXRPNHVCTEJtMEhmTmRURkw4VjU1d0o3Unh4ckZFSWhPbURSV1JfUHo?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-ae50e47328e04a26",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "소득 상위 10%에 보험료·교육비 공제 혜택 절반 이상",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "소득 상위 10%에 보험료·교육비 공제 혜택 절반 이상",
+    "source": "연합뉴스",
+    "publishedAt": "2026-08-21T11:01:25+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40eXVnLWRoMmd2Q1lMcGx1RlVCTVd2V0kwOXUtTDlnejZnRmZfYzZCUWVFeW0zRjE2LW9XMXBBUjNvbVZnMzFibU1rYkdyMzF4b29OQ3VDSFBfeTDSAWBBVV95cUxQZ3pMYVRqSXhpeXF3d0NpRjY0V3JXWVA0SHFLRlNFT0FOUzlzNjVlS2x4OUk1M3JmbUVtMkxmVkxial9ObDlDaWRyZlA5RzJvNF9vN2xnZEw3MzhlZVZJajk?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-5062882ae5a6f901",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "지난해 깎아준 세금 76.1조…국세감면율 법정한도 0.4%p 초과",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "지난해 깎아준 세금 76.1조…국세감면율 법정한도 0.4%p 초과",
+    "source": "뉴스1",
+    "publishedAt": "2026-08-21T11:35:32+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByX3FmNi1VTzVKVHpmOVdKSGRrMG50R3UyME9Hb2xETlBoMENYV2JBX0VoQ21ralM0aWhxRWxPR2RheGZ4bEo4MW5taFRaa0wyMHlva2ppUHFfZ9IBWkFVX3lxTFByX3FmNi1VTzVKVHpmOVdKSGRrMG50R3UyME9Hb2xETlBoMENYV2JBX0VoQ21ralM0aWhxRWxPR2RheGZ4bEo4MW5taFRaa0wyMHlva2ppUHFfZw?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-489e7f6bd177ed21",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "지난해 국세감면 76.1조원…법정한도 0.4%p 초과",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "지난해 국세감면 76.1조원…법정한도 0.4%p 초과",
+    "source": "세정일보",
+    "publishedAt": "2026-08-21T12:13:40+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVXN3UjN5MHh3Y2dabDRNSlBRc3FVcEVUUXI0dlVXZ2RxSDNsOEtOM1N3cDZJRGdwdlRjd0FhVVNhbEwtMENkWjEzZmxRdlIzek9WTEN2YkFqbGM5MFF3MFZ0YU9kQXJnWFBneA?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-0ac56755afeff7f5",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "공제·감면으로 깎아준 세금 76.1조원…법정한도 0.4%p 초과",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "공제·감면으로 깎아준 세금 76.1조원…법정한도 0.4%p 초과",
+    "source": "데일리안",
+    "publishedAt": "2026-08-21T10:10:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNl85YUlpck9OcEZIOExyX2dEOFBVdDBBd2VpaXM1cDAzZmlYNFZYcmQwYm9ETnhSc2NkNHprMzJwY0ZTSHJkdndLdllTcnA2RHctRUppSHM3MVA5NXp6V1ljTWhfWXUwUXM2MzFPNDBMX21kSVh6MTJjeHIyQnBSQWZRV0lJemdKUkM0RUVWeE9xbVljb096anZSaHpUclk0QnlEcVUwc2gwb2R5cERtREl0WGVCLThTODR0ZDk2VnQwdHh4aTNDN3lwR1pfTnl5dVNWY3hJaVF0ZDZTck5FOW9Kd1Z4eXpEclQ4Q0ZyZlZGVEtESk56dUo4d1h6Q2NiakJGTHRDZ0NBX2lxdXc?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-cb791d12b5f84554",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "소득 상위 10%가 세금 77.6% 부담…세제혜택 비중의 2배 넘어",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "소득 상위 10%가 세금 77.6% 부담…세제혜택 비중의 2배 넘어",
+    "source": "뉴시스",
+    "publishedAt": "2026-08-21T10:38:40+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LaXdYQklEWUZMMGhNSml6UEdRb3NkbHpBYTlfaE0tUUtObkdlenhKSG9IWF81S1huc19tNmV1ZDhIVDFQV1dSb0dnSTBjNGlrZUh3YnVyNk9mUW9uZTlOM9IBeEFVX3lxTE1Ua2YzQlBIUU45YXdOc1h6VGo3Z3lhR3BzcVQ3MUQ2aml5TmhOSE0tclgtQ2dsSXhHU1VaWnFfYlowaGk2bUhUaTg2VkdJRUhvcEp3Yno4YlZnZzQ4REhBZnF3XzZHWUc5c1hrTU83OEJsSkxNU25fRw?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-6369f90a18a83c9e",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[전문가 칼럼] 주문받아 만든 기술은 연구개발이 아닌가?",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "[전문가 칼럼] 주문받아 만든 기술은 연구개발이 아닌가?",
+    "source": "조세금융신문",
+    "publishedAt": "2026-08-21T18:30:03+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QMFpvUkRZcjRYMnZsMER5OFlZZkJmaE1pS2ZoMTNodHkwZFlrQTNiN2h1LWEzRGlDM2M0TVI1RHllc1VkNlc2OXA2VWhTYXZLSWJOaFpJV1hHdmwtdzZLVHBCTQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-5946ae19b8f94058",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "R&D 세액공제 2년 새 57% 급증…국세청, 내달부터 부당공제 정조준",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "R&D 세액공제 2년 새 57% 급증…국세청, 내달부터 부당공제 정조준",
+    "source": "세정일보",
+    "publishedAt": "2026-08-21T08:24:26+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMEFNZ0tHVFNLOVNmZTFwMjVqQmlMTTBVV2hyOEZ5d3dPZ1BUd0EyQ0YxcmpYNTEtbDlfd2wyX2R2X21CTUJMNS1OMnJjaTRZWXMxOWNYeFNFRVFRRENFVjJxSjMyWWlFeXQ3bw?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-db367ea47edae5d4",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "보험료·연금·교육비 공제 절반, 상위 10%가 가져갔다",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "보험료·연금·교육비 공제 절반, 상위 10%가 가져갔다",
+    "source": "네이트",
+    "publishedAt": "2026-08-21T10:44:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUS1FWSG9UXzM0SDdubE9EdEdmQmpVQll1OHY0ZnBnaFhqLVhfR19Xek5fbE10OTVKNHRpRzJYUzhkZzZ1Uk94RTF1QmhQa09zUlZZ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-sme-credit-c848e84361e6dbdd",
+    "type": "news",
+    "topicId": "news-sme-credit",
+    "label": "비수도권 신산업 창업기업 최대 100% 세액 감면...제3자 사업승계 특례 도입",
+    "topic": "중소기업 특별세액감면 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "비수도권 신산업 창업기업 최대 100% 세액 감면...제3자 사업승계 특례 도입",
+    "source": "이투데이",
+    "publishedAt": "2026-08-07T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlcU9zYV9tdXV1V2tBeDVaTVM1SFJBY2xrek1TYjNQQk5TbGoxOFlpVU9QR0pzZ2ZkeWxIOVVxaWt0MjhmOGZ2bGtGUjdjQzZrVXFNNA?oc=5",
+    "tags": [
+      "중소기업특별세액감면"
+    ]
+  },
+  {
+    "id": "news-startup-e696170e8c635def",
+    "type": "news",
+    "topicId": "news-startup",
+    "label": "[클릭, 세무상식]청년 취업·창업에 날개다는 세제혜택, 꼭 활용하세요",
+    "topic": "창업중소기업 세액감면 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "[클릭, 세무상식]청년 취업·창업에 날개다는 세제혜택, 꼭 활용하세요",
+    "source": "뉴스1",
+    "publishedAt": "2026-03-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2aDhKLTdDcVVQMjV1X09pSjd1X3NPM1NrdWk3cTJ3ZVMwdl9IYWRzY2ZOV05nSW9CT2FacFItYkJlY2tJZFFIUUREWV9pcjRPWXdQNdIBWkFVX3lxTE5vUC1Ba0QwUGEzY3QzZ0RURl9uM2MySDJzNUdGcndsM3I4YkZVNHhHZnNlZTl1bXlqNHBtTFlvSlRIb3pGZmx3MGUwWFN5aWxPbzBIaXpZd29XUQ?oc=5",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "news-employ-credit-aa233af90de95dbe",
+    "type": "news",
+    "topicId": "news-employ-credit",
+    "label": "청년 고용 확대 취지 잃은 통합고용세액공제",
+    "topic": "고용 관련 세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "청년 고용 확대 취지 잃은 통합고용세액공제",
+    "source": "국민일보",
+    "publishedAt": "2025-12-15T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQ185MjZfamxJbHJtMEhDMU5pY2lDWkJ0WHFJOEIxN2RmX3gxSVZ5N055cmV4UTVXRGJzR2Zzb0M0YlMwU1JzNkZweXVRdkhxNjNQX21EMFZyNWxOSUdKa3hEUUdfbFnSAWxBVV95cUxNX3QzQVJ0dmtZNzdfX1RGZmVRRnFIM2dURTV3dFJSZEVCeTJoZHdYT29lY2gySFBaRUlPck5GMUVrV25MM1NmdXlpbUc3TnZJa2tncmotSE1NRkpjcmQ2VXpjZWNyNWx1ZWhUcmc?oc=5",
+    "tags": [
+      "고용증대세액공제",
+      "통합고용세액공제"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-6d87970737edb573",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "펀드 투자로 해외소득 얻은 금융소득종합과세 대상자, 5월 종소세 신고 때 펀드가 낸 세금 공제받는다",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "펀드 투자로 해외소득 얻은 금융소득종합과세 대상자, 5월 종소세 신고 때 펀드가 낸 세금 공제받는다",
+    "source": "조세플러스",
+    "publishedAt": "2026-04-24T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pbTNuT0ROMTRRM05RcDExdkpLMFZlYmhHclNOTmtwS1lPS3pDY3VWT0huVU56TjJkUW9QWkF0bVduYklOSVR4cVdtblBTZ0l4R05sQ0hMS3jSAVNBVV95cUxQSk5MdkRsLWpOci1zb2VEMXJfQlhwSU1FZ0NyclhvbURqNHgwNThIV3o1UTlROV9OR3lTN1AtRGFFNWRQaThKRmgtMG1Hb25HUEJ2MA?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-company-car-9174f86326bde7dc",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "업무용 승용차 관련 2020년 이후 새롭게 바뀌는 사항",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "업무용 승용차 관련 2020년 이후 새롭게 바뀌는 사항",
+    "source": "조세플러스",
+    "publishedAt": "2020-02-19T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oMmJpSjNOOHF4S05CSXg0VkMyVFJmWEhERkxmQ2NDUEhvQmRzam5idEQzM2lsMzJyVHQxaDMtSm1Pb0lpQXk2SDJRYmNMVEdwSVRza2E1QW4taW5FNWfSAVhBVV95cUxNV0pSeFBjM281WkJmWUJ5THM4U3hUNktRSXU2aUxxR1dTa19WZ2N6b1ZiYUVsN0I2eFBsVTA3VkVWS3pOUVZGVDRXaFB4cEpCTWpIamdHZDg1?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-d9d99685dcd4c871",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "가지급금, 창업지원사업 신청 전 증빙과 자금계획을",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "가지급금, 창업지원사업 신청 전 증빙과 자금계획을",
+    "source": "브런치",
+    "publishedAt": "2026-08-18T04:10:35+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE52Si1EMTV6ZjZUQWt2a2VUa1YtWF95WlNzTm9GRjl2alhPUFk2RXlLVXFRRDVDakdMZnZ1N0xFOVpxVTYyU2VwelJHLU0?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-24e51f33a2d4b57c",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "'벌 땐 더 벌었는데'…에쓰오일 재고손실 3천억 난 사연은 |",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "'벌 땐 더 벌었는데'…에쓰오일 재고손실 3천억 난 사연은 |",
+    "source": "연합인포맥스",
+    "publishedAt": "2026-08-21T10:47:44+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KVjdSUWxJLWN6cDFUT2hRU01fRW1FVkFEQ1BvaG0xVlRfSFdUdjJKdVFFcXZWa2dKWXlCUk9ibGJYX2kzaktEUHMzNk1ZVEJMbXdvRjBjVDlpWDFsdEdRTVA5Q1FNQko3VkRwWmdaQTd3bWVI?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-5e74e34e9c72816b",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "빗썸, 2분기 영업익 44% 감소…증시로 자금 이동 여파",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "빗썸, 2분기 영업익 44% 감소…증시로 자금 이동 여파",
+    "source": "마켓인",
+    "publishedAt": "2026-08-14T17:20:24+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKeVpJSE1NWlVFemt5dVlOdlNyakwzbGNaVkRDcjYzdFB4Sm1PampBSUdSZmNDcVdKc18xUnZTYWpRRXJBQjVkUEU4dWNSdkRudkZ0UFhHUUhpX01zMl9NbGxqeVVuWkJkMWtoYmh0am9EZW8?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-bbe6aaaa501e77b1",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "10화 AI 버블 논쟁, 수익은 투자를 따라가고 있는가",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-08-22T07:39:54+09:00",
+    "plainSummary": "10화 AI 버블 논쟁, 수익은 투자를 따라가고 있는가",
+    "source": "브런치",
+    "publishedAt": "2026-08-18T02:41:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRMFUta0xqc2gtcFNVT3lGUlR3QlpWMHRZcUhCNkpZYUNLd0NZb01CVFMyNy1GNTRGZlpGY2JsQlp4b2gxMG1QTXQ0YWY0MFJSVVU4?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
