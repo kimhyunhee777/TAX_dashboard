@@ -731,5 +731,22 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-disabled-levy-618475",
+    "type": "precedent",
+    "topicId": "prec-disabled-levy",
+    "label": "장애인고용부담금 판례",
+    "detectedAt": "2026-08-26T07:41:02+09:00",
+    "plainSummary": "경정청구거부처분취소청구[장애인 고용부담금의 손금산입 여부가 쟁점이 된 사건]",
+    "caseNumber": "2024두30809",
+    "judgmentDate": "2026.03.12",
+    "courtName": "대법원",
+    "caseType": "세무",
+    "sourceName": "대법원",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=618475&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]

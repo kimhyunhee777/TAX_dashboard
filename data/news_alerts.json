@@ -17592,5 +17592,140 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-tax-law-revision-92abd564d9e44eab",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "한국가업승계협회, 27일 세법개정 대응 세미나…공제한도 1000억",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-08-26T07:42:56+09:00",
+    "plainSummary": "한국가업승계협회, 27일 세법개정 대응 세미나…공제한도 1000억",
+    "source": "스페셜타임스",
+    "publishedAt": "2026-08-25T12:09:01+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50U3FGSGxDeVFRb3k5dlhQQ21GMHdRYnVRbnVaeVZZeWJUQ2VvNFBWd0pELU5vNUd1cnV6NF9PTk11eTVuVUJqVUlISFBFN0ppLS1ndmtjdExaSGFvNHlwYjBZQ0JEU1BHcTdYdGpNSEs1bE0?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-7a34ee6a0ec282de",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "여야 '쌍끌이' 발의… 외국인 미용성형 부가세 환급 재추진 '탄력'",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-08-26T07:42:56+09:00",
+    "plainSummary": "여야 '쌍끌이' 발의… 외국인 미용성형 부가세 환급 재추진 '탄력'",
+    "source": "한국경제",
+    "publishedAt": "2026-08-14T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zRXZxNFJ1RHo1UHFKTm5KRkVMZ05mTFhxQm42QXdJVFl2akxyeGZHRUpiTzFIM1JabWx5eTM2RVlzWk0waUo2NkpxVUptVVB3Zlc2bDhWUndhUQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-b96681400d9fab94",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[2026세법] 지방中企 청년 소득세 최장 10년 감면…기업 세액공제 1.5배로",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-08-26T07:42:56+09:00",
+    "plainSummary": "[2026세법] 지방中企 청년 소득세 최장 10년 감면…기업 세액공제 1.5배로",
+    "source": "연합뉴스",
+    "publishedAt": "2026-08-03T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdlp4dW1yLVZKZWF1NUJISmtYcFF1NGJHbEJXeVFXUXhyc0N0Y1pZOF9aU3h4ZjRLMmNGcVZUT2JxOGdSc0JfcDBWeGVIa2NGS1RHZXZ6UE8wSU3SAWBBVV95cUxPcllWd3FpdDN3UWR5d19pTm9icVV1c3YyUG82NFp5UTY3X01EazhicmZMeEVJNHBWcl9jODVHTnlwWWZZUkE1Q0NaV2JZbV90VDMtOG8wNk5mTUt3dUduT2c?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-honest-report-1dfdd1d0fdc0abcb",
+    "type": "news",
+    "topicId": "news-honest-report",
+    "label": "국세청, 10만개 법인에게 3조원 자금유동성 세정지원",
+    "topic": "성실신고 확인비용 뉴스",
+    "detectedAt": "2026-08-26T07:42:56+09:00",
+    "plainSummary": "국세청, 10만개 법인에게 3조원 자금유동성 세정지원",
+    "source": "조세플러스",
+    "publishedAt": "2026-02-23T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlLW5XUVdHTFQyTGhiV2hubmFFcUVhSjB3SUptX3VXRWZOMlVrUEZwM2w3Qi1HbmtKM2FINEtqTnVMWDlTMlRkYzJJM3RkOE5YY2ZZY2cxMDbSAVNBVV95cUxQN2cwZy1MeEdnNlNnenFwdDkxTFhvd3BIekVvUkRRak1Xb3A0U1F3ZmNPVnU5QnZ3aEx3Q2ttN0l1dVF0N2dkQ3VqN19pbElQUE5LTQ?oc=5",
+    "tags": [
+      "성실신고확인비용세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-8b291a95bfa189bd",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "정부, 건설업 활성화 대책 마련 분주…총리 업계 회동은 순연",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-08-26T07:42:56+09:00",
+    "plainSummary": "정부, 건설업 활성화 대책 마련 분주…총리 업계 회동은 순연",
+    "source": "네이트",
+    "publishedAt": "2026-08-19T14:22:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5LVkyNnFtMlB4azRUanJhN0ZYVENJVk1yTDNrb3NCMmVBa1pTRk5sNjlqQmRKZ1MwWFhPRklBZ2J1d3NKLS0wYVVEZzFpT01zS09R?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-construction-2f04b31cba748e87",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "International Tax Newsletter (2026년 3월호) | Deloitte Korea",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-08-26T07:42:56+09:00",
+    "plainSummary": "International Tax Newsletter (2026년 3월호) | Deloitte Korea",
+    "source": "Deloitte",
+    "publishedAt": "2026-03-16T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV1kxa3FhTHZ4MUp4bDNyQldzb3h6N3d0YTBfVm9ENmk5dl9aREJFLUV4TnBMY1o0X3JzMWhMVV8td2dTeUh4amhkcWw4ZEo2NzBGdGVVdm5TTnFRM09ZMi1UM1ItLXBKX0F5bEdlYnBTcXZFU2R4ZXpKZTF3eGkxMUlicVN0ZTl5M09vOVRkVkZwMTd4RU1zb0RoSVEzbmc?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-construction-da1a85b5983c098b",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "지자체가 ‘악성 미분양’ 세일즈 나섰다",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-08-26T07:42:56+09:00",
+    "plainSummary": "지자체가 ‘악성 미분양’ 세일즈 나섰다",
+    "source": "동아일보",
+    "publishedAt": "2026-06-10T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41TURSQUd6cFZhaTZXM3FibFNYWmxqRTNOVm83Nlh6ODY5MHNrX091Vl9VX3ZlMmFGOUo3OTRTQnZ3a3hueHE5UjRRTkwtQW5rNHRaQjZsa1gybndtZ3pyeUE1RlUyakdFQkxj0gFmQVVfeXFMT3NmRVVRY1ZpVkMzNTJQMHhiVmdOTU9JYnFOYVhPeWFUUThxel9KYkVmUHJGT0VjWFU1TjFIWFJoLXJjYVo1Q3V5cVhNMTZ0aWhSeF9DcjdJVkVFRGNGM05mM3ozMU93?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-74a8a28e6d7ea946",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "국책은행, 장애인 외면…산업은행, 10억 물고도 고용 기피",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-08-26T07:42:56+09:00",
+    "plainSummary": "국책은행, 장애인 외면…산업은행, 10억 물고도 고용 기피",
+    "source": "네이트",
+    "publishedAt": "2026-08-26T06:03:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uTkpIUElTUGRLR0xHbk9NU3BqRzFFZ0c3Qnd2TkpaUXdUYTRpNmF2TUNud2psUUpza3E1dDNTSWdid2VNa0g3VE9YcjB1MTBiaUNZ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-893e2127e278f384",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "시가보다 고가로 현물출자해도 출자자에게 돌아간 이익 없으면 소득세 과세 안돼",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-08-26T07:42:56+09:00",
+    "plainSummary": "시가보다 고가로 현물출자해도 출자자에게 돌아간 이익 없으면 소득세 과세 안돼",
+    "source": "네이트",
+    "publishedAt": "2026-08-17T08:02:05+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50emNEejdsZElqSVFZRzZCbF9lY2R0bzZsUUhSSUFwYjk0MVYtQjVHcTVjQllSbVBDdTJXa3lKNFJsek5ZUWxmZEhjV0Ric2NaT2Vz?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
