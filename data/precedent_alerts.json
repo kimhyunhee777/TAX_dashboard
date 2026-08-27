@@ -748,5 +748,22 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-entertainment-616705",
+    "type": "precedent",
+    "topicId": "prec-entertainment",
+    "label": "접대비(기업업무추진비) 손금불산입 판례",
+    "detectedAt": "2026-08-27T12:09:44+09:00",
+    "plainSummary": "법인세부과처분취소[직원 등에 제공한 할인혜택을 접대비로 보아 한도를 초과한 금액을 손금불산입한 사건]",
+    "caseNumber": "2025두34772",
+    "judgmentDate": "2026.02.12",
+    "courtName": "대법원",
+    "caseType": "세무",
+    "sourceName": "대법원",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=616705&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]
