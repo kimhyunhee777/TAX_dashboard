@@ -18957,5 +18957,140 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-tax-law-revision-ead0ca1aae2b6c5b",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "[카툰공감] 2023 세법개정안",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-08-31T09:36:39+09:00",
+    "plainSummary": "[카툰공감] 2023 세법개정안",
+    "source": "대한민국 정책브리핑",
+    "publishedAt": "2026-08-23T03:51:26+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55ci1aemdFUUVYRDgwaGF6eXhpRUgzTndyYnV5b0t2OUQza1lYSDg2ZmpHZHRRWGM2VzA2bnNFZWdRYjRuU0R3aHpyZnk1bWRFTmVfVnRqWnlFYVhUUGZPbTRYQW5FVldqcjBzSA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-44bcedde34386c17",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "김은혜 의원 「벤처기업 성과조건부주식 활성화 법안」 대표발의",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-08-31T09:36:39+09:00",
+    "plainSummary": "김은혜 의원 「벤처기업 성과조건부주식 활성화 법안」 대표발의",
+    "source": "사회적경제뉴스",
+    "publishedAt": "2026-08-30T11:02:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBJY3lvbjA2cS1Cc1Z5a1RYdFFENzhRS0E4c0NucTJrcUlRb3huaVhBTGJJbEJTM0xPQ3NldWZQRQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-544922ea49860021",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "[김성우 시평] 에너지 전환에 대한 세제지원 확대",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-08-31T09:36:39+09:00",
+    "plainSummary": "[김성우 시평] 에너지 전환에 대한 세제지원 확대",
+    "source": "에너지경제신문",
+    "publishedAt": "2026-08-30T10:58:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82N3VTOUdRbFZWZGdyMmxtX1lZUnFjQm1kUUNKVUlXYkJVbzRVY0lWUjR6NXBXVUZfbDNDS3M0V1Y2WWlYdmM4TV9yX29GZ0Z6Yi1lYl9qNXEzbjA?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-startup-5b6472406a8a1ac0",
+    "type": "news",
+    "topicId": "news-startup",
+    "label": "창업 지역만 잘 골라도 세금 반값? 창업중소기업감면 100% 활용법",
+    "topic": "창업중소기업 세액감면 뉴스",
+    "detectedAt": "2026-08-31T09:36:39+09:00",
+    "plainSummary": "창업 지역만 잘 골라도 세금 반값? 창업중소기업감면 100% 활용법",
+    "source": "한국AI부동산신문",
+    "publishedAt": "2026-07-01T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CRW5pdWVvR1pLVkFwU05zb2NmNzZXMV9MUWRpQ0hJdXUzV1JpU2VyMmVjbUFXbTVOVHFjRzJJUEYtcnVpcWliendUTEY?oc=5",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-86640ed151a4c2c4",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인고용부담금, 대법원은 손금 인정…개정법에선 다시 논란",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-08-31T09:36:39+09:00",
+    "plainSummary": "장애인고용부담금, 대법원은 손금 인정…개정법에선 다시 논란",
+    "source": "네이트",
+    "publishedAt": "2026-08-31T08:01:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GMlFWTUg1Z1ZEMnhSMy1zMzlaUDlDc0ZJTTY4RHNwZk92cUJ1MGVIWFN5aVhsSG1jN0E4VTRmQ0VkazVORlZod3ZsOTBROHJ3bzdZ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-c274d1a6a1e2a460",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "박만희 세무사 ‘업무용車 손금불산입 과세특례’ 책자 발간",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-08-31T09:36:39+09:00",
+    "plainSummary": "박만희 세무사 ‘업무용車 손금불산입 과세특례’ 책자 발간",
+    "source": "한국세정신문",
+    "publishedAt": "2016-07-18T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yRFpCQkFZN3hSZlAxRGNzQ1RoT2ZSUGItQVhycWJCZ3NVckRnY2M1dExBT3pKUEpxR0Jxc0ZwdmYyQ2QtdXJtYl9fTTJIY3JSeDZORC16bGRaaHNIbUpoRXJEODc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-38e26f8cc9c9e27b",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "2020년 달라지는 세법, 이것만 기억하자!",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-08-31T09:36:39+09:00",
+    "plainSummary": "2020년 달라지는 세법, 이것만 기억하자!",
+    "source": "TIN뉴스",
+    "publishedAt": "2020-01-03T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sZWZtMnNyZmtHcjdHWlc0eDRLQThmR0VvU0EwUTB3NjNWM05ZbGtiSUl1MXJIV2g4Vm4yV0NjMnRQejJuM1E?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-7f7e09ec3117039a",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "\"1억 1,840만 원짜리가 4천만 원대로\"... 감가 폭이 ‘7천만 원’ 이상이라는 대형 SUV",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-08-31T09:36:39+09:00",
+    "plainSummary": "\"1억 1,840만 원짜리가 4천만 원대로\"... 감가 폭이 ‘7천만 원’ 이상이라는 대형 SUV",
+    "source": "토픽트리",
+    "publishedAt": "2026-08-30T14:04:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmtQZEZZMXVBMXdQcDdFTHR0NFAtVm1jNFE0RW9KSXVlV0NpVTVJQ0gyTzNra1NxeVI4NS04bjZmSnk2Skh3SkJWeHJ2elNsdnNxQjgxNFVZczM1SzNWRzlraHRlV21ub2czd3R0OVRaX1pWQktuMmVZOWl1R3BrQUJGb3NUNGNx0gGQAUFVX3lxTE1uWkFUb3VmT0dPSHRxS3BMalhPUGZCUXJVcFFTVmhtRnNXZEFvMWVRWmVJREtreGp4LTFJMTZNS2JFZkZEMW5jSFYtVG1udUF2UVBULXBLVVM5a2l1UnFaS3htYVRWNUJ2aTNLaXNtTU1wdjJYdXpqdmE1Y1BJZHRtSVQ0MzdDeFhvaGRsQTZMWg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-242fdb9c4cb625d4",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "사실과 다른 세금계산서와 실질과세원칙",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-08-31T09:36:39+09:00",
+    "plainSummary": "사실과 다른 세금계산서와 실질과세원칙",
+    "source": "법률신문",
+    "publishedAt": "2018-09-17T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KRm5FS0oxY29xS0ZPZFNpX29zYnhtUFUxN0dYQjVxbkVzTGtGZGlMSFFnTTZoX1dEZjFsRzd0MkxVSk1kT2ltYlNlQ1FjRzRVVnZjSlpmV3NyUFZ5Tk53TVhMUktZWVB4S01CeE9R0gFyQVVfeXFMUFFybU13bVFtVXZjVkdsRmV1VElubnQzaEFkV3JYZ25GQVZUSzhGbHN2YzdmQ1pGbkRFbDNrUW5Kc0R4Q2ZfU29iUWE5SzJQaW5ZSjVXRDRiMm5xZXdPQjZYMjVad1NWMngzOUZTSFp6UWF3?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
