@@ -19092,5 +19092,110 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-corp-tax-revision-b56da5b0308c11dc",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "2026년 세제개편안의 주요 내용과 시사점 Ⅰ – 기업과세 분야",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-09-01T10:25:53+09:00",
+    "plainSummary": "2026년 세제개편안의 주요 내용과 시사점 Ⅰ – 기업과세 분야",
+    "source": "법률신문",
+    "publishedAt": "2026-08-24T17:03:04+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuWjZGMWlWTExjV2Z2eEFSNUJ4V1FQZzVxejU1TGJYTk9IVlo0R1pyR2MzNlZfbGpvd0lLXzAwSVRWbmhKaGM3NHdzSlZjWmZvdG5ESWJVdzFYUXpzVmhJTkhDX204LW45OEllOFVn0gFyQVVfeXFMUEN2QVB5NXFnN1lRbGRRU3dUUEtCYjhmLWp4bjFUZ2RlTmNHeW5TeFlNTmFtZy1hVnhqSU9hRUhSMDBXV3lHaTBicHhSdTZFeEpySTYtcFlhSXRXcmExVnJfNkpZWUlDdy1QenZ2dXVxb0Rn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-0becb3dcd707c0b7",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "콘진원 \"게임사 세액공제 있지만 못 써... 제도 개선 절실\"",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-09-01T10:25:53+09:00",
+    "plainSummary": "콘진원 \"게임사 세액공제 있지만 못 써... 제도 개선 절실\"",
+    "source": "게임메카",
+    "publishedAt": "2026-08-28T16:12:47+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lajU4NDZMN3g5UG5mQldPWm9SUGlMQ1NhVVJuaUpwY2RpQk5ZSTZoZGx4UFhhTm5qYVVXM19OSkRUdWNDSFlQZ0tRaGNQOVBJZnRYeUl5NTfSAVtBVV95cUxONXFvQ2tiSU9ZTEJBM3VYZEhwbWxJcTh1WFhQWjVRa1NIZ2M2RXhXN29aWnplN1dFQ04tUnYxY3k0XzU1WlhsTDk1NTVNeXQtOGx3T2pIRHJfZkY4?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-b17f2f08d3208355",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "[화요경제 항산항심] 그 많았던 타워크레인은 어디로 갔을까",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-09-01T10:25:53+09:00",
+    "plainSummary": "[화요경제 항산항심] 그 많았던 타워크레인은 어디로 갔을까",
+    "source": "국제신문",
+    "publishedAt": "2026-08-31T18:48:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNktNMDFfX1U3azVvODU2ellralkyMzJnbk1zdW90OE96OWtkV0Z4OEtFcUpNd2xrUU1mLVg2M1J2V3phbXFMUUpLMW50WmItR0pqSlFCZUJPcGJMcFdDSEcxS2stQlBWQTFuQ252RzhjUVNNdGxad1FfWEV3T3JfdUs0YzltWGNEckRaRDJ3?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-exporter-263c510729461e6c",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "정부, 수출기업과 외환시장 점검…수급 안정 협력 당부",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-09-01T10:25:53+09:00",
+    "plainSummary": "정부, 수출기업과 외환시장 점검…수급 안정 협력 당부",
+    "source": "아주경제",
+    "publishedAt": "2026-03-26T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbjVhb2NKS1pFYzQ2bGhMTi1XOHoxTjlBNmMtQTRaTTNIVWlTQ3dOakF3bW9VOWFlc2xMdGlxNmpyRjhKTE9pdGhCQmdIT3JwMkJmY0hGTzdid9IBWEFVX3lxTE5wMGZNNkl0QnVJV01VQjFwSDFMalFGUU5KWE52M1JGb2lwTzdUbU5xTzFTUmREODhLU2RyN1dQblhkYXB4OG54bGJobE93My1hQmw4SDZYSWc?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-e6c405aa10af8327",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인고용부담금, 대법원은 손금 인정…개정법에선 다시 논란 [판례연구]",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-09-01T10:25:53+09:00",
+    "plainSummary": "장애인고용부담금, 대법원은 손금 인정…개정법에선 다시 논란 [판례연구]",
+    "source": "조세일보",
+    "publishedAt": "2026-08-31T08:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uNURJcDYtNXdHLTQ5RWx5Vk43MThsUkRDYUhyTU1ZWFpBN0ktRzFZZmttNDh0WjBycGREUnNXOEFjdXBSTThpeEdNQ0prSXRSOHM2UFlTbGdEdkl4S3k3cVE0LW1Oc042bW9nNTMxa2FDeXda?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-27a03921c7f8e271",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[세미콜론] 신규법인 과세표준 환산도, 가지급금 이자율 변경도 놓친 국세청",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-09-01T10:25:53+09:00",
+    "plainSummary": "[세미콜론] 신규법인 과세표준 환산도, 가지급금 이자율 변경도 놓친 국세청",
+    "source": "세정일보",
+    "publishedAt": "2026-09-01T07:55:03+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01eG5iQ2R0N1p3bXY0SjdQMFNlaTBQM2xBclNwQjdQVjlYQzZDLWRLbHNBQ05UNS1xSTY2RTdoWWZEbE9sdWU1NnZscER1dGZKS3p5TTRFNkpFemxQMTh1QmhsR2xwdzl2Sy1RWg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-64282fd7faf28daa",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "이수만에 5년간 600억 준 SM…법원 \"과도한 건 맞는데\"",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-09-01T10:25:53+09:00",
+    "plainSummary": "이수만에 5년간 600억 준 SM…법원 \"과도한 건 맞는데\"",
+    "source": "news.nate.com",
+    "publishedAt": "2026-08-28T00:27:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhMHd4S1U5Q2tNRHFPUVpyWlhYOFk0WkN1VW1qemlQQklGcXhTdGVKMTRVMHpwSHJ2NmhPSWMtNVN2U3hwc19IMkh3UVRNa0YxYVJv?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
