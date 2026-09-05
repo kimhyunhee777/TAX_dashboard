@@ -21609,5 +21609,126 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-rnd-credit-90388ceded909a19",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "R&D·투자 세액공제 지방은 최대 1.5배…지방銀 기업대출 '새 먹거리' 되나",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-09-06T08:57:49+09:00",
+    "plainSummary": "R&D·투자 세액공제 지방은 최대 1.5배…지방銀 기업대출 '새 먹거리' 되나",
+    "source": "v.daum.net",
+    "publishedAt": "2026-08-17T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QNGtfQjZ3NjAtZjVWalFNTkxaZFN0X01lN194UjZMMVJiVDNoelJJVkFUNlI0YkdyblAyWWw4UERyY29MTlE?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-startup-0a1f26486765a538",
+    "type": "news",
+    "topicId": "news-startup",
+    "label": "청년 창업 중소기업, 근로자 신규채용시 정기조사 2년간 유예한다",
+    "topic": "창업중소기업 세액감면 뉴스",
+    "detectedAt": "2026-09-06T08:57:49+09:00",
+    "plainSummary": "청년 창업 중소기업, 근로자 신규채용시 정기조사 2년간 유예한다",
+    "source": "한국세정신문",
+    "publishedAt": "2025-12-18T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMYkFoSWREdzFlTjZtQnBLLVBCcndIYUV6SzNMMWFBM3hvVFppX2NwMG56czhBU3dHQ0E5MmdyMFV1ZzlTZElNeFIzbno5VXA2TWNVOS11UmZ0bDJiOXE0?oc=5",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "news-employ-credit-71f5a6f5e7457452",
+    "type": "news",
+    "topicId": "news-employ-credit",
+    "label": "인건비 부담 줄이는 절세 전략, ‘통합고용세액공제’의 활용 > 뉴스",
+    "topic": "고용 관련 세액공제 뉴스",
+    "detectedAt": "2026-09-06T08:57:49+09:00",
+    "plainSummary": "인건비 부담 줄이는 절세 전략, ‘통합고용세액공제’의 활용 > 뉴스",
+    "source": "한의신문",
+    "publishedAt": "2025-11-17T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcE12ODgzcTF3VnV4eDRkWm94cnFWUDBXelFQUkttUV9tN2c0dlFaUldhYXN5T1pKb2E5RTAyLW1iQnNwd09oUXduVm01R0NTT2NESDB3S05zWXdlRHB6enB6ZlJVSUdSNzRLRVVmWi12RTRPZnZMcTd1WFFxZWJ6ZTcyWHFuQU5ObXVVbVVKaFZ4R2dIQ3lIYWd5cDc2MzZxV2EwSDltakJ3VDM0ZG9HWEhCTkgxWFYwdUxLOUJ4ZHM0clVHSFo4NlZpaGNRWWt4TGtQQW1qZk9hRnNzRThZTEtLelN4a0ZLbUE?oc=5",
+    "tags": [
+      "고용증대세액공제",
+      "통합고용세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-38ee61503e66c9f0",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "건설업 장기 침체에 희망퇴직 받는 건설사들",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-09-06T08:57:49+09:00",
+    "plainSummary": "건설업 장기 침체에 희망퇴직 받는 건설사들",
+    "source": "news.mtn.co.kr",
+    "publishedAt": "2026-04-15T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Z2pYV0VVbDZBWW1XM1FBZjU2ellBNVRsU3hTRDFWZFF6ZDJaRHJrSkxiOFh0TXVkdWFYYzgtREszdFNXdzlhWjhtMzVfWTVtc0NQY3FWemlLQy1ZWnFMWDBjRTY?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-construction-4db2d4e14460175f",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "대기업만 친환경…뒤쳐지는 중소건설, 지원 '절실’",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-09-06T08:57:49+09:00",
+    "plainSummary": "대기업만 친환경…뒤쳐지는 중소건설, 지원 '절실’",
+    "source": "mediapen.com",
+    "publishedAt": "2025-10-28T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xdXZPSW5RbGhfZGtaYzgtRlZTbm1TejU5N3dINlpfX21kUXkyWXBBVjNleU9xMHB1N0s3dmRFajR5QzR5V2R0X1gxRjd3Q21Mb2JiNtIBWEFVX3lxTE1lbGxsWmZvWDVaakdiU3dzcGxGQWlHUy1rNWh2NC1JczlaaU5BZC1tR05ma0JOZC1PTUtsOUxkUDQ1T1AxVDlqNEZWejdWdUdQLU5EdTlhMTM?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-exporter-3f05a115b49786c7",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "수출기업 해외에 쌓아둔 달러, 이중과세 없애 국내복귀 유도 [환율방어 총력전]",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-09-06T08:57:49+09:00",
+    "plainSummary": "수출기업 해외에 쌓아둔 달러, 이중과세 없애 국내복귀 유도 [환율방어 총력전]",
+    "source": "Nate News",
+    "publishedAt": "2025-12-24T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03TnJEc21HRjBad0xjUGthVVppUU1uQTFlYUtvZDQtOTI1SGRFX0s0cmJpMUVRWVhFcFI5cnpmZEM0ZlBnN3otU3dTcXdmUVpjUDZj?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-005d9a2d8abf126c",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "정부도 못 지킨 장애인 의무고용…공무원 부문 부담금 4년 새 3.3배",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-09-06T08:57:49+09:00",
+    "plainSummary": "정부도 못 지킨 장애인 의무고용…공무원 부문 부담금 4년 새 3.3배",
+    "source": "v.daum.net",
+    "publishedAt": "2026-09-04T12:47:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NdHhfcFFPb3pOQjc4SWFsdHdvTmQtSHZuVWlpdGdqRHNPc3l5VXBlaDRQU3FBOF9zdTlSR2pMZ29vd0RwX1lXRU5ycw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-e7bff31502cee321",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "국세청, 법인세신고시 제출제외서류 36종고시",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-09-06T08:57:49+09:00",
+    "plainSummary": "국세청, 법인세신고시 제출제외서류 36종고시",
+    "source": "조세일보",
+    "publishedAt": "2001-03-09T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UYXdCSHMwTENEX3RTWWg2X0NsU01NdER6d20xemszY3lTLWpGZWtNQmUzcFUxMkhPblVSVWNpWDZKMWRwaFhUNWpMcFY5c1lnYjMtcjU5TmZiRms?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
