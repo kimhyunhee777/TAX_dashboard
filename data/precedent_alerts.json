@@ -765,5 +765,22 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-wrongful-calc-623823",
+    "type": "precedent",
+    "topicId": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "detectedAt": "2026-09-07T08:53:12+09:00",
+    "plainSummary": "특허권 양도에 대해 부당행위계산 부인을 적용하여 법인세를 부과한 처분 및 소득금액변동통지의 위법 여부",
+    "caseNumber": "수원지방법원-2025-구합-61695",
+    "judgmentDate": "2026.07.16",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=623823&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]

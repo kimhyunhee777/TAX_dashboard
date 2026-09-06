@@ -21730,5 +21730,140 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-tax-law-revision-310bbf1c4661286e",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "하루에 법령 4건과 세법 개정안 5건: 사업주들은 눈 뜰 때마다 변화를 마주하고 있다.",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-09-07T08:54:29+09:00",
+    "plainSummary": "하루에 법령 4건과 세법 개정안 5건: 사업주들은 눈 뜰 때마다 변화를 마주하고 있다.",
+    "source": "vietnam.vn",
+    "publishedAt": "2026-09-06T17:51:09+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcndPV1NWRWF4QUl3RVRqRjF5Vy12VDlMME91dVd2Y2ZURjE5bEVWWEJTR29Cb0dKMlhaNGt5RFlTRnQtbEszWXpxZ20waFRfTFNiUGhuemgwcGlZNHM4MXdpbENLdHdvNDR5Z2k4X3FQQkZ3YXFWcjcwRTFPZkhpdXdkOVhEZWJCNnpXSkNjUkhrcEVGei1GcUJUWFhQYzllVUFPbDBn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-5c93f994ebb65fa9",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "복기왕 의원, ‘반도체 실증 지원을 위한 출연재산 증여세 한시적 면제’ 조세특례제한법 개정안 발의",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-09-07T08:54:29+09:00",
+    "plainSummary": "복기왕 의원, ‘반도체 실증 지원을 위한 출연재산 증여세 한시적 면제’ 조세특례제한법 개정안 발의",
+    "source": "충청매일",
+    "publishedAt": "2026-09-06T15:30:34+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oOWFuc1AxajVnTnpnZWp6ZkY4T1hxZDBTcnpSZ1BYeWZWbU16MWxJTW5yUnFfLTczbGtQa1hUNDh6TzZrdkxxbDl1YmRWZVZpTVJLUzJsWk16c1FCNkpKWUNEcTNwSDE0NkE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-a13a514648014c5e",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "김승원 국회의원, ‘조세특례제한법’ 개정안 대표 발의, 납품 대금 15일 이내 지급하면 세액공제 2배",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-09-07T08:54:29+09:00",
+    "plainSummary": "김승원 국회의원, ‘조세특례제한법’ 개정안 대표 발의, 납품 대금 15일 이내 지급하면 세액공제 2배",
+    "source": "검경일보",
+    "publishedAt": "2026-08-27T17:28:45+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81bFFaVG9oTkZEYS1uLTctQWpZUS0yNE4xd1JrUHlxT1NZOE82bjJqZVA5aUJQRXpMMS05SkZVUEdJVy0tTllCenVNMGFmOU04a2JNZ013a0JJaWFKY0hkdm9BQ1Yydw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-0abdcc6b2da645c4",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "작년 국세감면 76.1조…감면율 3년 연속 법정한도 초과",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-09-07T08:54:29+09:00",
+    "plainSummary": "작년 국세감면 76.1조…감면율 3년 연속 법정한도 초과",
+    "source": "마켓인",
+    "publishedAt": "2026-08-21T10:39:32+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52SWlpdUNHN3czUWwxWXYydmV5RUpJVTFyWGNMVUFxODRoQ3hmbW5HTzRYWGxTcWtVMWh3NnZQWmZHX2hUREd0bjg3V3FlZHVFTUlvZ3owY256bHJUWnVscVZvS1phWWdjWkFxOHZVenFEXzg?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-baa16f84ba51fa43",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[ET단상] R&D 세제 개편이 이끌 지방주도 성장 기대한다",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-09-07T08:54:29+09:00",
+    "plainSummary": "[ET단상] R&D 세제 개편이 이끌 지방주도 성장 기대한다",
+    "source": "전자신문",
+    "publishedAt": "2026-08-26T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OMENfVGxFU08zWDFTSUJ5cXctNUpzWUc2bXg0a2d3NTJ1WnZWcmRGY0FkMnJRaFZUME1IUDFzWHRhQlg1bXRUT3BIV3Uydw?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-3186ed8086b03d26",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "국세청, 中企 R&D 세액공제 사후검증 1년 유예…상담 전용창구 설치 - 머니투데이",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-09-07T08:54:29+09:00",
+    "plainSummary": "국세청, 中企 R&D 세액공제 사후검증 1년 유예…상담 전용창구 설치 - 머니투데이",
+    "source": "머니투데이",
+    "publishedAt": "2026-02-04T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41NnVlZFlvOC04TmE5aDJfd0twcmQtRmh4NFc0SDQ2blp0emc1MGI5bXRCX2dZX0ttbHZjamYwX3JvbjF0aEI2cUE5ejhTaHM1ZGs0Z2Q2T1N5TXNBVEkyNUoyWFdxcmkxQU9B0gFwQVVfeXFMT3dMb0dpdDlIOXlFSUpUTTJUUHhZN2FkM3J4bG0tcHFUQ3ZFNzJ6cWppZE00dnpERVJHV3Azc1o2X1pFWnhEMEZaYlByclN0TDVJV3YwSzJ5YWh2VVVSd1h3SnNGZEhwT29VQ2lsXzE3RQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-startup-cb87307d10c7e1a6",
+    "type": "news",
+    "topicId": "news-startup",
+    "label": "창업기업 세제 혜택에 기업 유입 기대…청라 주거시장도 ‘주목’",
+    "topic": "창업중소기업 세액감면 뉴스",
+    "detectedAt": "2026-09-07T08:54:29+09:00",
+    "plainSummary": "창업기업 세제 혜택에 기업 유입 기대…청라 주거시장도 ‘주목’",
+    "source": "헤럴드경제",
+    "publishedAt": "2026-08-19T10:38:55+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DeC05bWg5NTRreVAzSWtKcUR5X0xVUlY0b0EybU0yRkpIbkV5TFMtMXhwMGJlcnpsN0t6cGNQMmViYUlRMFZIMlo0ejVlSmlzS053SWwxUQ?oc=5",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-95bc4641c11f97da",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[장애인 고용⑫] 삼성물산, 부문별 노력에도 저조",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-09-07T08:54:29+09:00",
+    "plainSummary": "[장애인 고용⑫] 삼성물산, 부문별 노력에도 저조",
+    "source": "hansbiz.co.kr",
+    "publishedAt": "2026-09-07T06:02:41+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FQks3Unc1Z3JhaXNRLUctN0VYbHBsX0lFSU1wOW1sY2syaDFuc2VrYnVxOFZGaFg1UjEtODA3TDhic2VCZnpBUXJIOXNOSnVVeW5SYWR4cHZ0YXJWNk9jenlZb3NCWnRmNU9SeURsd9IBb0FVX3lxTE5FQks3Unc1Z3JhaXNRLUctN0VYbHBsX0lFSU1wOW1sY2syaDFuc2VrYnVxOFZGaFg1UjEtODA3TDhic2VCZnpBUXJIOXNOSnVVeW5SYWR4cHZ0YXJWNk9jenlZb3NCWnRmNU9SeURsdw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-a734c673fc0238c0",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "1조원 매출에도 장애인 고용 ‘0명’, 민간기업 의무 고용 외면",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-09-07T08:54:29+09:00",
+    "plainSummary": "1조원 매출에도 장애인 고용 ‘0명’, 민간기업 의무 고용 외면",
+    "source": "ablenews.co.kr",
+    "publishedAt": "2026-09-04T17:38:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tUGxyU3BoX3BDX1RNZVlGRkVrNDBvVUNTeDVwdEhKMFdTdnNZNjZQYnRxQnRiaTZjaTZUdlBZQTRzMkJ4b2VaajYwdHBNMDVfbzk3WFp1bkloSXZacHQ0S0VMQmw2ZjFOSG5yVW930gFyQVVfeXFMTUFscnlaZmZiT1RkV1pwazY3UnRqazNFSkpremkwX2VtemRQbVI3d2tBRU1xelV1Zi0yNFp6aEU0emJ1STgwWC1tRTlwSUhhY0psQ3JneG5MWnJ4eXg4M01oT3JtM2cyLUtBZW03TFdLLW5n?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
