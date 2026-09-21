@@ -20773,5 +20773,186 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-ctpa-revision-844c45e082520b37",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "2025년 금융 분야 세제개편 주요내용 안내",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "2025년 금융 분야 세제개편 주요내용 안내",
+    "source": "Lexology",
+    "publishedAt": "2026-01-26T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPajA3cTNIVmNHZWFGTTRfTm1aczB4dDVYQW9Pc0N4WjdYNE9nMjJ4SnczNUdQamUzY2N2ZDlMUWlBc19Vc0tRdHNvLVhsWmtpTENReGkxdlBrZmxzZ0RVeERjR3cwSGdzWFRBeUtvMmlzOVpVRDBMNk5UUHJIQUtxZ2V2cjlyc053amlR?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-sme-credit-8c8ed3089e8a2b8e",
+    "type": "news",
+    "topicId": "news-sme-credit",
+    "label": "과세연도 중 폐업해도 中企 특별세액감면 가능",
+    "topic": "중소기업 특별세액감면 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "과세연도 중 폐업해도 中企 특별세액감면 가능",
+    "source": "한국세정신문",
+    "publishedAt": "2026-06-05T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KWjNfWEpGOVFUYVFRVFFSQmxEZllDWHVBRDFjcU05X0lVcjhsZEpYVlBqeFRaMUZUcmdmTmlUYmoyVnkzcjljMFVmR3lGTVVBaGxNQlN0T0xkeTZVWVkw?oc=5",
+    "tags": [
+      "중소기업특별세액감면"
+    ]
+  },
+  {
+    "id": "news-employ-credit-2aef3c58b12980a3",
+    "type": "news",
+    "topicId": "news-employ-credit",
+    "label": "근로소득을 증대시킨 기업에 대한 세액공제 - 조특법 제29조의4",
+    "topic": "고용 관련 세액공제 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "근로소득을 증대시킨 기업에 대한 세액공제 - 조특법 제29조의4",
+    "source": "세무사신문",
+    "publishedAt": "2023-01-16T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2OEhuLTBrSkQyRUVMU1RUQlRyUGtZbEdHSDJqcV85c21tMkhUbFItY2RtWTNBNHZsbUdIdjdtV243blNBUEYtNVI3R1g0bUJ6UGpzTHdiODZLY0JUMUZydXRQR21oZEtYcFg2TFpR?oc=5",
+    "tags": [
+      "고용증대세액공제",
+      "통합고용세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-777a4d2591a0a0e9",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "[세무회계] 2026년 세제개편안: 실거주 안 하면 세금 더 낸다",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "[세무회계] 2026년 세제개편안: 실거주 안 하면 세금 더 낸다",
+    "source": "koscaj.com",
+    "publishedAt": "2026-09-14T12:19:28+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iMVVXdUNrN3BSa0J6Y1JnM0doS3cxSnBLelU1QnFkN1o4VlJLN2tlb2Y3MGF0eGZFUEhRUjU1NXRFbFBhb3B5aGlVM3pTR3ZPeElFejNmTWl0eVpDMkdJWnJUNXhSS0JaN1JxNtIBbEFVX3lxTE1iMVVXdUNrN3BSa0J6Y1JnM0doS3cxSnBLelU1QnFkN1o4VlJLN2tlb2Y3MGF0eGZFUEhRUjU1NXRFbFBhb3B5aGlVM3pTR3ZPeElFejNmTWl0eVpDMkdJWnJUNXhSS0JaN1JxNg?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-exporter-a41439be4aa29331",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "포항시, 중동 수출기업 지원 총력…물류·금융·세제 패키지 추진",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "포항시, 중동 수출기업 지원 총력…물류·금융·세제 패키지 추진",
+    "source": "포춘코리아",
+    "publishedAt": "2026-04-07T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vWVJaeDJCMTNUbkRxdWtpWHZ6WjBDRk1sWGVmQUZNdXVhNXJnRUNjY2cyWUljZ09lT3UtZ3k2U1hXOVFmX0dNV2M4VDE2ZnJTWFRNb2tvOTNTNHJIb19ObzZPRWRCRUJnLWdTRkRGelVJZ9IBdkFVX3lxTE9lQWdINVNRSnpMM2w2Rk81Z2NaeGZMYU9ocFhTX0hRWjRkMmJXZVk1dTc0NThDd1JwRUhwaG5DWFFwUW44OWZXcmZCSEh1RVBKNlFZOTJHQ0Y1cUp6YU9nMGNKdXBBa2c4aUhZdDJyNVZGRW1fQ0E?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-exporter-4da686e47694b639",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "포항시, 수출 기업에 물류비 최대 500만원 지원…융자 한도 상향",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "포항시, 수출 기업에 물류비 최대 500만원 지원…융자 한도 상향",
+    "source": "뉴스1",
+    "publishedAt": "2026-04-07T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WaS0tZVo1eEVXeWFYQzh0emdrZFZiV1pXTmFSOFp0RHNwNVRqUXhSUnNUejFydFBZT3IzLUQyOGpxeEltU2FEdGxMTFhXd2tBa0RwM1pLN0JXZ2V0cmxF0gFkQVVfeXFMTko2TXJCd0diemdBYmlxNzhCUm1VaGUwRlJmRlo0X0lYQ1lLRFo1LWhicUNEdHlNRk54S25WVkZkUFU4ajBsUmx1MjRYYTdsYUpQRnpKYksyUGgwVmhyckhqaGxueQ?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-b33d8a6f0c43eb7c",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "5대 은행 장애인 고용률 1.58%…법정 의무고용률 절반 수준",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "5대 은행 장애인 고용률 1.58%…법정 의무고용률 절반 수준",
+    "source": "딜라이트닷넷",
+    "publishedAt": "2026-09-20T19:33:11+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aUElSZDZfczM3ZWRCQk0tcGE1d2pxZTZvV241bFF3Z1JnZW9ESU9xRll1ZnRPbEtDQklBdFBUeGFSQ3A1Vzh0ZXBpUWdjTjVoOWdZa0QxOEFkMXg1YTdEWDZuZ3dFNEdkM0pDbUtB0gFyQVVfeXFMUHdZQkdqMXZ4cmxCM1F3S1NLR2JvemljVm1veW0wNkpQYVphUWVyWjNHZjBLaVRYVllrWFVEOUhXQ19FZmVTRDZSdVVJeDR0UFdkNC1sRXNEbWo1THg4ZkxTbUlacEI0Ti1ndjRpMk5GT1ZR?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-96d741f640d8b261",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "서울대병원, 장애인 고용부담금 5년간 120억원…공공기관 고용률은 상승",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "서울대병원, 장애인 고용부담금 5년간 120억원…공공기관 고용률은 상승",
+    "source": "한국장애인신문",
+    "publishedAt": "2026-09-16T11:20:34+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95V3lHaGg1c0RGMGdMaWNhaG5US0JpVkYwTEg5UGFDTy0xVzdocVM0U0txdDU4YXFBNlN5ZW9Yb3hDLTdValMxOVMzaW9INEoyMlFmNmVJdGI0VHZWQ3ZQOGhaU3UxSmkyOTNhUFpvUnBDa1Nk0gF4QVVfeXFMTTRmeDA1LThUWk9hVjUzMS1Ia0h3UUsxRVZsNHFwSnZZNE1WdG1HVElfMnllaUUzOERadDNBaWptTVNqODRIZWxYc3NvYXA1cHBCbG8wOEFJSUZtV0x1TzBOWVdqdm1oM1pPX1N0ZzU0U3ZxX0dHODZU?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-516efc0112cf5320",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인 의무고용 4년째 미달, 전북대병원 고용부담금 18억 냈다",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "장애인 의무고용 4년째 미달, 전북대병원 고용부담금 18억 냈다",
+    "source": "v.daum.net",
+    "publishedAt": "2026-09-15T17:04:40+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RSThaWVNCNTVueXI4Vk5ILVkxeEVWVmhNY0VBR3ZIcXplZDlUOEN6ZmhacWlkVW44S3V1Ri1OdUtfeERreVE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-3b4ae03747f4bfbd",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[기업성장 컨설팅] 당장 문제가 없다고 방치하면 안되는 가지급금",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "[기업성장 컨설팅] 당장 문제가 없다고 방치하면 안되는 가지급금",
+    "source": "etnews.com",
+    "publishedAt": "2023-07-07T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qOUVoMWt0UXktdFVGWHpJalptdUtlYlZQS2s3dE00QS0wWWFUVUhWU0REWlA3alFYYkhfOXM0UWQ4dXd3X3Z0bmkyTHZkZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-9816600e050c0e5a",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "와이지엔터, 본업 밖 투자 리스크…금융손실 8.5배 급증",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "와이지엔터, 본업 밖 투자 리스크…금융손실 8.5배 급증",
+    "source": "ibtomato.com",
+    "publishedAt": "2026-09-15T07:30:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ka2ZZQ2ZHTFVhYTBqQWhEOVEwLVdyd0FUVFRwMi11djhkaFk5bHhJU29ibmo5WVp2UGItZ0R2WTQtaWFSaThWbS1KZEV0ZHNBZnNNQU1mUnRHeVVYbmhHeXQ2QTZoSXZhbGc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-0f2ee84075ddea93",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "감가상각? 투자 즉시 비용 인정하는 캐나다 [글로벌 TAX]",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-09-21T09:14:15+09:00",
+    "plainSummary": "감가상각? 투자 즉시 비용 인정하는 캐나다 [글로벌 TAX]",
+    "source": "joseilbo.com",
+    "publishedAt": "2026-09-21T09:04:34+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hRy04WnE2dTJfbmJudFRvRFNzMlBBLXUwXzlxcDJ1ekJoR1JKU2tELTJXVVNTU1NnTFVHczRJOEdmb2NFZmpfNU9Dc1AyalJRQXN0T3JjT1VDbEpQRnh3SURVYXJKTXNodzVXUVBkRVhFcERM?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]

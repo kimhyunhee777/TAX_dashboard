@@ -782,5 +782,22 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-input-vat-denial-624019",
+    "type": "precedent",
+    "topicId": "prec-input-vat-denial",
+    "label": "매입세액불공제 판례",
+    "detectedAt": "2026-09-21T09:12:35+09:00",
+    "plainSummary": "사실과 다른 세금계산서를 이유로 한 매입세액 불공제는 타당하며, 부정행위로 국세를 면탈한 경우 장기부과제척기간이 적용된다",
+    "caseNumber": "인천지방법원-2025-구합-97",
+    "judgmentDate": "2026.08.21",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=624019&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]
