@@ -21449,5 +21449,80 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-ctpa-revision-698de94e96b5c0c1",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "농어업 세제특례 일몰기한 2030년까지 연장 추진",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-09-25T09:39:44+09:00",
+    "plainSummary": "농어업 세제특례 일몰기한 2030년까지 연장 추진",
+    "source": "농축유통신문",
+    "publishedAt": "2026-09-23T13:16:10+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42aTZXWkZiaDZNMjRrT2h3QVBUX25DUjNyYVdsT2FFS2pfX3JQUU1tTWdjbUVVUkhKSUk3WE1qeTFsV0lsVWxvT3JiZWx0RWd2bDdSaHdMUUhUM3dSMGpxWnRERTBubUdIR2c?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-b8354f7b6fc7cf93",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "\"개정세법, 해외선교의 길은 변함없이 열려 있다\"…관리·투명성은 과제 -",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-09-25T09:39:44+09:00",
+    "plainSummary": "\"개정세법, 해외선교의 길은 변함없이 열려 있다\"…관리·투명성은 과제 -",
+    "source": "크리스천 노컷뉴스",
+    "publishedAt": "2026-09-23T16:44:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01cjdJWWIwNi1BOXk5QTJEakhvbWlxSFhra1pxWkNWS1l0T2d1M2Y0c00wdmZUQW9VbjZNUXdFMHVsVmhVcnhkdTlYNUt3ZDFteV9HR3NnaEhSZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-e6134f4ebfcbbb3d",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[단독] 한전, 장애인 고용 미달해 5년간 29억 냈다",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-09-25T09:39:44+09:00",
+    "plainSummary": "[단독] 한전, 장애인 고용 미달해 5년간 29억 냈다",
+    "source": "twig24.com",
+    "publishedAt": "2026-09-23T18:42:42+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TeTBDQ3ViWW44NEdqWF9HaUNMcGpmWlVVNEszVVZaWWdvc2w2VkwteG1xaUVuSG5yaFRJc3ZBOEoyTG5NLVYtRHlwN09HRE5ReVhxazFLeTZZSkJUQUFWWUFndVVkTnZEbTdUNDFqRXNGcE8zdmtqOW1YMA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-e93a6623965b0052",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "나우IB, 관리보수 기반 체질 강화…평가손실에 수익성은 뒷걸음",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-09-25T09:39:44+09:00",
+    "plainSummary": "나우IB, 관리보수 기반 체질 강화…평가손실에 수익성은 뒷걸음",
+    "source": "톱데일리",
+    "publishedAt": "2026-06-01T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQNkRlbC1xQjRZY1dLZUt6eUNXNFFpY2FFMEJZZ00yVGRvYkg2VDRqdm1qczV2cURrNGRvX25uRm5TMTFJRnZlZnI1SFZrUG8yVEM5ZXlVR2JEOTlmd0FXQ0oxbw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-c73a528bd6e5ea2d",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[칼럼] 급조된 정관, 부당행위계산부인 대상 될 수 있다",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-09-25T09:39:44+09:00",
+    "plainSummary": "[칼럼] 급조된 정관, 부당행위계산부인 대상 될 수 있다",
+    "source": "v.daum.net",
+    "publishedAt": "2026-09-16T09:02:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44Q01DQnV5M2ZLNy1zWmRKUEpPS2tTVG0wR0ZEOFFDQWpMTkg2dFlLZmtzbEhuQzhjSFdZdndsVXlZcFBYcFp1aVpyNjEzbGc?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
