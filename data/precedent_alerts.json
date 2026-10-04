@@ -799,5 +799,22 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-wrongful-calc-624383",
+    "type": "precedent",
+    "topicId": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "detectedAt": "2026-10-04T09:38:13+09:00",
+    "plainSummary": "현물출자 토지가액을 감정가액으로 보아 부당행위계산부인 위법함",
+    "caseNumber": "광주고등법원(제주)-2023-누-1691",
+    "judgmentDate": "2026.07.08",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=624383&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]
