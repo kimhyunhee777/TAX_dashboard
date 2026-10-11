@@ -816,5 +816,39 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-wrongful-calc-624685",
+    "type": "precedent",
+    "topicId": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "detectedAt": "2026-10-11T09:56:17+09:00",
+    "plainSummary": "부당행위계산부인 적용의 적정 여부",
+    "caseNumber": "수원지방법원2024구합69440",
+    "judgmentDate": "2026.05.07",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=624685&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-wrongful-calc-624581",
+    "type": "precedent",
+    "topicId": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "detectedAt": "2026-10-11T09:56:17+09:00",
+    "plainSummary": "부당행위계산부인에 따른 법인세 과세 가능 여부",
+    "caseNumber": "수원지방법원2024구합68560",
+    "judgmentDate": "2026.02.05",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=624581&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]
