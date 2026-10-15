@@ -15901,5 +15901,185 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "news-tax-law-revision-90dc33cfacb15985",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "2024년 세법개정 후속 시행령 개정안",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "2024년 세법개정 후속 시행령 개정안",
+    "source": "서울Pn",
+    "publishedAt": "2026-10-14T04:15:55+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qdjQ5RkFuVTFsdWI4RHRvQ1Y3VWV3WFFONEJfWXFvZFRTa054dmdYdGYyd1U0OU4yN2twLWZvN3ZYREY5S1J5VWtNZ0FOY2NpVEF5SktCTzQ0Q0dPMjdzNGJTODdJczNGaXNaMUpfOElNSC1JX08teUtqTQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-1b60c15b3c12542a",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "HD현대엔솔, '한국판 IRA' 수혜 부상…세액공제 선택이 변수",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "HD현대엔솔, '한국판 IRA' 수혜 부상…세액공제 선택이 변수",
+    "source": "IB토마토",
+    "publishedAt": "2026-08-05T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iX0JlcktTZlJlcDUzdEN1MndkWVN0SHBmYXFhSThmLWt4RGhHWk03OF9vYjFIZVlIck5Pa1dXSlpxQ1FiQ3g2YnBveFdUR2VjS1hLeXVYMmpGVG02MFB6ODV5T1NJdGRTYXc?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-eac66eca9d8dba6a",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "파이터치연구원 \"노사관계 악화 땐 R&D 세액공제 늘려도 투자 감소\"",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "파이터치연구원 \"노사관계 악화 땐 R&D 세액공제 늘려도 투자 감소\"",
+    "source": "더팩트",
+    "publishedAt": "2026-10-14T14:11:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zM05rQlRnV0N1TzFicHAyMlRTUGt3TGJ4dmpqdEVXU1k0dTlfZTlmZ0wxWWtCN1lXMDFLbkp2M3Q0ekx5SExSOF9wQmVKbHBfaXZrWdIBVEFVX3lxTE1zM05rQlRnV0N1TzFicHAyMlRTUGt3TGJ4dmpqdEVXU1k0dTlfZTlmZ0wxWWtCN1lXMDFLbkp2M3Q0ekx5SExSOF9wQmVKbHBfaXZrWQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-286656f9d352eefe",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "외국납부세액 공제한도 계산시 국외원천소득에서 차감되는직⋅간접비용의 개념 등 명확화 > 법인세",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "외국납부세액 공제한도 계산시 국외원천소득에서 차감되는직⋅간접비용의 개념 등 명확화 > 법인세",
+    "source": "조세일보",
+    "publishedAt": "2026-07-09T17:16:10+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVJ6Z1V5RFA3b1NzTnI5Y1cxOHRtaGQ2Y2piRzhxUzZOOE5pQUJOQk5xVWx5Y2xOd1M1YWRMTHBnaFY1TUl6WXFGb3FXY200VHc5V3ZIOF8tVEE1Nm55M1ZxcWFvdzBuLXVicGs2YmJmd0J3UU4zUi1mUXZ3WWJ1YUdmaDNOTTFhemxCY1dXNHBLS2hmMHdzMUd2bTNfd3M?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-exporter-a06f1a7e50ecd2bf",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "中 전기차 수출 세금 혜택 줄인다…현대차·기아 '반사이익' 볼까",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "中 전기차 수출 세금 혜택 줄인다…현대차·기아 '반사이익' 볼까",
+    "source": "뉴스1",
+    "publishedAt": "2026-10-15T06:30:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZN2pHVTV6aXVGdWoteDVyd0pEajc1aEpuM3Z3WFZaUGZRUzhfRTFDMlhBOW5VejdKZnl2Q3A0Q0JXUUc4Nld6cHY3SFNzSnVOUjd4QkRqSGlIcnNVRmh1bw?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-1a3c4b2acb394609",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[국감, 지역을 묻다] 이건태 국회의원 \"공공부문 장애인 고용부담금 5년간 7천억여 원…공무원 고용률은 하락\"",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "[국감, 지역을 묻다] 이건태 국회의원 \"공공부문 장애인 고용부담금 5년간 7천억여 원…공무원 고용률은 하락\"",
+    "source": "LG헬로비전",
+    "publishedAt": "2026-10-14T14:27:59+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UeWR2eE40WmUxS2JRU1RzYTJpYUVHVl9vMXlDNmdtQmxKWlhrc0RlZmtHMnRFOVBCQXFEVGY0R0pRa2hVcmFkOGJXTFJFRlltSm1uUl9lOE8zaGVCQmJERjV6dlA2NnZMNF9MMHY2b0NSZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-ab4bcb46554cbf1d",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "공공부문 장애인 고용부담금 5년간 7845억…경기교육청 1345억원 최다",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "공공부문 장애인 고용부담금 5년간 7845억…경기교육청 1345억원 최다",
+    "source": "프레시안",
+    "publishedAt": "2026-10-14T13:00:20+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80MDZpakpWMjVHSFpqSVhHdHZ0SGlOSzFqejBqdW90aC1SbkJ3dHpZdzFqdUMzWTFlbDFmbThyaFh3U3JobVJsckhEa281bXpjVlZ0WmdYY3JFanc2WjVPdW1wLTRwRnhhQzlZ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-b073cfe2d0a3b994",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "이건태 의원, 공공부문 장애인 고용부담금 5년간 7,845억원… 공무원 고용률은 오히려 하락 !!",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "이건태 의원, 공공부문 장애인 고용부담금 5년간 7,845억원… 공무원 고용률은 오히려 하락 !!",
+    "source": "NGTV",
+    "publishedAt": "2026-10-15T02:32:52+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RbG1NYUZWMTMtQ28wWlpzWEtsZURIWlVyMW0tMllQRVN3aHJ0SDJPX095eC1iYWl2VExGZWxYcllRc1R6a3JKSjJCWnR6S0lYMC1XMy1heE5FZ2pnUjlqQzA5OA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-c516c71f9b622525",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[의무를 넘어 고용책임 실천으로]공공부문 장애인 고용부담금 5년간 7,845억원…이건태 의원 “의무고용 넘어 실질적 채용 확대해야”",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "[의무를 넘어 고용책임 실천으로]공공부문 장애인 고용부담금 5년간 7,845억원…이건태 의원 “의무고용 넘어 실질적 채용 확대해야”",
+    "source": "전국뉴스",
+    "publishedAt": "2026-10-14T14:33:26+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpMENLMzNkdkcwcnlrUWEyd2pWdjdkVlV0TUNhanp4bUZQOTYtdEFtMmk3Z2Z2NWIxcnNCY1NZaFlNWWZJM1VJT190QVFETkVvMDV3U0I0OGZlamdIV3B6SDRrZ2QzbkpSa2hMcmQtYm0?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-462079a00e207b74",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[사업주가 반드시 알아야 할 인사노무상식⑩]장애인과 관련된 사업주 의무사항 안내",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "[사업주가 반드시 알아야 할 인사노무상식⑩]장애인과 관련된 사업주 의무사항 안내",
+    "source": "아웃소싱타임스",
+    "publishedAt": "2026-10-13T10:59:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE44QkQ3bWp0ZXZPWG9wanhEWWZSQUQ0RnlDdmMtcVhIV0d0VGktS1NQV1pPbEV4RnhfMHRaamZWaURzbTFoNGVsbTFmeG0zY0lVOGQ1eVh0cmtJaXlfaTlETEJNNmJ1NThPMUZ4UnhneW5UZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-c17bfab91846c0ae",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "두산테스나 3.68% 하락…테스트 가동률과 감가상각 점검",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "두산테스나 3.68% 하락…테스트 가동률과 감가상각 점검",
+    "source": "잡포스트",
+    "publishedAt": "2026-10-14T14:34:59+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jODJlY0ROaWl1MGFEYmY4WnRfSl9YMjJXM1J2UjFsZ3ZKWk10OGtMdEgxLUFTcmhBTE9fTVRRNm1WSHA0eTNTMUZOMTNSZUZrdFNhYXZGbXcwV2pac01OcFl2b0JiaEhhUVMwbVlBWGJXZ9IBckFVX3lxTE9jODJlY0ROaWl1MGFEYmY4WnRfSl9YMjJXM1J2UjFsZ3ZKWk10OGtMdEgxLUFTcmhBTE9fTVRRNm1WSHA0eTNTMUZOMTNSZUZrdFNhYXZGbXcwV2pac01OcFl2b0JiaEhhUVMwbVlBWGJXZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-8dec7df847fa8272",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "전기차 감가상각 과다 산정 논란… T&E 분석서 내연기관과의 잔존가치 격차 80% 감소",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-10-15T09:35:29+09:00",
+    "plainSummary": "전기차 감가상각 과다 산정 논란… T&E 분석서 내연기관과의 잔존가치 격차 80% 감소",
+    "source": "다나와 자동차",
+    "publishedAt": "2026-10-02T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xTGFmeFRPY0w2N3VpTkZ4c2s1T2ZXMzFsNFVkZjVaOFg1eUpHMUFqYWU4VS12OTkyWjZtOVRJOVdDR1oxVy0xYjM3Y1phem15UFRNdVU0d0xwTEpoaVFvWG9DQXBDVlNsaFJHUkh1WUQxVkhoaFRYa3hvQQ?oc=5",
+    "tags": [
+      "전체"
+    ]
   }
 ]
