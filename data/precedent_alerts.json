@@ -850,5 +850,39 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-rnd-credit-624837",
+    "type": "precedent",
+    "topicId": "prec-rnd-credit",
+    "label": "연구·인력개발비 세액공제 판례",
+    "detectedAt": "2026-10-18T09:05:51+09:00",
+    "plainSummary": "연구인력개발비를 계산할 때 사업양수법인의 경우 사업양도인으로부터 발생한 연구개발비는 사업양수법인에서 발생한 것으로 봄.",
+    "caseNumber": "대구고등법원-2025-누-10299",
+    "judgmentDate": "2026.08.21",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=624837&type=HTML",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "prec-wrongful-calc-624779",
+    "type": "precedent",
+    "topicId": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "detectedAt": "2026-10-18T09:05:51+09:00",
+    "plainSummary": "특수관계자에게 시가인 공동주택가격보다 낮은 금액으로 양도하여 부당행위계산부인 규정이 적용되는지 여부",
+    "caseNumber": "서울행정법원-2025-구합-4609",
+    "judgmentDate": "2026.09.18",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=624779&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]
