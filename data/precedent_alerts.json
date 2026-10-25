@@ -884,5 +884,39 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-input-vat-denial-625043",
+    "type": "precedent",
+    "topicId": "prec-input-vat-denial",
+    "label": "매입세액불공제 판례",
+    "detectedAt": "2026-10-25T09:19:36+09:00",
+    "plainSummary": "사실과 다른 현금영수증 관련 매입세액은 불공제함",
+    "caseNumber": "서울행정법원-2025-구합-53331",
+    "judgmentDate": "2026.09.11",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=625043&type=HTML",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "prec-wrongful-calc-625019",
+    "type": "precedent",
+    "topicId": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "detectedAt": "2026-10-25T09:19:36+09:00",
+    "plainSummary": "부당행위계산부인을 적용하여 인정이자 익금산입한 처분은 적법함.",
+    "caseNumber": "광주고등법원(전주)-2025-누-131",
+    "judgmentDate": "2026.07.08",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=625019&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]

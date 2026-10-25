@@ -1,140 +1,5 @@
 [
   {
-    "id": "news-tax-law-revision-92abd564d9e44eab",
-    "type": "news",
-    "topicId": "news-tax-law-revision",
-    "label": "한국가업승계협회, 27일 세법개정 대응 세미나…공제한도 1000억",
-    "topic": "세법개정안 뉴스",
-    "detectedAt": "2026-08-26T07:42:56+09:00",
-    "plainSummary": "한국가업승계협회, 27일 세법개정 대응 세미나…공제한도 1000억",
-    "source": "스페셜타임스",
-    "publishedAt": "2026-08-25T12:09:01+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50U3FGSGxDeVFRb3k5dlhQQ21GMHdRYnVRbnVaeVZZeWJUQ2VvNFBWd0pELU5vNUd1cnV6NF9PTk11eTVuVUJqVUlISFBFN0ppLS1ndmtjdExaSGFvNHlwYjBZQ0JEU1BHcTdYdGpNSEs1bE0?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-ctpa-revision-7a34ee6a0ec282de",
-    "type": "news",
-    "topicId": "news-ctpa-revision",
-    "label": "여야 '쌍끌이' 발의… 외국인 미용성형 부가세 환급 재추진 '탄력'",
-    "topic": "조세특례제한법 개정 뉴스",
-    "detectedAt": "2026-08-26T07:42:56+09:00",
-    "plainSummary": "여야 '쌍끌이' 발의… 외국인 미용성형 부가세 환급 재추진 '탄력'",
-    "source": "한국경제",
-    "publishedAt": "2026-08-14T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zRXZxNFJ1RHo1UHFKTm5KRkVMZ05mTFhxQm42QXdJVFl2akxyeGZHRUpiTzFIM1JabWx5eTM2RVlzWk0waUo2NkpxVUptVVB3Zlc2bDhWUndhUQ?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-rnd-credit-b96681400d9fab94",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "[2026세법] 지방中企 청년 소득세 최장 10년 감면…기업 세액공제 1.5배로",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-08-26T07:42:56+09:00",
-    "plainSummary": "[2026세법] 지방中企 청년 소득세 최장 10년 감면…기업 세액공제 1.5배로",
-    "source": "연합뉴스",
-    "publishedAt": "2026-08-03T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdlp4dW1yLVZKZWF1NUJISmtYcFF1NGJHbEJXeVFXUXhyc0N0Y1pZOF9aU3h4ZjRLMmNGcVZUT2JxOGdSc0JfcDBWeGVIa2NGS1RHZXZ6UE8wSU3SAWBBVV95cUxPcllWd3FpdDN3UWR5d19pTm9icVV1c3YyUG82NFp5UTY3X01EazhicmZMeEVJNHBWcl9jODVHTnlwWWZZUkE1Q0NaV2JZbV90VDMtOG8wNk5mTUt3dUduT2c?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
-    "id": "news-honest-report-1dfdd1d0fdc0abcb",
-    "type": "news",
-    "topicId": "news-honest-report",
-    "label": "국세청, 10만개 법인에게 3조원 자금유동성 세정지원",
-    "topic": "성실신고 확인비용 뉴스",
-    "detectedAt": "2026-08-26T07:42:56+09:00",
-    "plainSummary": "국세청, 10만개 법인에게 3조원 자금유동성 세정지원",
-    "source": "조세플러스",
-    "publishedAt": "2026-02-23T17:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlLW5XUVdHTFQyTGhiV2hubmFFcUVhSjB3SUptX3VXRWZOMlVrUEZwM2w3Qi1HbmtKM2FINEtqTnVMWDlTMlRkYzJJM3RkOE5YY2ZZY2cxMDbSAVNBVV95cUxQN2cwZy1MeEdnNlNnenFwdDkxTFhvd3BIekVvUkRRak1Xb3A0U1F3ZmNPVnU5QnZ3aEx3Q2ttN0l1dVF0N2dkQ3VqN19pbElQUE5LTQ?oc=5",
-    "tags": [
-      "성실신고확인비용세액공제"
-    ]
-  },
-  {
-    "id": "news-construction-8b291a95bfa189bd",
-    "type": "news",
-    "topicId": "news-construction",
-    "label": "정부, 건설업 활성화 대책 마련 분주…총리 업계 회동은 순연",
-    "topic": "건설업 세제 뉴스",
-    "detectedAt": "2026-08-26T07:42:56+09:00",
-    "plainSummary": "정부, 건설업 활성화 대책 마련 분주…총리 업계 회동은 순연",
-    "source": "네이트",
-    "publishedAt": "2026-08-19T14:22:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5LVkyNnFtMlB4azRUanJhN0ZYVENJVk1yTDNrb3NCMmVBa1pTRk5sNjlqQmRKZ1MwWFhPRklBZ2J1d3NKLS0wYVVEZzFpT01zS09R?oc=5",
-    "tags": [
-      "construction"
-    ]
-  },
-  {
-    "id": "news-construction-2f04b31cba748e87",
-    "type": "news",
-    "topicId": "news-construction",
-    "label": "International Tax Newsletter (2026년 3월호) | Deloitte Korea",
-    "topic": "건설업 세제 뉴스",
-    "detectedAt": "2026-08-26T07:42:56+09:00",
-    "plainSummary": "International Tax Newsletter (2026년 3월호) | Deloitte Korea",
-    "source": "Deloitte",
-    "publishedAt": "2026-03-16T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV1kxa3FhTHZ4MUp4bDNyQldzb3h6N3d0YTBfVm9ENmk5dl9aREJFLUV4TnBMY1o0X3JzMWhMVV8td2dTeUh4amhkcWw4ZEo2NzBGdGVVdm5TTnFRM09ZMi1UM1ItLXBKX0F5bEdlYnBTcXZFU2R4ZXpKZTF3eGkxMUlicVN0ZTl5M09vOVRkVkZwMTd4RU1zb0RoSVEzbmc?oc=5",
-    "tags": [
-      "construction"
-    ]
-  },
-  {
-    "id": "news-construction-da1a85b5983c098b",
-    "type": "news",
-    "topicId": "news-construction",
-    "label": "지자체가 ‘악성 미분양’ 세일즈 나섰다",
-    "topic": "건설업 세제 뉴스",
-    "detectedAt": "2026-08-26T07:42:56+09:00",
-    "plainSummary": "지자체가 ‘악성 미분양’ 세일즈 나섰다",
-    "source": "동아일보",
-    "publishedAt": "2026-06-10T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41TURSQUd6cFZhaTZXM3FibFNYWmxqRTNOVm83Nlh6ODY5MHNrX091Vl9VX3ZlMmFGOUo3OTRTQnZ3a3hueHE5UjRRTkwtQW5rNHRaQjZsa1gybndtZ3pyeUE1RlUyakdFQkxj0gFmQVVfeXFMT3NmRVVRY1ZpVkMzNTJQMHhiVmdOTU9JYnFOYVhPeWFUUThxel9KYkVmUHJGT0VjWFU1TjFIWFJoLXJjYVo1Q3V5cVhNMTZ0aWhSeF9DcjdJVkVFRGNGM05mM3ozMU93?oc=5",
-    "tags": [
-      "construction"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-74a8a28e6d7ea946",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "국책은행, 장애인 외면…산업은행, 10억 물고도 고용 기피",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-08-26T07:42:56+09:00",
-    "plainSummary": "국책은행, 장애인 외면…산업은행, 10억 물고도 고용 기피",
-    "source": "네이트",
-    "publishedAt": "2026-08-26T06:03:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uTkpIUElTUGRLR0xHbk9NU3BqRzFFZ0c3Qnd2TkpaUXdUYTRpNmF2TUNud2psUUpza3E1dDNTSWdid2VNa0g3VE9YcjB1MTBiaUNZ?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-wrongful-calc-893e2127e278f384",
-    "type": "news",
-    "topicId": "news-wrongful-calc",
-    "label": "시가보다 고가로 현물출자해도 출자자에게 돌아간 이익 없으면 소득세 과세 안돼",
-    "topic": "부당행위계산부인 뉴스",
-    "detectedAt": "2026-08-26T07:42:56+09:00",
-    "plainSummary": "시가보다 고가로 현물출자해도 출자자에게 돌아간 이익 없으면 소득세 과세 안돼",
-    "source": "네이트",
-    "publishedAt": "2026-08-17T08:02:05+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50emNEejdsZElqSVFZRzZCbF9lY2R0bzZsUUhSSUFwYjk0MVYtQjVHcTVjQllSbVBDdTJXa3lKNFJsek5ZUWxmZEhjV0Ric2NaT2Vz?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
     "id": "news-ctpa-revision-c5b8867c110578a0",
     "type": "news",
     "topicId": "news-ctpa-revision",
@@ -16305,6 +16170,351 @@
     "source": "시장경제신문",
     "publishedAt": "2026-10-23T12:01:21+09:00",
     "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWaS12WHlLTFp3ME1JU3kteU5SZk9ZczFpamZyZXJXS0xaYzRCVXhreXFnalpkTEFDcVBBclJMQjkzdkdJejZfTEZvVVlRVW0wZVlhMzFLZ1hrWFY1WGpKbG1GTnEwU1B4azVCNkhMWU4?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-925222bccd1fa36a",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "오늘 국회는 세 가지 세법 개정안을 논의하고 있습니다.",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "오늘 국회는 세 가지 세법 개정안을 논의하고 있습니다.",
+    "source": "Vietnam.vn",
+    "publishedAt": "2026-10-23T10:25:10+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0QldsWHhDSnVjdU1MaDdSS096akZkS0l1d2JFdWxwbEZrY1RQZUx3U0l5NHVTbjFUaVJpbjhHeVp1WGI0RzF2NDV6SUJkaGppUndPVjBsTjk3RFNhZHI0V1FoMXZBM0xBQWhtUVFNYWV6UUllN1ZUdjVjNA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-25a45e46f1e96e1f",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "법인세법 개정으로 보험사 세 부담 완화",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "법인세법 개정으로 보험사 세 부담 완화",
+    "source": "한국보험신문",
+    "publishedAt": "2023-01-02T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zQ3BfekFBSTdSdEZGNzB3VENwUkVjTTF3b25QbjVTWm8xNVBzSmRGUVFCZEp0T0VsOWpkbGZfUnlFVGpjVkVhYU8tNmZwN1dwY094a1N0UDFLWE1LUm9LWTktUHMxN0YxWGhj0gFvQVVfeXFMUEZMa3JHOG5NckRqclJxbFR0WDFuUXJSSHU0dmpmY1VYSXh5SVdyX255MnZUQ0RZQ1Axem5PZXlYSkFUU3ZlRHFRN1dGaDVibnFNcEJMLTU4cWZYYXFBUXhlVDhQR291NFdRZVZJZ3Jn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-201ae3e903b2e8c0",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "13개 세법개정안, 국무회의 의결…내달초 국회 제출",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "13개 세법개정안, 국무회의 의결…내달초 국회 제출",
+    "source": "세무사신문",
+    "publishedAt": "2025-08-26T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QMVY2UGpmam4wc01INk00MDR6YlJUS1BiOUVqZzNTazEzMVBrTm9YUHMzZWtZM043UXNBaFlnUG1tQWZoWjRmNHpuTFB1UDdVUk9venBCbEVsZDRnVUx5ci1yRmtJRVlRSFh1cTN3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-c975a8e2e25a249d",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "신규 법인세법의 주요 개정사항",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "신규 법인세법의 주요 개정사항",
+    "source": "PwC",
+    "publishedAt": "2025-08-07T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3VSb2FFMUo3N2lGa1ZCSUxKTHE5UU44cWNqZ0pHUGFTTHd3ajlmclQ2cGN3NDNtRmZTZEp6ZkpVYXJvbTl1NmsteFFuSlZSY2M4VnRpc0dJcFpnejNmbFpGX1ZvNHVHamNoMDBLS0VFT1VWRG02RF9YZ3VZQ3lFMmo0NkNuN05yNlFIeERsY1ZXQ2FGZjlpdg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-ac6b394b5108e4ce",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "[그래픽] 법인세법 개정 의원 발의안",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[그래픽] 법인세법 개정 의원 발의안",
+    "source": "뉴스핌",
+    "publishedAt": "2022-06-23T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9acXRJdWRnd1liQTdydk5EXzF2R3RpRzYxMHplbnhzU2FSZ19HWElGRzFaWHJRdUdHNWV5N0VpakYwb2hCUjdrT0tNLVg1cE10WU1SZ3UtbGRxay1j?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-19d8ab58869ecbd2",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "[머니 컨설팅]성실신고확인대상 법인, 세법 개정 대비해야",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[머니 컨설팅]성실신고확인대상 법인, 세법 개정 대비해야",
+    "source": "동아일보",
+    "publishedAt": "2024-10-08T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03a0RPXzVpOTZhRzF2RFl6QkFBNmNzZEU4VzAxMzNVRG90SWh0WjZ1NFlVUWN0eUxNTllXQlpxc2w3YWh4aVBFSWg3STFXWXJ2cWxjVUFJQndPaUtpcjlFZzF2OFFpNXpMZHRjSFI3RXlyS2dFRFHSAWZBVV95cUxPZGdOeFJvdkJhWFM0QVhiV3c0cTZ5Z1ZkWXoyOFlEQnFaMFVMcWlpX2hNdmlyczNEbHM5TmhvNFBYb3pZVkNQaXZ6WjNpRTVEWjNlUEhJMGNPTjFnR21ORFBPRTBmaFE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-9b7e96fce5e96a48",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "2017년도 주요 세법개정 정부안 주요 수정내용",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "2017년도 주요 세법개정 정부안 주요 수정내용",
+    "source": "Crowe",
+    "publishedAt": "2017-12-29T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YMUJkYU5na2tfX285NUpGY0FPVWxxRGdBWkZQVm1Bd0pxenVxUXpGZ0R1LWRtRmd4SnZKc0w1U09DWDZjd3RjcS1ERE92QXR4bmhYWGY5ZUI?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-877b9ab5cb608651",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "테마 취향과 조작 취향으로 나눠 보는 러스트 도박 꿀팁",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "테마 취향과 조작 취향으로 나눠 보는 러스트 도박 꿀팁",
+    "source": "Calgary Roughnecks",
+    "publishedAt": "2026-10-20T13:13:42+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSXAzcm9OS0U2MElMN2xhT1czaTFtckRYd0RTM2FEbWVhblM2RjFKTHpmYW5BSGRoUG83N1A4NTV4UjZ5UUt6YVZ4TzJKN0pQRVhoc1B6bE1zdmdZZUh5eFVzLU04TTNkWnhVdUViQWVRLXl4ODRzdlR6c0hRcDRmVkRwT1BBY3FqN0VldVdvN1g4TG1TOFFKNElyR2R2LUpRTnNZMWtLVlRaVFlLdTJLdC0zQWdDV1o3dGRvZWFMMWNsaFFYY3JDcHZVOTBEQVpxdVU2dHdyVG84M3RYR2lfNXlMeDdUNXhwVHc0enFHMnVnUQ?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-6cb213643176082d",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[테크 차이나] 지원금 공고 밖에도 산업정책이 있다…중국 R&D 추가공제 작동법",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[테크 차이나] 지원금 공고 밖에도 산업정책이 있다…중국 R&D 추가공제 작동법",
+    "source": "전자신문",
+    "publishedAt": "2026-10-15T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04aXNFXzBObXBVejdWdXVfZklDTzlfaW16aTdzQzVaWHBUckhHejA3NXRMSllaMFpnMDJBNzdZYXdnSXlnckRaYnBzSEhNdw?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-60868c94807bf198",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[R&D 세액공제 사전심사] 자체·수탁 공동 연구개발…자체개발 연구비만 안분해 공제",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[R&D 세액공제 사전심사] 자체·수탁 공동 연구개발…자체개발 연구비만 안분해 공제",
+    "source": "Daily NTN",
+    "publishedAt": "2022-09-30T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lX1JNcl94QXZ0TU5xbXVZRnhPWV9DQlFVOEc1Ymk3b2R2UXJQbWMwMmdaQzRCM1NVRmx3eDNOcDJEMWFva2xVRFdlWUpMdEZmS3EyYmxxSXFaTmFLTWRHS2NSYUFSajJtM0E?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-2401d57bd43b6bbc",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "세무리스크 해소하려면…R&D 세액공제 사전심사는 필수",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "세무리스크 해소하려면…R&D 세액공제 사전심사는 필수",
+    "source": "한국세정신문",
+    "publishedAt": "2025-02-20T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hbG5SaDZyWjR2b1k2b3JHSVNwcS1kZWFyNmUwbmpET3Z3WFRCZF80SGx5Wjl0UmxPMDFDRDFFWXEyWWE2ZW01TmZwTFlkZFVKT0NYRE1DNU1UX2tSNDE5X1BrMFc?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-ab50f27bad4a7a5c",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[사례] 연구·인력개발비 세액공제 사전심사 사례",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[사례] 연구·인력개발비 세액공제 사전심사 사례",
+    "source": "세정일보",
+    "publishedAt": "2024-02-19T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PUlROc3JtNFpuNkdwZExMZU51bmlnLVV2Tmp4T2JSZ1R2RnlEc2R1anA2QkRENklRMmkzZ2RUcGl1S3h2eDNtQ1p3T2tLRUMzcGpXVlBwWDg1RXZraWlxWEVuUi1TMmZpbTFlNA?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-8e149e78f32badec",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "연구·인력개발비 세액공제 사전심사제, 반기별 설명회 열린다",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "연구·인력개발비 세액공제 사전심사제, 반기별 설명회 열린다",
+    "source": "메디파나뉴스",
+    "publishedAt": "2025-03-19T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DczdvTmFoQ2Y3UVg2S3NXRUd2MkJHN2NEVTJiMjkyeURWRno1NlNSVklTT05DaWlIS3VPMTdmY1BoTjBLUUluM0VVOC1FMkxNal9NMmlrSGRHNXhwRE03VVM3SzZBenZHb0t3?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-83ba1a8722eccdb7",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[국세 예규] 창작개발 수행 보조원 인건비...연구·인력개발비 세액공제 적용",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[국세 예규] 창작개발 수행 보조원 인건비...연구·인력개발비 세액공제 적용",
+    "source": "Daily NTN",
+    "publishedAt": "2023-07-14T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xdFZSamNRaGp2Z3k3eXFZZ1JGVkFWNGlKYXlWZ0gyYmNhZURhZnBJNE8wQmE3d0drU3R0OS0taHpCci13cE9ickd5Q2NnSzNPZEJPOUVzV2d1YUIzaVVoZlJURnZNdGFBMXc?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-de54f7a2dac3cfe6",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "연구·인력개발비 세액공제 어떻게 계산하나",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "연구·인력개발비 세액공제 어떻게 계산하나",
+    "source": "한국세정신문",
+    "publishedAt": "2020-01-13T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pT0dqeGd6M1o5TFZBbThzRnlmenNkUV9xb2JVVDVzM0YyZ1lRQWNUUzhrZTQ1b25YVUViMHZrd3l4ZTk2cjlBcVNvejlwQlJWTEVnLXNybWhVandlT0pWT2ZtT0U?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-2220cb5e0870e2cb",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[국세 예규] 연구개발 전담부서 발생비용 세액공제…‘신청일 부터 일할 계산’",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[국세 예규] 연구개발 전담부서 발생비용 세액공제…‘신청일 부터 일할 계산’",
+    "source": "Daily NTN",
+    "publishedAt": "2022-09-05T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OMDNjRTBHSnF4R09ZQkJPVGRXYnFrVFdHeVVTUXZUaDBiM2RRc0lxR3lOeFpIMjcta3N0YkZ1R0xObXlSMDJ6d1lrMGpldHZoYXBxVWRMQkZveHMteWljUWFicGhDQ1FsWGc?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-bf2dcd13a49195ca",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[국세 예규] 공제 못 받은 연구·인력개발비 세액공제 ‘10년 이월공제’",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[국세 예규] 공제 못 받은 연구·인력개발비 세액공제 ‘10년 이월공제’",
+    "source": "Daily NTN",
+    "publishedAt": "2022-07-28T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02M1JlOEV5SUZOZGtTR3FUa0pXa2UycXhqU2FmUXhXelhwQ2JsMVRhSXZJM21Ma0VkNzZjaENveHBNYXlWVVRaUXhPWlZ2SE9FUTBfRHVFWFZ0MjgxQnV5dUQ5VE1HMmFQX1E?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-f7c333028ff2200d",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[R&D 세액공제 사전심사] 연구에 사용되는 소모품·시험기기 구입비용…R&D 세액공제 불인정",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[R&D 세액공제 사전심사] 연구에 사용되는 소모품·시험기기 구입비용…R&D 세액공제 불인정",
+    "source": "Daily NTN",
+    "publishedAt": "2022-06-10T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Fekt5dnJNMmtBd3lEZXhDaF9IcE1vcHFvanMyM1RJbXJHV2ZyZ1lhbWRVWE9hV05hV3l5RWlGMlVEWVZqbTNFSW5uaF9meDg5dEx0MVJMNFkxMnBjeWltR2hwRHU?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-b81c86a27c1ee687",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[R&D 세액공제 사전심사] 선행기술과 유사해도 창의적 결과물 확인되면 연구·개발활동 ‘인정’",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[R&D 세액공제 사전심사] 선행기술과 유사해도 창의적 결과물 확인되면 연구·개발활동 ‘인정’",
+    "source": "Daily NTN",
+    "publishedAt": "2022-05-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LdU9waXVpWFlJREtLcFFwNnpQNmJ3Sk5tSU1PcjcxZ3BYY2gzTXRpY1ZqWmpZV2tWendtZW9WeXZLT3NOZ0ZRSnhoN1FrWUp2bDlzdDBudk96aVhuSTU3RE0tSzA1VWZRaWc?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-396eeb7ed2397e1a",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[세법해석] 국가지원금으로 지출한 연구·인력개발비가 세액공제 대상에 해당하는지 여부",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[세법해석] 국가지원금으로 지출한 연구·인력개발비가 세액공제 대상에 해당하는지 여부",
+    "source": "Daily NTN",
+    "publishedAt": "2022-05-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10ejg4cGRXaVNhbTdKbWFzLXRZSE9EWHQxalB0bE9LUWdHLUNWcFJXNTdHaExCbElRQkVjOEVaTmdfd3RZQjVrR2MtangzVDA1UUYyWDBIMXFPZk1UdWpxWFp4b2lNa25zdlE?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-486fe49029acbfde",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "\"세제 개편 시행땐 세부담 증가\"…곳곳서 '하소연'[중기 가업승계②]",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "\"세제 개편 시행땐 세부담 증가\"…곳곳서 '하소연'[중기 가업승계②]",
+    "source": "뉴시스",
+    "publishedAt": "2026-10-24T10:01:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BclVKMXZkRi1JWFVFVXljOEJ1WUp1TThCQVlSYTVXYV81NnpvUTZwTXhlVGQtZTVUcEN3TFFLX1JHQmZ2cTk5R212OHYzeFlpQ0hBVHp5WFlJTHF1YUFYMNIBeEFVX3lxTE0yNDRlcU5KVEQ3LW0tbU45RjlCUjRBajVrdnlGOUJDWUFXdThfSkgtbXMxZExjdkdBT3dxQlpTQ3Q5dzFwekZLWm5kbzRSUXIzd2NyUzZuT183TVBCdEhNUFV5UmFBYkxyWW96ZUtYNHJQbTVObEx5ZA?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-7444e042e8cfbf0f",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[단독] 돈 내면 그만?…사립 상급종병 중 장애인 고용 의무 충족 단 2곳",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "[단독] 돈 내면 그만?…사립 상급종병 중 장애인 고용 의무 충족 단 2곳",
+    "source": "청년의사",
+    "publishedAt": "2026-10-20T06:53:38+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMW9oMUUtUklNOFkxeE41NEtjQ0xyZjc2UHZXcnNmMjh6Y2FoRnltMVEzV183OW5QXzRvdUstcUd1TE5BMU8wYUxiTjd5MWFFZWFEY3BQSUFtWTdqV2tPZXVnNkhmNk94ZHdFZDNpa9IBc0FVX3lxTE1jV3lUcGlhWlVzZHJVNGRqUjctejZKUjM0UU40ekpnSkdFNkxKRkktOVA0aElqemRjR3Y3bG1mNVkwRlM2c3NJOGpKQzVzdkRiTWdiNGwzRTFpWEVQVjdMYTl5M3RTN25WSzJwd3ctWWtXVkU?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-18291ae74653cacd",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "연간 출하 9만t 목표 유지…엘앤에프, 4분기 LFP 양산으로 반전 노린다",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-10-25T09:20:39+09:00",
+    "plainSummary": "연간 출하 9만t 목표 유지…엘앤에프, 4분기 LFP 양산으로 반전 노린다",
+    "source": "핀포인트뉴스",
+    "publishedAt": "2026-10-24T13:22:10+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yUThBc2dza2dNZ0N6YVYybXE3SWJVMUx3WXBGYlZKMjU2aTdBelhrV091anRtNGdjZzZjMjNnUFloNW1HOXQ4Yi1WekxfRzBoWmYwMThwRjY1ZzdzcU5oX0pENWNnZ0JvNktDX2NpSnVibHRQellz0gF3QVVfeXFMTnJROEFzZ3NrZ01nQ3phVjJtcTdJYlUxTHdZcEZiVkoyNTZpN0F6WGtXT3VqdG00Z2NnNmMyM2dQWWg1bUc5dDhiLVZ6TF9HMGhaZjAxOHBGNjVnN3NxTmhfSkQ1Y2dnQm82S0NfY2lKdWJsdFB6WXM?oc=5",
     "tags": [
       "전체"
     ]
