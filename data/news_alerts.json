@@ -1,110 +1,5 @@
 [
   {
-    "id": "news-corp-tax-revision-b56da5b0308c11dc",
-    "type": "news",
-    "topicId": "news-corp-tax-revision",
-    "label": "2026년 세제개편안의 주요 내용과 시사점 Ⅰ – 기업과세 분야",
-    "topic": "법인세법 개정 뉴스",
-    "detectedAt": "2026-09-01T10:25:53+09:00",
-    "plainSummary": "2026년 세제개편안의 주요 내용과 시사점 Ⅰ – 기업과세 분야",
-    "source": "법률신문",
-    "publishedAt": "2026-08-24T17:03:04+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuWjZGMWlWTExjV2Z2eEFSNUJ4V1FQZzVxejU1TGJYTk9IVlo0R1pyR2MzNlZfbGpvd0lLXzAwSVRWbmhKaGM3NHdzSlZjWmZvdG5ESWJVdzFYUXpzVmhJTkhDX204LW45OEllOFVn0gFyQVVfeXFMUEN2QVB5NXFnN1lRbGRRU3dUUEtCYjhmLWp4bjFUZ2RlTmNHeW5TeFlNTmFtZy1hVnhqSU9hRUhSMDBXV3lHaTBicHhSdTZFeEpySTYtcFlhSXRXcmExVnJfNkpZWUlDdy1QenZ2dXVxb0Rn?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-rnd-credit-0becb3dcd707c0b7",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "콘진원 \"게임사 세액공제 있지만 못 써... 제도 개선 절실\"",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-09-01T10:25:53+09:00",
-    "plainSummary": "콘진원 \"게임사 세액공제 있지만 못 써... 제도 개선 절실\"",
-    "source": "게임메카",
-    "publishedAt": "2026-08-28T16:12:47+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lajU4NDZMN3g5UG5mQldPWm9SUGlMQ1NhVVJuaUpwY2RpQk5ZSTZoZGx4UFhhTm5qYVVXM19OSkRUdWNDSFlQZ0tRaGNQOVBJZnRYeUl5NTfSAVtBVV95cUxONXFvQ2tiSU9ZTEJBM3VYZEhwbWxJcTh1WFhQWjVRa1NIZ2M2RXhXN29aWnplN1dFQ04tUnYxY3k0XzU1WlhsTDk1NTVNeXQtOGx3T2pIRHJfZkY4?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
-    "id": "news-construction-b17f2f08d3208355",
-    "type": "news",
-    "topicId": "news-construction",
-    "label": "[화요경제 항산항심] 그 많았던 타워크레인은 어디로 갔을까",
-    "topic": "건설업 세제 뉴스",
-    "detectedAt": "2026-09-01T10:25:53+09:00",
-    "plainSummary": "[화요경제 항산항심] 그 많았던 타워크레인은 어디로 갔을까",
-    "source": "국제신문",
-    "publishedAt": "2026-08-31T18:48:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNktNMDFfX1U3azVvODU2ellralkyMzJnbk1zdW90OE96OWtkV0Z4OEtFcUpNd2xrUU1mLVg2M1J2V3phbXFMUUpLMW50WmItR0pqSlFCZUJPcGJMcFdDSEcxS2stQlBWQTFuQ252RzhjUVNNdGxad1FfWEV3T3JfdUs0YzltWGNEckRaRDJ3?oc=5",
-    "tags": [
-      "construction"
-    ]
-  },
-  {
-    "id": "news-exporter-263c510729461e6c",
-    "type": "news",
-    "topicId": "news-exporter",
-    "label": "정부, 수출기업과 외환시장 점검…수급 안정 협력 당부",
-    "topic": "수출기업 세제지원 뉴스",
-    "detectedAt": "2026-09-01T10:25:53+09:00",
-    "plainSummary": "정부, 수출기업과 외환시장 점검…수급 안정 협력 당부",
-    "source": "아주경제",
-    "publishedAt": "2026-03-26T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbjVhb2NKS1pFYzQ2bGhMTi1XOHoxTjlBNmMtQTRaTTNIVWlTQ3dOakF3bW9VOWFlc2xMdGlxNmpyRjhKTE9pdGhCQmdIT3JwMkJmY0hGTzdid9IBWEFVX3lxTE5wMGZNNkl0QnVJV01VQjFwSDFMalFGUU5KWE52M1JGb2lwTzdUbU5xTzFTUmREODhLU2RyN1dQblhkYXB4OG54bGJobE93My1hQmw4SDZYSWc?oc=5",
-    "tags": [
-      "exporter"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-e6c405aa10af8327",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "장애인고용부담금, 대법원은 손금 인정…개정법에선 다시 논란 [판례연구]",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-01T10:25:53+09:00",
-    "plainSummary": "장애인고용부담금, 대법원은 손금 인정…개정법에선 다시 논란 [판례연구]",
-    "source": "조세일보",
-    "publishedAt": "2026-08-31T08:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uNURJcDYtNXdHLTQ5RWx5Vk43MThsUkRDYUhyTU1ZWFpBN0ktRzFZZmttNDh0WjBycGREUnNXOEFjdXBSTThpeEdNQ0prSXRSOHM2UFlTbGdEdkl4S3k3cVE0LW1Oc042bW9nNTMxa2FDeXda?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-provisional-payment-27a03921c7f8e271",
-    "type": "news",
-    "topicId": "news-provisional-payment",
-    "label": "[세미콜론] 신규법인 과세표준 환산도, 가지급금 이자율 변경도 놓친 국세청",
-    "topic": "가지급금 인정이자 뉴스",
-    "detectedAt": "2026-09-01T10:25:53+09:00",
-    "plainSummary": "[세미콜론] 신규법인 과세표준 환산도, 가지급금 이자율 변경도 놓친 국세청",
-    "source": "세정일보",
-    "publishedAt": "2026-09-01T07:55:03+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01eG5iQ2R0N1p3bXY0SjdQMFNlaTBQM2xBclNwQjdQVjlYQzZDLWRLbHNBQ05UNS1xSTY2RTdoWWZEbE9sdWU1NnZscER1dGZKS3p5TTRFNkpFemxQMTh1QmhsR2xwdzl2Sy1RWg?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-wrongful-calc-64282fd7faf28daa",
-    "type": "news",
-    "topicId": "news-wrongful-calc",
-    "label": "이수만에 5년간 600억 준 SM…법원 \"과도한 건 맞는데\"",
-    "topic": "부당행위계산부인 뉴스",
-    "detectedAt": "2026-09-01T10:25:53+09:00",
-    "plainSummary": "이수만에 5년간 600억 준 SM…법원 \"과도한 건 맞는데\"",
-    "source": "news.nate.com",
-    "publishedAt": "2026-08-28T00:27:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhMHd4S1U5Q2tNRHFPUVpyWlhYOFk0WkN1VW1qemlQQklGcXhTdGVKMTRVMHpwSHJ2NmhPSWMtNVN2U3hwc19IMkh3UVRNa0YxYVJv?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
     "id": "news-tax-law-revision-862916c33f6b2951",
     "type": "news",
     "topicId": "news-tax-law-revision",
@@ -16650,6 +16545,321 @@
     "source": "머니투데이",
     "publishedAt": "2026-10-29T16:04:33+09:00",
     "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04dm9uRmxlQUFUZFVkZ0p6YVJ3cTMwZzZmWFl2bEVsTFBMTF8tRnNBdWJDcG1GRU9GeVdjc09seUxFbWJfNEIya2g5WGFLOWV3dEJSN3p0ZDhmTmVqd2dKc19FX3hkeDVhTmswd3E1V2fSAXBBVV95cUxNOHZvbkZsZUFBVGRVZGdKemFSd3EzMGc2ZlhZdmxFbExQTExfLUZzQXViQ3BtRkVPRnlXY3NPbHlMRW1iXzRCMmtoOVhhSzlld3RCUjd6dGQ4Zk5landnSnNfRV94ZHg1YU5rMHdxNVdn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-39aad95a48719e2e",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "부승찬 의원 지방세법 개정안 발의",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "부승찬 의원 지방세법 개정안 발의",
+    "source": "용인시민신문",
+    "publishedAt": "2026-10-30T20:21:56+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUdjA1dXF6UzZNdTZORWNaMnJ3cm83d2FrOHA5RVozOHlrSlI4RlhwZXlzUW5uQ1hMUExVTmpsVlBLcGNEUDB2cVpNckpvTm1JTkxLSFdhVGxBQzNNRFl4YURTT3FyVVh1a2dQZg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-0f0c2142d918bc4f",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "조승래 의원, 미래 전략기술 육성 위한 조세특례제한법 개정안 대표발의",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "조승래 의원, 미래 전략기술 육성 위한 조세특례제한법 개정안 대표발의",
+    "source": "조세플러스",
+    "publishedAt": "2026-10-29T09:55:05+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hMWRFazE3QTRFakU0Q05JTzRpMks1bVlhNXdWUkc1YlBOMDNXcHpqREJOcnJ3UHJnZzJCMHVWNVU4SWNsNXV3ay02bnRrejdaN2Rv0gFTQVVfeXFMTmExZEVrMTdBNEVqRTRDTklPNGkySzVtWWE1d1ZSRzViUE4wM1dwempEQk5ycndQcmdnMkIwdVY1VThJY2w1dXdrLTZudGt6N1o3ZG8?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-4911644d8529e159",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "김성원 의원, 인구감소지역 주택 세제특례 10년 연장 추진",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "김성원 의원, 인구감소지역 주택 세제특례 10년 연장 추진",
+    "source": "연천뉴스",
+    "publishedAt": "2026-10-31T07:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xeVZZY0ZpaTZiUlltaG9FTXczVi1RU19Od2djZFRENzRqbkw0MkREbXllWXJfYUpEWjczZ2ZDSzFVdG1qMV94TmdDSlk4dVJJaTVxQlQzX2xMM3FsUlowYzd4Z19jRmY5ODByb2ZRRQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-726bbf6a8ef5be33",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "조승래 의원 \" 미래 핵심 산업 연구개발 투자 촉진해야 \"",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "조승래 의원 \" 미래 핵심 산업 연구개발 투자 촉진해야 \"",
+    "source": "충청매일",
+    "publishedAt": "2026-10-29T13:15:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Fam5YVUxNUVpNdUwxbWlPVFI4bEZhd2NxdWdxb3dhSG5XMFFobkJvSzFwYlRRVTNhOW5pSy1LN3lLVFY3eUNTdGJncG0yQXRaLV96UFZ4eW96Rl92blJfY3Y2REEyTnltY3c?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-b0e81c73a636dd2b",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "2026년 정부 세제개편안 – 자기주식 관련 개정사항",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "2026년 정부 세제개편안 – 자기주식 관련 개정사항",
+    "source": "법률신문",
+    "publishedAt": "2026-08-24T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10Z2JDX19vOTFPSjh5emQxNU5VS3ZSSWIzUEl2VGttU25JYkRHakRnc1J4aTNxSGlucERoeVJ3eVVQb2p5RF8xaWpuSDBBNGRoUGpTTXR6aUJoRHV2NkJTSElON21BaHZGY1BwdEJR0gFyQVVfeXFMTXhQbVZzYkttYnNseFB0a2VORGYzTXVObkhxQXNPSDZ6SlZiU2R5bVA4eUZlX2p2Zm5IY1p3dTFrelo3dmprMDVUaTlKcjFTb2R0RmstU3l2LW1SWTNYZXRsYTZjc3BTbkc3UUFQeVF2MlRR?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-737f76aa25765444",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "[포커스] 세금감면 100조원 시대, 효과 검증은 제자리인가",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "[포커스] 세금감면 100조원 시대, 효과 검증은 제자리인가",
+    "source": "이택스뉴스",
+    "publishedAt": "2026-10-30T22:10:01+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3WFRNRlU4OUNQbUlDQ2ZBZlN1bk1Wemo0S2VBVUdzTjFRX1N2VlFzRTc0blRaTGFPXzQwQ2xXYkVITTBqSDQ5aEZaMzBmT0x6QWhBdUN0MEtZVUNiN3BRT0NDcTZDUWNHcnc?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-50c1dbc4bd348f2c",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "\"필수의료 공백 막아야\"...병원 가업상속공제·AI데이터센터 세액공제 추진",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "\"필수의료 공백 막아야\"...병원 가업상속공제·AI데이터센터 세액공제 추진",
+    "source": "조세일보",
+    "publishedAt": "2026-10-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnN01WZ0FSQnVXTVY5ZFd0WG84UVhmbE80LXNsZzZnUzJCbm00dXZ4QXRTeS1peVBZUnp3ZGlWTktTUzZQRFlXZmU4YWFWM1FyNWxpNTYyR1A0MzFLRjZpS2FYM0FndENDeXVBMzRybw?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-f98ebd4b0abf5397",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "제약바이오업계 \"연구개발 세액공제 이월기간 연장\" 건의",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "제약바이오업계 \"연구개발 세액공제 이월기간 연장\" 건의",
+    "source": "파이낸셜포스트",
+    "publishedAt": "2026-10-30T16:37:57+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qREZaVGRMeENMdkNMNlBydEppVnI0Q0FSeU9HTnMxNmtxaGZpNnFwMC1CeVRtYnEzQ2pkLXlxWksyRV9DY2tTTWZyOHQzZjcyOU53OHp1UjBWMTNwS3hCbUpNMEFLVHVWM3JIcDNTeTB4SnJQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-dc0b7e413846326f",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "제약바이오업계 “R&D 세액공제 확대·세무조사 부담 완화해야”",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "제약바이오업계 “R&D 세액공제 확대·세무조사 부담 완화해야”",
+    "source": "의사신문",
+    "publishedAt": "2026-10-30T17:12:12+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UENfa2hrUVRiUGY2QVFKREJPeU51dXkyRzVESEhKTkZhV3F3Z3FtUEVnRXlBdFIxRS1sUWJnTW5kRW8yTFNnbVZ3N1diYmRxVTlpOFViNVNfUHhuRjVhZVhPdWdpMlZ2aDBRODB5RQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-2a0571c575d874c4",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "제약계 “세금 부담 덜어달라”…국세청 “긴밀한 협력 기대”",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "제약계 “세금 부담 덜어달라”…국세청 “긴밀한 협력 기대”",
+    "source": "팍스메디컬뉴스",
+    "publishedAt": "2026-10-31T09:30:19+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxWVpJYkYzM2dkS3pLak41UzlfdVBtanExNjNiMlJRQkZxYkpNa0R1blJqZGJCV0RLRVFYbnVVYmUwWkVNR0xJandYaGJJb2lyeFBSeERzYWdiWFFJMVluU3FXcWJtZkhxTTQ3azVtaS0?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-27328299be0b7efc",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "내년 ‘국세감면액’ 사상 첫 100조 돌파 전망",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "내년 ‘국세감면액’ 사상 첫 100조 돌파 전망",
+    "source": "경향신문",
+    "publishedAt": "2026-10-28T20:31:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbVBZUl9GQjlNOWxKLUFtZXk4R0FGMnNjZUloeWhqdVF1WlptUVJFRF9rR1VhY0MwUTI2U0NfZm1ta01ONkVSS05jUXRIYVhUUFRMb1JrbVNacnUyUlVV0gFfQVVfeXFMUFltUFlSX0ZCOU05bEotQW1leThHQUYyc2NlSWh5aGp1UXVaWm1RUkVEX2tHVWFjQzBRMjZTQ19mbW1rTU42RVJLTmNRdEhhWFRQVExvUmttU1pydTJSVVU?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-7578796374f381fe",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "제약바이오업계, \"R&D 세제지원 확대 필요\"",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "제약바이오업계, \"R&D 세제지원 확대 필요\"",
+    "source": "e-의료정보",
+    "publishedAt": "2026-10-30T21:49:27+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MSUtlYTM3MG5ka1lXSGVTcDE4eUZCNGdGLXR2N3pHbDJJYm5mampjUXJ3TW9mTU9DRG1ETlJyWW9NT3VWNnJCdDJ2LWtkOTdFMDl3ek42TXQ2LXRpLW12REVveklmRVk2aFdj0gFvQVVfeXFMUC1mS3dnNWJMazdNY1JUSE1wVXAzUW9ZUzAzci1sUi1LRWFNVFRfUTZmY3VoOXFFX1N6VEhDNWtUSWYxXzRMMi1vazJCaFR5eURUX0E2dGtLalJBcmR0cmxpUHVoMTkwMWVDUWNhREhr?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-2c3149587bb6a171",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "제약바이오업계, 국세청에 R&D 세액공제 확대·세무조사 부담 완화 건의",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "제약바이오업계, 국세청에 R&D 세액공제 확대·세무조사 부담 완화 건의",
+    "source": "PRESS9",
+    "publishedAt": "2026-10-30T16:59:42+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TNWIyX09EMlliSUZOamVTRl8zY2hsRkJwY0RwZF9IaDdveU9MSHlfSDQ2bXVMdzZOR05qcUVLVWpoUzBPX0xrUWtNakt3NzRUMDQ2OEZFSHRRdmNRakxiWFpSeUw0QQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-dff9ebae8e59802f",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "내년 투자·R&D 세액공제 27조원…국세감면 증가분 79% 집중",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "내년 투자·R&D 세액공제 27조원…국세감면 증가분 79% 집중",
+    "source": "이택스뉴스",
+    "publishedAt": "2026-10-30T08:10:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hN1dhV3g3X3hmbWpMWjZuQUZ4dFZfWUlQRVlsUTdJYURRaG5oaXNNOU5xMG5kbGRTNEp5WERDN3N5T2JvOGZFYWVuOXZDNTZ0THY4bjB2NmczUjZPRXFvUVE3OEVmWUNGckE?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-honest-report-ac65c2c7dacd29b5",
+    "type": "news",
+    "topicId": "news-honest-report",
+    "label": "[특집] 부담스러운 각종 세금, PC방 업주를 위한 ‘절세 지침’",
+    "topic": "성실신고 확인비용 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "[특집] 부담스러운 각종 세금, PC방 업주를 위한 ‘절세 지침’",
+    "source": "아이러브PC방",
+    "publishedAt": "2026-05-02T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoanNYbnZtS2FxNFpCazdldkVfR1ZPZEYtWWJhTFlmSGQza0FYcHAxRnc2UTdmVWZ6SUVOTXpkVlZJU0JfR1JHQWFrUExJc3JkSm9hVXA2M1pZTEpfUXlJa3pCR2RKLW9NdWJxNk9pYw?oc=5",
+    "tags": [
+      "성실신고확인비용세액공제"
+    ]
+  },
+  {
+    "id": "news-exporter-4fcfee99f716001c",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "재경부, 충남 수출기업 지원 강화…바이어 발굴·인증 애로 해소",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "재경부, 충남 수출기업 지원 강화…바이어 발굴·인증 애로 해소",
+    "source": "아주경제",
+    "publishedAt": "2026-08-20T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpMWlJZHB0WEcxdXNIbmkyeHdrYl9weFNtNVZkdG9lRnhXeWJNWnNCSlJCMUdQOGtNU2VSUDFuVlpiajNUNEp2WnhOOVZHLUpLZF8ycEF2d2dmZ9IBWEFVX3lxTE5mbHloU21tZ0RSTDdLYkNtMlVPeUpxLTA3MzN3M3hPWDE3YzFtQWVTUVVrcXdkWnhoOUM4LWhRN2haZlVCdk5uX3JtNWFaby1Dck45UV9POXI?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-157d0f8400828ac2",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "[마이더스] 결산 한 달 전, 가지급금 해소의 골든타임",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "[마이더스] 결산 한 달 전, 가지급금 해소의 골든타임",
+    "source": "연합뉴스",
+    "publishedAt": "2026-10-31T10:30:02+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5paFlVWnZTYUZvNFNQcVdXNjRLTFpwdFBCQVdXSWY2ckZESm9WSF9FVlBSV0h5TFVDRDNsc1NjUzJ4WXFWX2Y1Z2xRRmpUbXZqS19lMDdJd0JBeVHSAWBBVV95cUxQWkFCU2Jvb3pHU0dPYXhQbmQ2b2JMNzN4c2pPZlZDbnNWQ0l4UmY0UmVTN2lBVjRxaWlobDN6WmF6THJaM2pLY1ZkbERMSnk5eE5zRnI3eWMwd0dFamRRMi0?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-fa90700707cf0f20",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "완타이바이오(603392 SH), 3분기 적자 확대…마케팅비·재고평가손실 부담",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "완타이바이오(603392 SH), 3분기 적자 확대…마케팅비·재고평가손실 부담",
+    "source": "알파경제",
+    "publishedAt": "2026-10-27T15:52:51+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLbzRTc3FneFVSZnNJM2RxbXBvZldsQTM3ZU9PYUVUaDg0cVR1V2w4eDFXNTBLNk9ZQVV0b2hpT2kyQkg3eUxndDgwUzBMM2dRcDlVS0pOeFVZVFZBamxTcjVlY2J4OExfVmYwNWp3?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-f7bc792c3a9b442e",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "'66억 절감' 내세운 서산 자원회수시설, 이제 필요한 건",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "'66억 절감' 내세운 서산 자원회수시설, 이제 필요한 건",
+    "source": "OhmyNews",
+    "publishedAt": "2026-10-26T17:06:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zeUJYOUh3VnA3UFNqeXpNNGZVWGdWckZZaE9CVGlwaHRURjhKUm84RXRvdmtPNU5oWnF1bzRiQ3NPaHphOWZHeDhFbE91bzVhSW83WWo5dmhXVlp6LXdPeXBHcUd3X3M2RHRQQmdFeWlBelhOLXhF?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-418d5efb6cc9dc71",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "아들에게 집값 1000만원 더 받았더니, 세금 9000만원 줄었다 [세테크]",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "아들에게 집값 1000만원 더 받았더니, 세금 9000만원 줄었다 [세테크]",
+    "source": "서울신문",
+    "publishedAt": "2026-10-26T16:06:40+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Wa1ZINV9xbkhRQTBqd045aXVlWmJsQmV1MEl5NkxSSmpzOTlQNGV2UTBPMHZBZU8wU3c2ZDRsdEFhX1pvajJJZWw5RW90ekdEQmRvQ21xVmctNnhZLUc0MXUzYU8wbFp0dU4xaERhRWpLRHJMRGc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-e382d26bfbf27fce",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "SM, 이수만 600억 프로듀싱 대가 세금소송 승소…법원 “시가 입증 못 해”",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-10-31T10:41:48+09:00",
+    "plainSummary": "SM, 이수만 600억 프로듀싱 대가 세금소송 승소…법원 “시가 입증 못 해”",
+    "source": "Chosunbiz",
+    "publishedAt": "2026-08-27T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLW9CY1dqY2RXMWZTaXhESFZGdm9BS2VORXhjblIzWjhqbldQS1hfd19KclZfaVpDS2lKbHUwVXlwaE5oMGVib2NNdkJCVGZmdTBpQ1lNalMyMWczdGYwVFlvQjQ5R1RiQ0h1NEZ2cGIwdW1sbkhLOXVUMzBzQTNoLVhBd9IBlwFBVV95cUxOMHprZ1dGUUp6MnpiUkN3MkhIek5iTFpHMjFkejlvQjNrR0g0M081ODVKSXJ5cWhBNjlLRnZjaUtBSGVsWUFQVTBhelc1Wndmcy00LWNDQkZCaHpBbzNLdHg4RnM5RGhpamNtbktET1cwOGlwTDZUQjJQSDd4bjk3eEE2cFJScm03cXViRUU5RVRseDF0X2RN?oc=5",
     "tags": [
       "전체"
     ]
