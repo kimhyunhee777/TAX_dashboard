@@ -918,5 +918,22 @@
     "tags": [
       "전체"
     ]
+  },
+  {
+    "id": "prec-foreign-credit-625233",
+    "type": "precedent",
+    "topicId": "prec-foreign-credit",
+    "label": "외국납부세액공제 판례",
+    "detectedAt": "2026-11-02T10:38:13+09:00",
+    "plainSummary": "외국납부세액공제한도액 계산시 국내결손금을 국외원천소득에 배부하여 계산할 명시적인 규정이 없어 피고 정당세액을 받아들일 수 없음(주요쟁점)",
+    "caseNumber": "서울고등법원-2023-누-39429",
+    "judgmentDate": "2026.09.09",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=625233&type=HTML",
+    "tags": [
+      "외국납부세액공제"
+    ]
   }
 ]
