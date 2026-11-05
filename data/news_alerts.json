@@ -1,126 +1,5 @@
 [
   {
-    "id": "news-rnd-credit-90388ceded909a19",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "R&D·투자 세액공제 지방은 최대 1.5배…지방銀 기업대출 '새 먹거리' 되나",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-09-06T08:57:49+09:00",
-    "plainSummary": "R&D·투자 세액공제 지방은 최대 1.5배…지방銀 기업대출 '새 먹거리' 되나",
-    "source": "v.daum.net",
-    "publishedAt": "2026-08-17T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QNGtfQjZ3NjAtZjVWalFNTkxaZFN0X01lN194UjZMMVJiVDNoelJJVkFUNlI0YkdyblAyWWw4UERyY29MTlE?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
-    "id": "news-startup-0a1f26486765a538",
-    "type": "news",
-    "topicId": "news-startup",
-    "label": "청년 창업 중소기업, 근로자 신규채용시 정기조사 2년간 유예한다",
-    "topic": "창업중소기업 세액감면 뉴스",
-    "detectedAt": "2026-09-06T08:57:49+09:00",
-    "plainSummary": "청년 창업 중소기업, 근로자 신규채용시 정기조사 2년간 유예한다",
-    "source": "한국세정신문",
-    "publishedAt": "2025-12-18T17:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMYkFoSWREdzFlTjZtQnBLLVBCcndIYUV6SzNMMWFBM3hvVFppX2NwMG56czhBU3dHQ0E5MmdyMFV1ZzlTZElNeFIzbno5VXA2TWNVOS11UmZ0bDJiOXE0?oc=5",
-    "tags": [
-      "창업중소기업세액감면"
-    ]
-  },
-  {
-    "id": "news-employ-credit-71f5a6f5e7457452",
-    "type": "news",
-    "topicId": "news-employ-credit",
-    "label": "인건비 부담 줄이는 절세 전략, ‘통합고용세액공제’의 활용 > 뉴스",
-    "topic": "고용 관련 세액공제 뉴스",
-    "detectedAt": "2026-09-06T08:57:49+09:00",
-    "plainSummary": "인건비 부담 줄이는 절세 전략, ‘통합고용세액공제’의 활용 > 뉴스",
-    "source": "한의신문",
-    "publishedAt": "2025-11-17T17:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcE12ODgzcTF3VnV4eDRkWm94cnFWUDBXelFQUkttUV9tN2c0dlFaUldhYXN5T1pKb2E5RTAyLW1iQnNwd09oUXduVm01R0NTT2NESDB3S05zWXdlRHB6enB6ZlJVSUdSNzRLRVVmWi12RTRPZnZMcTd1WFFxZWJ6ZTcyWHFuQU5ObXVVbVVKaFZ4R2dIQ3lIYWd5cDc2MzZxV2EwSDltakJ3VDM0ZG9HWEhCTkgxWFYwdUxLOUJ4ZHM0clVHSFo4NlZpaGNRWWt4TGtQQW1qZk9hRnNzRThZTEtLelN4a0ZLbUE?oc=5",
-    "tags": [
-      "고용증대세액공제",
-      "통합고용세액공제"
-    ]
-  },
-  {
-    "id": "news-construction-38ee61503e66c9f0",
-    "type": "news",
-    "topicId": "news-construction",
-    "label": "건설업 장기 침체에 희망퇴직 받는 건설사들",
-    "topic": "건설업 세제 뉴스",
-    "detectedAt": "2026-09-06T08:57:49+09:00",
-    "plainSummary": "건설업 장기 침체에 희망퇴직 받는 건설사들",
-    "source": "news.mtn.co.kr",
-    "publishedAt": "2026-04-15T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Z2pYV0VVbDZBWW1XM1FBZjU2ellBNVRsU3hTRDFWZFF6ZDJaRHJrSkxiOFh0TXVkdWFYYzgtREszdFNXdzlhWjhtMzVfWTVtc0NQY3FWemlLQy1ZWnFMWDBjRTY?oc=5",
-    "tags": [
-      "construction"
-    ]
-  },
-  {
-    "id": "news-construction-4db2d4e14460175f",
-    "type": "news",
-    "topicId": "news-construction",
-    "label": "대기업만 친환경…뒤쳐지는 중소건설, 지원 '절실’",
-    "topic": "건설업 세제 뉴스",
-    "detectedAt": "2026-09-06T08:57:49+09:00",
-    "plainSummary": "대기업만 친환경…뒤쳐지는 중소건설, 지원 '절실’",
-    "source": "mediapen.com",
-    "publishedAt": "2025-10-28T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xdXZPSW5RbGhfZGtaYzgtRlZTbm1TejU5N3dINlpfX21kUXkyWXBBVjNleU9xMHB1N0s3dmRFajR5QzR5V2R0X1gxRjd3Q21Mb2JiNtIBWEFVX3lxTE1lbGxsWmZvWDVaakdiU3dzcGxGQWlHUy1rNWh2NC1JczlaaU5BZC1tR05ma0JOZC1PTUtsOUxkUDQ1T1AxVDlqNEZWejdWdUdQLU5EdTlhMTM?oc=5",
-    "tags": [
-      "construction"
-    ]
-  },
-  {
-    "id": "news-exporter-3f05a115b49786c7",
-    "type": "news",
-    "topicId": "news-exporter",
-    "label": "수출기업 해외에 쌓아둔 달러, 이중과세 없애 국내복귀 유도 [환율방어 총력전]",
-    "topic": "수출기업 세제지원 뉴스",
-    "detectedAt": "2026-09-06T08:57:49+09:00",
-    "plainSummary": "수출기업 해외에 쌓아둔 달러, 이중과세 없애 국내복귀 유도 [환율방어 총력전]",
-    "source": "Nate News",
-    "publishedAt": "2025-12-24T17:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03TnJEc21HRjBad0xjUGthVVppUU1uQTFlYUtvZDQtOTI1SGRFX0s0cmJpMUVRWVhFcFI5cnpmZEM0ZlBnN3otU3dTcXdmUVpjUDZj?oc=5",
-    "tags": [
-      "exporter"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-005d9a2d8abf126c",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "정부도 못 지킨 장애인 의무고용…공무원 부문 부담금 4년 새 3.3배",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-06T08:57:49+09:00",
-    "plainSummary": "정부도 못 지킨 장애인 의무고용…공무원 부문 부담금 4년 새 3.3배",
-    "source": "v.daum.net",
-    "publishedAt": "2026-09-04T12:47:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NdHhfcFFPb3pOQjc4SWFsdHdvTmQtSHZuVWlpdGdqRHNPc3l5VXBlaDRQU3FBOF9zdTlSR2pMZ29vd0RwX1lXRU5ycw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-entertainment-e7bff31502cee321",
-    "type": "news",
-    "topicId": "news-entertainment",
-    "label": "국세청, 법인세신고시 제출제외서류 36종고시",
-    "topic": "접대비 손금불산입 뉴스",
-    "detectedAt": "2026-09-06T08:57:49+09:00",
-    "plainSummary": "국세청, 법인세신고시 제출제외서류 36종고시",
-    "source": "조세일보",
-    "publishedAt": "2001-03-09T17:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UYXdCSHMwTENEX3RTWWg2X0NsU01NdER6d20xemszY3lTLWpGZWtNQmUzcFUxMkhPblVSVWNpWDZKMWRwaFhUNWpMcFY5c1lnYjMtcjU5TmZiRms?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
     "id": "news-tax-law-revision-310bbf1c4661286e",
     "type": "news",
     "topicId": "news-tax-law-revision",
@@ -15485,6 +15364,276 @@
     "source": "TIKR.com",
     "publishedAt": "2026-11-04T02:20:50+09:00",
     "articleUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZlJWV3NHcmpTVjZzOU1Oc1I4QjhSZkExY1otZzFNSGczMUhNQmhFcWlSYi1ZdzM0LVNTdGFsSWJsczlDYjR5YmtqVVR6Yl9IWXdHRUFEb1NhUzRRMHZGVnR6WFlBYzFjTVA2VmtZd2VRSnVPLVhMZlJFa3VZYUZpR0NRVWZ0dF9XVTgybVNKd1VwSC10SkRMVENrT1BNU1pEa01HVk1IT1g4cEhwMi03VFJTbUZRT3VwY05ncUpadHFIcTVPLUNiN2I3ZGVrNE50?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-bde813a8d194c709",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "부승찬 의원 , 소방재원 국가책임 강화 위한 지방세법 개정안 대표발의",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "부승찬 의원 , 소방재원 국가책임 강화 위한 지방세법 개정안 대표발의",
+    "source": "중앙신문",
+    "publishedAt": "2026-11-01T18:11:55+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOTkxuOEFieDVnRDRuQjlON3lEc0FMYU5VbGtUQkFOSVAyT2VZbzFpQXo4WEFtdUxsY3FVT3NFZzJPV0xXM0RqLTUxbUVJLTQ4U1Nwang4TXdFOWNKeXpoRWVSay1TX0dZQUxPaVhsZGdDbzFpR080TXJadUNDMmcwQjNqbW1OTjlmT1BORDZqRWhFSXpxYXd5TndmTUlqdllMeGs3LXA1cE1sMkROcE1oNGJWZ3RKMnVFMEdTYmRIemNiTTltOGQtTWlrSGdFcWQ4RFNibFM4emFpeVNWbWMtV0xPSmd4REZhMXNXQ2RLVUxLN1B1MXlYeTdKNTktNk9WNl9VU2l2R0wxdEZPbkNTRlRhU1U1ei1Cb3d3MUZCVXpSenlmc1NRRUR5dTktRnpzT05Tay1tQ1RUWWMtUi1uV2p5TEN2NGp6S3Vwekl4S0pnTERHbFp0SDFRcVh4SDJ0SG5FUjl0RnFaNG5mclNJUURlckVIZHFqeFhyd3JPY1gtYkVteXI0eS1SbzMtemxuUmhDcmdQNk5rSFFWZkdoUF9MOFJMYTg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-971e6188cb4201bf",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "김상훈 의원, 세컨드홈 세제특례 확대 추진…광역시 인구감소지역 포함",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "김상훈 의원, 세컨드홈 세제특례 확대 추진…광역시 인구감소지역 포함",
+    "source": "㈜한국탑뉴스",
+    "publishedAt": "2026-11-04T20:34:19+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwLUhIT1NYQ3ctNVY0WC03ZG4tOGFBRkNYb0tVZXhSWU5UdUFJMk1ia3AyZWk5VWFIeFhyTEdsNjdKZmxFVkxuWE1vcFlQV1U3UjJBbmtqSnprTTFaLTJKeE5R?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-6475b6154d080f6a",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "서울·부산 등 광역지자체, “친환경 버스 부가세 면제 유지하라”",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "서울·부산 등 광역지자체, “친환경 버스 부가세 면제 유지하라”",
+    "source": "이데일리",
+    "publishedAt": "2026-11-05T11:15:04+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0lYeTlES0J2QnJHZXo2TkNIbWstSktfRXpBN21SblVqck1PTENjeTJnaU9KSFRYcmR1bU5NOWxRb1hmVzgtUzZ4RHVqRktzYWMzLU1wNG5Ec21UMkhTQVlielkxejlRRW5CeWJ4U0lEelppc0p3TjdUSDhIYXdNdQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-064dcd2cd0bc3d63",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "이언주, 반도체 트리니티팹 세제지원 법안 제안…참여기업 과세 부담 완화 추진",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "이언주, 반도체 트리니티팹 세제지원 법안 제안…참여기업 과세 부담 완화 추진",
+    "source": "포커스경제",
+    "publishedAt": "2026-11-04T13:24:34+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rN2N0ZE1mdDNpZWlsVzluTlFnQzNpOFd6ajdGZWxISHQ0aktjNndSTTh4dnlCd0xwbmxNWTVRMmh5NklEci1NYTU0MjQ0bG5mRURjWW5saE42bWtNbkRNZ3UtMUlwRmJVZ1dlcW13?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-corp-tax-revision-18a81caf60125499",
+    "type": "news",
+    "topicId": "news-corp-tax-revision",
+    "label": "2024년 세법개정 후속 시행령 개정안 핵심사항",
+    "topic": "법인세법 개정 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "2024년 세법개정 후속 시행령 개정안 핵심사항",
+    "source": "세무사신문",
+    "publishedAt": "2025-02-03T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50TFVDbDFMUXcxRjRVam5Xc2RZeUswbm8xVDdUQnZHWm05YmVPeEM1Q1ZFTVp2SjV0dDVEQmhGU2VyYWdJOGR6b2RuaFl2bzNjYmlkdlFWdHU5S0xJRUY2elFHZTBtSGNOYWhoV0Vn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-f0115e952d4918d4",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "이형일 생산세액공제 적극 논의할 것…전기차 현장 간담회",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "이형일 생산세액공제 적극 논의할 것…전기차 현장 간담회",
+    "source": "아주경제",
+    "publishedAt": "2026-11-02T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNUZIa0VmbmR6dktZVUUtTVFMTUk1eUxzVWtua2ZXN01QQmVuSjJfbGJiMEppdTlUYkNIVC1KRXBDS1NaQTFUeDE0c0F0SEd5N3RxYW1KemxpUdIBWEFVX3lxTE1ocWJNQVM0MGMzMTl6NElPRld4UXQteXppeTE2VzJfVC1UYU1PZ1JjMENNQUliNmtDUXhuVkFpdy1sV0JiaTJvU01pQXl2WjRLSE1SYmZBSEY?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-977326816150ea6d",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "정부, 이달 전기차 경쟁력 강화방안 발표…이형일 “생산세액공제 논의 적극 참여”",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "정부, 이달 전기차 경쟁력 강화방안 발표…이형일 “생산세액공제 논의 적극 참여”",
+    "source": "헤럴드경제 미주판",
+    "publishedAt": "2026-11-01T23:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mMTdQQWhYeDltUmpkdlRXX0JDTnBOd2VJS2ZkWEVpbDc3VzBlejRpd3FsVWtkaHVJNXg1aTZMdDZEdU1CZlV2aFQ4TUhxaWs2Z1Y0RWY5eXlOZnJCUkRRMw?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-5ad4cc0176316840",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "“미래차 산업 생태계 만들어야⋯ 국내생산세액공제 도입을”",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "“미래차 산업 생태계 만들어야⋯ 국내생산세액공제 도입을”",
+    "source": "국민일보",
+    "publishedAt": "2026-11-02T02:15:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16VkZmTWtQWmVidVFlMWRlWXA1VDltTS1vaXR2d2RQSXdPZjFwR1I4SjdQZW9VZ29Xb09jaEp0RDMwdjVKYkVRdEdGeVZ1Um50SWg1b21rbVo?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-1de23cd709cfa198",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "원자재 구매비용에 연구용·생산용 혼재…R&D 세액공제 여부는?",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "원자재 구매비용에 연구용·생산용 혼재…R&D 세액공제 여부는?",
+    "source": "한국세정신문",
+    "publishedAt": "2022-01-25T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeExDRDVVczdnMU51OURZR0hqWGwzRlp0OExPQjNwcXFwSG9OMmdxNTRDcDBXQmRiYXo5czBsRFFaRmpjMU42Wk03ZXoxaWRfY2ZxR1BONWx6aUpPX01vc1oyUmQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-346adbf2bbf17887",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "[부동산세 개편] 비사업용 토지 종부세율 최고 4%…공공주택용 양도세는 15% 감면",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "[부동산세 개편] 비사업용 토지 종부세율 최고 4%…공공주택용 양도세는 15% 감면",
+    "source": "연합뉴스",
+    "publishedAt": "2026-08-03T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uSkgxbklyb3pJSWozYTF4TFRwZkVWWTZQam9ycEc2VVdIQmU1Mkk3QmpMeWVvX3owMUFJRW9MYzhLcW96MzBieHF5aGR3R2tWWDhxeXRmUUxkM3fSAWBBVV95cUxOOVZCS2czNGdiV3haRmVkV0d0bEFaeFFwSk96OEkxbmxURmg0TGItb3RLN3lvd2F1anFzSG5UMkswSHBOX3RqWUtEbVBpQUZIZjBzRTdLTnZnVmFDZ2prLU4?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-construction-25f003a39b7e25a5",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "권도엽 \"부동산 세제 정책,국민 주거 이전 자유 제약\"",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "권도엽 \"부동산 세제 정책,국민 주거 이전 자유 제약\"",
+    "source": "매일신문",
+    "publishedAt": "2026-06-21T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhWWlXaUdzNkRiYzh1alRkU2dXM2lfdWcxRXY2YUVXbGphUkxhTXhjNFRDdHpSLWhfUVhud1JMTUhBRWlpVHYwbTBIZmFSWGszdkxFeENKT3hqSm9KUV9QeUV3?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-construction-4b79dcbb6240f4a9",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "93개 지역서 ‘두 번째 집’ 사도 1주택 혜택… 지방건설 살리기[10문10답]",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "93개 지역서 ‘두 번째 집’ 사도 1주택 혜택… 지방건설 살리기[10문10답]",
+    "source": "문화일보",
+    "publishedAt": "2025-08-19T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5U0w0Sk90ZDlxTF85NGZ3SXBobHRic1VNc1dUYUxjeDVZSXpSbkVWX1poajJlRFBwTVBiUEJVaThxNFJfX29DTWFmaFBydzFW?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-exporter-1c5c525dc0d55859",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "\"국민들 주머니에서 지원해준 것과 다름 없어\"...반도체 세제 혜택 보니 [굿모닝경제]",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "\"국민들 주머니에서 지원해준 것과 다름 없어\"...반도체 세제 혜택 보니 [굿모닝경제]",
+    "source": "YTN",
+    "publishedAt": "2026-05-19T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YZUp6clhmN2FickdOXzBnSFpMMDVuc0VBMFpRWUt2NTBQU1ktQWRPaFJvTHNoYVlyVS1iQ3FvQlRFRG95b0Ridm5pM1AzcXBnLVZYZkhDMWZqazFpekE?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-exporter-d645c85f673ab510",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "2027년부터 의무화...정유사, SAF 투자 서두른다...\"세제 지원 필요\"",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "2027년부터 의무화...정유사, SAF 투자 서두른다...\"세제 지원 필요\"",
+    "source": "뉴스핌",
+    "publishedAt": "2025-09-22T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxMXJ1TVZMNnZUa1dYRDB3dzhaU1o1UzdkazdmdzdEVjZtaHFIbkFMclZ1aF8wYllRMVA1RzM2bkV3aDY1VVFiZmV4UHFmbV83cWRPcXAtTzM3akNK?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-775ec6a8adbf55d6",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "장애인 직접고용 대신 부담금 감면만…연계고용제도 실효성 도마",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "장애인 직접고용 대신 부담금 감면만…연계고용제도 실효성 도마",
+    "source": "경기일보",
+    "publishedAt": "2026-11-04T18:08:26+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95WExzNUJpREhsVkUteEV4Y0wwVE0tM2kxajBNOVlUS0NBeGhaRFNveTIxbXgtLV9QOWR2ZzVIWTV5LWtXNnZKVHplU3plSDkxaHlsRndHaTJYUzQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-65e883e7956fbf4d",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "이노비바, 3분기 순손실 7389만 달러 적자 전환…투자자산 평가손실 여파",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "이노비바, 3분기 순손실 7389만 달러 적자 전환…투자자산 평가손실 여파",
+    "source": "데이터투자",
+    "publishedAt": "2026-11-05T06:31:07+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rOHM4NUVud1R4Q1JiMGlnZm8xUlFOS3U3ekdxSDNnVWl3TzZ4ekxYcFpBaWZaMTAwbS05UHFEbFJCMUxFVFZJbXFWb3hDTGxFUFdSNW5kcTlpWHR0N0Y4NzVmM1VJWGhQSl9OMHV2Y204azQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-760b394771b73cf2",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "벨포인트 PREP, 3분기 순손실 870만 달러…전년 대비 적자 폭 축소",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "벨포인트 PREP, 3분기 순손실 870만 달러…전년 대비 적자 폭 축소",
+    "source": "데이터투자",
+    "publishedAt": "2026-11-05T07:14:45+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zalFCaU9ZUFhiSG9oREp4anV6SnlpVlBmLWpRR0lnZjc0cWJYR29iVHlWRXV4bC04ZjM1RjR3ek5OT24zSmVWbkhTOFJ1eTRwRFBVRlhYZTNrck1pb0VwN0dnd1pHTzRPa2wxSDlZd2RCSEk?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-a2313bb058b4c769",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "부가가치세 토지 관련 매입세액_토지에 대한 자본적 지출",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-11-05T11:22:57+09:00",
+    "plainSummary": "부가가치세 토지 관련 매입세액_토지에 대한 자본적 지출",
+    "source": "브런치",
+    "publishedAt": "2026-06-04T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFMkZaYWhrdndxblRCWk92MjVRdnhMR0Y5UDZrWlptdU9UOFFYaFA1Yjk5NXgyNzh0NUMybzQxSU5iYUI1aU5rNw?oc=5",
     "tags": [
       "전체"
     ]
