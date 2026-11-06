@@ -1,140 +1,5 @@
 [
   {
-    "id": "news-tax-law-revision-310bbf1c4661286e",
-    "type": "news",
-    "topicId": "news-tax-law-revision",
-    "label": "하루에 법령 4건과 세법 개정안 5건: 사업주들은 눈 뜰 때마다 변화를 마주하고 있다.",
-    "topic": "세법개정안 뉴스",
-    "detectedAt": "2026-09-07T08:54:29+09:00",
-    "plainSummary": "하루에 법령 4건과 세법 개정안 5건: 사업주들은 눈 뜰 때마다 변화를 마주하고 있다.",
-    "source": "vietnam.vn",
-    "publishedAt": "2026-09-06T17:51:09+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcndPV1NWRWF4QUl3RVRqRjF5Vy12VDlMME91dVd2Y2ZURjE5bEVWWEJTR29Cb0dKMlhaNGt5RFlTRnQtbEszWXpxZ20waFRfTFNiUGhuemgwcGlZNHM4MXdpbENLdHdvNDR5Z2k4X3FQQkZ3YXFWcjcwRTFPZkhpdXdkOVhEZWJCNnpXSkNjUkhrcEVGei1GcUJUWFhQYzllVUFPbDBn?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-ctpa-revision-5c93f994ebb65fa9",
-    "type": "news",
-    "topicId": "news-ctpa-revision",
-    "label": "복기왕 의원, ‘반도체 실증 지원을 위한 출연재산 증여세 한시적 면제’ 조세특례제한법 개정안 발의",
-    "topic": "조세특례제한법 개정 뉴스",
-    "detectedAt": "2026-09-07T08:54:29+09:00",
-    "plainSummary": "복기왕 의원, ‘반도체 실증 지원을 위한 출연재산 증여세 한시적 면제’ 조세특례제한법 개정안 발의",
-    "source": "충청매일",
-    "publishedAt": "2026-09-06T15:30:34+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oOWFuc1AxajVnTnpnZWp6ZkY4T1hxZDBTcnpSZ1BYeWZWbU16MWxJTW5yUnFfLTczbGtQa1hUNDh6TzZrdkxxbDl1YmRWZVZpTVJLUzJsWk16c1FCNkpKWUNEcTNwSDE0NkE?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-ctpa-revision-a13a514648014c5e",
-    "type": "news",
-    "topicId": "news-ctpa-revision",
-    "label": "김승원 국회의원, ‘조세특례제한법’ 개정안 대표 발의, 납품 대금 15일 이내 지급하면 세액공제 2배",
-    "topic": "조세특례제한법 개정 뉴스",
-    "detectedAt": "2026-09-07T08:54:29+09:00",
-    "plainSummary": "김승원 국회의원, ‘조세특례제한법’ 개정안 대표 발의, 납품 대금 15일 이내 지급하면 세액공제 2배",
-    "source": "검경일보",
-    "publishedAt": "2026-08-27T17:28:45+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81bFFaVG9oTkZEYS1uLTctQWpZUS0yNE4xd1JrUHlxT1NZOE82bjJqZVA5aUJQRXpMMS05SkZVUEdJVy0tTllCenVNMGFmOU04a2JNZ013a0JJaWFKY0hkdm9BQ1Yydw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-invest-credit-0abdcc6b2da645c4",
-    "type": "news",
-    "topicId": "news-invest-credit",
-    "label": "작년 국세감면 76.1조…감면율 3년 연속 법정한도 초과",
-    "topic": "통합투자세액공제 뉴스",
-    "detectedAt": "2026-09-07T08:54:29+09:00",
-    "plainSummary": "작년 국세감면 76.1조…감면율 3년 연속 법정한도 초과",
-    "source": "마켓인",
-    "publishedAt": "2026-08-21T10:39:32+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52SWlpdUNHN3czUWwxWXYydmV5RUpJVTFyWGNMVUFxODRoQ3hmbW5HTzRYWGxTcWtVMWh3NnZQWmZHX2hUREd0bjg3V3FlZHVFTUlvZ3owY256bHJUWnVscVZvS1phWWdjWkFxOHZVenFEXzg?oc=5",
-    "tags": [
-      "통합투자세액공제"
-    ]
-  },
-  {
-    "id": "news-rnd-credit-baa16f84ba51fa43",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "[ET단상] R&D 세제 개편이 이끌 지방주도 성장 기대한다",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-09-07T08:54:29+09:00",
-    "plainSummary": "[ET단상] R&D 세제 개편이 이끌 지방주도 성장 기대한다",
-    "source": "전자신문",
-    "publishedAt": "2026-08-26T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OMENfVGxFU08zWDFTSUJ5cXctNUpzWUc2bXg0a2d3NTJ1WnZWcmRGY0FkMnJRaFZUME1IUDFzWHRhQlg1bXRUT3BIV3Uydw?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
-    "id": "news-rnd-credit-3186ed8086b03d26",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "국세청, 中企 R&D 세액공제 사후검증 1년 유예…상담 전용창구 설치 - 머니투데이",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-09-07T08:54:29+09:00",
-    "plainSummary": "국세청, 中企 R&D 세액공제 사후검증 1년 유예…상담 전용창구 설치 - 머니투데이",
-    "source": "머니투데이",
-    "publishedAt": "2026-02-04T17:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41NnVlZFlvOC04TmE5aDJfd0twcmQtRmh4NFc0SDQ2blp0emc1MGI5bXRCX2dZX0ttbHZjamYwX3JvbjF0aEI2cUE5ejhTaHM1ZGs0Z2Q2T1N5TXNBVEkyNUoyWFdxcmkxQU9B0gFwQVVfeXFMT3dMb0dpdDlIOXlFSUpUTTJUUHhZN2FkM3J4bG0tcHFUQ3ZFNzJ6cWppZE00dnpERVJHV3Azc1o2X1pFWnhEMEZaYlByclN0TDVJV3YwSzJ5YWh2VVVSd1h3SnNGZEhwT29VQ2lsXzE3RQ?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
-    "id": "news-startup-cb87307d10c7e1a6",
-    "type": "news",
-    "topicId": "news-startup",
-    "label": "창업기업 세제 혜택에 기업 유입 기대…청라 주거시장도 ‘주목’",
-    "topic": "창업중소기업 세액감면 뉴스",
-    "detectedAt": "2026-09-07T08:54:29+09:00",
-    "plainSummary": "창업기업 세제 혜택에 기업 유입 기대…청라 주거시장도 ‘주목’",
-    "source": "헤럴드경제",
-    "publishedAt": "2026-08-19T10:38:55+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DeC05bWg5NTRreVAzSWtKcUR5X0xVUlY0b0EybU0yRkpIbkV5TFMtMXhwMGJlcnpsN0t6cGNQMmViYUlRMFZIMlo0ejVlSmlzS053SWwxUQ?oc=5",
-    "tags": [
-      "창업중소기업세액감면"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-95bc4641c11f97da",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "[장애인 고용⑫] 삼성물산, 부문별 노력에도 저조",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-07T08:54:29+09:00",
-    "plainSummary": "[장애인 고용⑫] 삼성물산, 부문별 노력에도 저조",
-    "source": "hansbiz.co.kr",
-    "publishedAt": "2026-09-07T06:02:41+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FQks3Unc1Z3JhaXNRLUctN0VYbHBsX0lFSU1wOW1sY2syaDFuc2VrYnVxOFZGaFg1UjEtODA3TDhic2VCZnpBUXJIOXNOSnVVeW5SYWR4cHZ0YXJWNk9jenlZb3NCWnRmNU9SeURsd9IBb0FVX3lxTE5FQks3Unc1Z3JhaXNRLUctN0VYbHBsX0lFSU1wOW1sY2syaDFuc2VrYnVxOFZGaFg1UjEtODA3TDhic2VCZnpBUXJIOXNOSnVVeW5SYWR4cHZ0YXJWNk9jenlZb3NCWnRmNU9SeURsdw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-a734c673fc0238c0",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "1조원 매출에도 장애인 고용 ‘0명’, 민간기업 의무 고용 외면",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-07T08:54:29+09:00",
-    "plainSummary": "1조원 매출에도 장애인 고용 ‘0명’, 민간기업 의무 고용 외면",
-    "source": "ablenews.co.kr",
-    "publishedAt": "2026-09-04T17:38:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tUGxyU3BoX3BDX1RNZVlGRkVrNDBvVUNTeDVwdEhKMFdTdnNZNjZQYnRxQnRiaTZjaTZUdlBZQTRzMkJ4b2VaajYwdHBNMDVfbzk3WFp1bkloSXZacHQ0S0VMQmw2ZjFOSG5yVW930gFyQVVfeXFMTUFscnlaZmZiT1RkV1pwazY3UnRqazNFSkpremkwX2VtemRQbVI3d2tBRU1xelV1Zi0yNFp6aEU0emJ1STgwWC1tRTlwSUhhY0psQ3JneG5MWnJ4eXg4M01oT3JtM2cyLUtBZW03TFdLLW5n?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
     "id": "news-tax-law-revision-e95b4b7148c6e082",
     "type": "news",
     "topicId": "news-tax-law-revision",
@@ -15634,6 +15499,261 @@
     "source": "브런치",
     "publishedAt": "2026-06-04T16:00:00+09:00",
     "articleUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFMkZaYWhrdndxblRCWk92MjVRdnhMR0Y5UDZrWlptdU9UOFFYaFA1Yjk5NXgyNzh0NUMybzQxSU5iYUI1aU5rNw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-b6a2e7810be99638",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "국회예산정책처, 2026년 세법개정안 토론회 개최",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "국회예산정책처, 2026년 세법개정안 토론회 개최",
+    "source": "여성종합뉴스",
+    "publishedAt": "2026-11-06T09:16:12+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWNEhGdVdNam1MdkRRbzVmaE0zZ2F6eWRhYjBwOG1jYzdhQUJyNnFNUWZSRE9kOXBhQ1NzZ0tQNkF1bk1sLVVBWFlSTElIX3p2NzBZRHRITWNZQQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-1908573dbaa49473",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "서울시, 전국 15개 지자체와 친환경 버스 부가세 면제 유지 촉구",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "서울시, 전국 15개 지자체와 친환경 버스 부가세 면제 유지 촉구",
+    "source": "영등포신문",
+    "publishedAt": "2026-11-05T15:49:57+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JUlBPRVRWZkhBRTRhNXdOcWo4TzRINkhYSXVHemVCX0NRZUNVVzdPejVfRDdJRzJYQWRIZE5ubWdhRTU1V3RlU1RfSDNBTTA2YXhtTHBQbWlaMm9v?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-2f3f8bb95960a67f",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "\"전기버스 1대당 3500만 원 세금 폭탄\"… 인천시, 부가세 면제 유지 총력",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "\"전기버스 1대당 3500만 원 세금 폭탄\"… 인천시, 부가세 면제 유지 총력",
+    "source": "아이뉴스24",
+    "publishedAt": "2026-11-06T09:18:29+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zMW1SZW5KUk52WlE0U3p4RzM2WFNLTjBxT2pHaHhWdzJMWlE4U0hCT21aT0wtaU8wM1BsU2huWFRIYnFHd1M4QU5wN3I?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-2451d6baa2f881ec",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "인천시, 전국 16개 광역자치단체와 ‘친환경 버스 부가세 면제 유지’ 공동 대응",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "인천시, 전국 16개 광역자치단체와 ‘친환경 버스 부가세 면제 유지’ 공동 대응",
+    "source": "기호일보",
+    "publishedAt": "2026-11-05T13:34:58+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MYjh0ZjZCUDl0Y0ZvWFRMcjhJakZGTzU5UjBUMEFuZTcxeUFYMnhkTnVKUmFycFdWNjZ1UTRscGVMa0dNd3VLMDRraG5mUFBKVGpTTTBhWTNhaUphMmRicERzN3huSU1yMWNkSll0Zw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-aee15de3b406e970",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "인천시 등 전국 광역단체 “친환경 버스 부가가치세 면제 특례 유지를” 촉구",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "인천시 등 전국 광역단체 “친환경 버스 부가가치세 면제 특례 유지를” 촉구",
+    "source": "인천일보",
+    "publishedAt": "2026-11-05T11:22:01+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wTG9zeEVkSzZDUUhRaHktaTRUWWhxNTdwenNlWjY1MUFOV2lNdUlpeEUwSjlWSWk1S1ZNc1ZpT091MFhBbjlQZ1g3QW1HT2lRLU11NDllYk5iMkpFWU9wLU8tdzlndnFIQkxnQUNmWUk?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-91868b0121169e50",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "친환경 버스에 ‘세금 폭탄’…인천시 등 전국 16개 시·도 뭉쳤다",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "친환경 버스에 ‘세금 폭탄’…인천시 등 전국 16개 시·도 뭉쳤다",
+    "source": "경기신문",
+    "publishedAt": "2026-11-05T17:10:01+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YbnJ6Nkt4WGdqUWN0N3g4MlUyOGtLY1Fsek1MNXFMZ0N3VWxILTJIVWFoVTB5Wm5xSFVKbDdHTEpsdnh5Ym9fSTFfWWs1c21MRkhjQ1IzS0ZxSDF6WktfSHhn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-1feaadfda9e3c53f",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "인천시, 전국 광역자치단체와 친환경 버스 부가세 면제 유지 공동 대응 나선다",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "인천시, 전국 광역자치단체와 친환경 버스 부가세 면제 유지 공동 대응 나선다",
+    "source": "매일뉴스",
+    "publishedAt": "2026-11-05T11:35:51+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BaVVYWF9IdkUzNnkyNjV2YmVGRFMxaU5RSllZc0hEa2JpbUV5U1dpTUZCZHdTUVRuc0NuSlYtaGpObG5UckV0bHg0ZUt5T25IYlNXNGo2SlhTZzlYY010eA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-651e1124c3fb8d1a",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "인천시 \"친환경버스 부가세 면제 종료시 1대당 3500만원 市 부담\"",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "인천시 \"친환경버스 부가세 면제 종료시 1대당 3500만원 市 부담\"",
+    "source": "뉴스1",
+    "publishedAt": "2026-11-05T11:46:12+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wLU5EeHJOU1BieVY5cjRMTzVRTmt5cUdrUlQ3eWdwZlU2UEZmRHg3S2NTcTRsODBhVk00YmZXVGdwMnVxa3NkTUZCYUNsTmEyVkQ3RQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-759a5f7507c3bd4d",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "[2025 세제] 임투공제 재도입 3년 만에 종료…’내국추가세’ 도입",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "[2025 세제] 임투공제 재도입 3년 만에 종료…’내국추가세’ 도입",
+    "source": "연합뉴스TV",
+    "publishedAt": "2025-07-31T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uM01kYTFrd2pFeTlHRHZmYVVLa1FNb1k2SzRiTTdON25kRENyemU4RHNMelM2Y0dfM0Z6V3YzUkJETmNOY0JsS19QRVVPaHJtWm5sMlc3Q1EwY09DaTNFbTg2N1JrMkk?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-30fbd69a71a6c79f",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "백신은 국가전략기술이라더니…국내생산세액공제 대상에선 빠졌다",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "백신은 국가전략기술이라더니…국내생산세액공제 대상에선 빠졌다",
+    "source": "매일경제",
+    "publishedAt": "2026-11-03T05:56:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Hem5wVjZ3V3M5cmEycE1QQlFsWjVNN2huZWtoU0Y2X2dyeTMwczlweENhdVFSY2xZVVY4M09MTkV0djA0VWJYZVVKYlp0QQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-d4eec80610fa02cf",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "펀드 해외 투자로 외국에 낸 세금, 이젠 직접 공제 신청해야",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "펀드 해외 투자로 외국에 낸 세금, 이젠 직접 공제 신청해야",
+    "source": "매일경제 마켓",
+    "publishedAt": "2026-04-24T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VTnlFcXhPb2xNS1JpalFEXzdWbm9fZDhNSWxNcVlRM21JY2tGZ29NZjROb1RGQXd6TkNKRVd5d3BoM2VkTkdmZWRJeDVRcGhrdkE?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-00f2bf79e050b98f",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "6년 단기임대 부활…건설형 6억·수도권 매입형 4억 이하",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "6년 단기임대 부활…건설형 6억·수도권 매입형 4억 이하",
+    "source": "세무사신문",
+    "publishedAt": "2025-01-16T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rM1dMbGR4d0ctdnF4aUJoMklQZTR5OGYwVXpfcGk0V3RNR0VnRUtHQ2VaTklFbk5tTWRsa0lFVlI2QzN5RGY5VTNIUjdrTF9FM2w2a2c0ZXRLa0dvcWhrSTRRQ3hBT2RFMVdUSWFR?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-construction-94c283ec197c441c",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "무역적자 돌파구는 '서비스 수출'… 12년째 국회서 잠든 서비스발전기본법 어쩌나",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "무역적자 돌파구는 '서비스 수출'… 12년째 국회서 잠든 서비스발전기본법 어쩌나",
+    "source": "비즈한국",
+    "publishedAt": "2023-03-03T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aOW1DY3JETVZMY0JCT2Y5UWFIMUFFM1ZSSEpjQ0RlM2MtbmM0WDhURU1YNm1fajVCbDlTU0J0Zm5oMkVucENjMDg3ZEdmcWw2dzFzZw?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-company-car-4a45cdf29198b131",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "\"소기업, 업무용승용차 행정비용 부담 덜어줘야\"",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "\"소기업, 업무용승용차 행정비용 부담 덜어줘야\"",
+    "source": "에너지타임뉴스",
+    "publishedAt": "2018-11-28T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zS3hNNTVkRkZXREZvOWt6dHNMZ1NlU0JJcmlFaDIwTjA2Vl9jaUpnMS1QXzhVd1BtN2JuYVR5bWlyNUZhaG43bW9kejFGNF9EWGZvT0lRQzRkS2dhRk9teTZKMC1PUENwV09qc1JYSk4?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-667e6786ad263c97",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "손금불산입 항목의 조정-지급이자의 손금불산입 > 법인세",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "손금불산입 항목의 조정-지급이자의 손금불산입 > 법인세",
+    "source": "조세일보",
+    "publishedAt": "2026-11-05T18:54:10+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDREdVpzYVhXWmVXZk5YYnI4V1QweXI5eUdvdzh4N1RkV3lvZmRicTJZTHRFOTNIN3plRzVIZlY3MnJHMEE2Z1ZZZGNaOUgwdFlFckJQcHp4U3JNb0ZnY3QzOTRkd0dsYnNjSkxVaVg1Y2RYVGozUEd5RjIyU0xHOFNVZVBnTlNFZDM1QXlheENmclpXcDJVNTU4X1BDYU0?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-7a97462c3a290deb",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "한국금융지주, 환손실에 실적 급감…배당수익률 7.5%는 주목",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "한국금융지주, 환손실에 실적 급감…배당수익률 7.5%는 주목",
+    "source": "파이낸셜포스트",
+    "publishedAt": "2026-11-06T08:47:06+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tTDRtUUZWZ2Q0cmZhZ1ZyS1A2UGtxOTA3Z2Q4U1R1RmZUTkZYWXRqLXFNS24xU1h2bnZlTVdHckYxTGtHc3VtaEQxSHNVTFlKOTk2aFlwMExoQkxjNGFGbFhFaF9YSkRxWGlOYklORUd5cnB2?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-a3b78faa8e1daf88",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "아이온큐, 스카이워터 인수에 현금·투자자산 12억 9690만 달러 감소…파운드리 부문 영업손실 4991만 달러",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-11-06T11:18:42+09:00",
+    "plainSummary": "아이온큐, 스카이워터 인수에 현금·투자자산 12억 9690만 달러 감소…파운드리 부문 영업손실 4991만 달러",
+    "source": "데이터투자",
+    "publishedAt": "2026-11-06T06:54:04+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QYXFRMmJLd0JSNTFRMjg5NGZtRE9DRUN5ekRBUGhsMHFPQVhUYUVNTlctQVVteWV0dC1kajJtTUI0ejZ5MFFldE1vQnBGd1BsU2FuUklCTmo2eDN0V3lOM3J2Y0twa1ZnMGk5VC01djJqb3M?oc=5",
     "tags": [
       "전체"
     ]
