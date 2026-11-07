@@ -1,230 +1,5 @@
 [
   {
-    "id": "news-tax-law-revision-e95b4b7148c6e082",
-    "type": "news",
-    "topicId": "news-tax-law-revision",
-    "label": "(보도설명) '26년 세법개정안의 구체적인 내용은 결정된 바가 없습니다.",
-    "topic": "세법개정안 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "(보도설명) '26년 세법개정안의 구체적인 내용은 결정된 바가 없습니다.",
-    "source": "대한민국 정책브리핑",
-    "publishedAt": "2026-07-06T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56NThoNXEtUkd6dW1lVUh1M1ZyQ1FGNWxMbWkyVndxUlE1VzdJSWpqWDNtSFE2aTFOZDJlUE82RjdoRmwwMG9ZQ0Vfd1hHNkhzSVlONkU0N25KdGdjRGRiWDZ1Nmt6dDYybUYxSEFCZw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-ctpa-revision-47a6fae8972b9304",
-    "type": "news",
-    "topicId": "news-ctpa-revision",
-    "label": "경차 유류세 환급 2029년까지 연장 추진…연간 최대 30만원 혜택 유지",
-    "topic": "조세특례제한법 개정 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "경차 유류세 환급 2029년까지 연장 추진…연간 최대 30만원 혜택 유지",
-    "source": "에너지데일리",
-    "publishedAt": "2026-09-07T17:00:15+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Q0VDaThiNjVjRjZ1NFpraG5yMjJneFlJNlJaSUVYeGtPdWRBMXE4aFB0Um1PRzVLYlcxYU9sMHg3aFZQelFUdS1MaVNJS1lXUnNyWGxPSVhaY054dFg1aUNGRHFmUjE4WUpuTHNpNUxCUQ?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-corp-tax-revision-e236bf3fd48302b1",
-    "type": "news",
-    "topicId": "news-corp-tax-revision",
-    "label": "2025년 세제개편 후속 시행령 개정안 주요내용 안내",
-    "topic": "법인세법 개정 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "2025년 세제개편 후속 시행령 개정안 주요내용 안내",
-    "source": "Lexology",
-    "publishedAt": "2026-01-19T17:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTZablFNamlxQkhrejNFeDdUdEtZWlpiY0VLNTljRGJrejR5LU9DSHRuMEF4WG9VSWRPM1RfS0JVS2JVOV9XWlpCTzNiMHBINVc1ZVdTMF9RTUFLdjhRamxaNTBpMGdqMWlzTGxMdTAzS0J2bXQzT2pMY1FoSnVLb2pVRGFoUi1kYnJV?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-invest-credit-f37a051500f7ca69",
-    "type": "news",
-    "topicId": "news-invest-credit",
-    "label": "시설투자·R&D 세액공제 내년 27조…“더 정교한 공제 기준 마련해야”",
-    "topic": "통합투자세액공제 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "시설투자·R&D 세액공제 내년 27조…“더 정교한 공제 기준 마련해야”",
-    "source": "서울경제",
-    "publishedAt": "2026-09-07T17:46:55+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14dFpuWlQySzgtcXdQTnA3a2tpdU9PeFA5Y2ZqUGEwUUlfa3RiQ2VhTjRqNzJ1cVJjWUZTbFdQMUNuQ2o1bTRodS1NTF9rY0ZIUEl30gFTQVVfeXFMTXh0Wm5aVDJLOC1xd1BOcDdra2l1T094UDljZmpQYTBRSV9rdGJDZWFONGo3MnVxUmNZRlNsV1AxQ25DajVtNGh1LU1MX2tjRkhQSXc?oc=5",
-    "tags": [
-      "통합투자세액공제"
-    ]
-  },
-  {
-    "id": "news-invest-credit-c2fb27cbdb52f876",
-    "type": "news",
-    "topicId": "news-invest-credit",
-    "label": "내년 법인세 감면 77% 폭증…대기업 세제 혜택 ‘쏠림’ 우려 커진다",
-    "topic": "통합투자세액공제 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "내년 법인세 감면 77% 폭증…대기업 세제 혜택 ‘쏠림’ 우려 커진다",
-    "source": "한겨레",
-    "publishedAt": "2026-09-07T19:12:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpSDFqY0xXSS0xa2k2clczbEZMb3BkM1B5d3BJZW1WYzA2c1RBdW54MmVhWkIxOHlIb1Zlb3l5M2kwVmY5d0tVcFJpUElKWTlfbFhNazBXcTY5VUs3R2ZsblUyTzMxQnFUU3JqNTZ5SDZVdw?oc=5",
-    "tags": [
-      "통합투자세액공제"
-    ]
-  },
-  {
-    "id": "news-invest-credit-ea3145b5615eaba1",
-    "type": "news",
-    "topicId": "news-invest-credit",
-    "label": "상위 대기업 세제혜택 82%↑…기업 총감면 증가분의 71%",
-    "topic": "통합투자세액공제 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "상위 대기업 세제혜택 82%↑…기업 총감면 증가분의 71%",
-    "source": "매일경제 마켓",
-    "publishedAt": "2026-08-23T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sNTVuMkxUQ2pKMkw1cjdwVC1mUW91WUJ6S3d4TVlWYktXVXhhZXBCYVh5VlVyYUdYQzRkTFZKeFBQTVd2d1dVbGRtR0tyZkRQU3c?oc=5",
-    "tags": [
-      "통합투자세액공제"
-    ]
-  },
-  {
-    "id": "news-rnd-credit-5efd8469fdbfb65d",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "시설투자·R&D 세액공제 내년 27조…“더 정교한 공제 기준 마련해야”",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "시설투자·R&D 세액공제 내년 27조…“더 정교한 공제 기준 마련해야”",
-    "source": "서울경제",
-    "publishedAt": "2026-09-07T17:46:55+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kVlUxWE9kZE9xMVp4VXpfeU9RSzZsT1RCSV8tSHl2Y1RhR1ZOUFMwQkw3eGY2X1UwZ2k0M0M5OW8xX21pNVBYZWYtbXZNWVdvZEHSAVNBVV95cUxNeHRablpUMks4LXF3UE5wN2traXVPT3hQOWNmalBhMFFJX2t0YkNlYU40ajcydXFSY1lGU2xXUDFDbkNqNW00aHUtTUxfa2NGSFBJdw?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
-    "id": "news-rnd-credit-14c0019a67e49404",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "中企 R&D 경고등…3년 새 연구소 5500개 줄었다",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "中企 R&D 경고등…3년 새 연구소 5500개 줄었다",
-    "source": "전자신문",
-    "publishedAt": "2026-06-18T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5adGNXem9mUzhFN1RYMXg0LWZKc3lxQ0J2cFRhSWlKaVFjckxIQTRodGZwejdSaVdlYlV4bkZKOXkwN1pERHdPV0hMT1p0QQ?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
-    "id": "news-sme-credit-af1edb2cfc755bae",
-    "type": "news",
-    "topicId": "news-sme-credit",
-    "label": "金부총리 \"中企특별세액감면 가능한 축소…세율인하 연결\"",
-    "topic": "중소기업 특별세액감면 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "金부총리 \"中企특별세액감면 가능한 축소…세율인하 연결\"",
-    "source": "조세일보",
-    "publishedAt": "2026-09-06T07:45:23+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxbWItR1dyRjBaVU9OZVdlbnVqLUM5eDZXTUNGSDlsV0ZpbXB1d2Z3SUNlckZDcEE5LVllNUJtQS1NQ3RsbV8wUDJYMnVwTm1RQ21wNG1oSkdDUFBwbkE?oc=5",
-    "tags": [
-      "중소기업특별세액감면"
-    ]
-  },
-  {
-    "id": "news-foreign-credit-675e72f3497e308c",
-    "type": "news",
-    "topicId": "news-foreign-credit",
-    "label": "대법 “특정국가 결손금, 다른 나라 소득에도 나눠 반영”",
-    "topic": "외국납부세액공제 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "대법 “특정국가 결손금, 다른 나라 소득에도 나눠 반영”",
-    "source": "dnews.co.kr",
-    "publishedAt": "2026-08-10T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByVTZXNzZaUWVGZ0VPdmRfUkRrZW5zem16eW1NWXNMTFp3SGdZZW9jekZIeEFZOWxrcTFJVjMxLWV3VFBVcWVyei1MRG4tS1J1MGR6NzZTbFJ3eHkta3NEQWFRY2N4N1I5MnI3c2hSSFhYVkk?oc=5",
-    "tags": [
-      "외국납부세액공제"
-    ]
-  },
-  {
-    "id": "news-construction-3c3db15e87c88bd4",
-    "type": "news",
-    "topicId": "news-construction",
-    "label": "“미분양 주택 세제 지원·규제 완화를”… 위기의 건설업 ‘SOS’",
-    "topic": "건설업 세제 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "“미분양 주택 세제 지원·규제 완화를”… 위기의 건설업 ‘SOS’",
-    "source": "세계일보",
-    "publishedAt": "2025-05-02T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EQ01MRnZLbzJEMFAyQzR5MVlILW5FZEFMSEp0bk1QRXFaYmtXTkNBdEc5TThBYjhYOVlyd251STdEaTlCRzRhOU5HbFEtY01LM2lkX281OTHSAVRBVV95cUxOTkV1M2RWcmk1V0NrUm9HM0NSaGZMcTk5QzdJVThfbmlPQU83b1BXNk9hZkFvNm85eUlxZk9IR0l0TEpDenJXNllOdmJLU2lBSjJVSDE?oc=5",
-    "tags": [
-      "construction"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-0bb04405e22c1a95",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "정부도 못 지킨 장애인 의무고용…공무원 부문 부담금 4년 새 3.3배",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "정부도 못 지킨 장애인 의무고용…공무원 부문 부담금 4년 새 3.3배",
-    "source": "v.daum.net",
-    "publishedAt": "2026-09-04T12:47:11+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82ZXJqcGdJcGlyeHNtcVZ1bXJ6TGxkVmZROHd0UlhlTHhvZjJNc2gycUhJNE5ITTVtNk84b3VBdTUwdVVDSjBoSHI5QkZtdjFLWVZXMA?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-933d20956fa27f02",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "장애인도 지역사회 일원 “함께 노동하며 살아가야”",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "장애인도 지역사회 일원 “함께 노동하며 살아가야”",
-    "source": "충남인터넷뉴스",
-    "publishedAt": "2026-09-07T09:32:33+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAteUZ6ZFNZamxuNU5xUElDUWY1c3hUX3BnS0pZWjVqeExEcmlZQlhuQTVQcjU3dHR6MTdyMmpPUERSdzQtUUZSbmpybjB2amc2MU9kenRoMG1tZkY0cTRXcTJBM1NKVjBQSlE?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-ee71c45623ed439a",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "5년간 국내 항공사 장애인 고용부담금 437억원‥대한항공 1위",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "5년간 국내 항공사 장애인 고용부담금 437억원‥대한항공 1위",
-    "source": "에이블뉴스",
-    "publishedAt": "2026-09-04T17:38:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByR0lXSHBGbkpUQlJCSkZ4cGJXTktHa1JGMlRuaGxROHp6eUlPSVZoeWt2c2pZU2xYM1hWZDdNLTNfQU9oekQwT2k3QTBNelk2RVBJbGJvX1JWeUhHVFE3WGZ6dEdmUUtlS1pKemtR0gFyQVVfeXFMTV8wMDBzSFdKR29sbjlFbU1ZWjRGUG5kV1NnMmZDdEd0c2ZzbGRvOG9ZN2ctM0ZrcWxKRVY4azg2b0VnNjcxU1F2RGNNVk81UjhXNE9haUZQZ25DZjZTOF8zREE4SmF6dkRRNWpPSHVCUXln?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-depreciation-8f386743602e4b3b",
-    "type": "news",
-    "topicId": "news-depreciation",
-    "label": "[IB토마토]에쓰오일, 샤힌 상업가동 임박…1조원대 상각비 버틸까",
-    "topic": "감가상각비 뉴스",
-    "detectedAt": "2026-09-08T09:23:37+09:00",
-    "plainSummary": "[IB토마토]에쓰오일, 샤힌 상업가동 임박…1조원대 상각비 버틸까",
-    "source": "뉴스토마토",
-    "publishedAt": "2026-09-08T07:30:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FSmRQYXJwU2V6cTQzSkxfN3Rhd0kzMVVQVFhiYTdIZnQ3UTM2aDdhZnhFdWpzMkMyX0ctMjZpU2VMWDZXSWZfaE5QeVBucWVoMi1ueTdWR1o3RTY2eHZOdg?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
     "id": "news-ctpa-revision-59dfe9563a122566",
     "type": "news",
     "topicId": "news-ctpa-revision",
@@ -15754,6 +15529,187 @@
     "source": "데이터투자",
     "publishedAt": "2026-11-06T06:54:04+09:00",
     "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QYXFRMmJLd0JSNTFRMjg5NGZtRE9DRUN5ekRBUGhsMHFPQVhUYUVNTlctQVVteWV0dC1kajJtTUI0ejZ5MFFldE1vQnBGd1BsU2FuUklCTmo2eDN0V3lOM3J2Y0twa1ZnMGk5VC01djJqb3M?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-e3263c85d9e2ce23",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "국회 예산정책처, 9일 ‘2026년 세법개정안 토론회’ 개최",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "국회 예산정책처, 9일 ‘2026년 세법개정안 토론회’ 개최",
+    "source": "위키리크스한국",
+    "publishedAt": "2026-11-06T12:25:04+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHVm1IeTZrc0NYZTluU2tjakR2d2Z4WEFrRzRtVzg1bnVkNlNKRTZobnhlV1BCY1VDc1ZSMDkwU0JXRWJUUGpYRFNUN01zYWM2dC1VVGdFbTB5Mk4zQjlHMklBRDYyNFU3MGNZZlE3Qzc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-bcde64a62826199f",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "정부 세법개정안, 세수 얼마나 바뀌나…국회서 여야·전문가 토론:동아경제신문 & daenews.co.kr",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "정부 세법개정안, 세수 얼마나 바뀌나…국회서 여야·전문가 토론:동아경제신문 & daenews.co.kr",
+    "source": "동아경제",
+    "publishedAt": "2026-11-06T12:07:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FcWU2RXNFenNRUnYyVUVzdFVjZHdvWGJhbEw2c2VWc0NmaWh2RHV5T29iRUlyVGtseHMyRHkxRlN3RG84QlHSAWJBVV95cUxNc2phRE9Fem1ZUUdTTndwOTlpNlBXNGpwVW1MTEhDeFhiR1hpNWVFU3pkVzFaUEh2UTNSLVJxSjhXdHBHTXNGRGF4TkZTVnVSc2pGSVBSeG9ZeERnNnd5QlBSUQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-1c14f745f856f60b",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "「2026년 세법개정안 토론회」 개최",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "「2026년 세법개정안 토론회」 개최",
+    "source": "시사코리아",
+    "publishedAt": "2026-11-06T10:55:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NMWg1ZXJRdW1wcEl1MkJuMkZXVlZENGtjU3M0TEptTXJlRTRvTUhnSDJCSzR1MEFQTldwTzhwaGZEWkh2eEE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-cc4fc801deb0845f",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "인천시-전국 광역지자체, 친환경 버스 부가세 면제 유지 공동 대응",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "인천시-전국 광역지자체, 친환경 버스 부가세 면제 유지 공동 대응",
+    "source": "미디어인천신문",
+    "publishedAt": "2026-11-05T11:37:24+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CRmFHYWtoSDFqNFV4Q3pTLUdkdEN5MzFiTFp6MjVBX0Yxelpma09faDhRbXhpdkk4eXVRcHphQ3pSY1J1cG9OdW00R3lkSFN0R3ZaLVR0eU14NEVXbDR6d1haNkw1WUpOdUhJ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-91c3c2fbb9042f8b",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "16개 지자체, 정부에 친환경 버스 부가세 면제 유지 촉구",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "16개 지자체, 정부에 친환경 버스 부가세 면제 유지 촉구",
+    "source": "뉴시스",
+    "publishedAt": "2026-11-05T11:15:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXWUxteUFsbVFOTG1qS0piX0twSkRzZTFYNXJMUzJBbzBYSjdoWmJ1UjRiLVRzMVdRd2EzWWh3dUExNlpnbGpzSXRNU1l6TXBDUUc5cndPT19HbGRPTEhsWNIBeEFVX3lxTFBiTmZCQXRDMTQxZFN3Rk1XTGxOa3k3MDB2MkhJVmRyMzNBZkY2SzR6VmJIdFJCUDAzU2hrVzBNeTl4b1B1MnlNSlh6SllHdzF0VjgtVzVsZWF4T3RRTm1keThUTzl0Q0lpSFVxTDhTSk5WVHlRU0d6dg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-employ-credit-0418eec7f8cbe161",
+    "type": "news",
+    "topicId": "news-employ-credit",
+    "label": "약국 직원 고용만 잘 해도 세금공제 혜택 '쏠쏠'",
+    "topic": "고용 관련 세액공제 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "약국 직원 고용만 잘 해도 세금공제 혜택 '쏠쏠'",
+    "source": "데일리팜",
+    "publishedAt": "2026-01-19T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyQmxKemZCY0JHOHdHVUY5ckxqVjRxalFJNkV0SHVsXy02RFduSVNrdWZGM1AwbGFXRWNFUVZuSlFOWlU1TzhxZW5qX1A0OGtWUzJzSkJR?oc=5",
+    "tags": [
+      "고용증대세액공제",
+      "통합고용세액공제"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-be6df1e7d101c2a0",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "\"미국령 괌·사이판, 법인세 공제 때 미국과 별개 국가로 봐야\"",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "\"미국령 괌·사이판, 법인세 공제 때 미국과 별개 국가로 봐야\"",
+    "source": "법치뉴스",
+    "publishedAt": "2026-11-07T09:10:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPNnphOHdXbUMxMHYwZUFrSS03M2hpWDRSTEtuUXd6eUt2R2dJRDFYTldoVk15azhDQXFFdnNSemY0RU81TTVMVnUyaDA1WWtjNGtjeEpsTjVUeTlyR3J2QjZoa3E?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-exporter-82e7f54f0731552b",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "[인터뷰] “K리커머스 수출 전략산업 육성 위한 세제 지원·진흥법 제정 필요”",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "[인터뷰] “K리커머스 수출 전략산업 육성 위한 세제 지원·진흥법 제정 필요”",
+    "source": "에너지경제신문",
+    "publishedAt": "2025-11-10T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wSmlLOHlobmRfZjFxUjlPN0NwMk1uWWFEbjBza1MtMHczLThMZ2oybmJIdG9KMkJIcDFRTF9PdldILUNoc1JuME9ZcDM3XzlLTEpDSmxfUjRfcUU?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-54fd419fedf00b3d",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "[장애인 고용부담금 1조원 눈앞] ① 의무고용제 시행 35년…부담금만 늘어",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "[장애인 고용부담금 1조원 눈앞] ① 의무고용제 시행 35년…부담금만 늘어",
+    "source": "대한경제",
+    "publishedAt": "2026-04-16T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBySElDWGhVazhPdzdYM3c0Q3FiYm1QNmxfZ1ZBN1AwZHFiQnN2Z0U3YkQ3RDd2blVINU9HalBWX3NOV0F6WDRmLXdfSWw5cXZwRkN4Sm5tR1JBYmZPM3Q2V0NiYklYOTRiNDFuNWUxdTU5YnlO?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-ca4bc99def7b7b2a",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "[SMM 분석] 코발트 3분기 실적: 재고자산 평가손실로 정련업체 압박, 하이니켈 성장과 LCO 감산 속",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "[SMM 분석] 코발트 3분기 실적: 재고자산 평가손실로 정련업체 압박, 하이니켈 성장과 LCO 감산 속",
+    "source": "Shanghai Metals Market",
+    "publishedAt": "2026-11-04T17:50:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPLS1WcmQyOXVTb0xmTzlxMlI4NEI0aHFaU0FMc3d1T29nTnVDOHVSSm5wWDBBR0p0SE02alNEVDNkTU1tM09sM2xrSnRTakc1NU5YNkhKV2h5R0dxdVpiM29tNVVpZDhqQUtKUmQwYnZvbTNaYzBRSk9vOXZZbDd4YkdiS1VYalZNcXFUSDZmRDR2aUZmdWVkMlFwVm95T2Z5TGgxN2Q2UUxGSy10SWQyRnRVdmU2QUhpR2JQNmJqWmYxZ2xFS0xUVEt0dTdXam5fQlNUaXRlNnhuSVdVdGttc3I2dDMxTjBqZml3TEZQUzQxaVdHSGtnbHd0dzZ5SmxQYUI1MHF2Rk5OTnRHazlZZVpPaHRjYllYSmR3Y0Nob3hCX01GbXIwNUdEOXk5MFhiMWFfb1pFVG54R0Z1RlNyM01YVFpWS2xjZ05wQjJhOFkyN3NPY1RuVWRia1M1M0ZkRnZReHNLX0tKUnZGWnVRenhWQ3JBWFdMT2hkWEp4Y0lEbnRwVGVlTEVUdkRQaU15eTFpSGJlVnlWTnBERldHTEVHTGplLTFzUTBHV0QzT0I2akM5bjhCVnVocmpjd0RVRUI3NHY4Q0ZOMTB3SWUwZEVQa3JyWmQ0T21qZHE1MjVXNkk1ZW9KeFFQQ0NGWWlzX2J1bEEtMGZSSmhOMzNLMmNBaHFybGNwZHNoNG1mSQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-231beb1dd22a7bb2",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "무학, 본업보다 큰 금융자산…평가손실 193억에 실적 흔들",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "무학, 본업보다 큰 금융자산…평가손실 193억에 실적 흔들",
+    "source": "IB토마토",
+    "publishedAt": "2026-08-18T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BYXFXMEZsZGdIbnVzNU5JNW9WV2dHNGRfSkpoRnJBWXFNT3R4TmR2SWxSWS1UVjJlaXl0Y252TndoeGNESTRuamYyRDBYRGljZUg1b0l6bnhXSlQ2YzlkNkhmblRnMWV1bFE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-3a2e7c83711f3a31",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "\"2천만 원대로 이걸 산다니\"... 4,000만 원 이상 감가된 패밀리 SUV에 ‘열광’",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-11-07T10:54:43+09:00",
+    "plainSummary": "\"2천만 원대로 이걸 산다니\"... 4,000만 원 이상 감가된 패밀리 SUV에 ‘열광’",
+    "source": "토픽트리",
+    "publishedAt": "2026-11-07T04:17:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnZzYXBoWjFFc0YxcmNnX1RqeGR5MldaR2dnUnVybmJRTGlYSno3d25GalEtS09Kc1Nhcm9aOUQ3b2stU0pBMUtKbFdRMXZVSjM4MHF2WHV5UDI2SU0zOTFXWGVNQS1rYllqRy1JdmF0eFVvS3lCOWRzNEVhQWNTTdIBiAFBVV95cUxPY0ZXXzZiMVFSMHlXSmgwZTJySVo5cjA2SG9FSEdwU0xBLWV2eFpKdVFTTEVXdUxjdTltT2IyWjVzTXJfM1JYZExoRFdwMzRWLTNtT2ZmLTRsdlhhVF9wLW5Kb0k0REt3OS1KTm4wdHhJcWFNZUZFcnZRMXJrMk9WNWJJa19rX1Yy?oc=5",
     "tags": [
       "전체"
     ]
