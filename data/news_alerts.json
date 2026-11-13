@@ -1,185 +1,5 @@
 [
   {
-    "id": "news-ctpa-revision-774e107802e70b91",
-    "type": "news",
-    "topicId": "news-ctpa-revision",
-    "label": "복기왕 의원, ‘반도체 실증 지원을 위한 출연재산 증여세 한시적 면제’ 조세특례제한법 개정안 발의",
-    "topic": "조세특례제한법 개정 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "복기왕 의원, ‘반도체 실증 지원을 위한 출연재산 증여세 한시적 면제’ 조세특례제한법 개정안 발의",
-    "source": "아산데스크",
-    "publishedAt": "2026-09-06T11:03:38+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDM2ppSkd2aXZ2S2V3Y1JHVEVOMnlicC01TDVTWDNtQWdxODVyWXpoN2xncTdoWWMtb2FTRDE2d2JSbDVsMUVfYVZuM2EtVUdaTWxMVkVrYl80Q1B1aEh4R3JUbi1yYVo2ekJN?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-corp-tax-revision-3a24dfc66a503ab6",
-    "type": "news",
-    "topicId": "news-corp-tax-revision",
-    "label": "해외선교비 증여세 과세 위기에 대응 방안 모색",
-    "topic": "법인세법 개정 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "해외선교비 증여세 과세 위기에 대응 방안 모색",
-    "source": "christiandaily.co.kr",
-    "publishedAt": "2026-09-08T20:32:57+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xZkJCTzg2a28zcmN0TGtKWEFWOFcwcF9SbG81UC05dkp0X1pJeDhnRGtTQWdjNFo3MFB5T0FlTkpQTmxReEpjWl9rWHE2ZDNod3BJTE5QY9IBXEFVX3lxTFB4am9MaGNkdGNXWC1kVjBMWXZ0bS11YlR6SDkybi1rd09iWmZCZVBNeW5rSDRvUDhZNlB3ZF9fS0N0R01HZXR3SDYyVXM5QTVJX2hPSE4tR0I2cThp?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-invest-credit-dede771311f42758",
-    "type": "news",
-    "topicId": "news-invest-credit",
-    "label": "[AI프리즘] 국가전략기술 투자 45.9조인데…AIDC 심의 통과 '0건'",
-    "topic": "통합투자세액공제 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "[AI프리즘] 국가전략기술 투자 45.9조인데…AIDC 심의 통과 '0건'",
-    "source": "yna.co.kr",
-    "publishedAt": "2026-09-11T06:30:03+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5OU1JTGthams2cDY2ck5sZWV0U0hxMWViSnNNTmhYeDlTbHBUejhfTUNkaXpyeTFqN0dHRFZUV3EyMHEwMFBJTlQweWJnVkRPanI3RVc2SWwxOTTSAWBBVV95cUxQcDJkTDZqTVBBOEhXdWozUjAzbmtySllKOWRxUXRWZGlSQi1xdXhkNWFUVjFHMnpnZURRSkVPdTh3YVIycEFqenJaWThBY1ZGNHdrVThkTXVMRnlsRW13VEU?oc=5",
-    "tags": [
-      "통합투자세액공제"
-    ]
-  },
-  {
-    "id": "news-invest-credit-6fa7f117d997a89e",
-    "type": "news",
-    "topicId": "news-invest-credit",
-    "label": "[산업계 이중고] 안에서는 파업, 밖에서는 세제 감면 축소…재계 “국내생산세액공제 확대해야”",
-    "topic": "통합투자세액공제 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "[산업계 이중고] 안에서는 파업, 밖에서는 세제 감면 축소…재계 “국내생산세액공제 확대해야”",
-    "source": "대한경제",
-    "publishedAt": "2026-09-11T06:00:52+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5INzZtemV3R1FTSDBINVpXbzZvdkRpMzhjcHp4WWJ1Yi1URmQ4cWRROW4wU0RFNldaWC1abWZiMVc1Y1NrcFF4NDhjdUNaS1ZzckZBaURvcWdQN2EtdlgzLVB1QVc4MXN4YWl6NXpyMm5mRFk?oc=5",
-    "tags": [
-      "통합투자세액공제"
-    ]
-  },
-  {
-    "id": "news-rnd-credit-2393c8c629173195",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "한경협 “국내생산 세액공제, 수출도 포함해야…미래차·SMR 확대”",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "한경협 “국내생산 세액공제, 수출도 포함해야…미래차·SMR 확대”",
-    "source": "v.daum.net",
-    "publishedAt": "2026-09-10T08:37:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SVlgxdFQwXzJ0QU04S2JOSy0zR2FrSjFXMXh5U09PS240dW9vNW5DWVNCWHZjWjNtYkFGeUtYUEJhMmJ3b3JwR1VFWQ?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-317203e38cf2687f",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "법무부 산하 기관, 장애인 고용 미달로 부담금 수천만 원씩 납부",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "법무부 산하 기관, 장애인 고용 미달로 부담금 수천만 원씩 납부",
-    "source": "v.daum.net",
-    "publishedAt": "2026-09-13T06:31:53+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1naUc2eVpiUExJZlp5SEhuLVFFRGRhaTBrTDUyUjNydVo4ckw3SEFpWnRVOFJUZHkySExrVzM1b3lnbWhRblE?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-a35ad86186d805a6",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "감사원 “장애인고용부담금, 법인세 손금 산입 대상”",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "감사원 “장애인고용부담금, 법인세 손금 산입 대상”",
-    "source": "세무사신문",
-    "publishedAt": "2026-09-09T09:23:04+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwNGlBMUFmQ2lkOHBhejlSc0tjRlhFTGtteW1YVFh1S015N21ocFRBYVdYRGg0SEdQV202T0cxVDUzaHQtalpqY2c2V0V2Z0lGVWY2V3FYZTZDcGJzMkdMTVFsMGZLTXJmNmtCLS1n?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-1ed66853bb946f74",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "감사원 \"장애인고용부담금, 법인세 손금 산입 대상\"…525건 인용",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "감사원 \"장애인고용부담금, 법인세 손금 산입 대상\"…525건 인용",
-    "source": "v.daum.net",
-    "publishedAt": "2026-09-08T15:22:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92c0UwX3VKNy1HN2JMc1V6TVU0Q2xqb1FELUhYU3UyMExQcWxBX2dUZk52Tm90cXFhRjgtUWlGUEF2NG1yX3c?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-asset-loss-a229de59bbca7cae",
-    "type": "news",
-    "topicId": "news-asset-loss",
-    "label": "이수앱지스, 재고 손실 털었지만 320억 재고 부담 남았다",
-    "topic": "자산평가손실 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "이수앱지스, 재고 손실 털었지만 320억 재고 부담 남았다",
-    "source": "ibtomato.com",
-    "publishedAt": "2026-03-18T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyMVVXSzV0UXpYTnJpaVB3cU1JYkpQYnJPQjlINWFQYVJ2VmNDd3Vyd3gwRFRlRncxeEp4QXg5RDBHY3NiUno3SkNOLWw2X0sxbXdUN1BDTjhiUWdSVDljeWxreGJTWVMxRGc?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-depreciation-36b66a4aa1278190",
-    "type": "news",
-    "topicId": "news-depreciation",
-    "label": "[SK하이닉스, 호황의 조건⑥] 감가상각 전에도 손상… 공장 멈출 기준은 따로 있다",
-    "topic": "감가상각비 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "[SK하이닉스, 호황의 조건⑥] 감가상각 전에도 손상… 공장 멈출 기준은 따로 있다",
-    "source": "뉴스로드",
-    "publishedAt": "2026-09-11T07:14:53+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WMGdEV2dicDZjSDAzcjhmb29xTnRPZTB3cFVRVmNIWlRtQjFSemdVaUtZcFdBLVQ5MFh6bUtQX1dGOGZ0dmtqNHJ5WURHcXdXcHZJejBfdFZwbDVhQmplMmktUm45YkYxclVB0gFvQVVfeXFMTzNLM0lwMGVYVzVmTkVvZ01PWkNSdDdyVGdQUnY0RVp1Q3UxTnNNakFmNVBQSzIxRUg0NkE3WjRWa3BHUVNLOU05V2ltbElfMi11SVFxMTltS1g1SEJvdWo4aEV2RjIxOEhESUJ1Ukpn?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-depreciation-b8426f5a629f63af",
-    "type": "news",
-    "topicId": "news-depreciation",
-    "label": "\"2억 → 4천만 원대로 뚝\"... ‘1억 6천’ 감가로 아빠들의 관심을 사로잡은 프미미엄 SUV",
-    "topic": "감가상각비 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "\"2억 → 4천만 원대로 뚝\"... ‘1억 6천’ 감가로 아빠들의 관심을 사로잡은 프미미엄 SUV",
-    "source": "토픽트리",
-    "publishedAt": "2026-09-14T05:33:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4WlNjUldZeS02N19LWkg5MlI4SnBaUmdSZXRYY2poazR0aXRnc1o5QmxoenRmNmNPbWdRT1NGdVBsd3BuT1h0cFZPZmZweXI1TU9ramVEWl91di1qX3FRckdiMzZhNElxbGFISFJFamhNZGRYUFNmZHNsbWprd9IBhgFBVV95cUxQT1NQZ2Y3RGlLNnVmcmliaXNjM0FMWnRESGxvNDdPOXR3bWpwZ3AzcU03cUc0dVlDeXlpaVRYSUpFQWN6WV9PMmhBMThjakdWRmpFMzBWVWEyVDBKdEhjTVZVNnpoYVc2TnRQRzRybE5HY3JObWE0MExuOGZ3YXltMm10U242dw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-wrongful-calc-90ad9d2cd3a2ad7d",
-    "type": "news",
-    "topicId": "news-wrongful-calc",
-    "label": "[판세] 부당행위계산의 유형 규정한 구 법인세법 시행령 ‘무수익 자산’의 의미",
-    "topic": "부당행위계산부인 뉴스",
-    "detectedAt": "2026-09-14T09:13:13+09:00",
-    "plainSummary": "[판세] 부당행위계산의 유형 규정한 구 법인세법 시행령 ‘무수익 자산’의 의미",
-    "source": "sejungilbo.com",
-    "publishedAt": "2026-09-14T07:04:28+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yR240YmtLQmFRUzNBbE5hUE95bEdYQ1d0R1FfQ3p1MFVBLTY3Q2ZLOXl5QlZtLUpRSXcxZE01R19HRnpXdXVadk56dDBPU2ZBWmpVeDlFLWxDQ1V3Szc1ejVDZmJCdlV3R0lZRw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
     "id": "news-tax-law-revision-ff626d560040f8ef",
     "type": "news",
     "topicId": "news-tax-law-revision",
@@ -15410,6 +15230,442 @@
     "source": "한국세정신문",
     "publishedAt": "2014-10-23T16:00:00+09:00",
     "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1icGF4OUdGbFRvRS00T2U5M05QM3QwQkVZVUd5MGZkajVXZzZfRGtUaXpVU1MwOXhJaGJBT05XUngweVMzZTBDcUVOT0NOQWVGeThiTzRYN0tzZnV2SnNWM3J4b04?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-e098ac6f7afe8e50",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "'월급방위대 TF' 첫 회의, 세법개정안 과제 우선 논의",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "'월급방위대 TF' 첫 회의, 세법개정안 과제 우선 논의",
+    "source": "조세일보",
+    "publishedAt": "2026-11-13T09:55:47+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vRW85UkNmSFBkT2ZDeHhfUUwtOGtJSHBacWpRNjhBb19PU3dKQW9ScnZWR0NSMHJxX3FDOVRSLXpPSE9sVFZLLVJRdHdVUDZjeEwwTUU4Y2gwNVFxa0JOcXVvMW9pdG9CQmV0OGVMWQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-951f06db3b422b41",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "與 세법 개정안 자중지란… 표만 좇다 엉망 되는 정책들[사설]",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "與 세법 개정안 자중지란… 표만 좇다 엉망 되는 정책들[사설]",
+    "source": "문화일보",
+    "publishedAt": "2026-11-11T11:58:51+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OOE51SWlHWFdYMXR6S2lmU2N6SklXQTJwNzNtem50TFR0TTRHVFBHc1VSQXdJY2xET1lSMGRlOHgyck1rc3NWbGRZNEdkVVo1?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-0424e53506791ce9",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "김승원 의원, '조세특례제한법' 개정안 대표 발의",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "김승원 의원, '조세특례제한법' 개정안 대표 발의",
+    "source": "글로벌뉴스통신GNA",
+    "publishedAt": "2026-08-27T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12OUl0NDljdm9uYi1vU3VBNXpkVkplc0xGNUZwYnZZOThWZWVPLUtmSzlWUFlQVFF3SThNNFFVdzNLU1kxUnc2bTlrQ1hTTEZUMnUyZzZUVlYycHhJb045ZkxXZzN4dzBHTktSblBMTEJaMThU?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-ba098337a8b45220",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "인천시, 전국 광역자치단체와 친환경 버스 부가세 면제 유지 공동 대응 나서",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "인천시, 전국 광역자치단체와 친환경 버스 부가세 면제 유지 공동 대응 나서",
+    "source": "내외일보",
+    "publishedAt": "2026-11-05T18:13:50+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WOEFYRDB0MzBWUFJGZHFpdjZTSnYyZVRIODFCNFdMY1p0Y2VQZi1oYjJNaW9SUXFja1Q4N1VpOGxiTVpiTm9rRXBGUU52dUJGa0pHWVJpcURGUUE0bWZsa3ZvczJya2ZpUFRyOF9Ldw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-a31be7749dbc1dc8",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "게임 제작비 세액공제 도입 촉구... 정치권·정부·학계 “산업 재도약 위한 제도 혁신 필요”",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "게임 제작비 세액공제 도입 촉구... 정치권·정부·학계 “산업 재도약 위한 제도 혁신 필요”",
+    "source": "전자신문",
+    "publishedAt": "2026-11-12T17:54:03+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05MEx2aWpMSktjbFp4bDRoTzBkaC1fR3FJNzA1d01LVkRuRWJQcThtT1hzSVZaclA3SlM3ZnRyT1ZhV1Jac0k5X1BWb3ptdw?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-aeff68ee6f7bf1c6",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "“게임 제작비도 세액공제”…국회서 게임산업 세제·규제 개선 논의",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "“게임 제작비도 세액공제”…국회서 게임산업 세제·규제 개선 논의",
+    "source": "데일리안",
+    "publishedAt": "2026-11-12T15:22:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOXzRBX0hXUjdYRUxmOVRrUGRkMXMxUUtkUXIxRnc3TG80ek0xbkNFX2UzR1djTHNQTXJUVTRnVy1xQUZVckE3MDZDVXhDa1RGTnNRc0xmVzRRM3pNbV93d0VWZUFaem1yLTZhcndtUlVOaXJJcW9idUs5MGUzaHdiMjkzeHo0aXZwM1hQSmpBek9McnNGY3ExMTJORE4xN1Q4SnAtMFcyYlN3TG94VlNlSjdmOVU0bDVHcjhYVHFwSnFhcktfQ0doNC16aE90cUQ1dFJINVNjQ3BnbWtKRVc5dzJ1dzdDdFJYSnFneUVEWVBiS1hvVzU2UkJubnJjNHNrd2tkZS00X3hKWUFXYk92UjVRd25UVjNDdUlMZHdmTVVMUGJHcUhhU3dPWGZoQQ?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-startup-6fd82039eddb8181",
+    "type": "news",
+    "topicId": "news-startup",
+    "label": "[알고지냅시다] 신규사업자가 알아야 할 세금 상식",
+    "topic": "창업중소기업 세액감면 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "[알고지냅시다] 신규사업자가 알아야 할 세금 상식",
+    "source": "제민일보",
+    "publishedAt": "2026-11-12T18:47:29+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qeU9adHlvVUs0RlkzbXROZXRNU1c2UVFuT19DeGRpelpUblh0UG8zYlc4QjU3WEcwWkRBa011ZXFrTk9YZ3VwR19hOGVrOW1FOHJ1QUxKMm5GMnByR2pCYlRqcDF6UlE?oc=5",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "news-employ-credit-8489abdc9ae5256e",
+    "type": "news",
+    "topicId": "news-employ-credit",
+    "label": "[국세 예규] 새 근로계약체결일 현재 60세 이상…‘청년 등 상시근로자’ 해당",
+    "topic": "고용 관련 세액공제 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "[국세 예규] 새 근로계약체결일 현재 60세 이상…‘청년 등 상시근로자’ 해당",
+    "source": "Daily NTN",
+    "publishedAt": "2023-07-19T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWMUNFUEh4YTh5YTRjZ2phdGZwZ09rOHNKMlZpVEt4dlZuTzUtWXhZVUxxX0k3NV8wUnZwbTQwVDhrWVlPVXFuSFZqRXV2c0FSb0FtdnNGWXZvYmFFZkpxZlBMd2FUeWw2Mmc?oc=5",
+    "tags": [
+      "고용증대세액공제",
+      "통합고용세액공제"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-ba548adde8326e36",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "[단독] DB손해보험, 괌·사이판 법인세 84억 환급소송 대법서 최종 패소",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "[단독] DB손해보험, 괌·사이판 법인세 84억 환급소송 대법서 최종 패소",
+    "source": "필드뉴스",
+    "publishedAt": "2026-11-13T09:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfR0JGRTlHRmhvZDk3bHpuVGFuR2xzaGNzbXZMakpScVJ5YmtiUlpyQV9qaXdTTXZwcUpfaElqVXlIdWZjNEhrWmlYQ0RUOWczY0NVWVZXejZPc0prcENrdURCeXZrVXRT0gFsQVVfeXFMT01ycFh6Wm9nVGoxZFdGTWlKcno0Z1hJT05oNWNFT0Y2V25CcndGd0dlVXFrLWZQSmRtNjdyNlAyYVJQRGVZMHRqYWRTMzNBWmVHYkpBQktZYlNGaVhMajUyUC1LbHRKNTg0VjBh?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-6272fe3a03387b35",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "\"내년 수도권 집값 3% 오를 것…세제 변화 변수\"(종합)",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "\"내년 수도권 집값 3% 오를 것…세제 변화 변수\"(종합)",
+    "source": "뉴시스",
+    "publishedAt": "2026-11-12T18:00:56+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zeDBheXRxWXZpcVRwWEQtc0I3RFUtNHZfSjFZNGJuRjdBS0lyUTc4TnF5VWlLVlZSQldmN2I0SGtwNk41UXRac05va2lPUkVQeFVQWWx2WnlULUpZRFlCb0M0YlF0emJLLW5xMG9kUDJzRFI0UDNhV9IBeEFVX3lxTE5zeDBheXRxWXZpcVRwWEQtc0I3RFUtNHZfSjFZNGJuRjdBS0lyUTc4TnF5VWlLVlZSQldmN2I0SGtwNk41UXRac05va2lPUkVQeFVQWWx2WnlULUpZRFlCb0M0YlF0emJLLW5xMG9kUDJzRFI0UDNhVw?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-construction-e8f4636ad875476c",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "'공유주거' 코리빙…건설업 틈새시장 부상",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "'공유주거' 코리빙…건설업 틈새시장 부상",
+    "source": "서울경제",
+    "publishedAt": "2024-03-14T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZOEw3WGdWN1JhYmk2RWl1azlWTnJydmJxcm11cFRDUUhzUHFPUEVscEdHRkFPS0VSa3JUUlVkOUs3NGVwLXRCdkpsdGRKc1c0cU9v?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-exporter-81681e6f820216a8",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "잠재성장률 3%·수출 4강·국민소득 5만 달러…'경제 대도약 원년'",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "잠재성장률 3%·수출 4강·국민소득 5만 달러…'경제 대도약 원년'",
+    "source": "대한민국 정책브리핑",
+    "publishedAt": "2026-07-14T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9laHVJUU1vRkpmd3FzYTBEWDlHUXY0bnJhX09NTHVVR0Rzclk3Y0tVYk5TaEJBNWVoS1B6VEJOU1lndDRpTFFDOVdUNlJRajJnRUhUeUZtZ2M2VmUwaEo1MG1id3doT1BLUmRteg?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-6d6d71e5ee05653a",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "경기도의회 최찬민 의원, 경기도교육청 고용부담금 398억 원 \"장애인 생산품 구매 확대해 부담금 줄여야\"",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "경기도의회 최찬민 의원, 경기도교육청 고용부담금 398억 원 \"장애인 생산품 구매 확대해 부담금 줄여야\"",
+    "source": "경기포커스",
+    "publishedAt": "2026-11-13T10:14:25+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UNWZTSEJIc0w1UUt5ek9EeUE0MEJSZTYwZzYxUHYtRUZHdXlKOG10UDhtVU1SVGp1WlBhUWtCb1R4RFU4OXhoR1lsek5TSHUwYXpmZEVCbTRNWTZPZ2tWZDJ0dkVBakNtMGRIdg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-d2f4f0dd4671b436",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "“경기도의회 최찬민 의원, 경기도교육청 장애인 고용부담금 398억 원 중 감면액 3천만 원 지적”…장애인 표준사업장 도급계약 확대 촉구",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "“경기도의회 최찬민 의원, 경기도교육청 장애인 고용부담금 398억 원 중 감면액 3천만 원 지적”…장애인 표준사업장 도급계약 확대 촉구",
+    "source": "월드장애인사랑뉴스",
+    "publishedAt": "2026-11-12T18:55:14+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZkJVcUR6NWdQR2JVMnQtWXpocU9wMjVWOF9vajJZVk55TF9TWDQ4NVhrTHFHSWw3SUcyb0hCakl5X0prWmdyQUhwN0pSdV8ycE5TdnpNNHlJNWdmM2p5X1IzSkhLaExjTjBLaE82MA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-c22c89fe79e3f6c8",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "최찬민 의원, 경기도교육청 고용부담금 398억원",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "최찬민 의원, 경기도교육청 고용부담금 398억원",
+    "source": "경기시사투데이",
+    "publishedAt": "2026-11-12T19:02:48+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PSTJLUDY1OXl2SlBUbG5hYVpZVXk1QXhLb3NId21wMVdjdl90R20tSlFZX1JBaFFvZnFSRUl1LWU5WW1KSlpoamNJQllDX181bnRfZFRsZW5CMGZ5c0N0aU1TbHZieHVD?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-ae58fd95a85364b5",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "고용·예산·안전관리까지…충북교육청 행정 곳곳서 허점",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "고용·예산·안전관리까지…충북교육청 행정 곳곳서 허점",
+    "source": "공뉴스",
+    "publishedAt": "2026-11-12T15:40:19+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50N0o1bVI5aldvYzVqeS1oMDc3c05naUNOM1BtSlk1WW91bUxhZG9YRS1IZWJFa1JlUWthMk84TEdkQ1ZzWk1LSWNRcEs1ZlZXUG9yVllGT0lwaXRVbXVEYTJaN0xOTGNsVWNDWQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-97dcfd337d787bf9",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "엄교섭 부위원장, “소외 없는 교육공무직 연수와 실효성 있는 장애학생·고용부담금 대책 시급",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "엄교섭 부위원장, “소외 없는 교육공무직 연수와 실효성 있는 장애학생·고용부담금 대책 시급",
+    "source": "서프라이즈뉴스",
+    "publishedAt": "2026-11-11T16:42:15+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51eXhGb3NGNTZ1N1hmb3lPTmdzWjVfNG4zZ1otaXFwZjFVcXZQdkl3dDFHcFhoZEF5M1FQQUUteHFmRi14VEV5N3BNcGJUNzNEVlJpTWNPbC1mN0dRUmhPRVcwcy1ibTlwdkIwTlNn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-entertainment-340bde4a73501553",
+    "type": "news",
+    "topicId": "news-entertainment",
+    "label": "접대비, 판관비 위장계상 적발 땐 세 추징",
+    "topic": "접대비 손금불산입 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "접대비, 판관비 위장계상 적발 땐 세 추징",
+    "source": "intn.co.kr",
+    "publishedAt": "2005-12-23T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91a2l5b0xWSU9ETno2X1NIWklWSGFjR2xhR1ZZZG9UcXBjVjVUS0U1LXd2S2x1MUkzaFA3WHZ2SmQ2UGZKb0pWckF1NXl5NEctZnNXa0Q4SnNPNEVibldEVng1MA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-2bce7a084ea35b7a",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "미래에셋증권, 스페이스X 평가손실에 5023억원 적자…투자 쏠림 도마",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "미래에셋증권, 스페이스X 평가손실에 5023억원 적자…투자 쏠림 도마",
+    "source": "비즈중앙",
+    "publishedAt": "2026-11-13T07:49:25+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tR3RyQk5HUVRxcngyU0kyUDlxR3ljTzdKV2Vkcy1yLXBiaWRiZC1vaDJSNFBYN2lOUGJiSDNkVG5XV3AyQkc1alp3QklkS0pHUDZxM245TkVhWFBIM1NWdk1FZ0NOOHUyYzlTYWJnRGk?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-729d02a2e76a0fd5",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "미래에셋증권, 3분기 순손실 4056억원 적자 전환…투자자산 평가손실 직격탄",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "미래에셋증권, 3분기 순손실 4056억원 적자 전환…투자자산 평가손실 직격탄",
+    "source": "디지털데일리",
+    "publishedAt": "2026-11-12T10:59:48+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yUlpnczR3U3NZRUM5SmNkbnR5RHYxb29OTUtIb1RZMHhkNlBsWG9kQ1JGbTZQOW12NjVFdk9LMV9PdHZjb3ZFdzJLc2tYVjd2M2N2bGFnWkF2My1RNXh6MTI2N0g?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-a76aa613a99b39e3",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "미래에셋증권, 스페이스X 평가손실에 3분기 적자전환...주주환원은 지속",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "미래에셋증권, 스페이스X 평가손실에 3분기 적자전환...주주환원은 지속",
+    "source": "녹색경제신문",
+    "publishedAt": "2026-11-12T13:33:20+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aNndsbk83azA3X1RwZUVnTTlLeV9kOEdoQUExc1ZURm9uVmIzMkZLNzNudFlvdXB3a25ub1l4alozVnpES0E5VWtEWmdKU0Z6RW5la1RDbU0tWDhlNWM5NVRPUlh4TnJt?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-f956376dc80137df",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "미래에셋증권, 3분기 투자자산 평가손실로 4056억 적자...1조4000억 규모 자사주 소각 추진",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "미래에셋증권, 3분기 투자자산 평가손실로 4056억 적자...1조4000억 규모 자사주 소각 추진",
+    "source": "소비자가 만드는 신문",
+    "publishedAt": "2026-11-12T13:57:07+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tY0kwTFczT19haXVZbWp2dzgyNXNhYTJnYlZ6alFQWDM2SjVjc0d1QWxjZ0FkWnJrQ1BXRXVIUnZxRVB1UGUxeGp6VlQ4MXJHd0dLZ212Y1RlVlRGalg3Y1YyNC1SSTI1eUJqcDFUYTBiV1E?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-83cc9f2d238f9a83",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "미래에셋 실적 '덜컹'…업황부진·스페이스X 평가손에 적자전환(종합)",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "미래에셋 실적 '덜컹'…업황부진·스페이스X 평가손에 적자전환(종합)",
+    "source": "연합뉴스",
+    "publishedAt": "2026-11-12T11:24:11+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wSnk0blB1dEJCRWh1NXRIN3BmeXc3ZGlqNF9OaVdFWFRjWjZQNHRlLTgxeUNBeHJCa29mQkloRXN2bHhkMnBweWRQUE0tajM5LS15Mi03V1VJS3NHRlhST9IBYEFVX3lxTE0wSnk0blB1dEJCRWh1NXRIN3BmeXc3ZGlqNF9OaVdFWFRjWjZQNHRlLTgxeUNBeHJCa29mQkloRXN2bHhkMnBweWRQUE0tajM5LS15Mi03V1VJS3NHRlhSTw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-848dd63917d5a0e3",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "미래에셋증권, 투자자산 평가손 여파 3분기 순손실…누적 순익은 2.5조 [금융사 2026 3분기 실적]",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "미래에셋증권, 투자자산 평가손 여파 3분기 순손실…누적 순익은 2.5조 [금융사 2026 3분기 실적]",
+    "source": "금융신문",
+    "publishedAt": "2026-11-12T10:58:34+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vVS00bktRZ0x0cEJPdVNCVnNBejhBcEJYZGtrd0E0aTRTWWpKT2NPMnFkUG9qODN2TGVKeURtRlBxVnptQmlIcjc2anJzVGxNd0ZDZGF4dkFLTlF6a3hmRk52NkIwZE9qb2hraC1TVHE1cWFwZjdLUWhsc3A?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-183380d5dfbade59",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "스페이스X에 발목 잡힌 미래에셋證…3분기 4056억 적자에도 누적 순익 2.5조(종합)",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "스페이스X에 발목 잡힌 미래에셋證…3분기 4056억 적자에도 누적 순익 2.5조(종합)",
+    "source": "테크M",
+    "publishedAt": "2026-11-12T10:18:36+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fWnNYeUlxOGV0T19fVlBySDFOcTlseHlxbDdSNVpJQVNvczRHUVd2MFBsRFd3NHJhdVpHUktMOXZRbVhTczl1WjgxcHpTdUZ0VlpTYVlnMkVhZnRBR1kyMzR3UDdwd9IBakFVX3lxTE9KeU80TzB5VEZyNlc0MFFpV010UHFGTHpRWUpoeGY0SDBsR1lTN2gyb3B2TDNiUFJUc3NKazdIT0FaSnN3U1hWdW5hWkNsbElIbDRGQ1NPcHk2VXYyN21UQUc4RlB3UTJCS2c?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-572df8fc3b71ea95",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "미래에셋증권, 3분기 4056억원 순손실…1.4조 자사주 소각 추진",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "미래에셋증권, 3분기 4056억원 순손실…1.4조 자사주 소각 추진",
+    "source": "파이낸셜투데이",
+    "publishedAt": "2026-11-12T12:58:08+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GdHZYRDM5Z3dWaHlxVW1ManRLNW1DZXYtYkR3VDNVMWZNZ0ZkNE1LQUdlSUpSV0IxXzc1YlFXQlhrU3RxOTVDMU1tYkFMQk0yQTVMT3VpY01qX19mUTdiYUQtWHdSeGtMc0HSAW5BVV95cUxOSFJxazBQS3hRVG5tYnBCbEFZbVlCa2lfRE5Xelc3SVExZFpmdV9KdFdlOHNvV1UzUklhTHkyamRXWnFlblctMWtFSWk0Q0RfWnNfMTRibkdKMGEwZWpVeV8wdDVrOUk3MkpUQ2hJZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-7d0600b51199e39a",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "“베트남 생산 공장 2186억원 투자의 명과 암…삼양식품, 감가상각·물류비 부담에 수익성 경고등”",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "“베트남 생산 공장 2186억원 투자의 명과 암…삼양식품, 감가상각·물류비 부담에 수익성 경고등”",
+    "source": "뉴스퀘스트",
+    "publishedAt": "2026-11-12T15:45:02+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aaVBjdFRJdHhTUk5haGNiSnJGSkI4QkdzUWV4SENCTGsycEdlODdxLU5wcDREaUVvSmpxQ0xJenVfb0VFdGZpalcydm1HczduMUhibTd4SmltZVlUZDZfM3NtUW95Mmw1aGxqQ1IyWQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-118c756a294f720b",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "[부당행위계산 부인] 특수관계자, 일반적 원칙 따른 엄격한 해석…유추·확대해석 해선 안 돼",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "[부당행위계산 부인] 특수관계자, 일반적 원칙 따른 엄격한 해석…유추·확대해석 해선 안 돼",
+    "source": "Daily NTN",
+    "publishedAt": "2023-04-21T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQVE1VaDVORWRPamt3R1VGbXJheHU2S3FRNGUzZTJLR0lLa1F1YjJDNjRoaWtPWmJTRjZiVEZOZEtlUkRDWHdLMU9SODdZOE9ubzdSVGViU3pGYmNkV3FLbHphLWQxckdxdnc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-wrongful-calc-5b2c253a7a3da96e",
+    "type": "news",
+    "topicId": "news-wrongful-calc",
+    "label": "상표권자가 상표 사용료를 수취하지 않는 것이 경제적 합리성을 결여한 것인지는 구체적인 사정에 따라 판단하여야",
+    "topic": "부당행위계산부인 뉴스",
+    "detectedAt": "2026-11-13T11:39:38+09:00",
+    "plainSummary": "상표권자가 상표 사용료를 수취하지 않는 것이 경제적 합리성을 결여한 것인지는 구체적인 사정에 따라 판단하여야",
+    "source": "법률신문",
+    "publishedAt": "2023-11-16T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5laG1OZjExd05ndnd4dVBILW5EdEZyZEhiQUpORlJQSnM0ajA0SmV4UjhVR3Z1bTVVUU8xQmhxeENrY3l3YWNYUlBBVTJMSGdVQlU1eGtvcmJfdGtYLUczd052dWVpd2FSaXFBUE1n0gFyQVVfeXFMT3kyazRKczdKcjVvT0ZrMVB2bnVUNW95Y1dhWXMtM0VlZHhUbi1DdTdkYWwzbC1fTmdrbExMLVZXYm9SNUxPbkVOWWRPbVZlTHZsNS04eVNCaUdPNk02aFJUcFZtaHhGNlZvdE9WcGNodE9n?oc=5",
     "tags": [
       "전체"
     ]
