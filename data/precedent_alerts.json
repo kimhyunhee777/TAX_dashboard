@@ -935,5 +935,22 @@
     "tags": [
       "외국납부세액공제"
     ]
+  },
+  {
+    "id": "prec-wrongful-calc-625575",
+    "type": "precedent",
+    "topicId": "prec-wrongful-calc",
+    "label": "부당행위계산부인 판례",
+    "detectedAt": "2026-11-15T10:49:38+09:00",
+    "plainSummary": "법인세법 시행령 제11조 8호는 부당행위계산부인 규정의 요건을 모두 충족할 것을 요구하지 않음",
+    "caseNumber": "서울행정법원-2025-구합-55962",
+    "judgmentDate": "2026.10.14",
+    "courtName": "",
+    "caseType": "일반행정",
+    "sourceName": "국세법령정보시스템",
+    "detailUrl": "https://www.law.go.kr/DRF/lawService.do?target=prec&ID=625575&type=HTML",
+    "tags": [
+      "전체"
+    ]
   }
 ]
