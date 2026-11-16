@@ -1,366 +1,5 @@
 [
   {
-    "id": "news-corp-tax-revision-2a8eb2585e40c793",
-    "type": "news",
-    "topicId": "news-corp-tax-revision",
-    "label": "한교총, 상증법·법인세법 시행령 개정·법적용 공청회",
-    "topic": "법인세법 개정 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "한교총, 상증법·법인세법 시행령 개정·법적용 공청회",
-    "source": "기독교헤럴드",
-    "publishedAt": "2026-09-16T17:10:56+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0QmdtTFo3OGxWVlFuU013UVdjRmRwdE8wQ2ZZckY2NHQzaHczLWNCVVRpbDZ3Z2FBTlVPa3dLbUFud1N1ZW92NWk5M3FhNU5Ya2UyWUJIYjRZRVlWVXZ1cDVZRkR3TjQ1QVE?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-invest-credit-57b518d5bf816e5a",
-    "type": "news",
-    "topicId": "news-invest-credit",
-    "label": "\"국내생산 세액공제 대상 늘려야\"…한경협, 국회에 세제개편안 보완 의견",
-    "topic": "통합투자세액공제 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "\"국내생산 세액공제 대상 늘려야\"…한경협, 국회에 세제개편안 보완 의견",
-    "source": "마켓인",
-    "publishedAt": "2026-09-10T06:00:07+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45UjRkNWdZUkhKX1lmem1NU2hLcDA3TE9xYzVFQ0M3R0F5anFxOHFlXzBFdkY2ak5aYXpvRElOSkdMdE9UV1ktZXNJRVJiYk1jZXJGY2UzVW53enBfRk03M3pRV1pvbTNpX09lZUpkc3RFbVU?oc=5",
-    "tags": [
-      "통합투자세액공제"
-    ]
-  },
-  {
-    "id": "news-startup-e838fc9fd2e7ac18",
-    "type": "news",
-    "topicId": "news-startup",
-    "label": "창업중소기업 세액감면 조문 정비 > 법인세",
-    "topic": "창업중소기업 세액감면 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "창업중소기업 세액감면 조문 정비 > 법인세",
-    "source": "조세일보",
-    "publishedAt": "2026-09-05T15:32:29+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWJZV2lLeWZXVkhOUFJ4M1NWLXpvNDZDWEFQSzRyYXJ1YTczWnRlaFpBRGV5Rkk5MjZIenUyX2RGSnZmNm5MUGFGTnRZekNiM0hXaUg4TWhvRUp1MUx0SmI2aExLcFlRb21NdHh3UnpXblByU1RaSUEtOXNDQjFKX0xJQThtbE5UT09vNm5GYVlRTG4yQ1JmSkduOWJ4T0k?oc=5",
-    "tags": [
-      "창업중소기업세액감면"
-    ]
-  },
-  {
-    "id": "news-employ-credit-eaea3026be126985",
-    "type": "news",
-    "topicId": "news-employ-credit",
-    "label": "종합소득세, 고용증대세액공제로 줄일 수 있다.",
-    "topic": "고용 관련 세액공제 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "종합소득세, 고용증대세액공제로 줄일 수 있다.",
-    "source": "데일리벳",
-    "publishedAt": "2019-06-21T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CakdOX2ZOYmhCaU9FazlGM29MYkVGeEQySmMzcXJTT0kyT0JQTUZMZjRicWlZWmRTVHdwVDRGX1hoSXZBZ2RkdVY4bXJsZWM?oc=5",
-    "tags": [
-      "고용증대세액공제",
-      "통합고용세액공제"
-    ]
-  },
-  {
-    "id": "news-exporter-ce45ad12be72c359",
-    "type": "news",
-    "topicId": "news-exporter",
-    "label": "\"수출 물량도 세액공제 적용해야\"…한경협, 기업 생산·투자 세제지원 확대 건의",
-    "topic": "수출기업 세제지원 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "\"수출 물량도 세액공제 적용해야\"…한경협, 기업 생산·투자 세제지원 확대 건의",
-    "source": "아시아경제",
-    "publishedAt": "2026-09-10T06:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Nd2ZxYlR3UDdOVE1sUVJoTWhRMTcxWEhvcTQ3SjJqRktjV0tWakl2d3ZQd1kzXzBnSm9Hakt6VzBRQTFueUZPZ1o3aXFVQlA2S2JISmpWbDBCM0dtN0x5VQ?oc=5",
-    "tags": [
-      "exporter"
-    ]
-  },
-  {
-    "id": "news-exporter-adaf74187320a531",
-    "type": "news",
-    "topicId": "news-exporter",
-    "label": "중소기업 졸업 중견기업 세제지원 3년~5년 연장...안정 성장 지원",
-    "topic": "수출기업 세제지원 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "중소기업 졸업 중견기업 세제지원 3년~5년 연장...안정 성장 지원",
-    "source": "intn.co.kr",
-    "publishedAt": "2024-06-03T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rRFdfWkMzbjlGcGs5aVRYM21JYjlrZjYtdnNCSldial9LN3Z1QXRUU1ZkLTRNRzVabktvdUxFcFgyS3ROTkdkSFBNZ2ZzVnRDNHdESUpUb3QyalliZEJ4N0R5eWdhX3hVcEE?oc=5",
-    "tags": [
-      "exporter"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-6697c9fb2fc0fcb6",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "이건완 소장 해임된 국방과학연구소, 5년 장애인 고용부담금 66억원",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "이건완 소장 해임된 국방과학연구소, 5년 장애인 고용부담금 66억원",
-    "source": "로이슈",
-    "publishedAt": "2026-09-16T18:15:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Wb0R6SEhjVExEUEY3WmNiR0paQXE0MmN2SlBoaEpMMVFac1F6VmJjcXVBVnI2elAtdEI4X3dIby1lcm1yZzl4VEl1bG05b2VhUWxWaldiOVZqdzVVN3k2aFM3am5JUXJlck9wT2k1b3VGdzVzTkcxSjl3?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-99cd690f6ea3db17",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "부담금 내면 그만?…공공기관 ‘장애인 고용 외면’ 여전",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "부담금 내면 그만?…공공기관 ‘장애인 고용 외면’ 여전",
-    "source": "경향신문",
-    "publishedAt": "2026-09-16T20:46:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIU2hyS1JEa2E0VGxoSDYxR3JHQ1dsSWVkTjVaZVpERXlPSGRUVU9VZy01YkV3VUdnd1FhVTUtNFZ5c0JIeXdMU2RLbGVETGxoNi02cC1tZ0JfUdIBX0FVX3lxTE1TcVYybU1lU3dyUV9QQWdzdy13OVREbElpbFg5eWVVc25GX2tNZkY4cEF1dm9Na1lkN0ZuRDdRSXQ1RlBIc0xHSzVSZ3FEdmZwb0hDS3JMbWgyZXQwekV3?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-c4ff9158c237cf0b",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "장애인 의무고용 4년째 미달, 전북대병원 고용부담금 18억 냈다",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "장애인 의무고용 4년째 미달, 전북대병원 고용부담금 18억 냈다",
-    "source": "v.daum.net",
-    "publishedAt": "2026-09-15T17:04:40+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OazFJSkhIRVpPLURjRG9CLVk3WE5OTWdZdDNGemhfZWgtQ2V6cS1nZzcyWW5LUnFKWTFjR0M3ZVowaDlpaXJjRnZEdkY5V28?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-4f9cb2b8ecf08584",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "공공기관 장애인 고용률 상승에도 반복되는 고용부담금",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "공공기관 장애인 고용률 상승에도 반복되는 고용부담금",
-    "source": "내외뉴스통신",
-    "publishedAt": "2026-09-16T16:12:59+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIbFUxZklPdkVicEJQSjhWMkt3Yk1Qc09BcTNQU1ZvaGRLMU1wQ0JNV3dmSEY3RDZITzBPZ2RBS3J1eFJhWmNCelBwN2ZRQXhweGZsUE5mclFVa1BOZVBuVGtqYnpkNldROERyTtIBcEFVX3lxTE83aHZNbVlnc1JhRGNHNjJOUUdqd29LYTBYeHlQLVBsRWFSSkp3MXNqVzhFbjg5ZlNtNFYxSkdfX0E0WElqUkF0Rnhjd2pyVzQzelpsb1UzVzNhT1dMU2JuTGZhSkRTaWdDSmtEbWVJQjM?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-f6421abcaf510d71",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "[단독] 公기관 장애인 고용부담금 5년간 7845억…고용률은 하락",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "[단독] 公기관 장애인 고용부담금 5년간 7845억…고용률은 하락",
-    "source": "v.daum.net",
-    "publishedAt": "2026-09-14T15:14:09+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzdU13SjhqNXJuX3FCT1dQQjd4dndUalcxN1hMc3dNeVFYSXBRdVZiNDR5UkM0SlBsaVl5RUYxeVl4WlVaeGd4eUNuQ3ZsQ0U?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-524cd60b97302b36",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "노동부, ‘장애인 육아휴직 사용 시 고용부담금 부과’ 개선 검토",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "노동부, ‘장애인 육아휴직 사용 시 고용부담금 부과’ 개선 검토",
-    "source": "에이블뉴스",
-    "publishedAt": "2026-09-16T16:52:31+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jX2xEQVhNUjlsMFhLcUV0b29VVzgtNm93Z2lENTN4Uk1GRTk0ZVZiejlQRk1rNUJWcVNqd3FmZDBPX01EUW5uazh1MlA2ZmlUU19tLW5kSVZIN3ZrZlZZT0pZaWUyZjJiTy1hQmx30gFyQVVfeXFMTXNMUVRfcDdxMTJRdVJiMXptVENuMllNWl9sU3IyVF9Ic1lxQjRZM2pfeEFMejdJbkRIMzJmdWdSa3pZSW4xN29la2tFMzFzM3BIRFJWaHpaRmR4NkZ4SDRjLW5BcGdPQTBYQmRFZmsxUDJB?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-e128398fc30eff31",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "[단독] 野, 4대 은행장 국감 증인 신청…장애인 의무고용 절반 수준",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "[단독] 野, 4대 은행장 국감 증인 신청…장애인 의무고용 절반 수준",
-    "source": "아주경제",
-    "publishedAt": "2026-09-16T15:30:19+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FRlhuTU1oald4aDhFM0JKNnN3eXM2NC1Tem03N1J0UTlRYk45RmVBVmhxZzdDZXlsX3g5dlhoU1ZJQXRiVGU0SFF0WEtCUmVTUGVCWXliMTDSAVhBVV95cUxNRUZYbk1NaGpXeGg4RTNCSjZzd3lzNjQtU3ptNzdSdFE5UWJOOUZlQVZocWc3Q2V5bF94OXZYaFNWSUF0YlRlNEhRdFhLQlJlU1BlQll5YjEw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-9560bdeb86729e0c",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "서울대병원 5년간 장애인고용 대신 부담금 120억원",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "서울대병원 5년간 장애인고용 대신 부담금 120억원",
-    "source": "매일노동뉴스",
-    "publishedAt": "2026-09-15T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UXzY3WHd6VllFMng3UzF1Rm04NC1MbURNT29NMXdqYVVPU2JzNDZoY3BGQ3hDUzZYemZldmpzVEd4MzNnam9fQjAwMzFtZFhWZHZJNW5ZWEZqVm9qWEVQTE5pMjFsOXhXTzdhVGlhQVo?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-6a4a8131b1fa6e62",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "공공기관 장애인 고용률 늘었지만…서울대병원 5년간 부담금 120억",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "공공기관 장애인 고용률 늘었지만…서울대병원 5년간 부담금 120억",
-    "source": "신아일보",
-    "publishedAt": "2026-09-17T08:12:47+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fTHZ3RkJjcDY0RE82Vm1Qb2poelRZQjFaWFloS3FFWG5fN0FPTWNKblZfTFpiSl9VT3NGdVNBNktRYzFtMUNaaWw0S01fdElqXzFDMEJfT1dzaS1IV3ROSlhRV0p5U3hWbVdiNl95aXY?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-fba8ba09d9602a88",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "[단독] 野, 4대 은행장 국감 증인 신청…장애인 의무고용 절반 수준",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "[단독] 野, 4대 은행장 국감 증인 신청…장애인 의무고용 절반 수준",
-    "source": "아주경제",
-    "publishedAt": "2026-09-16T15:30:19+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jMy1uTXZLdmF6RFdmOGplOTdwODZQdFRpZFgyVUp6UldQNEdZRGFLOWoyWHZ4a1ZnS1hOQ2pqR3Q2X3B6aUJxZjJEZmFLQlQ0WEtvWmxQN2tyQdIBWEFVX3lxTE1FRlhuTU1oald4aDhFM0JKNnN3eXM2NC1Tem03N1J0UTlRYk45RmVBVmhxZzdDZXlsX3g5dlhoU1ZJQXRiVGU0SFF0WEtCUmVTUGVCWXliMTA?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-03441f2dc52544e7",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "서울대병원, 장애인 고용 대신 ‘부담금 120억’",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "서울대병원, 장애인 고용 대신 ‘부담금 120억’",
-    "source": "KBS 뉴스",
-    "publishedAt": "2026-09-16T12:52:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5VUhncEZpNXEzMjRxMU81cHl2ZFlsZzNLS2xjSkNZUjR5OWprZlNKWVk0TGhlLW1TZ1YtZENidjVPRVl6aE5pOTEtNFhzTXlrbUwxRXBpbzBSWm8?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-disabled-levy-002038c2f6dd3167",
-    "type": "news",
-    "topicId": "news-disabled-levy",
-    "label": "[사설] 장애인 고용 외면한 전북대병원, 책임 다해야",
-    "topic": "장애인고용부담금 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "[사설] 장애인 고용 외면한 전북대병원, 책임 다해야",
-    "source": "전북일보 인터넷신문",
-    "publishedAt": "2026-09-16T18:03:20+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ajNLLVZidEc1dFNfenk2WnVKZlhLV0JodzhpZlR1bnYwQXRrcmFJb3BSRmdBVmJqTnVUbTBNN0JIWGZFby1XWTlQMml1WW4zS1VFQtIBWEFVX3lxTE9XSXh3clgxNk1hR2xmMTBrdHNScWF2UjVkVm45VmZMMnRzVVo0VHFVY2ZRRlRHYmRVWHhoeFBpV09TX1p2eDNmNU9UbW92VGw4Tm9wSzJEYXY?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-interest-nondeductible-30243bf79630d420",
-    "type": "news",
-    "topicId": "news-interest-nondeductible",
-    "label": "[예규·판례] 분양원가 과다계상액 손금불산입 처분은 잘못",
-    "topic": "지급이자 손금불산입 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "[예규·판례] 분양원가 과다계상액 손금불산입 처분은 잘못",
-    "source": "조세금융신문",
-    "publishedAt": "2017-10-01T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KdFBoTkJrOFhhZ05pLU5YZGh5VVZHOExnYkxYTlRNX0dldUI2Ync2TlhsSFRNdnNtS05MR0JqRTFtc0V1allYQ1lmaUVrYjdwTGUtR1NBMF9FUnBsWWtV?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-asset-loss-c73a1673c1efa83d",
-    "type": "news",
-    "topicId": "news-asset-loss",
-    "label": "영풍·고려아연, 회계처리 위반에 감사인 지정…고려아연 순환출자 의혹도 공정위 절차",
-    "topic": "자산평가손실 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "영풍·고려아연, 회계처리 위반에 감사인 지정…고려아연 순환출자 의혹도 공정위 절차",
-    "source": "economytribune.co.kr",
-    "publishedAt": "2026-06-10T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnMUt6UENfZXJFbDNtUmt1TlBDTjZkUS1idkVnZG81UVpFWkJQLUdBRFUwSXppRmVfWm5YRUNjMWdrVDktWVZFdEhTRktrTmhKS0MwSVFpUW16WVMtNmZvQVJOcFNfeGxwQzM4TnRRQTFyU2NuVncw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-depreciation-e364d94e1ee44d35",
-    "type": "news",
-    "topicId": "news-depreciation",
-    "label": "글로벌 웨이퍼 업계 덮친 감가상각비…\"대규모 증설 가동 여파\"",
-    "topic": "감가상각비 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "글로벌 웨이퍼 업계 덮친 감가상각비…\"대규모 증설 가동 여파\"",
-    "source": "디일렉",
-    "publishedAt": "2026-09-16T18:37:57+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vX3Fwbk9hajAxazVKZDJLa3MtcG5oYy1BQTZkamJXdjR1X3ExUmR6SmF3cVpGdFR2dDlYZHJGZW1zdVlZbEZReTNZMmduNU9FaWVlSllDRXR0dW52dktnd2JvS0hkQQ?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-depreciation-5ce9704cdb448ac0",
-    "type": "news",
-    "topicId": "news-depreciation",
-    "label": "[노현우의 채권분석] 가속 감가상각자산, 연속 인상이 답일까",
-    "topic": "감가상각비 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "[노현우의 채권분석] 가속 감가상각자산, 연속 인상이 답일까",
-    "source": "연합인포맥스",
-    "publishedAt": "2026-09-16T10:02:53+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Uc3RKaGgxSHhGUGV2VjNEZkM0aEhXMTdkLTNLLU9CdHZPdmRTWl9UZzlROUxVNy1PUXdVVzdwOHlXT1V6YWk5akFJbDhpcUZxaTE1c0V1MUJlOGxXYUVHVXhiVEtWa21STDdITWh1Z0o?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-depreciation-278986c31a69552d",
-    "type": "news",
-    "topicId": "news-depreciation",
-    "label": "李대통령 \"초감가상각제도 문제 빠르게 해소돼 기뻐\"",
-    "topic": "감가상각비 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "李대통령 \"초감가상각제도 문제 빠르게 해소돼 기뻐\"",
-    "source": "KB Think",
-    "publishedAt": "2026-06-19T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1NG9ZeDkyaGRvX3VQYTE2TnV0Ulh2UldEeWxEZTJWVDdhZFI3b0MzQm11Q3ZuZWZmR0F5RkxoWm9xZXJWU0JhRWxxMDQ3Nl9aTWtxMVlXM3BRbVJaTzFnMUhxWC1GQjU2ZVg2cU9jOWl4dw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-wrongful-calc-dcda4dcfe2d2839c",
-    "type": "news",
-    "topicId": "news-wrongful-calc",
-    "label": "[칼럼] 급조된 정관, 부당행위계산부인 대상 될 수 있다",
-    "topic": "부당행위계산부인 뉴스",
-    "detectedAt": "2026-09-17T09:27:13+09:00",
-    "plainSummary": "[칼럼] 급조된 정관, 부당행위계산부인 대상 될 수 있다",
-    "source": "v.daum.net",
-    "publishedAt": "2026-09-16T09:02:40+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EYWZXdFRYYnNCRlhrOEplc0FmX2x4VWxBMHpWQmZoZEI5VG04VVJCeHBnQ0JBaUdqQ0NsUDBqZHo1NWMzR3c?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
     "id": "news-tax-law-revision-a9c6d92ceb2a3135",
     "type": "news",
     "topicId": "news-tax-law-revision",
@@ -15081,6 +14720,171 @@
     "source": "intn.co.kr",
     "publishedAt": "2020-08-28T16:00:00+09:00",
     "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yV2JMYU5fOEtGNVlxNzZjQTQwSkZSak9vNS10WjhZaGVtNXU2cTBZb1Nsb0VIRmVQZ1Z4T0tleXBkTG9qTlpnVEVCUHo5ZXY1RkRRTjE0bnRnRnR1NjBHaEpyMURWeHRsaWc?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-14b6ffd26619291e",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "\"이미 수정안 냈는데\"…'부동산 세제' 국회에서 어디까지 바뀌나 - 머니투데이",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "\"이미 수정안 냈는데\"…'부동산 세제' 국회에서 어디까지 바뀌나 - 머니투데이",
+    "source": "머니투데이",
+    "publishedAt": "2026-11-08T06:45:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16ZmppRHE0RjRpSmgwYjRDNmhRbW1RcWFpMVp0ZmxWZFFwd3JNTENEZXBoOXRjYmdvSC04czl2X1JvWGtCam9EOU1KcDJNcG9WV04yanBBRzJVV21ScERrNk5lYV9BVzgxc3M40gFwQVVfeXFMT29XbThHTUUydjVZaTJpdjJOVHA5TUhfaUNyLXhKMEpTQXRmcGxsZ3pBMmNNQklja2VpcDFIVDBvQS1rN25GbDE2TFVmRUtIYnZ6MWhCajNWLUk3a0xHNm8tLWJvUzhvdC14Z211b1hTcg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-6814f0c8b2f04d2e",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "국회예산정책처, 2026년 세법개정안 토론회 개최",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "국회예산정책처, 2026년 세법개정안 토론회 개최",
+    "source": "press24(프레스24)",
+    "publishedAt": "2026-11-06T09:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52S3FvcTZXUHh0OWRSamVwa3dncEREakFMNVY0dkxmUW1DT0ZDVWFIRDB3RzAtRHV4elVFM0cyc3hqT09KbjExZGRibXRma3JtdHJPYzNqYXZpeFZMOE5nR0VpVVRiUQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-299c46167c68ef37",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "조승래 의원, 미래 전략기술 육성을 위한조세특례제한법 개정안 대표발의",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "조승래 의원, 미래 전략기술 육성을 위한조세특례제한법 개정안 대표발의",
+    "source": "뉴스체인지",
+    "publishedAt": "2026-10-29T19:52:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKOU9hWW5EVGdKNGNUbzc2WHJleS1BWFYtcmVRX0ZBdXNTV1ZXS29xWTMtVGp3LVdsa1RyMjQyeVA4YjRfMDJ3U0JhQQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-6cd463afe062756f",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "2026년 농업 분야 조세특례제한법 개정안 시행",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "2026년 농업 분야 조세특례제한법 개정안 시행",
+    "source": "농어업경제귀농신문",
+    "publishedAt": "2026-01-01T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaOUNzZ21FOTBmZTFwYjVqSGdOTDhUWXVwelIycGtMN1h4cUdXczlBQ3ktbHRLeWM0aVY4VUNfMkhpSWE1cjl0QnUyZXYtQmQ1RVIzdEZ0OWRnYVZFQ3l4UmhIYVFFUFVSQXlZ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-4464f394a70c8c0d",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "농식품부, 농기자재 부가세 영세율 적용 등 국세 특례 14건 일몰 연장 및 제도 개선",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "농식품부, 농기자재 부가세 영세율 적용 등 국세 특례 14건 일몰 연장 및 제도 개선",
+    "source": "한국농촌경제신문",
+    "publishedAt": "2026-01-02T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DQld4bDctTURNQkk2cktDaFk0OHpaSER6Q2tsQ0I2Qm4wWk5zZjhST05JcDVTV0RrdGMwSnR6cVUyS1hxVEdTcVJfMkE1czZJVFpQQVktdzFucUE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-606bc950e064b377",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "국세청 “연구·인력개발비 세액공제 사전심사 실시”",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "국세청 “연구·인력개발비 세액공제 사전심사 실시”",
+    "source": "한겨레",
+    "publishedAt": "2020-01-13T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zd0ZZckRmQ204RHVBOWhyYzhmbS1oRlJDSHJMWUs4OXVhQnhTZFpodF9lSmZUeTRfcUk3RFhLbkJxdHNEdVRhUk5pOVdUTDFSblIwUEt0TnNtcHBDVFlXbHFDS2xzVENkSUZRLWVaRVc?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-158c4e59edc94ee8",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "지독한 건설경기 부진 중소·중견건설업 ‘고사직전’",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "지독한 건설경기 부진 중소·중견건설업 ‘고사직전’",
+    "source": "남도일보",
+    "publishedAt": "2025-07-03T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IVWNBLVVOTExPODg4MmZBSk9odldqaWJDN1Y3NnFHSktFaGVxdzNMYUVoUUdjaUpCM0Zybkhtb2ZPdU5mMlZreUNJRWk0YmdlNTdib0Ytd25rcXRZb0ZtZy0zT2VnV1VGOGFWa9IBcEFVX3lxTE5JT09DWGpkaV9ZNlZUb1VMQURhNWhWb1RhNFl4NnlYV2lIcGtVaDZ4VzMzd2VoSkthcTNENmFkYVR5ZXF6R25LNUE2TGpuRHpXVWx4WXJLYkpsSlozWUU1eS1ZNVlleFRFLUJXZWpqdDg?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-exporter-11dca4a859d3db39",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "식품업계, 중동전쟁 장기화에 비상…“세제·수출 지원 확대를”",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "식품업계, 중동전쟁 장기화에 비상…“세제·수출 지원 확대를”",
+    "source": "푸드투데이",
+    "publishedAt": "2026-06-12T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZnB0X3hLVUxuWlAwWE9NaXlOMk92cS1sWmh0Q043YjBZem5yZjF5cXl0cWRVcEpNdzdzeC1RcG44UWVvNU1BOFR0V2VYTklibjA2eUdQMjBSeTRTS0kxZlFVaFh3UQ?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-89ee2152a3e87751",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "“실효성 있는 장애학생·고용부담금 대책 시급”",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "“실효성 있는 장애학생·고용부담금 대책 시급”",
+    "source": "용인시민신문",
+    "publishedAt": "2026-11-16T10:22:43+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhaEl4M0JiYXlRa1RvdGlzbTZVM3hKRTdUT1I0aWo4OVZydy1wTFc5Z3dFbHd2aS1ESF84bXNjZllZQkJKSkxfUUxYV2lycnJodWVWUGVPeXNFRUp6ODhLM3BRY1VFN2xUSG9UVA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-55c07a650c20a8f9",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "LS \"농심, 원가 부담·평가자산 손실↑…목표가 53만원으로↓\" - 머니투데이",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "LS \"농심, 원가 부담·평가자산 손실↑…목표가 53만원으로↓\" - 머니투데이",
+    "source": "머니투데이",
+    "publishedAt": "2026-11-16T08:36:51+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54RW1MVm5VQW1iMFNib284SUtDR2czVVF6Y2xGY0xET3B0c0hEaUNEWmplLUNYS245VDdULWR1YzAtNDdwNDhwMTE1clIzWHRqc09zMU1PMmxtWXhuVVV4MnlXV053ZlVTNFZWYmZmbFhRTVg2OUHSAXtBVV95cUxPT0lsVGt4LWNudFJVenB3ZWQwb1VJd25Obmc4NXhJdDFvbjk5WVdVMWlURHR2Zlo2RE10X2VTVHk3ZUhJTXBmUXNoZzJZV21GN0FYc0V5ZnBlSXpnM0tKU0JBQlV2cDY0bTA2dG9acjJWOWJwdkpVM0FOMzQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-input-vat-denial-44a181318f0d08b9",
+    "type": "news",
+    "topicId": "news-input-vat-denial",
+    "label": "[판세] 사업 관련성 없는 지출의 매입세액공제 여부와 부가세법상 ‘수입자’의 의미",
+    "topic": "매입세액불공제 뉴스",
+    "detectedAt": "2026-11-16T10:53:48+09:00",
+    "plainSummary": "[판세] 사업 관련성 없는 지출의 매입세액공제 여부와 부가세법상 ‘수입자’의 의미",
+    "source": "세정일보",
+    "publishedAt": "2026-11-16T07:36:23+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UVFJROGtuUFJqTE4zdzhMVVN2SEt1bkljOFNWMXdyVDFnSTFpU0EwM2pvSUJBOW95c3ZhY2VEc2MzalIySjRXQjR3RUg2RGJtRnRrMFZ1NVQtYVpKeGZuX0M1ajFtV2pTeklWZg?oc=5",
     "tags": [
       "전체"
     ]
