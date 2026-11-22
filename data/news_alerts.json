@@ -1,50 +1,5 @@
 [
   {
-    "id": "news-ctpa-revision-c075214814db5d9f",
-    "type": "news",
-    "topicId": "news-ctpa-revision",
-    "label": "정태호 의원, 근로장려금 기준 확대하는 「조세특례제한법 일부개정법률안」 발의",
-    "topic": "조세특례제한법 개정 뉴스",
-    "detectedAt": "2026-09-23T09:27:53+09:00",
-    "plainSummary": "정태호 의원, 근로장려금 기준 확대하는 「조세특례제한법 일부개정법률안」 발의",
-    "source": "대한청년일보",
-    "publishedAt": "2026-09-22T18:47:08+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1DUVRKY2tGVVRjUmJZQlVkR0Z3TklrUjVUUkdoUlRobnFPX01sS25yWFJFYjVLWkZzbXdTNW55Rk9raVU?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-invest-credit-9b844611c2c42c19",
-    "type": "news",
-    "topicId": "news-invest-credit",
-    "label": "기능 소개를 읽기 전에 알아둘 스포츠 토토 합법 조건 표현",
-    "topic": "통합투자세액공제 뉴스",
-    "detectedAt": "2026-09-23T09:27:53+09:00",
-    "plainSummary": "기능 소개를 읽기 전에 알아둘 스포츠 토토 합법 조건 표현",
-    "source": "Calgary Roughnecks",
-    "publishedAt": "2026-09-21T19:42:36+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdnoxbFJ5U0h2WmhRR2ZQUDBrR0dOU1YzNFZMTTIyNy1FSUgxd2RvMFk1NnVsQUplQnBtak1hV0NSekU0RHdzcklzendQZ3lraks4MnRxSHFCamR3eUoyNnB5QjFBOXdUV2ktWDB6TmxrZjBWcjlkcUlMOWNPQll3VDQ4M1BSNlJyT2VaNXhmenRlcWF5eUlaWGhfZVpyNnh1dUNiMjZ4YTNSS19UOHpPaHo3ajY0QWlyV0hGMm1rMWR5SlFfTDZ1RUhJRW4xOE9rQnNRMENzZHZ1UzcycmkyM0U5ZlN6LUNPRHR4SGh1Zm4tWEU?oc=5",
-    "tags": [
-      "통합투자세액공제"
-    ]
-  },
-  {
-    "id": "news-rnd-credit-0117bbceb491cef7",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "中 전기차 저가 공세에…국회서 “국내 생산세액공제 등 대응책 시급”",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-09-23T09:27:53+09:00",
-    "plainSummary": "中 전기차 저가 공세에…국회서 “국내 생산세액공제 등 대응책 시급”",
-    "source": "마켓인",
-    "publishedAt": "2026-09-18T16:20:33+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fWDNNM2pYQXp2YlQ5SmxJd202ejVlVkRwSWhFdGh4bEJJNUpyTy1xVzlfRjhxRk9JalJWYjNKb2dURllPTlJrcGl6cG44cDIwMVdrbkplemlnQzVtdWVMajczRlhYTjBuZ2JVZEI4RDNkYk0?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
     "id": "news-ctpa-revision-d5f96906eddaf7a2",
     "type": "news",
     "topicId": "news-ctpa-revision",
@@ -14961,6 +14916,171 @@
     "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wSV9IcUlPNEpYY0NZZkNIYjk5bkJMYUxxTkUyZ040VGItR3U2b2tzcTgwSGVKOGFXUjFuMUtpTUlaQ2haYUhRMVZEalJvelpTNjh4ZmVzY0wyc0FQNFBJ?oc=5",
     "tags": [
       "exporter"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-367379652bcbb576",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "“방대한 세법개정안 중 핵심만 엄선!” 세무사회, 검증된 ‘2025 핵심 개정세법’ 발간",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "“방대한 세법개정안 중 핵심만 엄선!” 세무사회, 검증된 ‘2025 핵심 개정세법’ 발간",
+    "source": "세무사신문",
+    "publishedAt": "2025-12-09T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQemJwMjBZc01xSGoxekcxOWFLcVFZTm1xamxwcWpXY3h1ZGotVkg5dlVCeGotWV9uTlZBVllyeDM5dE5zTUlzaEdWQTlvMlBYLXBxVW9zVnBpejYyLTNXblV2UDN4clRGNERGYndn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-6d14a0746d19a69a",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "내년에 깎아주는 세금 100조원↑…'재정 부담'과 '기업 지원'의 딜레마 - 머니투데이",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "내년에 깎아주는 세금 100조원↑…'재정 부담'과 '기업 지원'의 딜레마 - 머니투데이",
+    "source": "머니투데이",
+    "publishedAt": "2026-11-12T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05c0ZiOTB2T3p6RzRETlNXQnprUnRkV01Wc1I5UW1mUWNPeWEweVBaeXdYOUMyZ2p5anFsVnpxS2p2aFFFNldsRDRwMG15VlZpbTI0Z2pfZmJ2Z255SkpHV1pvcmJ5ZERRUG130gFwQVVfeXFMTXhYWUJDeWsxTUhqS3hoUVJlc0hmN0JHZkJWdTNLbEZGZ2ZsM1pXMUFwUjEtNzc1N3p0LU5pWjJ4TG02TUtkRXpuR1V3SmkxdHlsTkNtNVc3aVc5VmFPbmpVXzhaWXJXZG1Sc3FPajk4dg?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-df1080d6bad90b7e",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "김우영 의원 , “ 사이버보안은 비용 아닌 필수 투자 ” … 정보보호 투자 · 고용 세제지원법 대표발의",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "김우영 의원 , “ 사이버보안은 비용 아닌 필수 투자 ” … 정보보호 투자 · 고용 세제지원법 대표발의",
+    "source": "지자체뉴스",
+    "publishedAt": "2026-11-18T09:50:51+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUDdpUHBtZk8xcElnbWZBNVBfcjRMck8tam5WbHQ1eWYzeEVjZjkwck9kZ1JxZmZWOEp0VVVFZlhES1RyV3pQbTRySGlRVzNzZDRjalhZVnBvNmxVR2dwTGtXMUtsNnJX0gFsQVVfeXFMTi1zZ0lTdjllR1N2NnZvSkY1bUtrc0dMb2RadWVWeEp0Ujk5ZWw0X2FKYVc1UzdGSFlYQUdjNEdSQWtkSVRyczdmLWZfT3VjNFZjVkxici1GYXRfS3RudmwxeHMzVWs5RkFtbkZS?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-64416e1f82d7dc53",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "[단독] 조세심판원, 케이뱅크 ‘518억 전산투자’ 세액공제 재조사 결정",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "[단독] 조세심판원, 케이뱅크 ‘518억 전산투자’ 세액공제 재조사 결정",
+    "source": "필드뉴스",
+    "publishedAt": "2026-10-14T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wVG5RSTZJdGtlVy1jNXBWdTlUVkJCdFFZeHBoeF9ORXhuV1JjVzJUM3ZGWFNIYjd6UFB5MllYSVdMb2RveFU4akExTjU1TjloMEpZQVR5b3l0blRWaVEwYWx2NVhJc2FV0gFsQVVfeXFMT2RaREpabjZRODlzbEhRNEVxQ2hjU2wtNnYzaU01RWVzV2VIMzJ6TEZ0WEstZTl4RFlSUnpTS3haNGVlaUlDZV9WUlgzbnNnSVJiVElqRXIwMTdUbUpMTUQxVEpZekxpV1RlWU03?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-invest-credit-d251b929923ff488",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "해킹엔 '채찍'만…금융권 보안 투자에 '당근'이 없다",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "해킹엔 '채찍'만…금융권 보안 투자에 '당근'이 없다",
+    "source": "서플 뉴스",
+    "publishedAt": "2026-11-12T04:10:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wUEFXM1ZxNE5PSkE1dl9XbFR6V1RBOVFRRXNXT2ZjQWFXQXk0N1RpVzFyZlNlcFctTVZoX1N0MFdCbGZULU9XR19pRHdoZXVLZXp6cEJ3dHlVbHBn?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-866dda797e446ca9",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "정부, 가상자산 매매·중개업 기업부설연구소 인정 추진",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "정부, 가상자산 매매·중개업 기업부설연구소 인정 추진",
+    "source": "블루밍비트",
+    "publishedAt": "2026-11-15T10:36:43+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92c25sdUY4SWVaNVJ2SGVvXzg3dHZuMmR3RkdfWGJTbVV5eldKZEdGQVBTRHdkakQzRmR1Tjlfa0dVMzNXLXBob3cyWEc1bnM0?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-construction-7591c8ae6c6434c0",
+    "type": "news",
+    "topicId": "news-construction",
+    "label": "세컨드 홈·지방 미분양 주택 세제 혜택…건설경기 활력 회복할까",
+    "topic": "건설업 세제 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "세컨드 홈·지방 미분양 주택 세제 혜택…건설경기 활력 회복할까",
+    "source": "issueon.co.kr",
+    "publishedAt": "2025-08-19T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LVF9JblUwOWRxZXd1dWZubkROQVpoTDFsRVBmZ0N1UjNXbmg5WGEwMmZnMjFlRFlwRDk4WG5hOWtSVmxVa21CdEVub1pPWUtYRllJcEx6MmdPNGt3aTBrUnVPUVozWXpqVWc?oc=5",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-dfdb54de7a5ddfb4",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "대여금 회수가 연장된 경우 인정이자 계산 여부",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "대여금 회수가 연장된 경우 인정이자 계산 여부",
+    "source": "www.intn.co.kr",
+    "publishedAt": "2007-07-13T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GQ2JsMC1oelZjeGhFaVBUVklnazlSWU9kdTA5SmRpbGhFS0NmMFhNVHo5bGk0blNPY3VlcTdOUks0d25mU0ZqQVRjQ2UyVG1ZbU9fTThBalRFbnQ0eGtnbTdQY0FIZw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-83baf31a5907cefa",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "가지급금과 퇴직급여 상계…현실적 퇴직으로 봐야",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "가지급금과 퇴직급여 상계…현실적 퇴직으로 봐야",
+    "source": "www.intn.co.kr",
+    "publishedAt": "2012-01-09T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84M1htLXpTa1gtME9MMG85RjdLNndLN1BOcFpoNExEYUt4TzRvak8wa0dzSWpEUS1lbEt1MS1pT3NCMXJSNUVBT3hseFpEaWhWTWV6eVA5UWpEcGFxOGpBOEdEX0M0RW8?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-7093fe5f85dc8199",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "BGF리테일 외국인 매출 66.8% 급증…편의점 수익성 개선 퍼즐 맞춰진다",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "BGF리테일 외국인 매출 66.8% 급증…편의점 수익성 개선 퍼즐 맞춰진다",
+    "source": "핀포인트뉴스",
+    "publishedAt": "2026-11-21T19:08:43+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5henMxWHk3Mkk4QXh3Q3Q3NHRjVTJ0TEJadmVUWW1jRmNJdGtub2RQcDA4T0tIRmVHZkRhalA3QjhrbXJPVEE2ckxrV0lISGI4UHJOcDZOZWJKZGx6SHdZX3NLTmtTZ1p4Z21sejRWS0ozbEXSAXdBVV95cUxNb0JuaTV4by1IZFdHaFlnSEFGanBtWDJTVkxlXzVGYkhUbmg0Q2cyVm5EMlBwWERKaktURnByY3poMEdGNWM3ejFZX25rMm5qR3g4aXZFUUxmblRINmdHVmtzMVZ1NkdiWFlRV2ROS2MwQUxFcG5EVQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-2701587d45cf7340",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "Texas County Balks at SpaceX’s $24 Billion Data Center Tax Break. SpaceX Says Computing Equipment “Rapidly Depreciates”",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-11-22T11:08:30+09:00",
+    "plainSummary": "Texas County Balks at SpaceX’s $24 Billion Data Center Tax Break. SpaceX Says Computing Equipment “Rapidly Depreciates”",
+    "source": "TIKR.com",
+    "publishedAt": "2026-11-22T00:33:45+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaklsaFFBWHJYS3FSYktOVlprbExkdnFBT2hkWFlBRGVkZnhLZkRabkdxSFB6OF8zRGhSUWh2MUppVXR6TDNKak8wR0RDQ1ZRYmFaaGl0Q29ta280WW1aZTFuWTZhQ0lKNE1JU2s5blgtb1p0b0NmUVdYUEZvSld4bWRRWFF3R0pNcS1SWkdEUWdlUHJXQ2tWVkJjRGtnWmxVMjJVMjIwQTY4N3RZdTFwWVBUSnowUFFHVTZNbDY5bEpyNG15aS0wdzdlcUN6UnMyMjZ6UzN4czhnRW1P?oc=5",
+    "tags": [
+      "전체"
     ]
   }
 ]
