@@ -1,80 +1,5 @@
 [
   {
-    "id": "news-ctpa-revision-1021584b012240ef",
-    "type": "news",
-    "topicId": "news-ctpa-revision",
-    "label": "임이자, ‘조세특례제한법’ ‘가축분뇨 관리 법률’ 일부개정법률안 대표발의",
-    "topic": "조세특례제한법 개정 뉴스",
-    "detectedAt": "2026-09-27T09:37:20+09:00",
-    "plainSummary": "임이자, ‘조세특례제한법’ ‘가축분뇨 관리 법률’ 일부개정법률안 대표발의",
-    "source": "v.daum.net",
-    "publishedAt": "2026-07-16T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85TFlCYWhFYXpsYV9KRzZWRjFCWWhTTGFVTGlLTTIycnpGVUJVQU5KSjNwSmFMYS00N1o0cTVyZW04bVlrMkcwVUdRRG1hYnc?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-rnd-credit-ea428d1df5f36cb6",
-    "type": "news",
-    "topicId": "news-rnd-credit",
-    "label": "R&D 세액공제 우대기술 157개→284개…지원 대상 정비는 제자리",
-    "topic": "연구개발 세액공제 뉴스",
-    "detectedAt": "2026-09-27T09:37:20+09:00",
-    "plainSummary": "R&D 세액공제 우대기술 157개→284개…지원 대상 정비는 제자리",
-    "source": "v.daum.net",
-    "publishedAt": "2026-09-24T06:01:40+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvbmE0bkZvLXdkQmRZcnZKQWdnQ0VJSEVwdGNFTERyMlJWZ2RCYW5LOUtGbWhnamJrUTA5aVpXaDUxVUNMVndYZ3dxUkpqLUZJYXRWUA?oc=5",
-    "tags": [
-      "연구인력개발비세액공제"
-    ]
-  },
-  {
-    "id": "news-foreign-credit-4ffc74ebf2cd94c9",
-    "type": "news",
-    "topicId": "news-foreign-credit",
-    "label": "“해외 여럿 사업장 기업, 특정 국가 결손금....소득비율 따라 안분 차감해야”",
-    "topic": "외국납부세액공제 뉴스",
-    "detectedAt": "2026-09-27T09:37:20+09:00",
-    "plainSummary": "“해외 여럿 사업장 기업, 특정 국가 결손금....소득비율 따라 안분 차감해야”",
-    "source": "intn.co.kr",
-    "publishedAt": "2026-08-10T16:00:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WU3RNeG9mNmFXM2ZaWm5FRUV4WjV4OVNSR2NIWVpPdkpVM1gtYUs5RHh3ZXRQdnVtSkxYekp0Nm1mbXlRVGhpTGFBSTNRZUpGdkVqMHdTR2xucWRLWkE4ZTNTUDY?oc=5",
-    "tags": [
-      "외국납부세액공제"
-    ]
-  },
-  {
-    "id": "news-interest-nondeductible-47ff0f89f732a3c4",
-    "type": "news",
-    "topicId": "news-interest-nondeductible",
-    "label": "손금불산입 항목의 조정- 지급이자 > 법인세",
-    "topic": "지급이자 손금불산입 뉴스",
-    "detectedAt": "2026-09-27T09:37:20+09:00",
-    "plainSummary": "손금불산입 항목의 조정- 지급이자 > 법인세",
-    "source": "조세일보",
-    "publishedAt": "2026-09-26T08:24:14+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1NsNlBnV19icnZIYUc3Tjh4blJ4cF9vWm5Ya1NKRzNMSldMWlNScTZ0NkNlZEJTaXliRlFwMjNDV0tVQzBzNGRpQ2kxSjZ6MkNxNFBUY25TMVFoSVhTOTU2Vy1lcDVOVFVPYkJUUl9obGtwTzdsaGNxZVFKd2xEcTA0ZmJqX0xueDR6NnhFbERaUDRobjlNdmwxSDc4ZGc?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
-    "id": "news-depreciation-179cedc99ea87151",
-    "type": "news",
-    "topicId": "news-depreciation",
-    "label": "감가상각은 기간 배분, 손상차손은 회수액 부족 때",
-    "topic": "감가상각비 뉴스",
-    "detectedAt": "2026-09-27T09:37:20+09:00",
-    "plainSummary": "감가상각은 기간 배분, 손상차손은 회수액 부족 때",
-    "source": "비건뉴스",
-    "publishedAt": "2026-09-27T04:44:00+09:00",
-    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwVFFjRXdMUXpNb3R4QV80SHdfMW9iWlhkNmZ5cEVNc1BsemxIZzhPNnlSSnJhYkZBWG5nbExLTzBqNUUxT2xJMWZMSTBIOERwYU1jdi1kS0pRMHphMUNtMVRNalZ4Zw?oc=5",
-    "tags": [
-      "전체"
-    ]
-  },
-  {
     "id": "news-tax-law-revision-11611a79658e76eb",
     "type": "news",
     "topicId": "news-tax-law-revision",
@@ -15695,6 +15620,411 @@
     "source": "코인리더스",
     "publishedAt": "2026-11-25T08:47:15+09:00",
     "articleUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NNVlhQXMxZnlxb19WTFU1RkNoaTduVlJ1RGRiQWozbnQwR3FrTW1FSVljQ3RhS1owTFZlU0Y3UXZyV3RPVVVBOWpB?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-0a0a28315486c369",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "벤처투자 세제 '상시화'·업력 10년으로 확대…세법개정안 국회 심사 막바지, 엔젤 소득공제는 2028년까지 유지",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "벤처투자 세제 '상시화'·업력 10년으로 확대…세법개정안 국회 심사 막바지, 엔젤 소득공제는 2028년까지 유지",
+    "source": "ISSUE ON (이슈온)",
+    "publishedAt": "2026-11-26T09:05:22+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmTWdHeW5EdHdGNEs0b3dEaWhpRHhJUHNIQ25OSHA4SEt4UzZlQ0Q2WlBmUlRNckJTcEhyVGR0MkU2UkwzTUFsRUY0MC1hYlc1ajF6RmpOeFZGTmpydVp3dXdLeFUyODJ2dzdn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-678f7c441b380a0c",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "수도권 주거혁신포럼, 이재명정부의 세법개정안 입장문 전달",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "수도권 주거혁신포럼, 이재명정부의 세법개정안 입장문 전달",
+    "source": "뉴시스",
+    "publishedAt": "2026-11-25T10:41:20+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsSy1rQkROS293RjhOSWt0VUhZX1VuTDRwMlJfQWk3d3lUbzR6b1Y3MjdKZTJGWkJQVVVoSFpoQXpkYWwzcjM0ZnNoYVUyZmw4UHQ4Z2o4aXNha3J1ZTBneWdiRW50YVVkeElVYVBrRzQ1V3JZRjBNetIBeEFVX3lxTFBsSy1rQkROS293RjhOSWt0VUhZX1VuTDRwMlJfQWk3d3lUbzR6b1Y3MjdKZTJGWkJQVVVoSFpoQXpkYWwzcjM0ZnNoYVUyZmw4UHQ4Z2o4aXNha3J1ZTBneWdiRW50YVVkeElVYVBrRzQ1V3JZRjBNeg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-5c71595b8fac8729",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "수도권 주거혁신포럼, '정부 세법개정안 수정 요청'",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "수도권 주거혁신포럼, '정부 세법개정안 수정 요청'",
+    "source": "뉴스1",
+    "publishedAt": "2026-11-25T11:14:32+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0OTdJOTBZVGs0VTF0cmdIVXkxWGFHUE5Vb1JGSXZ4RkcxQ21XTy10QVl1Z0RJYmZRS2hILVA4S2pYZ1pUb0Z1bWhPSQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-f9d900dcd6341cca",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "부동산 세제·주가 누르기 등…여야 세법개정안 곳곳 '이견'",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "부동산 세제·주가 누르기 등…여야 세법개정안 곳곳 '이견'",
+    "source": "뉴스토마토",
+    "publishedAt": "2026-11-09T18:29:38+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SRm9yQWY1NS1NYVdKVmdUcEVvU2NiQlhHUzJQcFVsRHhwTzNZanVmZ1ZIUXVnUjF6YXlmc0JqZ0IyekRWMjAzWXo1VlhHMnpsOU4yamxPNVV4QW9vQ0dfSQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-ab164e62bf4dcbfb",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "수도권주거혁신포럼, 정부 세법개정안 관련 입장발표",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "수도권주거혁신포럼, 정부 세법개정안 관련 입장발표",
+    "source": "연합뉴스",
+    "publishedAt": "2026-11-23T09:50:51+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeXlSSUIwZUVTUEg2amFnNWJqbTRLa0prcFBodkozdVpGRzVTMW44YkVoS0haLU43TDc1Vnh1T2hQdFhCN0JtbENmRl9iNjNHYVJrLTI2Ukt4QkXSAWBBVV95cUxPM3ducDJrU2lIdTJELXlCSk5SSi1xMUx2M1dYODU4NUF3UWR6STF0d21RbWkzTjFoYlVyc2xiNE5aS28wSmczTjVuWldkM0NXWjBRMWgwRGFVUnVvbHVzTE4?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-58fbb23ad904fb24",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "수도권 주거혁신포럼 재경부 차관에 이재명정부 세법개정안 입장문 전달",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "수도권 주거혁신포럼 재경부 차관에 이재명정부 세법개정안 입장문 전달",
+    "source": "뉴시스",
+    "publishedAt": "2026-11-25T10:28:42+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BVkdQU3Zxc09DLW5VVlM0ZEU4M1phM001dW1zbmlBYzh3a0dqME1IUzBSeWFjbDVZUHRGWkExanVvNlB4YVIwQXZmc3JYenNrdGxEWmlZR3prV09fS0FJYUU0THZkZTVRV2I3UWplRkNPV0pvWWF6YdIBeEFVX3lxTE5BVkdQU3Zxc09DLW5VVlM0ZEU4M1phM001dW1zbmlBYzh3a0dqME1IUzBSeWFjbDVZUHRGWkExanVvNlB4YVIwQXZmc3JYenNrdGxEWmlZR3prV09fS0FJYUU0THZkZTVRV2I3UWplRkNPV0pvWWF6YQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-c80e2027f2b4c0b6",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "국힘·개혁신당 “정부 세법개정안 전면 수정해야…다음 총선은 심판 선거될 것”",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "국힘·개혁신당 “정부 세법개정안 전면 수정해야…다음 총선은 심판 선거될 것”",
+    "source": "동아일보",
+    "publishedAt": "2026-11-23T14:10:08+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0M3ZES0NGMjlrNlczaTVrU0lMSkQwaVZzaXZVWUdDRkJqcmdiNGprczUwaWZma1UyOE9hSmZyUU5FX3liTFJYMExiczhyb2JvamY3dDBJU2h0UXRhVWhhQlZwd1ZHQdIBZkFVX3lxTFB0M3ZES0NGMjlrNlczaTVrU0lMSkQwaVZzaXZVWUdDRkJqcmdiNGprczUwaWZma1UyOE9hSmZyUU5FX3liTFJYMExiczhyb2JvamY3dDBJU2h0UXRhVWhhQlZwd1ZHQQ?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-493fa6addcbe20cb",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "재경위원장에게 정부 세법개정안 수정요구서 전달하는 박수민 의원",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "재경위원장에게 정부 세법개정안 수정요구서 전달하는 박수민 의원",
+    "source": "뉴스1",
+    "publishedAt": "2026-11-25T11:14:29+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3QmpNY1VFMklHZ2ZQdkpKRlc0Q1VHWFpvcjdnWjd5c29nRlVGcVZGRTRyTXV5SzE0cENMVzhDUU9BaDV2OEpsSVoxaw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-3a1e9cc9470466e1",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "세법개정안 입장문 전달하는 수도권 주거혁신포럼",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "세법개정안 입장문 전달하는 수도권 주거혁신포럼",
+    "source": "뉴시스",
+    "publishedAt": "2026-11-25T10:42:08+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05VUJaOGpjX1pnNnJ2aHRNS1JucXpaUlI2SjhFUzBsR3YzM3VqR0REeFhpQU1rTEdhT2NDcWdsOUs4UGtIZHRRSUE3bk90WVpzOE5pdkhKMEozQU5nUFBfVA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-tax-law-revision-db0875f1840bc657",
+    "type": "news",
+    "topicId": "news-tax-law-revision",
+    "label": "野, 이재명 정부 세법 개정안 비판 \"다음 총선은 부동산 심판 선거\"",
+    "topic": "세법개정안 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "野, 이재명 정부 세법 개정안 비판 \"다음 총선은 부동산 심판 선거\"",
+    "source": "한국일보",
+    "publishedAt": "2026-11-23T11:29:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vNWpPeUZmQTVWTEhvMDBWY1REc0FuU2w2c3BVRWdqZi1hTnY1LS1nUVdPYU9XcjlSanJTd0l6TjNOZDlfQ0g3b2ZzR0FFZGI2V1Z0bEwyZThNU2xmalp0UzlfQkZ2QXZDRkZNaHVn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-ctpa-revision-e4aca09def317c5c",
+    "type": "news",
+    "topicId": "news-ctpa-revision",
+    "label": "이건태, 도시철도건설용역 부가세 영세율 2030년까지 4년 연장 추진",
+    "topic": "조세특례제한법 개정 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "이건태, 도시철도건설용역 부가세 영세율 2030년까지 4년 연장 추진",
+    "source": "세정일보",
+    "publishedAt": "2026-11-24T15:05:12+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZWTlVSC00V2Z1US11MnozYzQ2Q3c4X0pOQzdPLVVXck82dUFzcnJQTGFxWnd2WmJwS2JoVjZrLWFZNUt3SWo4Q2FnQkRwQ2dlMlQxUFFRSFY4dU9IcnhLMWlMUVBBd2RpQ05mdg?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-invest-credit-4e2d9b0a80fd3dd1",
+    "type": "news",
+    "topicId": "news-invest-credit",
+    "label": "국내생산촉진세제 '택1 구조' 검토…통합투자세액공제와 선택 적용",
+    "topic": "통합투자세액공제 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "국내생산촉진세제 '택1 구조' 검토…통합투자세액공제와 선택 적용",
+    "source": "뉴시스",
+    "publishedAt": "2026-05-15T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QVm96T0lTc0FQY0xWSmt1YXRYN2l2Wndldl9wOHFYaTFzZ2Vwa0puVkJHSkZVV0ZxczljejhObENycE5rMVQ4OVdfeURrbUVIVzAxR0hnR0hTMWlGdnI4aA?oc=5",
+    "tags": [
+      "통합투자세액공제"
+    ]
+  },
+  {
+    "id": "news-rnd-credit-74f1a645853bed23",
+    "type": "news",
+    "topicId": "news-rnd-credit",
+    "label": "[참고자료] 연구·인력개발비 세액공제와 관련된 추징 사례",
+    "topic": "연구개발 세액공제 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "[참고자료] 연구·인력개발비 세액공제와 관련된 추징 사례",
+    "source": "조세플러스",
+    "publishedAt": "2020-01-13T17:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjNkJ2amdVOGdQcFNodThyMHJFWXE1YXVjU1lIb1NDNUpPWGJyYVpKdU13aHRLa0oyR1I3WnBkMGhkbFdHOXhJVUdUTFRUX3lxQnBYTVJyUF_SAVNBVV95cUxPUDZ4MDB0TWxXX3FMSmtjYzlMZHZxX1BaXzBoOE8tcVQ1b1BoZlpra2g3c3hiX212c0RLbjFnZ3BaYjBzTkpQVGtFMTktMlFvMmJqdw?oc=5",
+    "tags": [
+      "연구인력개발비세액공제"
+    ]
+  },
+  {
+    "id": "news-startup-7404e1409af38768",
+    "type": "news",
+    "topicId": "news-startup",
+    "label": "창업 중소기업이 세금 1원도 안 낸 비결",
+    "topic": "창업중소기업 세액감면 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "창업 중소기업이 세금 1원도 안 낸 비결",
+    "source": "월간CEO&",
+    "publishedAt": "2024-08-26T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tbjlpZmVKRkJNYkRuTlRRYUlSVFFOUzBsUjE2ZFZ3SEtuRXRydmlxZ2ZFUHpSU0NGYjg0eFhmZHlKbXFtOURodjVSOThpVmhycThVY2xtZTM4eFdoZ0Q0SGdVZDVDNFF6SDlPSHVSOFI?oc=5",
+    "tags": [
+      "창업중소기업세액감면"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-737d86e5ffd57ab4",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "대법 “괌·사이판, 미국과 외국납부세액 공제한도 따로 계산해야”",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "대법 “괌·사이판, 미국과 외국납부세액 공제한도 따로 계산해야”",
+    "source": "서울경제",
+    "publishedAt": "2026-11-25T06:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Y3ZLZ2lxblNMNHNudTR2RDY5SF9Fc0N6SVZua0R1SVlIYjhoTVZqYkxBeFk4OTk0V1dSSlFxN0dOLW9vdzNqX2xULW0tVzlJYXfSAVNBVV95cUxOYmctOFdrRVJFS3RoUEV1dWZIdm1DekVKb3lTZ3lSR1Fyb0t2VjkzeU9MbzhkQjNNcDdqUzNuUTh6TTR0RWhUWmZJNzdVTGVJd3p6TQ?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-b4ad17e4ec95f286",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "\"괌·사이판, 美와 별도 과세권\" … 대법, DB손보 84억 법인세 환급 불인정",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "\"괌·사이판, 美와 별도 과세권\" … 대법, DB손보 84억 법인세 환급 불인정",
+    "source": "뉴데일리",
+    "publishedAt": "2026-11-25T09:47:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByb0kzV2FZTnl2NTFXdk5aWmxYVkl5RlYySkNiZlh6WFVDZHR5MjdJdjdaMWhLMTd1ZHo5UTQwZzBUQzJOMlZSUlRsWkc5OWZYZ1dQWjBBd1dMZDdSVDdTV0hWNDQ2S3lJamYxX0NXMC0wMnppTXU0THA5c9IBgAFBVV95cUxNUm5EZ25PaGZmZmxVVXBES1FKTzFEeWd0LWNheXFrVktjajhDdDZONmNFMGRoeHVaNXNQc0I4TFA3RG9rUW54QXd1a29lVF9IRTBMYVIwcXRJZHdTQmdhSUdGdW1RcEFFUkJDVFlGUHk4SjIzYkFyeXhLZnpqS1hSbw?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-foreign-credit-cc860a087a702294",
+    "type": "news",
+    "topicId": "news-foreign-credit",
+    "label": "괌·사이판도 미국 땅인데…대법, 법인세 공제 땐 '별개 국가' 판단 - 머니투데이",
+    "topic": "외국납부세액공제 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "괌·사이판도 미국 땅인데…대법, 법인세 공제 땐 '별개 국가' 판단 - 머니투데이",
+    "source": "머니투데이",
+    "publishedAt": "2026-11-25T06:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95VXNSSzhrWFUwd1dpYkxQNlNZZW5ubnN1OXRtLVJSUzlsbFlIZXRDREl5VldYYXV0OE1ESmpuS0V2UDdzT1ZBbnJ3d1kydDhYTVM5QVAtLVkyYms3cWs3NS11WTlKM3p2aTFZ0gFwQVVfeXFMTzBJcXpEb2N0VFY5dFVsdl9NeDFvNEZkMTFtM2NxeXQ1em5OYlM2b18wajExdWVlR21vN3RvakxMUnFiLUJuOXdtRTJqQzJpd1dpUS1xTURrWUwxZktoV0VoNWZPZmN2WXVuV3M0ZWxNSw?oc=5",
+    "tags": [
+      "외국납부세액공제"
+    ]
+  },
+  {
+    "id": "news-exporter-54daf42e6eb149e6",
+    "type": "news",
+    "topicId": "news-exporter",
+    "label": "포항시, 중동발 위기 속 기업 지원책 총력… 물류·금융·세제 혜택 강화",
+    "topic": "수출기업 세제지원 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "포항시, 중동발 위기 속 기업 지원책 총력… 물류·금융·세제 혜택 강화",
+    "source": "미디어이슈",
+    "publishedAt": "2026-04-06T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JYzE0a0g1S1JMV2hpN0piaDlZaUtwdk12bzBOQUVva2I5T3ZyQ0tIeHRMemY4cjF5cnZodURrM1RLaS1ub0p1QQ?oc=5",
+    "tags": [
+      "exporter"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-dc46093b90f53dbb",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "경기도의회 김영희 부위원장, 장애인 고용 확대·교실수업 지원 예산 내실화 강조",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "경기도의회 김영희 부위원장, 장애인 고용 확대·교실수업 지원 예산 내실화 강조",
+    "source": "뉴스파노라마",
+    "publishedAt": "2026-11-25T21:09:15+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zODgxbDd4Tmo3cHZWQkJxaldRRVhWRE1ZSW9fc0JfSkM3cFNZQjIzOHJmaTUyT1VzNEQ5RFItTURONmg4R2picW5rM0JsQ0FHNnAzeC16TjBfRFFhY2tGMTA4ODVxQ0I4akRfdEhVbw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-e7c6402fe7f4456f",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "백소련 강원도의원, 강원도교육청 장애인고용부담금 73억 원 편성…“부담금 납부보다 실질적인 고용 확대가 우선”",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "백소련 강원도의원, 강원도교육청 장애인고용부담금 73억 원 편성…“부담금 납부보다 실질적인 고용 확대가 우선”",
+    "source": "시사일보",
+    "publishedAt": "2026-11-25T08:43:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yNVdnMHUwYUZJZG80RjFWNzV0R3gwV2VTTnE1NHNQQ014NVM4NW9mV1pxd2QtUi1JSVVqekFJRWJNME1KTUw1TTd1ZXU?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-disabled-levy-65e2f0ac84942b6e",
+    "type": "news",
+    "topicId": "news-disabled-levy",
+    "label": "경기도의회 김영희 부위원장, 장애인 고용 확대·교실수업 지원 예산 내실화 강조",
+    "topic": "장애인고용부담금 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "경기도의회 김영희 부위원장, 장애인 고용 확대·교실수업 지원 예산 내실화 강조",
+    "source": "경기평화신문",
+    "publishedAt": "2026-11-25T09:26:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbkstS0JkYklPWXU0bkRWaXFnY2NXbjRpMDdxOUwzdHh2dWJfd2dRYmlnZEpZUFJ3bUZWaGl4VHpnTkIxbUVkOVdfSVZFQW9XMk40TTd6WE9hdWZnQzJDM01sbkZFTmxsU2Rzb0ZBa3lBSTRBUFhRY05MRXRlNUJEQTBKUk1VTmVrcXRuREdEeDUybnh0cEE?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-company-car-2bf80f9e5244186c",
+    "type": "news",
+    "topicId": "news-company-car",
+    "label": "업무용승용차 관련비용 등의 손금불산입 특례 적용 대상 여부",
+    "topic": "업무용승용차 손금불산입 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "업무용승용차 관련비용 등의 손금불산입 특례 적용 대상 여부",
+    "source": "조세플러스",
+    "publishedAt": "2017-08-08T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVXNMZldHYThCdlRpVW1IVXJYY1V1TjVZaGNXQUJtbmEzMGdFVlExb21HdWo3a2kxQVRveTdVaXl3ZUc0WFUzSkpKbFhLRlVTU2dTYzU2NlLSAVNBVV95cUxOeklPZEVGRzFRazBpQ0o4YUtKemRRR0E1UGVOMDZub0t3TEFiVDBLTHA1bUpmWnlBcDhHRXU1T3RzUmpwaHBQaktzLVc4THRTTjFYbw?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-provisional-payment-a2f5f3718e016782",
+    "type": "news",
+    "topicId": "news-provisional-payment",
+    "label": "대여금 회수가 연장된 경우 인정이자 계산 여부",
+    "topic": "가지급금 인정이자 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "대여금 회수가 연장된 경우 인정이자 계산 여부",
+    "source": "intn.co.kr",
+    "publishedAt": "2007-07-13T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVEUyYXJBbDdnTnF1a2V4R0ZtU25SQVp2eHZlOU9ZcWdrenhDYVJzNTVfUjVXWFhPQU1xOXBpUHhGWm5JcTN3VUVvMjh3M2dlSWg4M3RTU0VIdnpiUzZ6bXZXMU9VaGM?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-interest-nondeductible-c2049a65519fc381",
+    "type": "news",
+    "topicId": "news-interest-nondeductible",
+    "label": "[법인세 세무조정 실무]",
+    "topic": "지급이자 손금불산입 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "[법인세 세무조정 실무]",
+    "source": "www.intn.co.kr",
+    "publishedAt": "2014-10-13T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByMXpvMmdGTHJFZ3Z2SVg5UFUzb1JPUHFsLXY4Y2RzUzgyZF9XQy1YVUJSZEtLdkJSMUZSbVV0VmRjZ0hVOGlVYWpqeWhidU12dDRheV9VMXlwaWN3RmpINWZOUXgxWDkt?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-asset-loss-4fea54761a063136",
+    "type": "news",
+    "topicId": "news-asset-loss",
+    "label": "현대해상, 대체투자 평가손실 1400억…대응카드는 '대출형 자산'",
+    "topic": "자산평가손실 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "현대해상, 대체투자 평가손실 1400억…대응카드는 '대출형 자산'",
+    "source": "Daum",
+    "publishedAt": "2026-11-24T17:25:43+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRndrSVZMRF9TS2l1cWl1cW5QMjU0NzRDRVVrdlJGQmc0Q2I5elJsWUVCUjdWSHdxeEtXekU1akVJdHFQUnZlV2VhOA?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-5bac4bffa8e1af4c",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "롯데바이오, 송도 공장 대규모 감가상각 공포...연내 수주 계약 절실",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "롯데바이오, 송도 공장 대규모 감가상각 공포...연내 수주 계약 절실",
+    "source": "팜이데일리",
+    "publishedAt": "2026-09-15T16:00:00+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1adjRMZ2l3bGVaZUNTOXhfS2FVelRRbGRsYUNpTl92aXo5b2tOb3FPamYySE52MHlSM1d1bUtZanBGUWtUczRUMnlOMVBfRkV3cm9CWEx1UFFXWFpUeVdhUW5yenl5Y1JBNXNfbkpn?oc=5",
+    "tags": [
+      "전체"
+    ]
+  },
+  {
+    "id": "news-depreciation-27eb07296ed11a8b",
+    "type": "news",
+    "topicId": "news-depreciation",
+    "label": "2026년에 재판매 가치가 높은 SUV를 고르는 방법: 가격을 가장 잘 방어하는 브랜드, 엔진, 트림",
+    "topic": "감가상각비 뉴스",
+    "detectedAt": "2026-11-26T13:14:42+09:00",
+    "plainSummary": "2026년에 재판매 가치가 높은 SUV를 고르는 방법: 가격을 가장 잘 방어하는 브랜드, 엔진, 트림",
+    "source": "Highmotor",
+    "publishedAt": "2026-11-24T18:11:40+09:00",
+    "articleUrl": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOM1gzeUFvcUc4Rm9fVk1SWGJ5UEg4anlhMzhtaDItZV9MdVphT0pnazcwWnZidzM3Qnk3YVV0dk9fNFhraUNTb2Fld21Xc1huaFlxTkdDcDVicEpoZHFDLXprQXVGbURKTjdVTG95cnpEdk5jR1RpRGl3VDd2QVh6NkNRbTEwc2VHeS1GX2lxUUdRcTZwa1otN29FcG4xV1VkZDhXY0xvUE95Z1RLMFN1dzJTeldBVXZOa19UQjExbXRxbDhQOFNlaXVaWFFNanB5M2lwUzZWOEl3RThwc2NCZ3pfc2psUXI0bXVZLXAyd0tRWDBJMDRGNDFDMHVKbmhvSWxrbG15VHVuWWFUQlZVOEVvOHNQOWUwQlRTdlBXUHZlaEt0WUhiYVlpQ0lYOTBoLUJnMWl4TDFXS3JRZ3ZSeE5YVVM2dUgzTUZGWTdn?oc=5",
     "tags": [
       "전체"
     ]
